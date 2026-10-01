@@ -1,0 +1,22 @@
+# Blender recovery and local UI state
+*.blend@
+*.blend~
+*.blend[0-9]
+*.blend1
+__pycache__/
+*.py[cod]
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vs/
+.idea/
+
+# Never version engine-generated caches or logs.
+DerivedDataCache/
+Intermediate/
+Saved/
+Library/
+Temp/
+Logs/
+UserSettings/
