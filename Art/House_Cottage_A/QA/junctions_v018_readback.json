@@ -1,0 +1,62 @@
+[
+  {
+    "mode": "house",
+    "stats": {
+      "objects": 58,
+      "triangles": 4838,
+      "issues": [],
+      "uv_triangles_checked": 3846,
+      "corner_posts": [
+        {
+          "name": "SM_Beam_Corner_A",
+          "side_exposure_m": 0.09497108459472647
+        },
+        {
+          "name": "SM_Beam_Corner_A.001",
+          "side_exposure_m": 0.09497108459472647
+        },
+        {
+          "name": "SM_Beam_Corner_A.002",
+          "side_exposure_m": 0.1219979763031005
+        },
+        {
+          "name": "SM_Beam_Corner_A.003",
+          "side_exposure_m": 0.1219979763031005
+        }
+      ]
+    },
+    "other_geometry_unchanged": true,
+    "ridge_max_gap_m": -0.002338409423828125,
+    "packed_images": 23
+  },
+  {
+    "mode": "assembly",
+    "stats": {
+      "objects": 58,
+      "triangles": 4838,
+      "issues": [],
+      "uv_triangles_checked": 3846,
+      "corner_posts": [
+        {
+          "name": "SM_Beam_Corner_A",
+          "side_exposure_m": 0.09497108459472647
+        },
+        {
+          "name": "SM_Beam_Corner_A.001",
+          "side_exposure_m": 0.09497108459472647
+        },
+        {
+          "name": "SM_Beam_Corner_A.002",
+          "side_exposure_m": 0.1219979763031005
+        },
+        {
+          "name": "SM_Beam_Corner_A.003",
+          "side_exposure_m": 0.1219979763031005
+        }
+      ]
+    },
+    "other_geometry_unchanged": true,
+    "ridge_max_gap_m": -0.002338409423828125,
+    "packed_images": 23
+  }
+]

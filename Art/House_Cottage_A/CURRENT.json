@@ -1,0 +1,27 @@
+{
+  "assembly": "Source/Assembly/v020/Cottage_Courtyard.blend",
+  "house": "Source/Roof/v018/House_Cottage_A.blend",
+  "yard_kit": "Source/Yard/v004/Cottage_Yard_Kit.blend",
+  "yard_modules": "Source/Yard/v002/Modules",
+  "opening_modules": "Source/Modules/Openings_Materials_v002",
+  "catalogue": "Docs/07_Module_Catalog_RU.md",
+  "stage": "four yard modules textured; stable IDs and dependencies recorded in Asset Book; other props and engine preparation pending",
+  "standalone_module_count": 22,
+  "materials_notes": "Docs/09_Timber_Materials_RU.md",
+  "grey_house": "Source/Openings/v007/House_Cottage_A.blend",
+  "grey_assembly": "Source/Assembly/v008/Cottage_Courtyard.blend",
+  "timber_module": "Source/Modules/Timber_v002/SM_Cottage_TimberFrame_A.blend",
+  "roof_notes": "Docs/11_Roof_Materials_RU.md",
+  "roof_material_study": "Source/Materials/v014/Roof_Material_Study_v003.blend",
+  "plaster_notes": "Docs/12_Ridge_Seating_Plaster_RU.md",
+  "ridge_notes": "Docs/12_Ridge_Seating_Plaster_RU.md",
+  "masonry_notes": "Docs/13_Masonry_Materials_RU.md",
+  "junction_notes": "Docs/14_Post_Dormer_Junctions_RU.md",
+  "yard_material_notes": "Docs/16_Well_Bucket_AssetBook_RU.md",
+  "yard_module_overrides": {
+    "SM_Woodshed_A": "Source/Yard/v003/Modules/SM_Woodshed_A/SM_Woodshed_A.blend",
+    "SM_LogStack_A": "Source/Yard/v003/Modules/SM_LogStack_A/SM_LogStack_A.blend",
+    "SM_Well_A": "Source/Yard/v004/Modules/SM_Well_A/SM_Well_A.blend",
+    "SM_Bucket_A": "Source/Yard/v004/Modules/SM_Bucket_A/SM_Bucket_A.blend"
+  }
+}

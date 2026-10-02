@@ -1,0 +1,28 @@
+[
+  {
+    "name": "house",
+    "trimmed_tiles": 44,
+    "closed_cuts": true,
+    "other_geometry_unchanged": true,
+    "timber": {
+      "objects": 25,
+      "triangles": 11996,
+      "issues": [],
+      "uv_triangles_checked": 1956,
+      "uv_degenerate_faces": 0
+    }
+  },
+  {
+    "name": "assembly",
+    "trimmed_tiles": 44,
+    "closed_cuts": true,
+    "other_geometry_unchanged": true,
+    "timber": {
+      "objects": 25,
+      "triangles": 11996,
+      "issues": [],
+      "uv_triangles_checked": 1956,
+      "uv_degenerate_faces": 0
+    }
+  }
+]

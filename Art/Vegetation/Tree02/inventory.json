@@ -1,0 +1,844 @@
+{
+  "date": "2026-10-01",
+  "project_root": "E:/Games_Develop/CozySettlement",
+  "scope": "Preparation only. Source assets unchanged.",
+  "required_textures_found": 29,
+  "missing_required_textures": [],
+  "reference_images_found": 4,
+  "orm_checks": {
+    "Leaves": {
+      "metallic_blue_min": 0,
+      "metallic_blue_max": 0,
+      "AO_L_max_abs_difference": 0,
+      "Roughness_L_max_abs_difference": 0
+    },
+    "Moss": {
+      "metallic_blue_min": 0,
+      "metallic_blue_max": 0,
+      "AO_L_max_abs_difference": 0,
+      "Roughness_L_max_abs_difference": 0
+    },
+    "GroundPlants": {
+      "metallic_blue_min": 0,
+      "metallic_blue_max": 0,
+      "AO_L_max_abs_difference": 0,
+      "Roughness_L_max_abs_difference": 0
+    }
+  },
+  "moss_opacity_percent_ge_250": 97.21412658691406,
+  "moss_opacity_percent_gt_127": 99.0574836730957,
+  "visual_findings": [
+    "GroundPlants maps have different plant layouts and cannot be used as one aligned atlas.",
+    "Moss opacity does not isolate the patches from the background.",
+    "Turnaround and primary concept differ; priority is proposed in README."
+  ],
+  "limitations": [
+    "No model, UV, material, Blender render or Unreal import was created or tested.",
+    "Image decoding, dimensions and ORM channel packing checked for all listed textures.",
+    "Visual inspection targeted source references and key material maps; not a per-pixel validation of every texture."
+  ],
+  "files": [
+    {
+      "category": "References",
+      "role": "Concept",
+      "path": "Mat/TZ_Tree2/Концепт уютного дерева для игры.png",
+      "bytes": 2490941,
+      "sha256": "3babf2515131657ca6787943348b4e502254adb2fc4c693ecce71d9d26c5fca6",
+      "width": 1448,
+      "height": 1086,
+      "mode": "RGB",
+      "channel_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "References",
+      "role": "Turnaround",
+      "path": "Mat/TZ_Tree2/Лиственное дерево_ игровой арт-лист Varianta 2.png",
+      "bytes": 2647891,
+      "sha256": "e8fccb859b2735e45a6d1a164209958bfb121a6eeaf44de00ace93e917af5d96",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "channel_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "References",
+      "role": "Concept",
+      "path": "Mat/TZ_Tree2/Стилизованное дерево с цветущими корнями.png",
+      "bytes": 2034808,
+      "sha256": "0e31761a91cad596cda286591db8412fa599df0c803fd2ad0488bd508091a85a",
+      "width": 1122,
+      "height": 1402,
+      "mode": "RGB",
+      "channel_extrema": [
+        [
+          2,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "References",
+      "role": "UV and material overview",
+      "path": "Mat/TZ_Tree2/Текстуры дерева_ полный UV-пакет.png",
+      "bytes": 2580977,
+      "sha256": "0699fa355a4a6f189b2e1540b29e24c09fcc5a2e585c405405264910c895b416",
+      "width": 1448,
+      "height": 1086,
+      "mode": "RGB",
+      "channel_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "Specification",
+      "role": "Source brief",
+      "path": "Mat/TZ_Tree2/tz_tree2.txt",
+      "bytes": 26766,
+      "sha256": "cb41d18162c4849bd49f6e378d9fb8a5b6c9fa3c9eec399f6aaec3fc659936b4"
+    },
+    {
+      "category": "Bark",
+      "role": "BaseColor",
+      "path": "Mat/Tree02_Bark/Tree02_Bark_BaseColor.png",
+      "bytes": 2062818,
+      "sha256": "cb5b4ebd4fa187320128514d1209ec6a280a02fe481d8431f4a61647334ab3d8",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "channel_extrema": [
+        [
+          57,
+          241
+        ],
+        [
+          30,
+          183
+        ],
+        [
+          10,
+          115
+        ]
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "Bark",
+      "role": "Normal",
+      "path": "Mat/Tree02_Bark/Tree02_Bark_Normal.png",
+      "bytes": 2550857,
+      "sha256": "e0c621da0aa38dea2c7a653ad365dcaeb68f56d713c1cdaf1e7d094ad4229e5b",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "channel_extrema": [
+        [
+          3,
+          255
+        ],
+        [
+          0,
+          251
+        ],
+        [
+          79,
+          255
+        ]
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "Bark",
+      "role": "Roughness",
+      "path": "Mat/Tree02_Bark/Tree02_Bark_Roughness.png",
+      "bytes": 2741106,
+      "sha256": "b200e216692ec680c698f5f0e1bab728c201425b5f597253a10fba7deb68fbc9",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "channel_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "Bark",
+      "role": "AO",
+      "path": "Mat/Tree02_Bark/Tree02_Bark_AO.png",
+      "bytes": 2181828,
+      "sha256": "8d89e730d7e7c75be73a9a9e9c9cd934dacda4512dc55c5052187024a05eaa93",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "channel_extrema": [
+        [
+          0,
+          236
+        ],
+        [
+          0,
+          237
+        ],
+        [
+          0,
+          236
+        ]
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "Bark",
+      "role": "Height",
+      "path": "Mat/Tree02_Bark/Tree02_Bark_Height.png",
+      "bytes": 2333442,
+      "sha256": "cdd6bab9989987187657474ec97565573008494d3dcb3662fd914c1ff47ab84d",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "channel_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "Bark",
+      "role": "DetailNormal",
+      "path": "Mat/Tree02_Bark/Tree02_Bark_DetailNormal.png",
+      "bytes": 3196466,
+      "sha256": "6f18f56bf1a8990440facc091bc08a229b498500ae1e4cfb9b6907696a67e8f7",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "channel_extrema": [
+        [
+          0,
+          254
+        ],
+        [
+          0,
+          240
+        ],
+        [
+          65,
+          255
+        ]
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "Bark",
+      "role": "DetailRoughness",
+      "path": "Mat/Tree02_Bark/Tree02_Bark_DetailRoughness.png",
+      "bytes": 3420533,
+      "sha256": "5eed7d302d86ce417e3d0648aa05045b3e88465f42ee7d6a7f997e1079685cbf",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "channel_extrema": [
+        [
+          0,
+          245
+        ],
+        [
+          0,
+          245
+        ],
+        [
+          0,
+          246
+        ]
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "Leaves",
+      "role": "BaseColor",
+      "path": "Mat/Tree02_Leaves/Tree02_Leaves_BaseColor.png",
+      "bytes": 1462103,
+      "sha256": "48d6513a941e86de28552a7f49ac9001d44fce9df10be4bce419fafe1d997b63",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "channel_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          143
+        ]
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "Leaves",
+      "role": "Normal",
+      "path": "Mat/Tree02_Leaves/Tree02_Leaves_Normal.png",
+      "bytes": 1591406,
+      "sha256": "f51b544962f1ff717e0312f0a567e0b0851f12ece0461289ea34877b5355d7b1",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "channel_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "Leaves",
+      "role": "Roughness",
+      "path": "Mat/Tree02_Leaves/Tree02_Leaves_Roughness.png",
+      "bytes": 1325445,
+      "sha256": "9f5eb12cc001c3cd57aeaf2a129a8e2b997411fce1becbc06cb8f2b1a33de843",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "channel_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "Leaves",
+      "role": "AO",
+      "path": "Mat/Tree02_Leaves/Tree02_Leaves_AO.png",
+      "bytes": 1226277,
+      "sha256": "509cc43630e9415926ed11c3698ec7b7c9736cc1ca887ef64993430753b9a8d9",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "channel_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "Leaves",
+      "role": "Opacity",
+      "path": "Mat/Tree02_Leaves/Tree02_Leaves_Opacity.png",
+      "bytes": 808169,
+      "sha256": "31071a003f887db937a61cad08477b56831ee6efc3b9c9fcbbda3af4344eac42",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "channel_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "Leaves",
+      "role": "Thickness",
+      "path": "Mat/Tree02_Leaves/Tree02_Leaves_Thickness.png",
+      "bytes": 1160649,
+      "sha256": "615f89457723a19eb2c292df99f5a7677dba7e0eeff5a8c1310c243eb57eecb3",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "channel_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "Leaves",
+      "role": "Transmission",
+      "path": "Mat/Tree02_Leaves/Tree02_Leaves_Transmission.png",
+      "bytes": 1353090,
+      "sha256": "41be6f166151d778b4c17046e08c1db48a962a82025b62f97f0c90ed02783c5e",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "channel_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          122
+        ]
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "Leaves",
+      "role": "WindMask",
+      "path": "Mat/Tree02_Leaves/Tree02_Leaves_WindMask.png",
+      "bytes": 1209064,
+      "sha256": "dc76d69904750beda065bf26917d701a14a7c443ef4d3e647e7984b37c189a01",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "channel_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "Leaves",
+      "role": "GradientMask",
+      "path": "Mat/Tree02_Leaves/Tree02_Leaves_GradientMask.png",
+      "bytes": 1190837,
+      "sha256": "61f7487ad99d88135f9a9d60dc128d0b08295624a9447a689c7fa5382a4e75e0",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "channel_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "Moss",
+      "role": "BaseColor",
+      "path": "Mat/Tree02_Moss/Tree02_Moss_BaseColor.png",
+      "bytes": 1421307,
+      "sha256": "c1c7a1b4cc397acf389d1ca56be7c967710df72b4db081ba8bb2bdd5acd0ca68",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGB",
+      "channel_extrema": [
+        [
+          0,
+          231
+        ],
+        [
+          0,
+          241
+        ],
+        [
+          0,
+          105
+        ]
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "Moss",
+      "role": "Normal",
+      "path": "Mat/Tree02_Moss/Tree02_Moss_Normal.png",
+      "bytes": 1323349,
+      "sha256": "2cf50d934836502d83f5547bc1d1137fa2680e64d8f3ba21af16b1b9fccd50dc",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGB",
+      "channel_extrema": [
+        [
+          45,
+          211
+        ],
+        [
+          30,
+          223
+        ],
+        [
+          207,
+          255
+        ]
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "Moss",
+      "role": "Roughness",
+      "path": "Mat/Tree02_Moss/Tree02_Moss_Roughness.png",
+      "bytes": 259890,
+      "sha256": "5c917f773ff5745769587baa2410b871921b3b737d0f0ca168b5adcedf968306",
+      "width": 1024,
+      "height": 1024,
+      "mode": "L",
+      "channel_extrema": [
+        0,
+        238
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "Moss",
+      "role": "AO",
+      "path": "Mat/Tree02_Moss/Tree02_Moss_AO.png",
+      "bytes": 525819,
+      "sha256": "e4cdcb46bcaccd969262348b3e67fd0bf805bb6891b98071a86dd56bebbe82d2",
+      "width": 1024,
+      "height": 1024,
+      "mode": "L",
+      "channel_extrema": [
+        0,
+        250
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "Moss",
+      "role": "Opacity",
+      "path": "Mat/Tree02_Moss/Tree02_Moss_Opacity.png",
+      "bytes": 50201,
+      "sha256": "c74823e64ee5ab318effe909aade0a87974ffff5a13ec2b5aac5d8faf0f6c96f",
+      "width": 1024,
+      "height": 1024,
+      "mode": "L",
+      "channel_extrema": [
+        0,
+        255
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "GroundPlants",
+      "role": "BaseColor",
+      "path": "Mat/Tree02_Rocks/Tree02_GroundPlants_BaseColor.png",
+      "bytes": 1939928,
+      "sha256": "8ab66268675a9ca0583518f6739c907a5e0dd0491a930df87cb098f6642f94cd",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "channel_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          245
+        ]
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "GroundPlants",
+      "role": "Normal",
+      "path": "Mat/Tree02_Rocks/Tree02_GroundPlants_Normal.png",
+      "bytes": 1838729,
+      "sha256": "1e26eae4e2d478363b8db326fafc32775c05b173c27fbc8bacba56bed8e09e9a",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "channel_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          240
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "GroundPlants",
+      "role": "Roughness",
+      "path": "Mat/Tree02_Rocks/Tree02_GroundPlants_Roughness.png",
+      "bytes": 1981787,
+      "sha256": "d35f1a6b11664f27f793da98668bb26e55d8c7fd2897890bceae84c2cb64965f",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "channel_extrema": [
+        [
+          0,
+          240
+        ],
+        [
+          0,
+          240
+        ],
+        [
+          0,
+          239
+        ]
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "GroundPlants",
+      "role": "AO",
+      "path": "Mat/Tree02_Rocks/Tree02_GroundPlants_AO.png",
+      "bytes": 2168781,
+      "sha256": "73c88850539912c6d101d971e773f0f506f95c52ff519e89d416e940ab24ff83",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "channel_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "GroundPlants",
+      "role": "Opacity",
+      "path": "Mat/Tree02_Rocks/Tree02_GroundPlants_Opacity.png",
+      "bytes": 1494686,
+      "sha256": "08d4880cbf7c184730fc52a8e80eae92e39db90891227331904c6be80ae46548",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "channel_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ]
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "ORM",
+      "role": "Leaves",
+      "path": "Mat/Packed/Tree02_Leaves_ORM.png",
+      "bytes": 1008124,
+      "sha256": "0a73d86aeb40dbe51db51f63a57fda28edd8f5f8a5e26a6fc81cca320ee02ef9",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "channel_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "ORM",
+      "role": "Moss",
+      "path": "Mat/Packed/Tree02_Moss_ORM.png",
+      "bytes": 920471,
+      "sha256": "9529e409a4ba52b2072c5b24b0ce78433f5bb99c129e143fe1dad252ae585793",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGB",
+      "channel_extrema": [
+        [
+          0,
+          250
+        ],
+        [
+          0,
+          238
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "decode_ok": true
+    },
+    {
+      "category": "ORM",
+      "role": "GroundPlants",
+      "path": "Mat/Packed/Tree02_GroundPlants_ORM.png",
+      "bytes": 1787028,
+      "sha256": "b85a99e0f167fafaa827dd097dcb520bd95ffef42919e5028162697542415077",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "channel_extrema": [
+        [
+          0,
+          255
+        ],
+        [
+          0,
+          240
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "decode_ok": true
+    }
+  ]
+}

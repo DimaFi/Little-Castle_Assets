@@ -1,0 +1,1538 @@
+{
+  "groups": {
+    "ROOF_TILES_MAIN": {
+      "objects": 477,
+      "unique_meshes": 101,
+      "open_objects": 433,
+      "meshes": {
+        "SM_RoofTile_Shared_0.002": {
+          "vertices": 22,
+          "faces": 12,
+          "boundary_edges": 16,
+          "nonmanifold_edges": 16,
+          "wire_edges": 0,
+          "volume": 0.0020141469673459972
+        },
+        "SM_RoofTile_Shared_0.011": {
+          "vertices": 10,
+          "faces": 4,
+          "boundary_edges": 10,
+          "nonmanifold_edges": 10,
+          "wire_edges": 0,
+          "volume": 0.0001330251951786766
+        },
+        "SM_RoofTile_Shared_1.003": {
+          "vertices": 32,
+          "faces": 28,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.00354879245793804
+        },
+        "SM_RoofTile_Shared_0.020": {
+          "vertices": 23,
+          "faces": 10,
+          "boundary_edges": 19,
+          "nonmanifold_edges": 19,
+          "wire_edges": 0,
+          "volume": 0.0015349488105719576
+        },
+        "SM_RoofTile_Shared_0.058": {
+          "vertices": 32,
+          "faces": 28,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.003459279077982365
+        },
+        "SM_RoofTile_Shared_3.008": {
+          "vertices": 16,
+          "faces": 12,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0005006156435741088
+        },
+        "SM_RoofTile_Shared_0.029": {
+          "vertices": 23,
+          "faces": 9,
+          "boundary_edges": 20,
+          "nonmanifold_edges": 20,
+          "wire_edges": 0,
+          "volume": 0.0011911394355854424
+        },
+        "SM_RoofTile_Shared_0.038": {
+          "vertices": 20,
+          "faces": 12,
+          "boundary_edges": 14,
+          "nonmanifold_edges": 14,
+          "wire_edges": 0,
+          "volume": 0.0021551325624631105
+        },
+        "SM_RoofTile_Shared_2.010": {
+          "vertices": 16,
+          "faces": 12,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0004158376609428576
+        },
+        "SM_RoofTile_Shared_0.048": {
+          "vertices": 21,
+          "faces": 12,
+          "boundary_edges": 15,
+          "nonmanifold_edges": 15,
+          "wire_edges": 0,
+          "volume": 0.0021276349187068088
+        },
+        "SM_RoofTile_Shared_0.006": {
+          "vertices": 20,
+          "faces": 12,
+          "boundary_edges": 14,
+          "nonmanifold_edges": 14,
+          "wire_edges": 0,
+          "volume": 0.001469679102753351
+        },
+        "SM_RoofTile_Shared_3.003": {
+          "vertices": 16,
+          "faces": 12,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0004999823955956449
+        },
+        "SM_RoofTile_Shared_0.015": {
+          "vertices": 12,
+          "faces": 6,
+          "boundary_edges": 10,
+          "nonmanifold_edges": 10,
+          "wire_edges": 0,
+          "volume": 0.0006976595527137729
+        },
+        "SM_RoofTile_Shared_2.005": {
+          "vertices": 16,
+          "faces": 12,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.000415889787951809
+        },
+        "SM_RoofTile_Shared_0.024": {
+          "vertices": 20,
+          "faces": 12,
+          "boundary_edges": 14,
+          "nonmanifold_edges": 14,
+          "wire_edges": 0,
+          "volume": 0.002155123341017431
+        },
+        "SM_RoofTile_Shared_0.033": {
+          "vertices": 20,
+          "faces": 12,
+          "boundary_edges": 14,
+          "nonmanifold_edges": 14,
+          "wire_edges": 0,
+          "volume": 0.0021551395948517025
+        },
+        "SM_RoofTile_Shared_4.001": {
+          "vertices": 20,
+          "faces": 12,
+          "boundary_edges": 14,
+          "nonmanifold_edges": 14,
+          "wire_edges": 0,
+          "volume": 0.0013305399196518418
+        },
+        "SM_RoofTile_Shared_1.007": {
+          "vertices": 32,
+          "faces": 28,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0035518132758478073
+        },
+        "SM_RoofTile_Shared_0.062": {
+          "vertices": 32,
+          "faces": 28,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0034605988118788867
+        },
+        "SM_RoofTile_Shared_0.042": {
+          "vertices": 22,
+          "faces": 12,
+          "boundary_edges": 16,
+          "nonmanifold_edges": 16,
+          "wire_edges": 0,
+          "volume": 0.002151990383136786
+        },
+        "SM_RoofTile_Shared_6.003": {
+          "vertices": 20,
+          "faces": 12,
+          "boundary_edges": 14,
+          "nonmanifold_edges": 14,
+          "wire_edges": 0,
+          "volume": 0.0011735418847767544
+        },
+        "SM_RoofTile_Shared_1.002": {
+          "vertices": 32,
+          "faces": 28,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.003551171579645693
+        },
+        "SM_RoofTile_Shared_0.001": {
+          "vertices": 20,
+          "faces": 12,
+          "boundary_edges": 14,
+          "nonmanifold_edges": 14,
+          "wire_edges": 0,
+          "volume": 0.0021551355341035893
+        },
+        "SM_RoofTile_Shared_0.010": {
+          "vertices": 10,
+          "faces": 4,
+          "boundary_edges": 10,
+          "nonmanifold_edges": 10,
+          "wire_edges": 0,
+          "volume": 0.00014022391027322166
+        },
+        "SM_RoofTile_Shared_0.057": {
+          "vertices": 32,
+          "faces": 28,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.003460265886732207
+        },
+        "SM_RoofTile_Shared_0.019": {
+          "vertices": 3,
+          "faces": 1,
+          "boundary_edges": 3,
+          "nonmanifold_edges": 3,
+          "wire_edges": 0,
+          "volume": 7.480925277151895e-07
+        },
+        "SM_RoofTile_Shared_0.028": {
+          "vertices": 20,
+          "faces": 12,
+          "boundary_edges": 14,
+          "nonmanifold_edges": 14,
+          "wire_edges": 0,
+          "volume": 0.002155135483487899
+        },
+        "SM_RoofTile_Shared_0.037": {
+          "vertices": 20,
+          "faces": 12,
+          "boundary_edges": 14,
+          "nonmanifold_edges": 14,
+          "wire_edges": 0,
+          "volume": 0.0021551377095335254
+        },
+        "SM_RoofTile_Shared_3.007": {
+          "vertices": 16,
+          "faces": 12,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0005064795657852247
+        },
+        "SM_RoofTile_Shared_2.009": {
+          "vertices": 16,
+          "faces": 12,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.00041326448062035064
+        },
+        "SM_RoofTile_Shared_0.047": {
+          "vertices": 7,
+          "faces": 3,
+          "boundary_edges": 7,
+          "nonmanifold_edges": 7,
+          "wire_edges": 0,
+          "volume": 4.329197481295775e-05
+        },
+        "SM_RoofTile_Shared_1.011": {
+          "vertices": 32,
+          "faces": 28,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.003536662510599469
+        },
+        "SM_RoofTile_Shared_6.001": {
+          "vertices": 20,
+          "faces": 12,
+          "boundary_edges": 14,
+          "nonmanifold_edges": 14,
+          "wire_edges": 0,
+          "volume": 0.0013242424832842173
+        },
+        "SM_RoofTile_Shared_7.002": {
+          "vertices": 32,
+          "faces": 28,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.002170548429170755
+        },
+        "SM_RoofTile_Shared_0.005": {
+          "vertices": 20,
+          "faces": 12,
+          "boundary_edges": 14,
+          "nonmanifold_edges": 14,
+          "wire_edges": 0,
+          "volume": 0.001473639230908063
+        },
+        "SM_RoofTile_Shared_3.002": {
+          "vertices": 16,
+          "faces": 12,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0005058353549486097
+        },
+        "SM_RoofTile_Shared_0.014": {
+          "vertices": 16,
+          "faces": 9,
+          "boundary_edges": 12,
+          "nonmanifold_edges": 12,
+          "wire_edges": 0,
+          "volume": 0.0013225802267242592
+        },
+        "SM_RoofTile_Shared_2.004": {
+          "vertices": 16,
+          "faces": 12,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.00041335081878019874
+        },
+        "SM_RoofTile_Shared_0.023": {
+          "vertices": 23,
+          "faces": 10,
+          "boundary_edges": 19,
+          "nonmanifold_edges": 19,
+          "wire_edges": 0,
+          "volume": 0.001261446323441693
+        },
+        "SM_RoofTile_Shared_0.032": {
+          "vertices": 20,
+          "faces": 12,
+          "boundary_edges": 14,
+          "nonmanifold_edges": 14,
+          "wire_edges": 0,
+          "volume": 0.0021551331230190195
+        },
+        "SM_RoofTile_Shared_1.006": {
+          "vertices": 32,
+          "faces": 28,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.003536053291088293
+        },
+        "SM_RoofTile_Shared_0.061": {
+          "vertices": 32,
+          "faces": 28,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.003466924549806596
+        },
+        "SM_RoofTile_Shared_0.041": {
+          "vertices": 20,
+          "faces": 12,
+          "boundary_edges": 14,
+          "nonmanifold_edges": 14,
+          "wire_edges": 0,
+          "volume": 0.001970312967332003
+        },
+        "SM_RoofTile_Shared_2.011": {
+          "vertices": 16,
+          "faces": 12,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0004134420010242623
+        },
+        "SM_RoofTile_Shared_0.054": {
+          "vertices": 23,
+          "faces": 12,
+          "boundary_edges": 17,
+          "nonmanifold_edges": 17,
+          "wire_edges": 0,
+          "volume": 0.0021349568349027645
+        },
+        "SM_RoofTile_Shared_0.056": {
+          "vertices": 32,
+          "faces": 28,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0034665632744514735
+        },
+        "SM_RoofTile_Shared_0.009": {
+          "vertices": 10,
+          "faces": 4,
+          "boundary_edges": 10,
+          "nonmanifold_edges": 10,
+          "wire_edges": 0,
+          "volume": 0.0001366876672586352
+        },
+        "SM_RoofTile_Shared_0.018": {
+          "vertices": 5,
+          "faces": 1,
+          "boundary_edges": 5,
+          "nonmanifold_edges": 5,
+          "wire_edges": 0,
+          "volume": 3.137365435424377e-05
+        },
+        "SM_RoofTile_Shared_0.027": {
+          "vertices": 20,
+          "faces": 12,
+          "boundary_edges": 14,
+          "nonmanifold_edges": 14,
+          "wire_edges": 0,
+          "volume": 0.0021551314940093935
+        },
+        "SM_RoofTile_Shared_0.036": {
+          "vertices": 24,
+          "faces": 10,
+          "boundary_edges": 20,
+          "nonmanifold_edges": 20,
+          "wire_edges": 0,
+          "volume": 0.0015151512939696223
+        },
+        "SM_RoofTile_Shared_3.006": {
+          "vertices": 16,
+          "faces": 12,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0004901682989018236
+        },
+        "SM_RoofTile_Shared_5.002": {
+          "vertices": 32,
+          "faces": 28,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0021805635023533624
+        },
+        "SM_RoofTile_Shared_2.008": {
+          "vertices": 16,
+          "faces": 12,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0004179569638595606
+        },
+        "SM_RoofTile_Shared_0.046": {
+          "vertices": 18,
+          "faces": 8,
+          "boundary_edges": 16,
+          "nonmanifold_edges": 16,
+          "wire_edges": 0,
+          "volume": 0.0013156098102137881
+        },
+        "SM_RoofTile_Shared_1.010": {
+          "vertices": 32,
+          "faces": 28,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0035379974878710974
+        },
+        "SM_RoofTile_Shared_0.053": {
+          "vertices": 10,
+          "faces": 4,
+          "boundary_edges": 10,
+          "nonmanifold_edges": 10,
+          "wire_edges": 0,
+          "volume": 0.0004485022577903255
+        },
+        "SM_RoofTile_Shared_6.006": {
+          "vertices": 36,
+          "faces": 30,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0019709816560893427
+        },
+        "SM_RoofTile_Shared_0.004": {
+          "vertices": 20,
+          "faces": 12,
+          "boundary_edges": 14,
+          "nonmanifold_edges": 14,
+          "wire_edges": 0,
+          "volume": 0.0014779090630739663
+        },
+        "SM_RoofTile_Shared_2.003": {
+          "vertices": 16,
+          "faces": 12,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.00041800397925035844
+        },
+        "SM_RoofTile_Shared_0.013": {
+          "vertices": 20,
+          "faces": 12,
+          "boundary_edges": 14,
+          "nonmanifold_edges": 14,
+          "wire_edges": 0,
+          "volume": 0.001737377379394393
+        },
+        "SM_RoofTile_Shared_0.022": {
+          "vertices": 3,
+          "faces": 1,
+          "boundary_edges": 3,
+          "nonmanifold_edges": 3,
+          "wire_edges": 0,
+          "volume": 2.5862800151377666e-09
+        },
+        "SM_RoofTile_Shared_1.005": {
+          "vertices": 32,
+          "faces": 28,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0035373920874302058
+        },
+        "SM_RoofTile_Shared_0.031": {
+          "vertices": 21,
+          "faces": 8,
+          "boundary_edges": 19,
+          "nonmanifold_edges": 19,
+          "wire_edges": 0,
+          "volume": 0.0008520136929327049
+        },
+        "SM_RoofTile_Shared_0.060": {
+          "vertices": 32,
+          "faces": 28,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0034666789216673947
+        },
+        "SM_RoofTile_Shared_0.040": {
+          "vertices": 20,
+          "faces": 12,
+          "boundary_edges": 14,
+          "nonmanifold_edges": 14,
+          "wire_edges": 0,
+          "volume": 0.001976808727340713
+        },
+        "SM_RoofTile_Shared_3.010": {
+          "vertices": 16,
+          "faces": 12,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0004970873287348695
+        },
+        "SM_RoofTile_Shared_0.051": {
+          "vertices": 15,
+          "faces": 6,
+          "boundary_edges": 15,
+          "nonmanifold_edges": 15,
+          "wire_edges": 0,
+          "volume": 0.0004884664982472601
+        },
+        "SM_RoofTile_Shared_0.052": {
+          "vertices": 10,
+          "faces": 4,
+          "boundary_edges": 10,
+          "nonmanifold_edges": 10,
+          "wire_edges": 0,
+          "volume": 0.00044673471265514633
+        },
+        "SM_RoofTile_Shared_6.005": {
+          "vertices": 22,
+          "faces": 12,
+          "boundary_edges": 16,
+          "nonmanifold_edges": 16,
+          "wire_edges": 0,
+          "volume": 0.0012367497364458686
+        },
+        "SM_RoofTile_Shared_0.055": {
+          "vertices": 32,
+          "faces": 28,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.003466360074111826
+        },
+        "SM_RoofTile_Shared_0.008": {
+          "vertices": 18,
+          "faces": 8,
+          "boundary_edges": 16,
+          "nonmanifold_edges": 16,
+          "wire_edges": 0,
+          "volume": 0.0007790013654102111
+        },
+        "SM_RoofTile_Shared_0.017": {
+          "vertices": 23,
+          "faces": 12,
+          "boundary_edges": 17,
+          "nonmanifold_edges": 17,
+          "wire_edges": 0,
+          "volume": 0.0018535130392881435
+        },
+        "SM_RoofTile_Shared_0.026": {
+          "vertices": 17,
+          "faces": 7,
+          "boundary_edges": 15,
+          "nonmanifold_edges": 15,
+          "wire_edges": 0,
+          "volume": 0.0009263735209750398
+        },
+        "SM_RoofTile_Shared_3.005": {
+          "vertices": 16,
+          "faces": 12,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0004964498901770612
+        },
+        "SM_RoofTile_Shared_0.035": {
+          "vertices": 24,
+          "faces": 11,
+          "boundary_edges": 19,
+          "nonmanifold_edges": 19,
+          "wire_edges": 0,
+          "volume": 0.0016720745805492837
+        },
+        "SM_RoofTile_Shared_2.007": {
+          "vertices": 16,
+          "faces": 12,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.00042161048173055844
+        },
+        "SM_RoofTile_Shared_1.009": {
+          "vertices": 32,
+          "faces": 28,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0035404582218430017
+        },
+        "SM_RoofTile_Shared_0.045": {
+          "vertices": 10,
+          "faces": 4,
+          "boundary_edges": 10,
+          "nonmanifold_edges": 10,
+          "wire_edges": 0,
+          "volume": 0.000530155921035276
+        },
+        "SM_RoofTile_Shared_0.064": {
+          "vertices": 24,
+          "faces": 20,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0007744389069411746
+        },
+        "SM_RoofTile_Shared_6.004": {
+          "vertices": 20,
+          "faces": 12,
+          "boundary_edges": 14,
+          "nonmanifold_edges": 14,
+          "wire_edges": 0,
+          "volume": 0.001165339404022156
+        },
+        "SM_RoofTile_Shared_3.011": {
+          "vertices": 16,
+          "faces": 12,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0004907827463227651
+        },
+        "SM_RoofTile_Shared_2.002": {
+          "vertices": 16,
+          "faces": 12,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0004216594786194938
+        },
+        "SM_RoofTile_Shared_0.003": {
+          "vertices": 20,
+          "faces": 12,
+          "boundary_edges": 14,
+          "nonmanifold_edges": 14,
+          "wire_edges": 0,
+          "volume": 0.0014716399552183344
+        },
+        "SM_RoofTile_Shared_0.012": {
+          "vertices": 16,
+          "faces": 6,
+          "boundary_edges": 16,
+          "nonmanifold_edges": 16,
+          "wire_edges": 0,
+          "volume": 0.00036861461697761545
+        },
+        "SM_RoofTile_Shared_1.004": {
+          "vertices": 32,
+          "faces": 28,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.003539843394000011
+        },
+        "SM_RoofTile_Shared_0.021": {
+          "vertices": 26,
+          "faces": 11,
+          "boundary_edges": 21,
+          "nonmanifold_edges": 21,
+          "wire_edges": 0,
+          "volume": 0.001573412303374721
+        },
+        "SM_RoofTile_Shared_0.039": {
+          "vertices": 22,
+          "faces": 12,
+          "boundary_edges": 16,
+          "nonmanifold_edges": 16,
+          "wire_edges": 0,
+          "volume": 0.00198426849424758
+        },
+        "SM_RoofTile_Shared_0.059": {
+          "vertices": 32,
+          "faces": 28,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0034600661413094966
+        },
+        "SM_RoofTile_Shared_0.030": {
+          "vertices": 4,
+          "faces": 1,
+          "boundary_edges": 4,
+          "nonmanifold_edges": 4,
+          "wire_edges": 0,
+          "volume": 7.350989018028581e-06
+        },
+        "SM_RoofTile_Shared_3.009": {
+          "vertices": 16,
+          "faces": 12,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0005021665793477144
+        },
+        "SM_RoofTile_Shared_0.050": {
+          "vertices": 12,
+          "faces": 6,
+          "boundary_edges": 10,
+          "nonmanifold_edges": 10,
+          "wire_edges": 0,
+          "volume": 0.0010288870807930266
+        },
+        "SM_RoofTile_Shared_0.007": {
+          "vertices": 22,
+          "faces": 12,
+          "boundary_edges": 16,
+          "nonmanifold_edges": 16,
+          "wire_edges": 0,
+          "volume": 0.0018828826644909664
+        },
+        "SM_RoofTile_Shared_0.016": {
+          "vertices": 8,
+          "faces": 3,
+          "boundary_edges": 8,
+          "nonmanifold_edges": 8,
+          "wire_edges": 0,
+          "volume": 0.00026180542232774563
+        },
+        "SM_RoofTile_Shared_3.004": {
+          "vertices": 16,
+          "faces": 12,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0005015201618141846
+        },
+        "SM_RoofTile_Shared_0.025": {
+          "vertices": 22,
+          "faces": 10,
+          "boundary_edges": 18,
+          "nonmanifold_edges": 18,
+          "wire_edges": 0,
+          "volume": 0.0012695242025816528
+        },
+        "SM_RoofTile_Shared_2.006": {
+          "vertices": 16,
+          "faces": 12,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.00041351343661422655
+        },
+        "SM_RoofTile_Shared_0.034": {
+          "vertices": 20,
+          "faces": 12,
+          "boundary_edges": 14,
+          "nonmanifold_edges": 14,
+          "wire_edges": 0,
+          "volume": 0.002155129058772938
+        },
+        "SM_RoofTile_Shared_4.002": {
+          "vertices": 32,
+          "faces": 28,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.002134787221481703
+        },
+        "SM_RoofTile_Shared_1.008": {
+          "vertices": 32,
+          "faces": 28,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0035494531603825446
+        },
+        "SM_RoofTile_Shared_0.063": {
+          "vertices": 32,
+          "faces": 26,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.001408158056782473
+        },
+        "SM_RoofTile_Shared_0.044": {
+          "vertices": 10,
+          "faces": 4,
+          "boundary_edges": 10,
+          "nonmanifold_edges": 10,
+          "wire_edges": 0,
+          "volume": 0.0005391477483447375
+        }
+      }
+    },
+    "ROOF_TILES_DORMER": {
+      "objects": 70,
+      "unique_meshes": 70,
+      "open_objects": 0,
+      "meshes": {
+        "SM_DormerTile_-1_0_2.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0016491070134613814
+        },
+        "SM_DormerTile_-1_1_4.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0026517086555906395
+        },
+        "SM_DormerTile_-1_2_6.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0021715163476032228
+        },
+        "SM_DormerTile_-1_4_1.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0009644800349719426
+        },
+        "SM_DormerTile_1_0_3.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.001589820878488707
+        },
+        "SM_DormerTile_1_1_5.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0025939220331404945
+        },
+        "SM_DormerTile_1_3_0.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0018477690137242526
+        },
+        "SM_DormerTile_1_4_2.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0009625615105412475
+        },
+        "SM_DormerTile_-1_2_4.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0021862494303276914
+        },
+        "SM_DormerTile_-1_0_0.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0016646395426693724
+        },
+        "SM_DormerTile_-1_1_0.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.002695539804901602
+        },
+        "SM_DormerTile_-1_1_2.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.002676508160128868
+        },
+        "SM_DormerTile_-1_2_2.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0021982334555609023
+        },
+        "SM_DormerTile_-1_3_4.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.001845641236228213
+        },
+        "SM_DormerTile_-1_3_6.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0018391084332908575
+        },
+        "SM_DormerTile_-1_4_6.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0009627697773154257
+        },
+        "SM_DormerTile_1_0_1.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0016118194544991215
+        },
+        "SM_DormerTile_1_1_1.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0026446578851988967
+        },
+        "SM_DormerTile_1_2_3.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0021741644872964394
+        },
+        "SM_DormerTile_1_3_5.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0018345567188218761
+        },
+        "SM_DormerTile_-1_0_5.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0016115380160308052
+        },
+        "SM_DormerTile_-1_2_0.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.002207522858550745
+        },
+        "SM_DormerTile_-1_3_2.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0018509806045142086
+        },
+        "SM_DormerTile_-1_4_4.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0009635645514147338
+        },
+        "SM_DormerTile_1_0_6.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0015416275631422445
+        },
+        "SM_DormerTile_1_2_1.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0021850637903507884
+        },
+        "SM_DormerTile_1_3_3.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0018408071522518711
+        },
+        "SM_DormerTile_1_4_5.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0009613260339478096
+        },
+        "SM_DormerTile_-1_0_3.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0016383871009582988
+        },
+        "SM_DormerTile_-1_1_5.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.002637162188196783
+        },
+        "SM_DormerTile_-1_3_0.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.001855165830998795
+        },
+        "SM_DormerTile_-1_4_2.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.000964205515798733
+        },
+        "SM_DormerTile_1_0_4.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0015756961806615503
+        },
+        "SM_DormerTile_1_1_6.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0025773907921717767
+        },
+        "SM_DormerTile_1_3_1.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0018457645327051555
+        },
+        "SM_DormerTile_1_4_3.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.000962192403189969
+        },
+        "SM_DormerTile_1_1_3.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.002622365351451651
+        },
+        "SM_DormerTile_-1_0_1.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0016578838711866924
+        },
+        "SM_DormerTile_-1_1_3.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.002664826880210337
+        },
+        "SM_DormerTile_-1_2_5.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.00217923366316727
+        },
+        "SM_DormerTile_-1_4_0.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0009647227882388527
+        },
+        "SM_DormerTile_1_0_2.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0016018993389731529
+        },
+        "SM_DormerTile_1_1_4.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.002608911423822052
+        },
+        "SM_DormerTile_1_2_6.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0021523182022804626
+        },
+        "SM_DormerTile_1_4_1.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0009628871636665877
+        },
+        "SM_DormerTile_-1_1_1.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0026867501436615626
+        },
+        "SM_DormerTile_-1_2_3.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0021925850743091074
+        },
+        "SM_DormerTile_-1_3_5.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0018425271782641054
+        },
+        "SM_DormerTile_1_0_0.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.001619501092815159
+        },
+        "SM_DormerTile_1_1_2.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0026342848550554077
+        },
+        "SM_DormerTile_1_2_4.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0021676247326346256
+        },
+        "SM_DormerTile_1_3_6.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0018309289568389589
+        },
+        "SM_DormerTile_1_4_0.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0009631845267342512
+        },
+        "SM_DormerTile_-1_0_6.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0015955753995908289
+        },
+        "SM_DormerTile_-1_2_1.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0022032098634712756
+        },
+        "SM_DormerTile_-1_3_3.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0018484605002964268
+        },
+        "SM_DormerTile_-1_4_5.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0009631845158231802
+        },
+        "SM_DormerTile_1_1_0.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.002653487612545425
+        },
+        "SM_DormerTile_1_2_2.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.002179970939066379
+        },
+        "SM_DormerTile_1_3_4.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.00183784723805412
+        },
+        "SM_DormerTile_1_4_6.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0009608293145213215
+        },
+        "SM_DormerTile_-1_0_4.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0016258314399020268
+        },
+        "SM_DormerTile_-1_1_6.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.00262118445386564
+        },
+        "SM_DormerTile_-1_3_1.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0018532186138495927
+        },
+        "SM_DormerTile_-1_4_3.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0009639012379035791
+        },
+        "SM_DormerTile_1_0_5.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0015596066729572278
+        },
+        "SM_DormerTile_1_2_0.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0021894262518498487
+        },
+        "SM_DormerTile_1_3_2.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0018434472774568754
+        },
+        "SM_DormerTile_1_4_4.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.000961783728687608
+        },
+        "SM_DormerTile_1_2_5.001": {
+          "vertices": 76,
+          "faces": 78,
+          "boundary_edges": 0,
+          "nonmanifold_edges": 0,
+          "wire_edges": 0,
+          "volume": 0.0021603409907032718
+        }
+      }
+    },
+    "ROOF_RIDGE_CAPS": {
+      "objects": 27,
+      "unique_meshes": 1,
+      "open_objects": 27,
+      "meshes": {
+        "SM_Roof_RidgeCap_Shared_A.001": {
+          "vertices": 26,
+          "faces": 12,
+          "boundary_edges": 26,
+          "nonmanifold_edges": 26,
+          "wire_edges": 0,
+          "volume": 0.01901638311343725
+        }
+      }
+    }
+  },
+  "other_roof_evaluated": [
+    {
+      "name": "SM_Roof_Main_Front_A",
+      "vertices": 1561,
+      "faces": 1512,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "wire_edges": 0,
+      "volume": 3.577082977813402
+    },
+    {
+      "name": "SM_Roof_Eave_Front_A",
+      "vertices": 464,
+      "faces": 466,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "wire_edges": 0,
+      "volume": 0.2802919406589711
+    },
+    {
+      "name": "SM_Roof_Main_Back_A",
+      "vertices": 1528,
+      "faces": 1508,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "wire_edges": 0,
+      "volume": 3.689703323196511
+    },
+    {
+      "name": "SM_Roof_Eave_Back_A",
+      "vertices": 464,
+      "faces": 466,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "wire_edges": 0,
+      "volume": 0.28029193556685605
+    },
+    {
+      "name": "SM_Roof_Verge_Left_A",
+      "vertices": 400,
+      "faces": 402,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "wire_edges": 0,
+      "volume": 0.12868084840213975
+    },
+    {
+      "name": "SM_Roof_Verge_Left_A.001",
+      "vertices": 400,
+      "faces": 402,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "wire_edges": 0,
+      "volume": 0.12793689456442606
+    },
+    {
+      "name": "SM_Roof_Verge_Right_A",
+      "vertices": 400,
+      "faces": 402,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "wire_edges": 0,
+      "volume": 0.12762299343566125
+    },
+    {
+      "name": "SM_Roof_Verge_Right_A.001",
+      "vertices": 400,
+      "faces": 402,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "wire_edges": 0,
+      "volume": 0.12688838094574
+    },
+    {
+      "name": "SM_Dormer_Front_A",
+      "vertices": 456,
+      "faces": 414,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "wire_edges": 0,
+      "volume": 0.17597986014803368
+    },
+    {
+      "name": "SM_Dormer_Cheek_A",
+      "vertices": 56,
+      "faces": 54,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "wire_edges": 0,
+      "volume": 0.042736401025748126
+    },
+    {
+      "name": "SM_Dormer_Cheek_A.001",
+      "vertices": 56,
+      "faces": 54,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "wire_edges": 0,
+      "volume": 0.03993205636766575
+    },
+    {
+      "name": "SM_Dormer_Hood_A",
+      "vertices": 806,
+      "faces": 804,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "wire_edges": 0,
+      "volume": 0.34407142881075686
+    },
+    {
+      "name": "SM_Dormer_Fascia_A",
+      "vertices": 592,
+      "faces": 594,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "wire_edges": 0,
+      "volume": 0.03319173028766876
+    },
+    {
+      "name": "SM_Dormer_ValleyFlashing_A",
+      "vertices": 444,
+      "faces": 442,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "wire_edges": 0,
+      "volume": 0.0093944441193038
+    },
+    {
+      "name": "SM_Dormer_FrontApron_A",
+      "vertices": 188,
+      "faces": 186,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "wire_edges": 0,
+      "volume": 0.01413654098424533
+    }
+  ]
+}

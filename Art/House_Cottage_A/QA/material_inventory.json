@@ -1,0 +1,735 @@
+[
+  {
+    "folder": "Bark",
+    "files": [
+      {
+        "path": "Bark\\Bark_AO.png",
+        "bytes": 2200618,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Bark\\Bark_BaseColor.png",
+        "bytes": 2335002,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Bark\\Bark_Displacement.png",
+        "bytes": 2325292,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Bark\\Bark_Gloss.png",
+        "bytes": 2115035,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Bark\\Bark_Normal.png",
+        "bytes": 2789003,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Bark\\Bark_Roughness.png",
+        "bytes": 2564900,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      }
+    ]
+  },
+  {
+    "folder": "DoorWood",
+    "files": [
+      {
+        "path": "DoorWood\\DoorWood_A_AO.png",
+        "bytes": 2771858,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "DoorWood\\DoorWood_A_BaseColor.png",
+        "bytes": 3146694,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "DoorWood\\DoorWood_A_Gloss.png",
+        "bytes": 3011707,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "DoorWood\\DoorWood_A_Height.png",
+        "bytes": 3262962,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "DoorWood\\DoorWood_A_Normal.png",
+        "bytes": 2906438,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "DoorWood\\DoorWood_A_Roughness.png",
+        "bytes": 3168867,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      }
+    ]
+  },
+  {
+    "folder": "Logs_Bark",
+    "files": [
+      {
+        "path": "Logs_Bark\\Logs_Bark_A_AO.png",
+        "bytes": 3520379,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Logs_Bark\\Logs_Bark_A_BaseColor.png",
+        "bytes": 3536774,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Logs_Bark\\Logs_Bark_A_Gloss.png",
+        "bytes": 3178733,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Logs_Bark\\Logs_Bark_A_Height.png",
+        "bytes": 3476903,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Logs_Bark\\Logs_Bark_A_Normal.png",
+        "bytes": 3260557,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Logs_Bark\\Logs_Bark_A_Roughness.png",
+        "bytes": 3420740,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      }
+    ]
+  },
+  {
+    "folder": "RoofTile",
+    "files": [
+      {
+        "path": "RoofTile\\RoofTile_AO.png",
+        "bytes": 3293635,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "RoofTile\\RoofTile_BaseColor.png",
+        "bytes": 3282491,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "RoofTile\\RoofTile_Gloss.png",
+        "bytes": 3133572,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "RoofTile\\RoofTile_Height.png",
+        "bytes": 3122171,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "RoofTile\\RoofTile_Normal.png",
+        "bytes": 3075251,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "RoofTile\\RoofTile_Roughness.png",
+        "bytes": 3186851,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      }
+    ]
+  },
+  {
+    "folder": "Shutters",
+    "files": [
+      {
+        "path": "Shutters\\Shutters_A_AO.png",
+        "bytes": 2608891,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Shutters\\Shutters_A_BaseColor.png",
+        "bytes": 2872958,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Shutters\\Shutters_A_Gloss.png",
+        "bytes": 3106315,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Shutters\\Shutters_A_Height.png",
+        "bytes": 2739846,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Shutters\\Shutters_A_Normal.png",
+        "bytes": 2906970,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Shutters\\Shutters_A_Roughness.png",
+        "bytes": 3029143,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      }
+    ]
+  },
+  {
+    "folder": "T_ChimneyStone",
+    "files": [
+      {
+        "path": "T_ChimneyStone\\T_ChimneyStone_A_AO.png",
+        "bytes": 2460991,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "T_ChimneyStone\\T_ChimneyStone_A_BaseColor.png",
+        "bytes": 2590348,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "T_ChimneyStone\\T_ChimneyStone_A_Height.png",
+        "bytes": 2515046,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "T_ChimneyStone\\T_ChimneyStone_A_Normal.png",
+        "bytes": 2637258,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "T_ChimneyStone\\T_ChimneyStone_A_Roughness.png",
+        "bytes": 3065067,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      }
+    ]
+  },
+  {
+    "folder": "T_FieldStone",
+    "files": [
+      {
+        "path": "T_FieldStone\\T_FieldStone_A_AO.png",
+        "bytes": 2325736,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "T_FieldStone\\T_FieldStone_A_BaseColor.png",
+        "bytes": 3022473,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "T_FieldStone\\T_FieldStone_A_Height.png",
+        "bytes": 3157093,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "T_FieldStone\\T_FieldStone_A_Normal.png",
+        "bytes": 2810998,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "T_FieldStone\\T_FieldStone_A_Roughness.png",
+        "bytes": 2928258,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      }
+    ]
+  },
+  {
+    "folder": "T_Foliage",
+    "files": [
+      {
+        "path": "T_Foliage\\T_Foliage_AO.png",
+        "bytes": 1810088,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "T_Foliage\\T_Foliage_BaseColor.png",
+        "bytes": 1867186,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGBA"
+      },
+      {
+        "path": "T_Foliage\\T_Foliage_Height.png",
+        "bytes": 1747300,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "T_Foliage\\T_Foliage_Normal.png",
+        "bytes": 2221894,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "T_Foliage\\T_Foliage_Opacity.png",
+        "bytes": 1006023,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "T_Foliage\\T_Foliage_Roughness.png",
+        "bytes": 1831895,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      }
+    ]
+  },
+  {
+    "folder": "T_Plaster",
+    "files": [
+      {
+        "path": "T_Plaster\\T_Plaster_A_AO.png",
+        "bytes": 3333309,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "T_Plaster\\T_Plaster_A_BaseColor.png",
+        "bytes": 2814074,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "T_Plaster\\T_Plaster_A_Height.png",
+        "bytes": 3453289,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "T_Plaster\\T_Plaster_A_Normal.png",
+        "bytes": 3139402,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "T_Plaster\\T_Plaster_A_Roughness.png",
+        "bytes": 3425495,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      }
+    ]
+  },
+  {
+    "folder": "T_Timber",
+    "files": [
+      {
+        "path": "T_Timber\\T_Timber_A_AO.png",
+        "bytes": 2408307,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "T_Timber\\T_Timber_A_BaseColor.png",
+        "bytes": 2503761,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "T_Timber\\T_Timber_A_Height.png",
+        "bytes": 2750664,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "T_Timber\\T_Timber_A_Normal.png",
+        "bytes": 2547251,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "T_Timber\\T_Timber_A_Roughness.png",
+        "bytes": 2658741,
+        "size": [
+          1254,
+          1254
+        ],
+        "mode": "RGB"
+      }
+    ]
+  },
+  {
+    "folder": "Тест",
+    "files": [
+      {
+        "path": "Тест\\Damaged_White_Concrete_Plaster_Texture_2k\\Albedo.jpg",
+        "bytes": 3628784,
+        "size": [
+          2048,
+          1024
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Тест\\Damaged_White_Concrete_Plaster_Texture_2k\\AO.jpg",
+        "bytes": 1439832,
+        "size": [
+          2048,
+          1024
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Тест\\Damaged_White_Concrete_Plaster_Texture_2k\\Displacement.exr",
+        "bytes": 17518651
+      },
+      {
+        "path": "Тест\\Damaged_White_Concrete_Plaster_Texture_2k\\Displacement.jpg",
+        "bytes": 548902,
+        "size": [
+          2048,
+          1024
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Тест\\Damaged_White_Concrete_Plaster_Texture_2k\\Gloss.jpg",
+        "bytes": 1095338,
+        "size": [
+          2048,
+          1024
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Тест\\Damaged_White_Concrete_Plaster_Texture_2k\\Normal.jpg",
+        "bytes": 4183365,
+        "size": [
+          2048,
+          1024
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Тест\\Damaged_White_Concrete_Plaster_Texture_2k\\Roughness.jpg",
+        "bytes": 1095334,
+        "size": [
+          2048,
+          1024
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Тест\\Realistic_Bark_Texture_01_2k\\Albedo.jpg",
+        "bytes": 7035931,
+        "size": [
+          2048,
+          2048
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Тест\\Realistic_Bark_Texture_01_2k\\AO.jpg",
+        "bytes": 2988998,
+        "size": [
+          2048,
+          2048
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Тест\\Realistic_Bark_Texture_01_2k\\Displacement.exr",
+        "bytes": 34733344
+      },
+      {
+        "path": "Тест\\Realistic_Bark_Texture_01_2k\\Displacement.jpg",
+        "bytes": 1021510,
+        "size": [
+          2048,
+          2048
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Тест\\Realistic_Bark_Texture_01_2k\\Gloss.jpg",
+        "bytes": 1831241,
+        "size": [
+          2048,
+          2048
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Тест\\Realistic_Bark_Texture_01_2k\\Normal.jpg",
+        "bytes": 9630781,
+        "size": [
+          2048,
+          2048
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Тест\\Realistic_Bark_Texture_01_2k\\Roughness.jpg",
+        "bytes": 1831399,
+        "size": [
+          2048,
+          2048
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Тест\\Rough_Tree_Bark_Texture_01_2k\\Albedo.jpg",
+        "bytes": 7518092,
+        "size": [
+          2048,
+          2048
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Тест\\Rough_Tree_Bark_Texture_01_2k\\AO.jpg",
+        "bytes": 3682258,
+        "size": [
+          2048,
+          2048
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Тест\\Rough_Tree_Bark_Texture_01_2k\\Displacement.exr",
+        "bytes": 36395293
+      },
+      {
+        "path": "Тест\\Rough_Tree_Bark_Texture_01_2k\\Displacement.jpg",
+        "bytes": 1435892,
+        "size": [
+          2048,
+          2048
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Тест\\Rough_Tree_Bark_Texture_01_2k\\Gloss.jpg",
+        "bytes": 2259821,
+        "size": [
+          2048,
+          2048
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Тест\\Rough_Tree_Bark_Texture_01_2k\\Normal.jpg",
+        "bytes": 10734185,
+        "size": [
+          2048,
+          2048
+        ],
+        "mode": "RGB"
+      },
+      {
+        "path": "Тест\\Rough_Tree_Bark_Texture_01_2k\\Roughness.jpg",
+        "bytes": 2259987,
+        "size": [
+          2048,
+          2048
+        ],
+        "mode": "RGB"
+      }
+    ]
+  }
+]

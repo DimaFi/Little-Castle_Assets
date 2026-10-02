@@ -1,0 +1,11 @@
+{
+  "revision": "v006",
+  "main_tiles": 477,
+  "dormer_tiles": 70,
+  "ridge_caps": 27,
+  "shared_main_templates": 8,
+  "boundary_boolean_operations": 57,
+  "added_triangles": 22168,
+  "degenerate_objects": [],
+  "stage": "Geometry prototype: no UV/materials/LOD/engine export"
+}

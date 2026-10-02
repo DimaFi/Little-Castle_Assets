@@ -1,0 +1,93 @@
+{
+  "records": {
+    "changed": [
+      "SM_Beam_Corner_A",
+      "SM_Beam_Corner_A.001",
+      "SM_Beam_Corner_A.002",
+      "SM_Beam_Corner_A.003",
+      "SM_Tile_-1_00_10",
+      "SM_Tile_-1_00_11",
+      "SM_Tile_-1_00_12",
+      "SM_Tile_-1_00_13",
+      "SM_Tile_-1_00_14",
+      "SM_Tile_-1_00_15",
+      "SM_Tile_-1_01_10",
+      "SM_Tile_-1_01_11",
+      "SM_Tile_-1_01_12",
+      "SM_Tile_-1_01_13",
+      "SM_Tile_-1_01_14",
+      "SM_Tile_-1_01_15",
+      "SM_Tile_-1_02_10",
+      "SM_Tile_-1_02_11",
+      "SM_Tile_-1_02_12",
+      "SM_Tile_-1_02_13",
+      "SM_Tile_-1_02_14",
+      "SM_Tile_-1_02_15",
+      "SM_Tile_-1_03_10",
+      "SM_Tile_-1_03_15",
+      "SM_Tile_-1_04_10",
+      "SM_Tile_-1_04_14",
+      "SM_Tile_-1_04_15",
+      "SM_Tile_-1_05_10",
+      "SM_Tile_-1_05_11",
+      "SM_Tile_-1_05_14",
+      "SM_Tile_-1_05_15",
+      "SM_Tile_-1_06_10",
+      "SM_Tile_-1_06_11",
+      "SM_Tile_-1_06_14",
+      "SM_Tile_-1_06_15",
+      "SM_Tile_-1_07_10",
+      "SM_Tile_-1_07_11",
+      "SM_Tile_-1_07_14",
+      "SM_Tile_-1_07_15",
+      "SM_Tile_-1_08_10",
+      "SM_Tile_-1_08_11",
+      "SM_Tile_-1_08_12",
+      "SM_Tile_-1_08_13",
+      "SM_Tile_-1_08_14",
+      "SM_Tile_-1_08_15",
+      "SM_Tile_-1_09_10",
+      "SM_Tile_-1_09_11",
+      "SM_Tile_-1_09_12",
+      "SM_Tile_-1_09_13",
+      "SM_Tile_-1_09_14",
+      "SM_Tile_-1_09_15"
+    ],
+    "created": [
+      "SM_Tile_-1_03_11",
+      "SM_Tile_-1_03_12",
+      "SM_Tile_-1_03_13",
+      "SM_Tile_-1_03_14",
+      "SM_Tile_-1_06_13",
+      "SM_Tile_-1_07_12",
+      "SM_Tile_-1_07_13"
+    ],
+    "deleted": []
+  },
+  "stats": {
+    "objects": 58,
+    "triangles": 4838,
+    "issues": [],
+    "uv_triangles_checked": 3846,
+    "corner_posts": [
+      {
+        "name": "SM_Beam_Corner_A",
+        "side_exposure_m": 0.09497108459472647
+      },
+      {
+        "name": "SM_Beam_Corner_A.001",
+        "side_exposure_m": 0.09497108459472647
+      },
+      {
+        "name": "SM_Beam_Corner_A.002",
+        "side_exposure_m": 0.1219979763031005
+      },
+      {
+        "name": "SM_Beam_Corner_A.003",
+        "side_exposure_m": 0.1219979763031005
+      }
+    ]
+  },
+  "other_geometry_unchanged": true,
+  "file": "Source\\Roof\\v018\\House_Cottage_A.blend"
+}

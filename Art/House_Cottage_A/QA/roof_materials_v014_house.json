@@ -1,0 +1,23 @@
+{
+  "unique_mesh_uv_triangles": 16172,
+  "uv_bounds": [
+    0.30000001192092896,
+    0.25,
+    0.5862873196601868,
+    0.5362873077392578
+  ],
+  "sample_bounds_with_offset": [
+    0.30000001192092896,
+    0.25,
+    0.6862873196601867,
+    0.6962873077392578
+  ],
+  "objects": 574,
+  "geometry_and_pivots_unchanged": true,
+  "geometry": {
+    "objects": 589,
+    "triangles": 63730,
+    "issues": []
+  },
+  "file": "Source\\Roof\\v014\\House_Cottage_A.blend"
+}

@@ -1,0 +1,40 @@
+{
+  "stage": 2,
+  "revision": "v003",
+  "base_file": "E:\\Games_Develop\\CozySettlement\\Art\\Vegetation\\Tree02\\Source\\v002\\Tree02_Blockout.blend",
+  "base_sha256": "8ba573958330d6a0f4e31b3da5882c49820f138ed261767aedf4378f04bdf999",
+  "wood_triangles": 26000,
+  "nonmanifold_edges": 0,
+  "connected_component_vertices": [
+    13002
+  ],
+  "uv_finite": true,
+  "uv_name": "UV0_Growth",
+  "root_count": 7,
+  "fold_count": 3,
+  "canopy_unchanged": true,
+  "stones_unchanged": true,
+  "textures_loaded": [
+    "BaseColor",
+    "Normal",
+    "Roughness",
+    "AO",
+    "Height",
+    "DetailNormal",
+    "DetailRoughness"
+  ],
+  "textures_enabled": [
+    "BaseColor",
+    "Roughness",
+    "Normal strength 0.20"
+  ],
+  "uv_status": "Initial along-growth mapping; junction seams not final",
+  "views": [
+    "WoodClay",
+    "RootsClay",
+    "Wood",
+    "Roots",
+    "Perspective",
+    "UV_Check"
+  ]
+}

@@ -1,6 +1,6 @@
 # Initial source-art migration manifest
 
-Status: **planned; no source asset has been copied yet.**
+Status: **local workspace migration in progress.** The original folder is retained in place so Asset Book paths stay valid. GitHub stores lightweight reproducibility records, not a binary art backup.
 
 Source snapshot audited on 2026-10-02: `E:\Games_Develop\CozySettlement`. The destination is this repository, cloned at `E:\Games_Develop\Little-Castle_Assets`. The Unity game repository is `E:\Games_Develop\Little-Castle`.
 
@@ -8,7 +8,8 @@ Source snapshot audited on 2026-10-02: `E:\Games_Develop\CozySettlement`. The de
 
 | Repository | Owns | Must not own |
 |---|---|---|
-| `Little-Castle_Assets` | Blender source, source textures, references, art scripts, asset catalog, QA, renders and reviewed export releases | Unity project metadata, runtime code, Unity scenes, `Library` |
+| Local `Little-Castle_Assets` workspace | Blender source, source textures, references, art scripts, asset catalog, QA, renders and reviewed export releases | Unity project metadata, runtime code, Unity scenes, `Library` |
+| GitHub `Little-Castle_Assets` | Asset Book, scripts, documentation, JSON/text specifications and SHA-256 source snapshot | `.blend`, FBX, PBR maps, renders, Unreal binary assets or any other large binary backup |
 | `Little-Castle` | Unity code, ScriptableObjects, prefabs, Unity materials and explicitly approved game-ready copied imports | `.blend` working files, art WIP, build logs, Unreal cache/data |
 
 There is no folder link, junction, package dependency, or live import between repositories. It would let Unity write `.meta` files into the source repository and would make builds machine-path dependent. A release is copied by a deliberate, reviewable commit.
@@ -30,7 +31,7 @@ The following authored files are to be preserved. Counts include source, referen
 | `Content/Maps/CottageTest.umap` | `Legacy/Unreal/Maps` | 1 / small | historical Unreal test map | archive only; recreate Unity test scenes separately |
 | `Config/DefaultEngine.ini`, `Config/DefaultInput.ini` | `Legacy/Unreal/Config` | 2 / 9.7 KiB | historical Unreal settings | archive only; no Unity effect |
 
-The audit covers **921 files / approximately 2.67 GiB** across the authored and legacy roots. It includes 12 Blender recovery files, 76 transient logs and 1 Python bytecode file; the initial source transfer baseline is therefore **832 files**, plus only those named QA logs whose JSON or visual record needs them. All large binary files use Git LFS.
+The audit covers **924 files / 2,828,339,779 bytes** across the authored and legacy roots. A complete SHA-256 list is committed as `docs/SOURCE_SNAPSHOT.sha256.csv`. Large binary files stay local and are ignored by Git; Git LFS is not used for this repository policy.
 
 ## Asset roster to preserve
 
@@ -64,14 +65,12 @@ Never copy these into either Git repository as source assets:
 
 ## Safe execution order
 
-1. Commit this repository skeleton and configure Git LFS.
-2. Copy the listed authored roots into their destination folders without deleting or moving anything from `CozySettlement`.
-3. Compare file count, byte count and SHA-256 manifest between source and destination; report exclusions separately.
-4. Repair Asset Book relative links, run its sync command, and validate every registered source path.
-5. Commit the provenance import to `Little-Castle_Assets`; push it before touching the Unity repository.
-6. For each finished game asset, create `Releases/<AssetId>/<version>/` containing FBX, textures, a release manifest and preview.
-7. Copy only a reviewed release into `Little-Castle/Assets/_Game/Art/Imported/`; create Unity materials/prefabs there and link it through `WorldSpawnCatalog`.
-8. Run Unity compilation, deterministic generation tests and streaming tests. An art import must not alter authoritative generated world data.
+1. Keep the authored roots in this folder; do not rename them. The snapshot proves their identity.
+2. Validate Asset Book locally, then regenerate and compare the SHA-256 snapshot after every material migration or cleanup.
+3. Commit only lightweight reproducibility data: Asset Book, scripts, Markdown, JSON, text specifications and snapshot.
+4. For each finished game asset, prepare a reviewed local handoff package containing FBX, required textures, a release manifest and preview.
+5. Copy only that reviewed package into `Little-Castle/Assets/_Game/Art/Imported/`; create Unity materials/prefabs there and link it through `WorldSpawnCatalog`.
+6. Run Unity compilation, deterministic generation tests and streaming tests. An art import must not alter authoritative generated world data.
 
 ## Release acceptance checklist
 

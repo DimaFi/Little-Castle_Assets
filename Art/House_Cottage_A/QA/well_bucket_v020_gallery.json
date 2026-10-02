@@ -1,0 +1,134 @@
+{
+  "stats": {
+    "objects": 143,
+    "triangles": 27128,
+    "issues": [],
+    "uv_triangles_checked": 9432
+  },
+  "geometry_changed": [
+    "Roof_Tile.110",
+    "Roof_Tile.111",
+    "Roof_Tile.112",
+    "Roof_Tile.113",
+    "Roof_Tile.114",
+    "Roof_Tile.115",
+    "Roof_Tile.116",
+    "Roof_Tile.117",
+    "Roof_Tile.118",
+    "Roof_Tile.119",
+    "Roof_Tile.120",
+    "Roof_Tile.121",
+    "Roof_Tile.122",
+    "Roof_Tile.123",
+    "Roof_Tile.124",
+    "Roof_Tile.125",
+    "Roof_Tile.126",
+    "Roof_Tile.127",
+    "Roof_Tile.128",
+    "Roof_Tile.129",
+    "Roof_Tile.130",
+    "Roof_Tile.131",
+    "Roof_Tile.132",
+    "Roof_Tile.133",
+    "Roof_Tile.134",
+    "Roof_Tile.135",
+    "Roof_Tile.136",
+    "Roof_Tile.137",
+    "Roof_Tile.138",
+    "Roof_Tile.139",
+    "Roof_Tile.140",
+    "Roof_Tile.141",
+    "Roof_Tile.142",
+    "Roof_Tile.143",
+    "Roof_Tile.144",
+    "Roof_Tile.145",
+    "Roof_Tile.146",
+    "Roof_Tile.147",
+    "Roof_Tile.148",
+    "Roof_Tile.149",
+    "Roof_Tile.150",
+    "Roof_Tile.151",
+    "Roof_Tile.152",
+    "Roof_Tile.153",
+    "Roof_Tile.154",
+    "Roof_Tile.155",
+    "Roof_Tile.156",
+    "Roof_Tile.157",
+    "Roof_Tile.158",
+    "Roof_Tile.159",
+    "Roof_Tile.160",
+    "Roof_Tile.161",
+    "Roof_Tile.162",
+    "Roof_Tile.163",
+    "Roof_Tile.164",
+    "Roof_Tile.165",
+    "Roof_Tile.166",
+    "Roof_Tile.167",
+    "Roof_Tile.168",
+    "Roof_Tile.169",
+    "Roof_Tile.170",
+    "Roof_Tile.171",
+    "Roof_Tile.172",
+    "Roof_Tile.173",
+    "Roof_RidgeCap.010",
+    "Roof_RidgeCap.011",
+    "Roof_RidgeCap.012",
+    "Roof_RidgeCap.013",
+    "Roof_RidgeCap.014",
+    "Roof_RidgeCap.015",
+    "Roof_RidgeCap.016",
+    "Bucket_Handle"
+  ],
+  "cap_seating": [
+    {
+      "name": "Roof_RidgeCap.010",
+      "skirt_extension_world_m": [
+        0.11670904541015625,
+        0.11670904541015625
+      ]
+    },
+    {
+      "name": "Roof_RidgeCap.011",
+      "skirt_extension_world_m": [
+        0.069718412399292,
+        0.0697186508178711
+      ]
+    },
+    {
+      "name": "Roof_RidgeCap.012",
+      "skirt_extension_world_m": [
+        0.06768780136108399,
+        0.06768780136108399
+      ]
+    },
+    {
+      "name": "Roof_RidgeCap.013",
+      "skirt_extension_world_m": [
+        0.11105375671386719,
+        0.11105375671386719
+      ]
+    },
+    {
+      "name": "Roof_RidgeCap.014",
+      "skirt_extension_world_m": [
+        0.06866317176818848,
+        0.06866293334960938
+      ]
+    },
+    {
+      "name": "Roof_RidgeCap.015",
+      "skirt_extension_world_m": [
+        0.07215886497497559,
+        0.07215838813781739
+      ]
+    },
+    {
+      "name": "Roof_RidgeCap.016",
+      "skirt_extension_world_m": [
+        0.12073092842102051,
+        0.12073116683959961
+      ]
+    }
+  ],
+  "other_geometry_unchanged": true
+}

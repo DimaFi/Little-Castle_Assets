@@ -1,0 +1,136 @@
+{
+  "objects": 25,
+  "triangles": 11996,
+  "issues": [],
+  "uv_triangles_checked": 1956,
+  "uv_degenerate_faces": 0,
+  "parts": [
+    {
+      "name": "SM_Beam_Corner_A",
+      "length_m": 2.8003,
+      "rings": 5
+    },
+    {
+      "name": "SM_Beam_Corner_A.001",
+      "length_m": 2.8003,
+      "rings": 5
+    },
+    {
+      "name": "SM_Beam_Corner_A.002",
+      "length_m": 2.8003,
+      "rings": 5
+    },
+    {
+      "name": "SM_Beam_Corner_A.003",
+      "length_m": 2.8003,
+      "rings": 5
+    },
+    {
+      "name": "SM_Beam_Facade_Brace_A",
+      "length_m": 1.0608,
+      "rings": 5
+    },
+    {
+      "name": "SM_Beam_Facade_Brace_A.001",
+      "length_m": 1.0608,
+      "rings": 5
+    },
+    {
+      "name": "SM_Beam_Facade_Brace_A.002",
+      "length_m": 1.0608,
+      "rings": 5
+    },
+    {
+      "name": "SM_Beam_Facade_Brace_A.003",
+      "length_m": 1.0608,
+      "rings": 5
+    },
+    {
+      "name": "SM_Beam_Facade_Top_A",
+      "length_m": 6.1805,
+      "rings": 5
+    },
+    {
+      "name": "SM_Beam_Facade_Top_A.001",
+      "length_m": 6.1805,
+      "rings": 5
+    },
+    {
+      "name": "SM_Beam_Gable_Brace_A",
+      "length_m": 1.6679,
+      "rings": 5
+    },
+    {
+      "name": "SM_Beam_Gable_Brace_A.001",
+      "length_m": 1.6758,
+      "rings": 5
+    },
+    {
+      "name": "SM_Beam_Gable_Brace_A.002",
+      "length_m": 1.6779,
+      "rings": 5
+    },
+    {
+      "name": "SM_Beam_Gable_Brace_A.003",
+      "length_m": 1.686,
+      "rings": 5
+    },
+    {
+      "name": "SM_Beam_Gable_Centre_A",
+      "length_m": 2.2149,
+      "rings": 5
+    },
+    {
+      "name": "SM_Beam_Gable_Centre_A.001",
+      "length_m": 2.2149,
+      "rings": 5
+    },
+    {
+      "name": "SM_Beam_Gable_Tie_A",
+      "length_m": 4.7604,
+      "rings": 5
+    },
+    {
+      "name": "SM_Beam_Gable_Tie_A.001",
+      "length_m": 4.7604,
+      "rings": 5
+    },
+    {
+      "name": "SM_Dormer_Fascia_A",
+      "length_m": 2.4127,
+      "rings": 33
+    },
+    {
+      "name": "SM_Roof_Eave_Back_A",
+      "length_m": 7.1582,
+      "rings": 25
+    },
+    {
+      "name": "SM_Roof_Eave_Front_A",
+      "length_m": 7.1582,
+      "rings": 25
+    },
+    {
+      "name": "SM_Roof_Verge_Left_A",
+      "length_m": 3.8401,
+      "rings": 21
+    },
+    {
+      "name": "SM_Roof_Verge_Left_A.001",
+      "length_m": 3.8179,
+      "rings": 21
+    },
+    {
+      "name": "SM_Roof_Verge_Right_A",
+      "length_m": 3.8085,
+      "rings": 21
+    },
+    {
+      "name": "SM_Roof_Verge_Right_A.001",
+      "length_m": 3.7866,
+      "rings": 21
+    }
+  ],
+  "file": "Source\\Materials\\v010\\House_Cottage_A.blend",
+  "geometry_and_pivots_unchanged": true
+}

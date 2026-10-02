@@ -1,0 +1,5052 @@
+{
+  "parameters": {
+    "width_m": 6.2,
+    "depth_m": 4.8,
+    "wall_base_m": 0.46,
+    "wall_top_m": 3.3,
+    "roof_half_width_m": 3.57,
+    "roof_half_depth_m": 2.94,
+    "ridge_end_m": 5.64,
+    "ridge_sag_m": 0.22,
+    "door_height_m": 2.05,
+    "door_width_m": 1.02,
+    "door_x_m": 0.8,
+    "chimney_top_m": 6.7
+  },
+  "object_count": 296,
+  "triangles": 77472,
+  "objects": [
+    {
+      "name": "SM_Foundation_Facade_-1_0_00",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.8499999046325684,
+        -2.359999895095825,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_-1_0_01",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.331818103790283,
+        -2.359999895095825,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690969347953796,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_-1_0_02",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -1.8136364221572876,
+        -2.359999895095825,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_-1_0_03",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -1.295454502105713,
+        -2.359999895095825,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_-1_0_04",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -0.7772727012634277,
+        -2.359999895095825,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_-1_0_05",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -0.2590909004211426,
+        -2.359999895095825,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_-1_0_06",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        0.2590909004211426,
+        -2.359999895095825,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690969347953796,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_-1_0_07",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        0.7772727012634277,
+        -2.359999895095825,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_-1_0_08",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        1.295454502105713,
+        -2.359999895095825,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_-1_0_09",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        1.8136364221572876,
+        -2.359999895095825,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_-1_0_10",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        2.331818103790283,
+        -2.359999895095825,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_-1_0_11",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        2.8499999046325684,
+        -2.359999895095825,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690969347953796,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_-1_0_00",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.009999990463257,
+        -2.0399999618530273,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.38753893971443176,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_-1_0_01",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.009999990463257,
+        -1.5299999713897705,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.38753899931907654,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_-1_0_02",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.009999990463257,
+        -1.0199999809265137,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.38753893971443176,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_-1_0_03",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.009999990463257,
+        -0.5099999904632568,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.38753893971443176,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_-1_0_04",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.009999990463257,
+        0.0,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.38753893971443176,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_-1_0_05",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.009999990463257,
+        0.5099999904632568,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.38753899931907654,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_-1_0_06",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.009999990463257,
+        1.0199999809265137,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.38753893971443176,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_-1_0_07",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.009999990463257,
+        1.5299999713897705,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.38753893971443176,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_-1_0_08",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.009999990463257,
+        2.0399999618530273,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.38753893971443176,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_1_0_00",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.8499999046325684,
+        2.359999895095825,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_1_0_01",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.331818103790283,
+        2.359999895095825,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690969347953796,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_1_0_02",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -1.8136364221572876,
+        2.359999895095825,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_1_0_03",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -1.295454502105713,
+        2.359999895095825,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_1_0_04",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -0.7772727012634277,
+        2.359999895095825,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_1_0_05",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -0.2590909004211426,
+        2.359999895095825,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_1_0_06",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        0.2590909004211426,
+        2.359999895095825,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690969347953796,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_1_0_07",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        0.7772727012634277,
+        2.359999895095825,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_1_0_08",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        1.295454502105713,
+        2.359999895095825,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_1_0_09",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        1.8136364221572876,
+        2.359999895095825,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_1_0_10",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        2.331818103790283,
+        2.359999895095825,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_1_0_11",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        2.8499999046325684,
+        2.359999895095825,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690969347953796,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_1_0_00",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        3.009999990463257,
+        -2.0399999618530273,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.38753893971443176,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_1_0_01",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        3.009999990463257,
+        -1.5299999713897705,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.38753899931907654,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_1_0_02",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        3.009999990463257,
+        -1.0199999809265137,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.38753893971443176,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_1_0_03",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        3.009999990463257,
+        -0.5099999904632568,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.38753893971443176,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_1_0_04",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        3.009999990463257,
+        0.0,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.38753893971443176,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_1_0_05",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        3.009999990463257,
+        0.5099999904632568,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.38753899931907654,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_1_0_06",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        3.009999990463257,
+        1.0199999809265137,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.38753893971443176,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_1_0_07",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        3.009999990463257,
+        1.5299999713897705,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.38753893971443176,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_1_0_08",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        3.009999990463257,
+        2.0399999618530273,
+        0.007499999832361937
+      ],
+      "dimensions_m": [
+        0.38753893971443176,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_-1_1_00",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.8499999046325684,
+        -2.359999895095825,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_-1_1_01",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.331818103790283,
+        -2.359999895095825,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_-1_1_02",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -1.8136364221572876,
+        -2.359999895095825,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_-1_1_03",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -1.295454502105713,
+        -2.359999895095825,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_-1_1_04",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -0.7772727012634277,
+        -2.359999895095825,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690969347953796,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_-1_1_05",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -0.2590909004211426,
+        -2.359999895095825,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_-1_1_06",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        0.2590909004211426,
+        -2.359999895095825,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_-1_1_07",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        0.7772727012634277,
+        -2.359999895095825,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_-1_1_08",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        1.295454502105713,
+        -2.359999895095825,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_-1_1_09",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        1.8136364221572876,
+        -2.359999895095825,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_-1_1_10",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        2.331818103790283,
+        -2.359999895095825,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_-1_1_11",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        2.8499999046325684,
+        -2.359999895095825,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_-1_1_00",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.009999990463257,
+        -2.0399999618530273,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.38753899931907654,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_-1_1_01",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.009999990463257,
+        -1.5299999713897705,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.3875389099121094,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_-1_1_02",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.009999990463257,
+        -1.0199999809265137,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.38753893971443176,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_-1_1_03",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.009999990463257,
+        -0.5099999904632568,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.38753899931907654,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_-1_1_04",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.009999990463257,
+        0.0,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.38753899931907654,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_-1_1_05",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.009999990463257,
+        0.5099999904632568,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.38753893971443176,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_-1_1_06",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.009999990463257,
+        1.0199999809265137,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.38753893971443176,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_-1_1_07",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.009999990463257,
+        1.5299999713897705,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.38753899931907654,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_-1_1_08",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.009999990463257,
+        2.0399999618530273,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.38753899931907654,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_1_1_00",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.8499999046325684,
+        2.359999895095825,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_1_1_01",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.331818103790283,
+        2.359999895095825,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_1_1_02",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -1.8136364221572876,
+        2.359999895095825,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_1_1_03",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -1.295454502105713,
+        2.359999895095825,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_1_1_04",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -0.7772727012634277,
+        2.359999895095825,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690969347953796,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_1_1_05",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -0.2590909004211426,
+        2.359999895095825,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_1_1_06",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        0.2590909004211426,
+        2.359999895095825,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_1_1_07",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        0.7772727012634277,
+        2.359999895095825,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_1_1_08",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        1.295454502105713,
+        2.359999895095825,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_1_1_09",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        1.8136364221572876,
+        2.359999895095825,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_1_1_10",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        2.331818103790283,
+        2.359999895095825,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Facade_1_1_11",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        2.8499999046325684,
+        2.359999895095825,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.515018880367279,
+        0.38690975308418274,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_1_1_00",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        3.009999990463257,
+        -2.0399999618530273,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.38753899931907654,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_1_1_01",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        3.009999990463257,
+        -1.5299999713897705,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.3875389099121094,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_1_1_02",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        3.009999990463257,
+        -1.0199999809265137,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.38753893971443176,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_1_1_03",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        3.009999990463257,
+        -0.5099999904632568,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.38753899931907654,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_1_1_04",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        3.009999990463257,
+        0.0,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.38753899931907654,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_1_1_05",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        3.009999990463257,
+        0.5099999904632568,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.38753893971443176,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_1_1_06",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        3.009999990463257,
+        1.0199999809265137,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.38753893971443176,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_1_1_07",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        3.009999990463257,
+        1.5299999713897705,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.38753899931907654,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Foundation_Side_1_1_08",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        3.009999990463257,
+        2.0399999618530273,
+        0.26249998807907104
+      ],
+      "dimensions_m": [
+        0.38753899931907654,
+        0.5040008425712585,
+        0.24500000476837158
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Entrance_Step_A",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Entrance_Step_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        0.800000011920929,
+        -3.0399999618530273,
+        0.06499999761581421
+      ],
+      "dimensions_m": [
+        1.6799999475479126,
+        0.7200000286102295,
+        0.12999999523162842
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Entrance_Step_A.001",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Entrance_Step_A.001",
+      "triangles_evaluated": 188,
+      "location_m": [
+        0.800000011920929,
+        -2.7899999618530273,
+        0.19499999284744263
+      ],
+      "dimensions_m": [
+        1.559999942779541,
+        0.7200000286102295,
+        0.12999999523162842
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Entrance_Step_A.002",
+      "collection": "02_FOUNDATION",
+      "mesh": "SM_Entrance_Step_A.002",
+      "triangles_evaluated": 188,
+      "location_m": [
+        0.800000011920929,
+        -2.5399999618530273,
+        0.32499998807907104
+      ],
+      "dimensions_m": [
+        1.440000057220459,
+        0.7200000286102295,
+        0.12999999523162842
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Wall_Front_A",
+      "collection": "03_WALLS",
+      "mesh": "SM_Wall_Front_A",
+      "triangles_evaluated": 1396,
+      "location_m": [
+        0.0,
+        -2.2799999713897705,
+        1.8799999952316284
+      ],
+      "dimensions_m": [
+        6.199999809265137,
+        0.23999999463558197,
+        2.8399999141693115
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Wall_Back_A",
+      "collection": "03_WALLS",
+      "mesh": "SM_Wall_Back_A",
+      "triangles_evaluated": 592,
+      "location_m": [
+        0.0,
+        2.2799999713897705,
+        1.8799999952316284
+      ],
+      "dimensions_m": [
+        6.199999809265137,
+        0.23999999463558197,
+        2.8411152362823486
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Wall_Left_A",
+      "collection": "03_WALLS",
+      "mesh": "SM_Wall_Left_A",
+      "triangles_evaluated": 592,
+      "location_m": [
+        -2.9800000190734863,
+        0.0,
+        1.8799999952316284
+      ],
+      "dimensions_m": [
+        0.23999999463558197,
+        4.320000171661377,
+        2.8399999141693115
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Wall_Right_A",
+      "collection": "03_WALLS",
+      "mesh": "SM_Wall_Right_A",
+      "triangles_evaluated": 592,
+      "location_m": [
+        2.9800000190734863,
+        0.0,
+        1.8799999952316284
+      ],
+      "dimensions_m": [
+        0.23999999463558197,
+        4.320000171661377,
+        2.8402788639068604
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Wall_Gable_Left_A",
+      "collection": "03_WALLS",
+      "mesh": "SM_Wall_Gable_Left_A",
+      "triangles_evaluated": 588,
+      "location_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        0.23000001907348633,
+        4.800000190734863,
+        2.18710994720459
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Wall_Gable_Right_A",
+      "collection": "03_WALLS",
+      "mesh": "SM_Wall_Gable_Right_A",
+      "triangles_evaluated": 588,
+      "location_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        0.23000001907348633,
+        4.800000190734863,
+        2.18717098236084
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Beam_Corner_A",
+      "collection": "04_TIMBER",
+      "mesh": "SM_Beam_Corner_A",
+      "triangles_evaluated": 284,
+      "location_m": [
+        -3.009999990463257,
+        -2.359999895095825,
+        0.4699999988079071
+      ],
+      "dimensions_m": [
+        0.21631473302841187,
+        0.19000005722045898,
+        2.8024868965148926
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Beam_Corner_A.001",
+      "collection": "04_TIMBER",
+      "mesh": "SM_Beam_Corner_A.001",
+      "triangles_evaluated": 284,
+      "location_m": [
+        -3.009999990463257,
+        2.359999895095825,
+        0.4699999988079071
+      ],
+      "dimensions_m": [
+        0.21631473302841187,
+        0.19000005722045898,
+        2.8024868965148926
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Beam_Corner_A.002",
+      "collection": "04_TIMBER",
+      "mesh": "SM_Beam_Corner_A.002",
+      "triangles_evaluated": 284,
+      "location_m": [
+        3.009999990463257,
+        -2.359999895095825,
+        0.4699999988079071
+      ],
+      "dimensions_m": [
+        0.21631473302841187,
+        0.19000005722045898,
+        2.8024868965148926
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Beam_Corner_A.003",
+      "collection": "04_TIMBER",
+      "mesh": "SM_Beam_Corner_A.003",
+      "triangles_evaluated": 284,
+      "location_m": [
+        3.009999990463257,
+        2.359999895095825,
+        0.4699999988079071
+      ],
+      "dimensions_m": [
+        0.21631473302841187,
+        0.19000005722045898,
+        2.8024868965148926
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Beam_Facade_Top_A",
+      "collection": "04_TIMBER",
+      "mesh": "SM_Beam_Facade_Top_A",
+      "triangles_evaluated": 284,
+      "location_m": [
+        -3.0899999141693115,
+        -2.4100000858306885,
+        3.0199999809265137
+      ],
+      "dimensions_m": [
+        6.182305812835693,
+        0.19999980926513672,
+        0.23453876376152039
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Beam_Facade_Brace_A",
+      "collection": "04_TIMBER",
+      "mesh": "SM_Beam_Facade_Brace_A",
+      "triangles_evaluated": 284,
+      "location_m": [
+        -3.009999990463257,
+        -2.4100000858306885,
+        2.2300000190734863
+      ],
+      "dimensions_m": [
+        0.8402106165885925,
+        0.1399998664855957,
+        0.8228951096534729
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Beam_Facade_Brace_A.001",
+      "collection": "04_TIMBER",
+      "mesh": "SM_Beam_Facade_Brace_A.001",
+      "triangles_evaluated": 284,
+      "location_m": [
+        3.009999990463257,
+        -2.4100000858306885,
+        2.2300000190734863
+      ],
+      "dimensions_m": [
+        0.840210497379303,
+        0.1399998664855957,
+        0.8228951096534729
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Beam_Facade_Top_A.001",
+      "collection": "04_TIMBER",
+      "mesh": "SM_Beam_Facade_Top_A.001",
+      "triangles_evaluated": 284,
+      "location_m": [
+        -3.0899999141693115,
+        2.4100000858306885,
+        3.0199999809265137
+      ],
+      "dimensions_m": [
+        6.182305812835693,
+        0.19999980926513672,
+        0.23453876376152039
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Beam_Facade_Brace_A.002",
+      "collection": "04_TIMBER",
+      "mesh": "SM_Beam_Facade_Brace_A.002",
+      "triangles_evaluated": 284,
+      "location_m": [
+        -3.009999990463257,
+        2.4100000858306885,
+        2.2300000190734863
+      ],
+      "dimensions_m": [
+        0.8402106165885925,
+        0.1399998664855957,
+        0.8228951096534729
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Beam_Facade_Brace_A.003",
+      "collection": "04_TIMBER",
+      "mesh": "SM_Beam_Facade_Brace_A.003",
+      "triangles_evaluated": 284,
+      "location_m": [
+        3.009999990463257,
+        2.4100000858306885,
+        2.2300000190734863
+      ],
+      "dimensions_m": [
+        0.840210497379303,
+        0.1399998664855957,
+        0.8228951096534729
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Beam_Gable_Tie_A",
+      "collection": "04_TIMBER",
+      "mesh": "SM_Beam_Gable_Tie_A",
+      "triangles_evaluated": 284,
+      "location_m": [
+        -3.069999933242798,
+        -2.380000114440918,
+        3.259999990463257
+      ],
+      "dimensions_m": [
+        0.21000003814697266,
+        4.762694835662842,
+        0.23945927619934082
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Beam_Gable_Centre_A",
+      "collection": "04_TIMBER",
+      "mesh": "SM_Beam_Gable_Centre_A",
+      "triangles_evaluated": 284,
+      "location_m": [
+        -3.069999933242798,
+        0.0,
+        3.259999990463257
+      ],
+      "dimensions_m": [
+        0.2073599100112915,
+        0.1899999976158142,
+        2.2058520317077637
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Beam_Gable_Brace_A",
+      "collection": "04_TIMBER",
+      "mesh": "SM_Beam_Gable_Brace_A",
+      "triangles_evaluated": 476,
+      "location_m": [
+        -3.069999933242798,
+        0.0,
+        3.309999942779541
+      ],
+      "dimensions_m": [
+        0.15000009536743164,
+        1.5504956245422363,
+        0.8381776213645935
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Beam_Gable_Brace_A.001",
+      "collection": "04_TIMBER",
+      "mesh": "SM_Beam_Gable_Brace_A.001",
+      "triangles_evaluated": 476,
+      "location_m": [
+        -3.069999933242798,
+        0.0,
+        3.309999942779541
+      ],
+      "dimensions_m": [
+        0.15000009536743164,
+        1.5516389608383179,
+        0.8552471399307251
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Beam_Gable_Tie_A.001",
+      "collection": "04_TIMBER",
+      "mesh": "SM_Beam_Gable_Tie_A.001",
+      "triangles_evaluated": 284,
+      "location_m": [
+        3.069999933242798,
+        -2.380000114440918,
+        3.259999990463257
+      ],
+      "dimensions_m": [
+        0.21000003814697266,
+        4.762694835662842,
+        0.23945927619934082
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Beam_Gable_Centre_A.001",
+      "collection": "04_TIMBER",
+      "mesh": "SM_Beam_Gable_Centre_A.001",
+      "triangles_evaluated": 284,
+      "location_m": [
+        3.069999933242798,
+        0.0,
+        3.259999990463257
+      ],
+      "dimensions_m": [
+        0.2073599100112915,
+        0.1899999976158142,
+        2.2058520317077637
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Beam_Gable_Brace_A.002",
+      "collection": "04_TIMBER",
+      "mesh": "SM_Beam_Gable_Brace_A.002",
+      "triangles_evaluated": 476,
+      "location_m": [
+        3.069999933242798,
+        0.0,
+        3.309999942779541
+      ],
+      "dimensions_m": [
+        0.15000009536743164,
+        1.5518977642059326,
+        0.8591470718383789
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Beam_Gable_Brace_A.003",
+      "collection": "04_TIMBER",
+      "mesh": "SM_Beam_Gable_Brace_A.003",
+      "triangles_evaluated": 476,
+      "location_m": [
+        3.069999933242798,
+        0.0,
+        3.309999942779541
+      ],
+      "dimensions_m": [
+        0.15000009536743164,
+        1.5530221462249756,
+        0.8762121796607971
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Roof_Main_Front_A",
+      "collection": "05_ROOF",
+      "mesh": "SM_Roof_Main_Front_A",
+      "triangles_evaluated": 3032,
+      "location_m": [
+        -3.569999933242798,
+        0.0,
+        5.639999866485596
+      ],
+      "dimensions_m": [
+        7.160882949829102,
+        3.011627197265625,
+        2.7355692386627197
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Roof_Eave_Front_A",
+      "collection": "05_ROOF",
+      "mesh": "SM_Roof_Eave_Front_A",
+      "triangles_evaluated": 924,
+      "location_m": [
+        -3.569999933242798,
+        -2.940000057220459,
+        3.1500000953674316
+      ],
+      "dimensions_m": [
+        7.156044960021973,
+        0.21000003814697266,
+        0.43151769042015076
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Roof_Main_Back_A",
+      "collection": "05_ROOF",
+      "mesh": "SM_Roof_Main_Back_A",
+      "triangles_evaluated": 3032,
+      "location_m": [
+        -3.569999933242798,
+        0.0,
+        5.639999866485596
+      ],
+      "dimensions_m": [
+        7.160993576049805,
+        3.0111124515533447,
+        2.701259136199951
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Roof_Eave_Back_A",
+      "collection": "05_ROOF",
+      "mesh": "SM_Roof_Eave_Back_A",
+      "triangles_evaluated": 924,
+      "location_m": [
+        -3.569999933242798,
+        2.940000057220459,
+        3.184999942779541
+      ],
+      "dimensions_m": [
+        7.156044960021973,
+        0.21000003814697266,
+        0.43151748180389404
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Roof_Verge_Left_A",
+      "collection": "05_ROOF",
+      "mesh": "SM_Roof_Verge_Left_A",
+      "triangles_evaluated": 796,
+      "location_m": [
+        -3.559999942779541,
+        -0.0,
+        5.603769302368164
+      ],
+      "dimensions_m": [
+        0.17999982833862305,
+        3.0384483337402344,
+        2.580348253250122
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Roof_Verge_Left_A.001",
+      "collection": "05_ROOF",
+      "mesh": "SM_Roof_Verge_Left_A.001",
+      "triangles_evaluated": 796,
+      "location_m": [
+        -3.559999942779541,
+        0.0,
+        5.603769302368164
+      ],
+      "dimensions_m": [
+        0.17999982833862305,
+        3.037416696548462,
+        2.546210527420044
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Roof_Verge_Right_A",
+      "collection": "05_ROOF",
+      "mesh": "SM_Roof_Verge_Right_A",
+      "triangles_evaluated": 796,
+      "location_m": [
+        3.559999942779541,
+        -0.0,
+        5.603769302368164
+      ],
+      "dimensions_m": [
+        0.17999982833862305,
+        3.036973714828491,
+        2.531717538833618
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Roof_Verge_Right_A.001",
+      "collection": "05_ROOF",
+      "mesh": "SM_Roof_Verge_Right_A.001",
+      "triangles_evaluated": 796,
+      "location_m": [
+        3.559999942779541,
+        0.0,
+        5.603769302368164
+      ],
+      "dimensions_m": [
+        0.17999982833862305,
+        3.0359182357788086,
+        2.4975831508636475
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Roof_Ridge_A",
+      "collection": "05_ROOF",
+      "mesh": "SM_Roof_Ridge_A",
+      "triangles_evaluated": 924,
+      "location_m": [
+        -3.5999999046325684,
+        0.0,
+        5.7137131690979
+      ],
+      "dimensions_m": [
+        7.220437049865723,
+        0.23999999463558197,
+        0.4588969945907593
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Dormer_Front_A",
+      "collection": "05_ROOF",
+      "mesh": "SM_Dormer_Front_A",
+      "triangles_evaluated": 640,
+      "location_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        1.174673318862915,
+        0.1700000762939453,
+        1.0416278839111328
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Dormer_Cheek_A",
+      "collection": "05_ROOF",
+      "mesh": "SM_Dormer_Cheek_A",
+      "triangles_evaluated": 12,
+      "location_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        0.27652373909950256,
+        1.4959383010864258,
+        1.0080525875091553
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Dormer_Cheek_A.001",
+      "collection": "05_ROOF",
+      "mesh": "SM_Dormer_Cheek_A.001",
+      "triangles_evaluated": 12,
+      "location_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        0.27627313137054443,
+        1.4965503215789795,
+        1.0089421272277832
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Dormer_Hood_A",
+      "collection": "05_ROOF",
+      "mesh": "SM_Dormer_Hood_A",
+      "triangles_evaluated": 476,
+      "location_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        1.3784772157669067,
+        1.6336174011230469,
+        1.063633918762207
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Dormer_Fascia_A",
+      "collection": "05_ROOF",
+      "mesh": "SM_Dormer_Fascia_A",
+      "triangles_evaluated": 476,
+      "location_m": [
+        -0.18000000715255737,
+        -2.2699999809265137,
+        4.074999809265137
+      ],
+      "dimensions_m": [
+        1.4631119966506958,
+        0.1399998664855957,
+        1.0023419857025146
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Chimney_Course_A",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.3537837862968445,
+        0.010999999940395355
+      ],
+      "dimensions_m": [
+        0.9799829721450806,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.001",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        1.0862162113189697,
+        0.010999999940395355
+      ],
+      "dimensions_m": [
+        0.9799829125404358,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.002",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.5604593753814697,
+        0.7200000286102295,
+        0.010999999940395355
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.5013865828514099,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.003",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.839540481567383,
+        0.7200000286102295,
+        0.010999999940395355
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.5013865828514099,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.004",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.5517027378082275,
+        0.7200000286102295,
+        0.2809999883174896
+      ],
+      "dimensions_m": [
+        0.24476143717765808,
+        0.9752547144889832,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.005",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.848297357559204,
+        0.7200000286102295,
+        0.2809999883174896
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.9752547144889832,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.006",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.3610810935497284,
+        0.2809999883174896
+      ],
+      "dimensions_m": [
+        0.4725990891456604,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.007",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        1.0789189338684082,
+        0.2809999883174896
+      ],
+      "dimensions_m": [
+        0.4725990891456604,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.008",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.3683783710002899,
+        0.5509999990463257
+      ],
+      "dimensions_m": [
+        0.9442610144615173,
+        0.24436403810977936,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.009",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        1.0716216564178467,
+        0.5509999990463257
+      ],
+      "dimensions_m": [
+        0.9442610144615173,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.010",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.5429458618164062,
+        0.7200000286102295,
+        0.5509999990463257
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.4716666638851166,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.011",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.8570539951324463,
+        0.7200000286102295,
+        0.5509999990463257
+      ],
+      "dimensions_m": [
+        0.24476143717765808,
+        0.4716666638851166,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.012",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.534189224243164,
+        0.7200000286102295,
+        0.8209999799728394
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.9455347061157227,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.013",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.8658108711242676,
+        0.7200000286102295,
+        0.8209999799728394
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.9455348253250122,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.014",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.37567567825317383,
+        0.8209999799728394
+      ],
+      "dimensions_m": [
+        0.4368771016597748,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.015",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        1.0643243789672852,
+        0.8209999799728394
+      ],
+      "dimensions_m": [
+        0.43687716126441956,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.016",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.38297298550605774,
+        1.090999960899353
+      ],
+      "dimensions_m": [
+        0.9085390567779541,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.017",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        1.057026982307434,
+        1.090999960899353
+      ],
+      "dimensions_m": [
+        0.9085390567779541,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.018",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.5254323482513428,
+        0.7200000286102295,
+        1.090999960899353
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.44194668531417847,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.019",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.8745675086975098,
+        0.7200000286102295,
+        1.090999960899353
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.44194674491882324,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.020",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.5166757106781006,
+        0.7200000286102295,
+        1.3609999418258667
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.9158148169517517,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.021",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.883324384689331,
+        0.7200000286102295,
+        1.3609999418258667
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.9158148169517517,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.022",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.39027026295661926,
+        1.3609999418258667
+      ],
+      "dimensions_m": [
+        0.4011552035808563,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.023",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        1.0497297048568726,
+        1.3609999418258667
+      ],
+      "dimensions_m": [
+        0.4011552035808563,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.024",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.3975675702095032,
+        1.63100004196167
+      ],
+      "dimensions_m": [
+        0.8728170394897461,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.025",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        1.042432427406311,
+        1.63100004196167
+      ],
+      "dimensions_m": [
+        0.8728171586990356,
+        0.24436408281326294,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.026",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.5079188346862793,
+        0.7200000286102295,
+        1.63100004196167
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.41222673654556274,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.027",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.8920810222625732,
+        0.7200000286102295,
+        1.63100004196167
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.41222673654556274,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.028",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.499162197113037,
+        0.7200000286102295,
+        1.9010000228881836
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.886094868183136,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.029",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.9008378982543945,
+        0.7200000286102295,
+        1.9010000228881836
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.886094868183136,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.030",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.4048648774623871,
+        1.9010000228881836
+      ],
+      "dimensions_m": [
+        0.3654332458972931,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.031",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        1.0351351499557495,
+        1.9010000228881836
+      ],
+      "dimensions_m": [
+        0.3654332458972931,
+        0.24436408281326294,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.032",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.4121621549129486,
+        2.1710000038146973
+      ],
+      "dimensions_m": [
+        0.8370950818061829,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.033",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        1.027837872505188,
+        2.1710000038146973
+      ],
+      "dimensions_m": [
+        0.8370951414108276,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.034",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.490405321121216,
+        0.7200000286102295,
+        2.1710000038146973
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.3825068175792694,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.035",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.9095945358276367,
+        0.7200000286102295,
+        2.1710000038146973
+      ],
+      "dimensions_m": [
+        0.24476146697998047,
+        0.3825068175792694,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.036",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.4816486835479736,
+        0.7200000286102295,
+        2.440999984741211
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.856374979019165,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.037",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.918351411819458,
+        0.7200000286102295,
+        2.440999984741211
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.856374979019165,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.038",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.4194594621658325,
+        2.440999984741211
+      ],
+      "dimensions_m": [
+        0.32971131801605225,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.039",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        1.0205405950546265,
+        2.440999984741211
+      ],
+      "dimensions_m": [
+        0.32971131801605225,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.040",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.42675676941871643,
+        2.7109999656677246
+      ],
+      "dimensions_m": [
+        0.8013731837272644,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.041",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        1.0132431983947754,
+        2.7109999656677246
+      ],
+      "dimensions_m": [
+        0.8013732433319092,
+        0.24436408281326294,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.042",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.4728918075561523,
+        0.7200000286102295,
+        2.7109999656677246
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.3527868390083313,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.043",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.9271080493927,
+        0.7200000286102295,
+        2.7109999656677246
+      ],
+      "dimensions_m": [
+        0.24476146697998047,
+        0.3527868390083313,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.044",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.46413516998291,
+        0.7200000286102295,
+        2.9809999465942383
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.8266549706459045,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.045",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.9358649253845215,
+        0.7200000286102295,
+        2.9809999465942383
+      ],
+      "dimensions_m": [
+        0.24476143717765808,
+        0.8266549706459045,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.046",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.43405404686927795,
+        2.9809999465942383
+      ],
+      "dimensions_m": [
+        0.2939893901348114,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.047",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        1.0059459209442139,
+        2.9809999465942383
+      ],
+      "dimensions_m": [
+        0.2939893901348114,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.048",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.44135135412216187,
+        3.250999927520752
+      ],
+      "dimensions_m": [
+        0.7656512260437012,
+        0.24436403810977936,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.049",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.9986486434936523,
+        3.250999927520752
+      ],
+      "dimensions_m": [
+        0.7656513452529907,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.050",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.455378293991089,
+        0.7200000286102295,
+        3.250999927520752
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.3230668902397156,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.051",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.9446215629577637,
+        0.7200000286102295,
+        3.250999927520752
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.3230668902397156,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.052",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.4466216564178467,
+        0.7200000286102295,
+        3.5209999084472656
+      ],
+      "dimensions_m": [
+        0.24476143717765808,
+        0.7969350218772888,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.053",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.953378438949585,
+        0.7200000286102295,
+        3.5209999084472656
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.7969350218772888,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.054",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.4486486613750458,
+        3.5209999084472656
+      ],
+      "dimensions_m": [
+        0.25826743245124817,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.055",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.9913513660430908,
+        3.5209999084472656
+      ],
+      "dimensions_m": [
+        0.25826743245124817,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.056",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.44999998807907104,
+        3.7909998893737793
+      ],
+      "dimensions_m": [
+        0.7444827556610107,
+        0.24436408281326294,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.057",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.9900000095367432,
+        3.7909998893737793
+      ],
+      "dimensions_m": [
+        0.7444828152656555,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.058",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.444999933242798,
+        0.7200000286102295,
+        3.7909998893737793
+      ],
+      "dimensions_m": [
+        0.24476143717765808,
+        0.3054550588130951,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.059",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.9549999237060547,
+        0.7200000286102295,
+        3.7909998893737793
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.3054550588130951,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.060",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.444999933242798,
+        0.7200000286102295,
+        4.060999870300293
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.7941831946372986,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.061",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.9549999237060547,
+        0.7200000286102295,
+        4.060999870300293
+      ],
+      "dimensions_m": [
+        0.24476143717765808,
+        0.794183075428009,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.062",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.44999998807907104,
+        4.060999870300293
+      ],
+      "dimensions_m": [
+        0.2549598217010498,
+        0.24436408281326294,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.063",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.9900000095367432,
+        4.060999870300293
+      ],
+      "dimensions_m": [
+        0.2549598217010498,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.064",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.44999998807907104,
+        4.330999851226807
+      ],
+      "dimensions_m": [
+        0.7444827556610107,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.065",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.9900000095367432,
+        4.330999851226807
+      ],
+      "dimensions_m": [
+        0.7444828152656555,
+        0.24436408281326294,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.066",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.444999933242798,
+        0.7200000286102295,
+        4.330999851226807
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.3054550588130951,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.067",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.9549999237060547,
+        0.7200000286102295,
+        4.330999851226807
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.3054550886154175,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.068",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.444999933242798,
+        0.7200000286102295,
+        4.60099983215332
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.7941831946372986,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.069",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.9549999237060547,
+        0.7200000286102295,
+        4.60099983215332
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.7941831946372986,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.070",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.44999998807907104,
+        4.60099983215332
+      ],
+      "dimensions_m": [
+        0.2549598217010498,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.071",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.9900000095367432,
+        4.60099983215332
+      ],
+      "dimensions_m": [
+        0.2549598217010498,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.072",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.44999998807907104,
+        4.870999813079834
+      ],
+      "dimensions_m": [
+        0.744482696056366,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.073",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.9900000095367432,
+        4.870999813079834
+      ],
+      "dimensions_m": [
+        0.744482696056366,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.074",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.444999933242798,
+        0.7200000286102295,
+        4.870999813079834
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.3054550588130951,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.075",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.9549999237060547,
+        0.7200000286102295,
+        4.870999813079834
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.3054550588130951,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.076",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.444999933242798,
+        0.7200000286102295,
+        5.140999794006348
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.7941831946372986,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.077",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.9549999237060547,
+        0.7200000286102295,
+        5.140999794006348
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.7941831946372986,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.078",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.44999998807907104,
+        5.140999794006348
+      ],
+      "dimensions_m": [
+        0.2549598217010498,
+        0.24436408281326294,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.079",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.9900000095367432,
+        5.140999794006348
+      ],
+      "dimensions_m": [
+        0.2549598217010498,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.080",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.44999998807907104,
+        5.410999774932861
+      ],
+      "dimensions_m": [
+        0.7444828152656555,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.081",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.9900000095367432,
+        5.410999774932861
+      ],
+      "dimensions_m": [
+        0.7444827556610107,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.082",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.444999933242798,
+        0.7200000286102295,
+        5.410999774932861
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.3054550588130951,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.083",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.9549999237060547,
+        0.7200000286102295,
+        5.410999774932861
+      ],
+      "dimensions_m": [
+        0.24476146697998047,
+        0.3054550588130951,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.084",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.444999933242798,
+        0.7200000286102295,
+        5.681000232696533
+      ],
+      "dimensions_m": [
+        0.24476143717765808,
+        0.7941831946372986,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.085",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.9549999237060547,
+        0.7200000286102295,
+        5.681000232696533
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.7941831946372986,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.086",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.44999998807907104,
+        5.681000232696533
+      ],
+      "dimensions_m": [
+        0.2549598217010498,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.087",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.9900000095367432,
+        5.681000232696533
+      ],
+      "dimensions_m": [
+        0.2549598217010498,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.088",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.44999998807907104,
+        5.951000213623047
+      ],
+      "dimensions_m": [
+        0.744482696056366,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.089",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.9900000095367432,
+        5.951000213623047
+      ],
+      "dimensions_m": [
+        0.7444828152656555,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.090",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.444999933242798,
+        0.7200000286102295,
+        5.951000213623047
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.3054550588130951,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.091",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.9549999237060547,
+        0.7200000286102295,
+        5.951000213623047
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.3054550588130951,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.092",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.444999933242798,
+        0.7200000286102295,
+        6.2210001945495605
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.7941831946372986,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.093",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.9549999237060547,
+        0.7200000286102295,
+        6.2210001945495605
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.794183075428009,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.094",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.44999998807907104,
+        6.2210001945495605
+      ],
+      "dimensions_m": [
+        0.2549598217010498,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Course_A.095",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.9900000095367432,
+        6.2210001945495605
+      ],
+      "dimensions_m": [
+        0.2549598217010498,
+        0.24436405301094055,
+        0.2580000162124634
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Top_A",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        0.3700000047683716,
+        6.460000038146973
+      ],
+      "dimensions_m": [
+        0.9586489796638489,
+        0.2545458674430847,
+        0.24000000953674316
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Top_A.001",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.200000047683716,
+        1.0700000524520874,
+        6.460000038146973
+      ],
+      "dimensions_m": [
+        0.9586489796638489,
+        0.2545458674430847,
+        0.24000000953674316
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Top_A.002",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.549999952316284,
+        0.7200000286102295,
+        6.460000038146973
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.45818257331848145,
+        0.24000000953674316
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Chimney_Top_A.003",
+      "collection": "06_CHIMNEY",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.8499999046325684,
+        0.7200000286102295,
+        6.460000038146973
+      ],
+      "dimensions_m": [
+        0.24476145207881927,
+        0.45818257331848145,
+        0.24000000953674316
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Window_Recess_Front_L",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Recess_Front_L",
+      "triangles_evaluated": 396,
+      "location_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        0.7900000810623169,
+        0.04999995231628418,
+        1.0199999809265137
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Frame_Front_L",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Frame_Front_L",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.0,
+        -2.4700000286102295,
+        1.3424999713897705
+      ],
+      "dimensions_m": [
+        0.10000000149011612,
+        0.1599999964237213,
+        0.6650000214576721
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Shutter_Front_L",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Shutter_Front_L",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -2.0350000858306885,
+        -2.5199999809265137,
+        1.0299999713897705
+      ],
+      "dimensions_m": [
+        0.4399999976158142,
+        0.08500000089406967,
+        0.8772000074386597
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Frame_Front_L.001",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Frame_Front_L.001",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -1.1200000047683716,
+        -2.4700000286102295,
+        1.3424999713897705
+      ],
+      "dimensions_m": [
+        0.10000000149011612,
+        0.1599999964237213,
+        0.6650000214576721
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Shutter_Front_L.001",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Shutter_Front_L.001",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -1.0850000381469727,
+        -2.5199999809265137,
+        1.0299999713897705
+      ],
+      "dimensions_m": [
+        0.4399999976158142,
+        0.08500000089406967,
+        0.8772000074386597
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Arch_Front_L",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Arch_Front_L",
+      "triangles_evaluated": 668,
+      "location_m": [
+        -1.1200000047683716,
+        -2.4700000286102295,
+        1.6549999713897705
+      ],
+      "dimensions_m": [
+        0.9911935329437256,
+        0.15000009536743164,
+        0.5015578269958496
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Sill_Front_L",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Sill_Front_L",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -1.559999942779541,
+        -2.5199999809265137,
+        0.9750000238418579
+      ],
+      "dimensions_m": [
+        1.090000033378601,
+        0.3499999940395355,
+        0.11999999731779099
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Mullion_Front_L",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Mullion_Front_L",
+      "triangles_evaluated": 284,
+      "location_m": [
+        -1.559999942779541,
+        -2.494999885559082,
+        1.0299999713897705
+      ],
+      "dimensions_m": [
+        0.05793200060725212,
+        0.05499982833862305,
+        0.9753448963165283
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Crossbar_Front_L",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Crossbar_Front_L",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -1.559999942779541,
+        -2.494999885559082,
+        1.5706000328063965
+      ],
+      "dimensions_m": [
+        0.7900000214576721,
+        0.06499999761581421,
+        0.05000000074505806
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Recess_Front_R",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Recess_Front_R",
+      "triangles_evaluated": 396,
+      "location_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        0.3599998950958252,
+        0.04999995231628418,
+        0.7299998998641968
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Frame_Front_R",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Frame_Front_R",
+      "triangles_evaluated": 188,
+      "location_m": [
+        2.1449999809265137,
+        -2.4700000286102295,
+        1.625
+      ],
+      "dimensions_m": [
+        0.10000000149011612,
+        0.1599999964237213,
+        0.5899999737739563
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Shutter_Front_R",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Shutter_Front_R",
+      "triangles_evaluated": 188,
+      "location_m": [
+        2.109999895095825,
+        -2.5199999809265137,
+        1.350000023841858
+      ],
+      "dimensions_m": [
+        0.4399999976158142,
+        0.08500000089406967,
+        0.6277999877929688
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Frame_Front_R.001",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Frame_Front_R.001",
+      "triangles_evaluated": 188,
+      "location_m": [
+        2.5950000286102295,
+        -2.4700000286102295,
+        1.625
+      ],
+      "dimensions_m": [
+        0.10000000149011612,
+        0.1599999964237213,
+        0.5899999737739563
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Shutter_Front_R.001",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Shutter_Front_R.001",
+      "triangles_evaluated": 188,
+      "location_m": [
+        2.630000114440918,
+        -2.5199999809265137,
+        1.350000023841858
+      ],
+      "dimensions_m": [
+        0.4399999976158142,
+        0.08500000089406967,
+        0.6277999877929688
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Arch_Front_R",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Arch_Front_R",
+      "triangles_evaluated": 668,
+      "location_m": [
+        2.5950000286102295,
+        -2.4700000286102295,
+        1.899999976158142
+      ],
+      "dimensions_m": [
+        0.5611118078231812,
+        0.15000009536743164,
+        0.28655773401260376
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Sill_Front_R",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Sill_Front_R",
+      "triangles_evaluated": 188,
+      "location_m": [
+        2.369999885559082,
+        -2.5199999809265137,
+        1.2949999570846558
+      ],
+      "dimensions_m": [
+        0.6600000262260437,
+        0.3499999940395355,
+        0.11999999731779099
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Mullion_Front_R",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Mullion_Front_R",
+      "triangles_evaluated": 284,
+      "location_m": [
+        2.369999885559082,
+        -2.494999885559082,
+        1.350000023841858
+      ],
+      "dimensions_m": [
+        0.057902559638023376,
+        0.05499982833862305,
+        0.685490608215332
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Crossbar_Front_R",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Crossbar_Front_R",
+      "triangles_evaluated": 188,
+      "location_m": [
+        2.369999885559082,
+        -2.494999885559082,
+        1.736899971961975
+      ],
+      "dimensions_m": [
+        0.36000001430511475,
+        0.06499999761581421,
+        0.05000000074505806
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Recess_Left",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Recess_Left",
+      "triangles_evaluated": 396,
+      "location_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        0.9499999284744263,
+        0.04999995231628418,
+        1.0900001525878906
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Frame_Left",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Frame_Left",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.1700000762939453,
+        -0.4099998474121094,
+        1.3674999475479126
+      ],
+      "dimensions_m": [
+        0.10000000149011612,
+        0.1599999964237213,
+        0.6549999713897705
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Shutter_Left",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Shutter_Left",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.2200000286102295,
+        -0.37499985098838806,
+        1.059999942779541
+      ],
+      "dimensions_m": [
+        0.4399999976158142,
+        0.08500000089406967,
+        0.9373999834060669
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Frame_Left.001",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Frame_Left.001",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.1700000762939453,
+        -1.4499999284744263,
+        1.3674999475479126
+      ],
+      "dimensions_m": [
+        0.10000000149011612,
+        0.1599999964237213,
+        0.6549999713897705
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Shutter_Left.001",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Shutter_Left.001",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.2200000286102295,
+        -1.4849998950958252,
+        1.059999942779541
+      ],
+      "dimensions_m": [
+        0.4399999976158142,
+        0.08500000089406967,
+        0.9373999834060669
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Arch_Left",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Arch_Left",
+      "triangles_evaluated": 668,
+      "location_m": [
+        -3.1700000762939453,
+        -1.4499999284744263,
+        1.6749999523162842
+      ],
+      "dimensions_m": [
+        1.1512075662612915,
+        0.15000009536743164,
+        0.5815577507019043
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Sill_Left",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Sill_Left",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.2200000286102295,
+        -0.9299998879432678,
+        1.0049999952316284
+      ],
+      "dimensions_m": [
+        1.25,
+        0.3499999940395355,
+        0.11999999731779099
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Mullion_Left",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Mullion_Left",
+      "triangles_evaluated": 284,
+      "location_m": [
+        -3.194999933242798,
+        -0.9299998879432678,
+        1.059999942779541
+      ],
+      "dimensions_m": [
+        0.05793654918670654,
+        0.05499982833862305,
+        1.0453217029571533
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Crossbar_Left",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Crossbar_Left",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -3.194999933242798,
+        -0.9299998879432678,
+        1.6376999616622925
+      ],
+      "dimensions_m": [
+        0.949999988079071,
+        0.06499999761581421,
+        0.05000000074505806
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Recess_Right",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Recess_Right",
+      "triangles_evaluated": 396,
+      "location_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        0.9599999785423279,
+        0.04999995231628418,
+        1.100000023841858
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Frame_Right",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Frame_Right",
+      "triangles_evaluated": 188,
+      "location_m": [
+        3.1700000762939453,
+        -0.22500023245811462,
+        1.3899999856948853
+      ],
+      "dimensions_m": [
+        0.10000000149011612,
+        0.1599999964237213,
+        0.6600000262260437
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Shutter_Right",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Shutter_Right",
+      "triangles_evaluated": 188,
+      "location_m": [
+        3.2200000286102295,
+        -0.26000022888183594,
+        1.0800000429153442
+      ],
+      "dimensions_m": [
+        0.4399999976158142,
+        0.08500000089406967,
+        0.9459999799728394
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Frame_Right.001",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Frame_Right.001",
+      "triangles_evaluated": 188,
+      "location_m": [
+        3.1700000762939453,
+        0.8249997496604919,
+        1.3899999856948853
+      ],
+      "dimensions_m": [
+        0.10000000149011612,
+        0.1599999964237213,
+        0.6600000262260437
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Shutter_Right.001",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Shutter_Right.001",
+      "triangles_evaluated": 188,
+      "location_m": [
+        3.2200000286102295,
+        0.8599997758865356,
+        1.0800000429153442
+      ],
+      "dimensions_m": [
+        0.4399999976158142,
+        0.08500000089406967,
+        0.9459999799728394
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Arch_Right",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Arch_Right",
+      "triangles_evaluated": 668,
+      "location_m": [
+        3.1700000762939453,
+        0.8249997496604919,
+        1.7000000476837158
+      ],
+      "dimensions_m": [
+        1.1612082719802856,
+        0.15000009536743164,
+        0.5865576267242432
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Sill_Right",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Sill_Right",
+      "triangles_evaluated": 188,
+      "location_m": [
+        3.2200000286102295,
+        0.29999977350234985,
+        1.024999976158142
+      ],
+      "dimensions_m": [
+        1.2599999904632568,
+        0.3499999940395355,
+        0.11999999731779099
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Mullion_Right",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Mullion_Right",
+      "triangles_evaluated": 284,
+      "location_m": [
+        3.194999933242798,
+        0.29999977350234985,
+        1.0800000429153442
+      ],
+      "dimensions_m": [
+        0.057937175035476685,
+        0.05499982833862305,
+        1.0553184747695923
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Crossbar_Right",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Crossbar_Right",
+      "triangles_evaluated": 188,
+      "location_m": [
+        3.194999933242798,
+        0.29999977350234985,
+        1.6629999876022339
+      ],
+      "dimensions_m": [
+        0.9599999785423279,
+        0.06499999761581421,
+        0.05000000074505806
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Recess_Back",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Recess_Back",
+      "triangles_evaluated": 396,
+      "location_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        0.7599999904632568,
+        0.04999995231628418,
+        1.1200000047683716
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Frame_Back",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Frame_Back",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -0.42499980330467224,
+        2.4700000286102295,
+        1.4900000095367432
+      ],
+      "dimensions_m": [
+        0.10000000149011612,
+        0.1599999964237213,
+        0.7799999713897705
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Shutter_Back",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Shutter_Back",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -0.38999977707862854,
+        2.5199999809265137,
+        1.1200000047683716
+      ],
+      "dimensions_m": [
+        0.4399999976158142,
+        0.08500000089406967,
+        0.9631999731063843
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Frame_Back.001",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Frame_Back.001",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -1.274999737739563,
+        2.4700000286102295,
+        1.4900000095367432
+      ],
+      "dimensions_m": [
+        0.10000000149011612,
+        0.1599999964237213,
+        0.7799999713897705
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Shutter_Back.001",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Shutter_Back.001",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -1.309999704360962,
+        2.5199999809265137,
+        1.1200000047683716
+      ],
+      "dimensions_m": [
+        0.4399999976158142,
+        0.08500000089406967,
+        0.9631999731063843
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Arch_Back",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Arch_Back",
+      "triangles_evaluated": 668,
+      "location_m": [
+        -1.274999737739563,
+        2.4700000286102295,
+        1.8600000143051147
+      ],
+      "dimensions_m": [
+        0.9611903429031372,
+        0.15000009536743164,
+        0.48655787110328674
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Sill_Back",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Sill_Back",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -0.8499997854232788,
+        2.5199999809265137,
+        1.065000057220459
+      ],
+      "dimensions_m": [
+        1.059999942779541,
+        0.3499999940395355,
+        0.11999999731779099
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Mullion_Back",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Mullion_Back",
+      "triangles_evaluated": 284,
+      "location_m": [
+        -0.8499997854232788,
+        2.494999885559082,
+        1.1200000047683716
+      ],
+      "dimensions_m": [
+        0.0579383559525013,
+        0.05499982833862305,
+        1.0753123760223389
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Window_Crossbar_Back",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Window_Crossbar_Back",
+      "triangles_evaluated": 188,
+      "location_m": [
+        -0.8499997854232788,
+        2.494999885559082,
+        1.7136000394821167
+      ],
+      "dimensions_m": [
+        0.7599999904632568,
+        0.06499999761581421,
+        0.05000000074505806
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Dormer_Window_Recess_A",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Dormer_Window_Recess_A",
+      "triangles_evaluated": 396,
+      "location_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        0.4300000071525574,
+        0.04999995231628418,
+        0.6999998092651367
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Dormer_Window_Arch_A",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Dormer_Window_Arch_A",
+      "triangles_evaluated": 668,
+      "location_m": [
+        0.7799999713897705,
+        -2.1549999713897705,
+        4.514999866485596
+      ],
+      "dimensions_m": [
+        0.5925114154815674,
+        0.09999990463256836,
+        0.3001464605331421
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Dormer_Window_Jamb_A",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Dormer_Window_Jamb_A",
+      "triangles_evaluated": 284,
+      "location_m": [
+        0.27000001072883606,
+        -2.1549999713897705,
+        4.010000228881836
+      ],
+      "dimensions_m": [
+        0.07875534892082214,
+        0.07499980926513672,
+        0.5062087774276733
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Dormer_Window_Jamb_A.001",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Dormer_Window_Jamb_A.001",
+      "triangles_evaluated": 284,
+      "location_m": [
+        0.7699999809265137,
+        -2.1549999713897705,
+        4.010000228881836
+      ],
+      "dimensions_m": [
+        0.07875539362430573,
+        0.07499980926513672,
+        0.5062087774276733
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Dormer_Window_Sill_A",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Dormer_Window_Sill_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        0.5199999809265137,
+        -2.180000066757202,
+        4.0
+      ],
+      "dimensions_m": [
+        0.6700000166893005,
+        0.25,
+        0.11999999731779099
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Dormer_Window_Mullion_A",
+      "collection": "07_WINDOWS",
+      "mesh": "SM_Dormer_Window_Mullion_A",
+      "triangles_evaluated": 284,
+      "location_m": [
+        0.5199999809265137,
+        -2.1549999713897705,
+        4.03000020980835
+      ],
+      "dimensions_m": [
+        0.04195269197225571,
+        0.039999961853027344,
+        0.6802394390106201
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Door_Main_A",
+      "collection": "08_DOORS",
+      "mesh": "SM_Door_Main_A",
+      "triangles_evaluated": 396,
+      "location_m": [
+        0.28999999165534973,
+        -2.299999952316284,
+        0.38999998569488525
+      ],
+      "dimensions_m": [
+        1.0199999809265137,
+        0.11999988555908203,
+        2.0500001907348633
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Door_Jamb_A",
+      "collection": "08_DOORS",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        0.1550000011920929,
+        -2.4700000286102295,
+        0.3959999978542328
+      ],
+      "dimensions_m": [
+        0.26005902886390686,
+        0.31563690304756165,
+        0.29600000381469727
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Door_Jamb_A.001",
+      "collection": "08_DOORS",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        0.1550000011920929,
+        -2.4700000286102295,
+        0.7039999961853027
+      ],
+      "dimensions_m": [
+        0.26005902886390686,
+        0.31563690304756165,
+        0.29600000381469727
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Door_Jamb_A.002",
+      "collection": "08_DOORS",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        0.1550000011920929,
+        -2.4700000286102295,
+        1.0119999647140503
+      ],
+      "dimensions_m": [
+        0.26005902886390686,
+        0.31563690304756165,
+        0.29600000381469727
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Door_Jamb_A.003",
+      "collection": "08_DOORS",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        0.1550000011920929,
+        -2.4700000286102295,
+        1.3200000524520874
+      ],
+      "dimensions_m": [
+        0.26005902886390686,
+        0.31563690304756165,
+        0.29600000381469727
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Door_Jamb_A.004",
+      "collection": "08_DOORS",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        0.1550000011920929,
+        -2.4700000286102295,
+        1.628000020980835
+      ],
+      "dimensions_m": [
+        0.26005902886390686,
+        0.31563690304756165,
+        0.29600000381469727
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Door_Jamb_A.005",
+      "collection": "08_DOORS",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        1.4450000524520874,
+        -2.4700000286102295,
+        0.3959999978542328
+      ],
+      "dimensions_m": [
+        0.26005902886390686,
+        0.31563690304756165,
+        0.29600000381469727
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Door_Jamb_A.006",
+      "collection": "08_DOORS",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        1.4450000524520874,
+        -2.4700000286102295,
+        0.7039999961853027
+      ],
+      "dimensions_m": [
+        0.26005902886390686,
+        0.31563690304756165,
+        0.29600000381469727
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Door_Jamb_A.007",
+      "collection": "08_DOORS",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        1.4450000524520874,
+        -2.4700000286102295,
+        1.0119999647140503
+      ],
+      "dimensions_m": [
+        0.26005902886390686,
+        0.31563690304756165,
+        0.29600000381469727
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Door_Jamb_A.008",
+      "collection": "08_DOORS",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        1.4450000524520874,
+        -2.4700000286102295,
+        1.3200000524520874
+      ],
+      "dimensions_m": [
+        0.26005902886390686,
+        0.31563690304756165,
+        0.29600000381469727
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Door_Jamb_A.009",
+      "collection": "08_DOORS",
+      "mesh": "SM_Foundation_Block_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        1.4450000524520874,
+        -2.4700000286102295,
+        1.628000020980835
+      ],
+      "dimensions_m": [
+        0.26005902886390686,
+        0.31563690304756165,
+        0.29600000381469727
+      ],
+      "stage": "Blockout masonry rhythm"
+    },
+    {
+      "name": "SM_Door_StoneArch_A",
+      "collection": "08_DOORS",
+      "mesh": "SM_Door_StoneArch_A",
+      "triangles_evaluated": 188,
+      "location_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        0.2810021638870239,
+        0.3400001525878906,
+        0.24180352687835693
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Door_StoneArch_A.001",
+      "collection": "08_DOORS",
+      "mesh": "SM_Door_StoneArch_A.001",
+      "triangles_evaluated": 188,
+      "location_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        0.30987024307250977,
+        0.3400001525878906,
+        0.29185056686401367
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Door_StoneArch_A.002",
+      "collection": "08_DOORS",
+      "mesh": "SM_Door_StoneArch_A.002",
+      "triangles_evaluated": 188,
+      "location_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        0.3052654266357422,
+        0.3400001525878906,
+        0.311232328414917
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Door_StoneArch_A.003",
+      "collection": "08_DOORS",
+      "mesh": "SM_Door_StoneArch_A.003",
+      "triangles_evaluated": 188,
+      "location_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        0.2702319622039795,
+        0.3400001525878906,
+        0.29909324645996094
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Door_StoneArch_A.004",
+      "collection": "08_DOORS",
+      "mesh": "SM_Door_StoneArch_A.004",
+      "triangles_evaluated": 188,
+      "location_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        0.24208009243011475,
+        0.3400001525878906,
+        0.2565732002258301
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Door_StoneArch_A.005",
+      "collection": "08_DOORS",
+      "mesh": "SM_Door_StoneArch_A.005",
+      "triangles_evaluated": 188,
+      "location_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        0.2702319324016571,
+        0.3400001525878906,
+        0.29909324645996094
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Door_StoneArch_A.006",
+      "collection": "08_DOORS",
+      "mesh": "SM_Door_StoneArch_A.006",
+      "triangles_evaluated": 188,
+      "location_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        0.3052651584148407,
+        0.3400001525878906,
+        0.3112325668334961
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Door_StoneArch_A.007",
+      "collection": "08_DOORS",
+      "mesh": "SM_Door_StoneArch_A.007",
+      "triangles_evaluated": 188,
+      "location_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        0.30987030267715454,
+        0.3400001525878906,
+        0.29185056686401367
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    },
+    {
+      "name": "SM_Door_StoneArch_A.008",
+      "collection": "08_DOORS",
+      "mesh": "SM_Door_StoneArch_A.008",
+      "triangles_evaluated": 188,
+      "location_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        0.2810021936893463,
+        0.3400001525878906,
+        0.24180352687835693
+      ],
+      "stage": "BLOCKOUT - no UV or final materials"
+    }
+  ]
+}

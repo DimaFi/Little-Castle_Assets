@@ -1,0 +1,14 @@
+{
+  "LOD0": {
+    "Tree03_LOD0_Trunk": 62824,
+    "Tree03_LOD0_Canopy": 62400
+  },
+  "LOD1": {
+    "Tree03_LOD1_Trunk": 31412,
+    "Tree03_LOD1_Canopy": 31200
+  },
+  "LOD2": {
+    "Tree03_LOD2_Trunk": 12564,
+    "Tree03_LOD2_Canopy": 15600
+  }
+}

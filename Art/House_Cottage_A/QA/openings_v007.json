@@ -1,0 +1,8 @@
+{
+  "objects": 116,
+  "triangles": 30452,
+  "issues": [],
+  "shutter_controllers": 8,
+  "door_controller": "CTRL_Door_Main_A",
+  "reuse": "Art/Props/Lantern_01.blend; grey copy"
+}

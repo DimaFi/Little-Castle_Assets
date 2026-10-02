@@ -1,0 +1,30 @@
+[
+  {
+    "objects": 37,
+    "triangles": 8444,
+    "issues": [],
+    "name": "SM_Door_Entrance_A",
+    "file": "Source\\Modules\\Openings_v002\\SM_Door_Entrance_A\\SM_Door_Entrance_A.blend"
+  },
+  {
+    "objects": 21,
+    "triangles": 4732,
+    "issues": [],
+    "name": "SM_Window_Open_A",
+    "file": "Source\\Modules\\Openings_v002\\SM_Window_Open_A\\SM_Window_Open_A.blend"
+  },
+  {
+    "objects": 7,
+    "triangles": 2100,
+    "issues": [],
+    "name": "SM_Window_Small_A",
+    "file": "Source\\Modules\\Openings_v002\\SM_Window_Small_A\\SM_Window_Small_A.blend"
+  },
+  {
+    "objects": 17,
+    "triangles": 4300,
+    "issues": [],
+    "name": "SM_Window_Closed_A",
+    "file": "Source\\Modules\\Openings_v002\\SM_Window_Closed_A\\SM_Window_Closed_A.blend"
+  }
+]

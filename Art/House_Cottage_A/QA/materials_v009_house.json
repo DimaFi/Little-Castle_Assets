@@ -1,0 +1,682 @@
+[
+  {
+    "objects": 134,
+    "triangles": 31576,
+    "issues": [],
+    "uv_triangles_checked": 3600,
+    "uv_degenerate_faces": 0,
+    "parts": [
+      {
+        "name": "SM_Window_Recess_Front_L",
+        "material": "glass",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Window_Frame_Front_L",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Window_Frame_Front_L.001",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Window_Arch_Front_L",
+        "material": "timber",
+        "uv_method": "Arc-length sweep, seam on fourth side; planar end caps"
+      },
+      {
+        "name": "SM_Window_Sill_Front_L",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Window_Mullion_Front_L",
+        "material": "timber",
+        "uv_method": "Arc-length sweep, seam on fourth side; planar end caps"
+      },
+      {
+        "name": "SM_Window_Crossbar_Front_L",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Window_Recess_Front_R",
+        "material": "glass",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Window_Frame_Front_R",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Window_Frame_Front_R.001",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Window_Arch_Front_R",
+        "material": "timber",
+        "uv_method": "Arc-length sweep, seam on fourth side; planar end caps"
+      },
+      {
+        "name": "SM_Window_Sill_Front_R",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Window_Mullion_Front_R",
+        "material": "timber",
+        "uv_method": "Arc-length sweep, seam on fourth side; planar end caps"
+      },
+      {
+        "name": "SM_Window_Crossbar_Front_R",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Window_Recess_Left",
+        "material": "glass",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Window_Frame_Left",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Window_Frame_Left.001",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Window_Arch_Left",
+        "material": "timber",
+        "uv_method": "Arc-length sweep, seam on fourth side; planar end caps"
+      },
+      {
+        "name": "SM_Window_Sill_Left",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Window_Mullion_Left",
+        "material": "timber",
+        "uv_method": "Arc-length sweep, seam on fourth side; planar end caps"
+      },
+      {
+        "name": "SM_Window_Crossbar_Left",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Window_Recess_Right",
+        "material": "glass",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Window_Frame_Right",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Window_Frame_Right.001",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Window_Arch_Right",
+        "material": "timber",
+        "uv_method": "Arc-length sweep, seam on fourth side; planar end caps"
+      },
+      {
+        "name": "SM_Window_Sill_Right",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Window_Mullion_Right",
+        "material": "timber",
+        "uv_method": "Arc-length sweep, seam on fourth side; planar end caps"
+      },
+      {
+        "name": "SM_Window_Crossbar_Right",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Window_Recess_Back",
+        "material": "glass",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Window_Frame_Back",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Window_Frame_Back.001",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Window_Arch_Back",
+        "material": "timber",
+        "uv_method": "Arc-length sweep, seam on fourth side; planar end caps"
+      },
+      {
+        "name": "SM_Window_Sill_Back",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Window_Mullion_Back",
+        "material": "timber",
+        "uv_method": "Arc-length sweep, seam on fourth side; planar end caps"
+      },
+      {
+        "name": "SM_Window_Crossbar_Back",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Dormer_Window_Recess_A",
+        "material": "glass",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Dormer_Window_Arch_A",
+        "material": "timber",
+        "uv_method": "Arc-length sweep, seam on fourth side; planar end caps"
+      },
+      {
+        "name": "SM_Dormer_Window_Jamb_A",
+        "material": "timber",
+        "uv_method": "Arc-length sweep, seam on fourth side; planar end caps"
+      },
+      {
+        "name": "SM_Dormer_Window_Jamb_A.001",
+        "material": "timber",
+        "uv_method": "Arc-length sweep, seam on fourth side; planar end caps"
+      },
+      {
+        "name": "SM_Dormer_Window_Sill_A",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Dormer_Window_Mullion_A",
+        "material": "timber",
+        "uv_method": "Arc-length sweep, seam on fourth side; planar end caps"
+      },
+      {
+        "name": "SM_Shutter_Plank_Front_L",
+        "material": "shutter",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Plank_Front_L.001",
+        "material": "shutter",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Plank_Front_L.002",
+        "material": "shutter",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_CrossBrace_Front_L",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Hinge_Front_L",
+        "material": "iron",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_CrossBrace_Front_L.001",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Hinge_Front_L.001",
+        "material": "iron",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Plank_Front_L.003",
+        "material": "shutter",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Plank_Front_L.004",
+        "material": "shutter",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Plank_Front_L.005",
+        "material": "shutter",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_CrossBrace_Front_L.002",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Hinge_Front_L.002",
+        "material": "iron",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_CrossBrace_Front_L.003",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Hinge_Front_L.003",
+        "material": "iron",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Plank_Left",
+        "material": "shutter",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Plank_Left.001",
+        "material": "shutter",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Plank_Left.002",
+        "material": "shutter",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_CrossBrace_Left",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Hinge_Left",
+        "material": "iron",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_CrossBrace_Left.001",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Hinge_Left.001",
+        "material": "iron",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Plank_Left.003",
+        "material": "shutter",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Plank_Left.004",
+        "material": "shutter",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Plank_Left.005",
+        "material": "shutter",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_CrossBrace_Left.002",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Hinge_Left.002",
+        "material": "iron",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_CrossBrace_Left.003",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Hinge_Left.003",
+        "material": "iron",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Plank_Right",
+        "material": "shutter",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Plank_Right.001",
+        "material": "shutter",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Plank_Right.002",
+        "material": "shutter",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_CrossBrace_Right",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Hinge_Right",
+        "material": "iron",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_CrossBrace_Right.001",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Hinge_Right.001",
+        "material": "iron",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Plank_Right.003",
+        "material": "shutter",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Plank_Right.004",
+        "material": "shutter",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Plank_Right.005",
+        "material": "shutter",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_CrossBrace_Right.002",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Hinge_Right.002",
+        "material": "iron",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_CrossBrace_Right.003",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Hinge_Right.003",
+        "material": "iron",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Plank_Back",
+        "material": "shutter",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Plank_Back.001",
+        "material": "shutter",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Plank_Back.002",
+        "material": "shutter",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_CrossBrace_Back",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Hinge_Back",
+        "material": "iron",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_CrossBrace_Back.001",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Hinge_Back.001",
+        "material": "iron",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Plank_Back.003",
+        "material": "shutter",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Plank_Back.004",
+        "material": "shutter",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Plank_Back.005",
+        "material": "shutter",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_CrossBrace_Back.002",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Hinge_Back.002",
+        "material": "iron",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_CrossBrace_Back.003",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Shutter_Hinge_Back.003",
+        "material": "iron",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_Jamb_A",
+        "material": "stone",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_Jamb_A.001",
+        "material": "stone",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_Jamb_A.002",
+        "material": "stone",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_Jamb_A.003",
+        "material": "stone",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_Jamb_A.004",
+        "material": "stone",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_Jamb_A.005",
+        "material": "stone",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_Jamb_A.006",
+        "material": "stone",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_Jamb_A.007",
+        "material": "stone",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_Jamb_A.008",
+        "material": "stone",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_Jamb_A.009",
+        "material": "stone",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_StoneArch_A",
+        "material": "stone",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_StoneArch_A.001",
+        "material": "stone",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_StoneArch_A.002",
+        "material": "stone",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_StoneArch_A.003",
+        "material": "stone",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_StoneArch_A.004",
+        "material": "stone",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_StoneArch_A.005",
+        "material": "stone",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_StoneArch_A.006",
+        "material": "stone",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_StoneArch_A.007",
+        "material": "stone",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_StoneArch_A.008",
+        "material": "stone",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_HingeBarrel_A",
+        "material": "iron",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_HingeBarrel_A.001",
+        "material": "iron",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_Plank_A",
+        "material": "door",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_Plank_A.001",
+        "material": "door",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_Plank_A.002",
+        "material": "door",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_Plank_A.003",
+        "material": "door",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_Plank_A.004",
+        "material": "door",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_Plank_A.005",
+        "material": "door",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_IronStrap_A",
+        "material": "iron",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_Rivet_A",
+        "material": "iron",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_Rivet_A.001",
+        "material": "iron",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_IronStrap_A.001",
+        "material": "iron",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_Rivet_A.002",
+        "material": "iron",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_Rivet_A.003",
+        "material": "iron",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_HandlePlate_A",
+        "material": "iron",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_RingHandle_A",
+        "material": "iron",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_BackBrace_A",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      },
+      {
+        "name": "SM_Door_BackBrace_A.001",
+        "material": "timber",
+        "uv_method": "Metric local face projection; grain X or Z according to construction"
+      }
+    ],
+    "file": "Source\\Materials\\v009\\House_Cottage_A.blend"
+  }
+]

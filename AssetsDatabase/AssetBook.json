@@ -1,0 +1,5724 @@
+{
+  "schema_version": "1.0",
+  "project": "CozySettlement",
+  "updated": "2026-10-02",
+  "rules": {
+    "required_statuses": [
+      "Planned",
+      "InProgress",
+      "NeedsFix",
+      "Ready",
+      "Deprecated",
+      "Missing"
+    ],
+    "reuse_threshold_percent": 70,
+    "workflow": "Before modelling: search Asset Book, inspect candidate files, publish an Asset Reuse Check, then create only missing parts. Register every completed asset before closing the task."
+  },
+  "assets": [
+    {
+      "id": "PROP_Barrel_A",
+      "name": "Barrel A",
+      "category": "Prop",
+      "subcategory": "Architecture",
+      "status": "Ready",
+      "path": "Art/House_Cottage_A/Source/Yard/v002/Modules/SM_Barrel_A",
+      "source_file": "SM_Barrel_A.blend",
+      "tags": [
+        "a",
+        "barrel",
+        "cottage",
+        "medieval",
+        "reusable",
+        "sm"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "BLD_House_Cottage_A",
+        "MOD_Cottage_Courtyard_A",
+        "MOD_Cottage_Yard_Kit_A"
+      ],
+      "can_reuse": true,
+      "notes": "Latest documented standalone cottage module."
+    },
+    {
+      "id": "PROP_Birdhouse_A",
+      "name": "Birdhouse A",
+      "category": "Prop",
+      "subcategory": "Architecture",
+      "status": "Ready",
+      "path": "Art/House_Cottage_A/Source/Yard/v002/Modules/SM_Birdhouse_A",
+      "source_file": "SM_Birdhouse_A.blend",
+      "tags": [
+        "a",
+        "birdhouse",
+        "cottage",
+        "medieval",
+        "reusable",
+        "sm"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "BLD_House_Cottage_A",
+        "MOD_Cottage_Courtyard_A",
+        "MOD_Cottage_Yard_Kit_A"
+      ],
+      "can_reuse": true,
+      "notes": "Latest documented standalone cottage module."
+    },
+    {
+      "id": "PROP_Bucket_A",
+      "name": "Bucket A",
+      "category": "Prop",
+      "subcategory": "Architecture",
+      "status": "Ready",
+      "path": "Art/House_Cottage_A/Source/Yard/v004/Modules/SM_Bucket_A",
+      "source_file": "SM_Bucket_A.blend",
+      "tags": [
+        "a",
+        "bucket",
+        "cottage",
+        "medieval",
+        "reusable",
+        "sm"
+      ],
+      "reusable_parts": [],
+      "materials": [
+        "MAT_T_Timber",
+        "MAT_Cottage_ForgedIron_A"
+      ],
+      "textures": [
+        "TEX_T_Timber"
+      ],
+      "lods": [],
+      "dependencies": [
+        "MAT_Cottage_ForgedIron_A",
+        "MAT_T_Timber"
+      ],
+      "related_assets": [],
+      "used_by": [
+        "BLD_House_Cottage_A",
+        "MOD_Cottage_Courtyard_A",
+        "MOD_Cottage_Yard_Kit_A"
+      ],
+      "can_reuse": true,
+      "notes": "Existing model upgraded in place (stable ID): UV/materials, packed maps. Well clay thickness restored; bucket handle seated. Blender reusable; engine baking/LOD/collision/lightmap pending.",
+      "source_history": [
+        "Art/House_Cottage_A/Source/Yard/v002/Modules/SM_Bucket_A/SM_Bucket_A.blend"
+      ]
+    },
+    {
+      "id": "MOD_Cottage_TimberFrame_A",
+      "name": "Cottage TimberFrame A",
+      "category": "Modular Component",
+      "subcategory": "Architecture",
+      "status": "Ready",
+      "path": "Art/House_Cottage_A/Source/Modules/Timber_v002",
+      "source_file": "SM_Cottage_TimberFrame_A.blend",
+      "tags": [
+        "a",
+        "cottage",
+        "medieval",
+        "reusable",
+        "sm",
+        "timberframe"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "BLD_House_Cottage_A"
+      ],
+      "can_reuse": true,
+      "notes": "Latest documented standalone cottage module."
+    },
+    {
+      "id": "PROP_Crate_A",
+      "name": "Crate A",
+      "category": "Prop",
+      "subcategory": "Architecture",
+      "status": "Ready",
+      "path": "Art/House_Cottage_A/Source/Yard/v002/Modules/SM_Crate_A",
+      "source_file": "SM_Crate_A.blend",
+      "tags": [
+        "a",
+        "cottage",
+        "crate",
+        "medieval",
+        "reusable",
+        "sm"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "BLD_House_Cottage_A",
+        "MOD_Cottage_Courtyard_A",
+        "MOD_Cottage_Yard_Kit_A"
+      ],
+      "can_reuse": true,
+      "notes": "Latest documented standalone cottage module."
+    },
+    {
+      "id": "MOD_Door_Entrance_A",
+      "name": "Door Entrance A",
+      "category": "Modular Component",
+      "subcategory": "Architecture",
+      "status": "Ready",
+      "path": "Art/House_Cottage_A/Source/Modules/Openings_Materials_v002/SM_Door_Entrance_A",
+      "source_file": "SM_Door_Entrance_A.blend",
+      "tags": [
+        "a",
+        "cottage",
+        "door",
+        "entrance",
+        "medieval",
+        "reusable",
+        "sm"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "BLD_House_Cottage_A"
+      ],
+      "can_reuse": true,
+      "notes": "Latest documented standalone cottage module."
+    },
+    {
+      "id": "MOD_FenceBay_A",
+      "name": "FenceBay A",
+      "category": "Modular Component",
+      "subcategory": "Architecture",
+      "status": "Ready",
+      "path": "Art/House_Cottage_A/Source/Yard/v002/Modules/SM_FenceBay_A",
+      "source_file": "SM_FenceBay_A.blend",
+      "tags": [
+        "a",
+        "cottage",
+        "fencebay",
+        "medieval",
+        "reusable",
+        "sm"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "BLD_House_Cottage_A",
+        "MOD_Cottage_Courtyard_A",
+        "MOD_Cottage_Yard_Kit_A"
+      ],
+      "can_reuse": true,
+      "notes": "Latest documented standalone cottage module."
+    },
+    {
+      "id": "PROP_FlowerBox_A",
+      "name": "FlowerBox A",
+      "category": "Prop",
+      "subcategory": "Architecture",
+      "status": "Ready",
+      "path": "Art/House_Cottage_A/Source/Yard/v002/Modules/SM_FlowerBox_A",
+      "source_file": "SM_FlowerBox_A.blend",
+      "tags": [
+        "a",
+        "cottage",
+        "flowerbox",
+        "medieval",
+        "reusable",
+        "sm"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "BLD_House_Cottage_A",
+        "MOD_Cottage_Courtyard_A",
+        "MOD_Cottage_Yard_Kit_A"
+      ],
+      "can_reuse": true,
+      "notes": "Latest documented standalone cottage module."
+    },
+    {
+      "id": "MOD_Gate_A",
+      "name": "Gate A",
+      "category": "Modular Component",
+      "subcategory": "Architecture",
+      "status": "Ready",
+      "path": "Art/House_Cottage_A/Source/Yard/v002/Modules/SM_Gate_A",
+      "source_file": "SM_Gate_A.blend",
+      "tags": [
+        "a",
+        "cottage",
+        "gate",
+        "medieval",
+        "reusable",
+        "sm"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "BLD_House_Cottage_A",
+        "MOD_Cottage_Courtyard_A",
+        "MOD_Cottage_Yard_Kit_A"
+      ],
+      "can_reuse": true,
+      "notes": "Latest documented standalone cottage module."
+    },
+    {
+      "id": "PROP_LogStack_A",
+      "name": "LogStack A",
+      "category": "Prop",
+      "subcategory": "Architecture",
+      "status": "Ready",
+      "path": "Art/House_Cottage_A/Source/Yard/v003/Modules/SM_LogStack_A",
+      "source_file": "SM_LogStack_A.blend",
+      "tags": [
+        "a",
+        "cottage",
+        "logstack",
+        "medieval",
+        "reusable",
+        "sm"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "BLD_House_Cottage_A",
+        "MOD_Cottage_Courtyard_A",
+        "MOD_Cottage_Yard_Kit_A",
+        "PROP_Well_A"
+      ],
+      "can_reuse": true,
+      "notes": "Latest documented standalone cottage module."
+    },
+    {
+      "id": "PROP_Pot_A",
+      "name": "Pot A",
+      "category": "Prop",
+      "subcategory": "Architecture",
+      "status": "Ready",
+      "path": "Art/House_Cottage_A/Source/Yard/v002/Modules/SM_Pot_A",
+      "source_file": "SM_Pot_A.blend",
+      "tags": [
+        "a",
+        "cottage",
+        "medieval",
+        "pot",
+        "reusable",
+        "sm"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "BLD_House_Cottage_A",
+        "MOD_Cottage_Courtyard_A",
+        "MOD_Cottage_Yard_Kit_A"
+      ],
+      "can_reuse": true,
+      "notes": "Latest documented standalone cottage module."
+    },
+    {
+      "id": "PROP_Signpost_A",
+      "name": "Signpost A",
+      "category": "Prop",
+      "subcategory": "Architecture",
+      "status": "Ready",
+      "path": "Art/House_Cottage_A/Source/Yard/v002/Modules/SM_Signpost_A",
+      "source_file": "SM_Signpost_A.blend",
+      "tags": [
+        "a",
+        "cottage",
+        "medieval",
+        "reusable",
+        "signpost",
+        "sm"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "BLD_House_Cottage_A",
+        "MOD_Cottage_Courtyard_A",
+        "MOD_Cottage_Yard_Kit_A"
+      ],
+      "can_reuse": true,
+      "notes": "Latest documented standalone cottage module."
+    },
+    {
+      "id": "MOD_StoneWall_A",
+      "name": "StoneWall A",
+      "category": "Modular Component",
+      "subcategory": "Architecture",
+      "status": "Ready",
+      "path": "Art/House_Cottage_A/Source/Yard/v002/Modules/SM_StoneWall_A",
+      "source_file": "SM_StoneWall_A.blend",
+      "tags": [
+        "a",
+        "cottage",
+        "medieval",
+        "reusable",
+        "sm",
+        "stonewall"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "BLD_House_Cottage_A",
+        "MOD_Cottage_Courtyard_A",
+        "MOD_Cottage_Yard_Kit_A"
+      ],
+      "can_reuse": true,
+      "notes": "Latest documented standalone cottage module."
+    },
+    {
+      "id": "PROP_Stump_Axe_A",
+      "name": "Stump Axe A",
+      "category": "Prop",
+      "subcategory": "Architecture",
+      "status": "Ready",
+      "path": "Art/House_Cottage_A/Source/Yard/v002/Modules/SM_Stump_Axe_A",
+      "source_file": "SM_Stump_Axe_A.blend",
+      "tags": [
+        "a",
+        "axe",
+        "cottage",
+        "medieval",
+        "reusable",
+        "sm",
+        "stump"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "BLD_House_Cottage_A",
+        "MOD_Cottage_Courtyard_A",
+        "MOD_Cottage_Yard_Kit_A"
+      ],
+      "can_reuse": true,
+      "notes": "Latest documented standalone cottage module."
+    },
+    {
+      "id": "PROP_Well_A",
+      "name": "Well A",
+      "category": "Prop",
+      "subcategory": "Architecture",
+      "status": "Ready",
+      "path": "Art/House_Cottage_A/Source/Yard/v004/Modules/SM_Well_A",
+      "source_file": "SM_Well_A.blend",
+      "tags": [
+        "a",
+        "cottage",
+        "medieval",
+        "reusable",
+        "sm",
+        "well"
+      ],
+      "reusable_parts": [],
+      "materials": [
+        "MAT_T_Timber",
+        "MAT_T_FieldStone",
+        "MAT_RoofTile",
+        "MAT_Cottage_HempRope_A"
+      ],
+      "textures": [
+        "TEX_T_Timber",
+        "TEX_T_FieldStone",
+        "TEX_RoofTile"
+      ],
+      "lods": [],
+      "dependencies": [
+        "MAT_Cottage_HempRope_A",
+        "MAT_RoofTile",
+        "MAT_T_FieldStone",
+        "MAT_T_Timber",
+        "PROP_LogStack_A"
+      ],
+      "related_assets": [],
+      "used_by": [
+        "BLD_House_Cottage_A",
+        "MOD_Cottage_Courtyard_A",
+        "MOD_Cottage_Yard_Kit_A"
+      ],
+      "can_reuse": true,
+      "notes": "Existing model upgraded in place (stable ID): UV/materials, packed maps. Well clay thickness restored; bucket handle seated. Blender reusable; engine baking/LOD/collision/lightmap pending.",
+      "source_history": [
+        "Art/House_Cottage_A/Source/Yard/v002/Modules/SM_Well_A/SM_Well_A.blend"
+      ]
+    },
+    {
+      "id": "PROP_Wheelbarrow_A",
+      "name": "Wheelbarrow A",
+      "category": "Prop",
+      "subcategory": "Architecture",
+      "status": "Ready",
+      "path": "Art/House_Cottage_A/Source/Yard/v002/Modules/SM_Wheelbarrow_A",
+      "source_file": "SM_Wheelbarrow_A.blend",
+      "tags": [
+        "a",
+        "cottage",
+        "medieval",
+        "reusable",
+        "sm",
+        "wheelbarrow"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "BLD_House_Cottage_A",
+        "MOD_Cottage_Courtyard_A",
+        "MOD_Cottage_Yard_Kit_A"
+      ],
+      "can_reuse": true,
+      "notes": "Latest documented standalone cottage module."
+    },
+    {
+      "id": "MOD_Window_Closed_A",
+      "name": "Window Closed A",
+      "category": "Modular Component",
+      "subcategory": "Architecture",
+      "status": "Ready",
+      "path": "Art/House_Cottage_A/Source/Modules/Openings_Materials_v002/SM_Window_Closed_A",
+      "source_file": "SM_Window_Closed_A.blend",
+      "tags": [
+        "a",
+        "closed",
+        "cottage",
+        "medieval",
+        "reusable",
+        "sm",
+        "window"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "BLD_House_Cottage_A"
+      ],
+      "can_reuse": true,
+      "notes": "Latest documented standalone cottage module."
+    },
+    {
+      "id": "MOD_Window_Open_A",
+      "name": "Window Open A",
+      "category": "Modular Component",
+      "subcategory": "Architecture",
+      "status": "Ready",
+      "path": "Art/House_Cottage_A/Source/Modules/Openings_Materials_v002/SM_Window_Open_A",
+      "source_file": "SM_Window_Open_A.blend",
+      "tags": [
+        "a",
+        "cottage",
+        "medieval",
+        "open",
+        "reusable",
+        "sm",
+        "window"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "BLD_House_Cottage_A"
+      ],
+      "can_reuse": true,
+      "notes": "Latest documented standalone cottage module."
+    },
+    {
+      "id": "MOD_Window_Small_A",
+      "name": "Window Small A",
+      "category": "Modular Component",
+      "subcategory": "Architecture",
+      "status": "Ready",
+      "path": "Art/House_Cottage_A/Source/Modules/Openings_Materials_v002/SM_Window_Small_A",
+      "source_file": "SM_Window_Small_A.blend",
+      "tags": [
+        "a",
+        "cottage",
+        "medieval",
+        "reusable",
+        "sm",
+        "small",
+        "window"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "BLD_House_Cottage_A"
+      ],
+      "can_reuse": true,
+      "notes": "Latest documented standalone cottage module."
+    },
+    {
+      "id": "PROP_WoodBench_A",
+      "name": "WoodBench A",
+      "category": "Prop",
+      "subcategory": "Architecture",
+      "status": "Ready",
+      "path": "Art/House_Cottage_A/Source/Yard/v002/Modules/SM_WoodBench_A",
+      "source_file": "SM_WoodBench_A.blend",
+      "tags": [
+        "a",
+        "cottage",
+        "medieval",
+        "reusable",
+        "sm",
+        "woodbench"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "BLD_House_Cottage_A",
+        "MOD_Cottage_Courtyard_A",
+        "MOD_Cottage_Yard_Kit_A"
+      ],
+      "can_reuse": true,
+      "notes": "Latest documented standalone cottage module."
+    },
+    {
+      "id": "PROP_WoodTable_A",
+      "name": "WoodTable A",
+      "category": "Prop",
+      "subcategory": "Architecture",
+      "status": "Ready",
+      "path": "Art/House_Cottage_A/Source/Yard/v002/Modules/SM_WoodTable_A",
+      "source_file": "SM_WoodTable_A.blend",
+      "tags": [
+        "a",
+        "cottage",
+        "medieval",
+        "reusable",
+        "sm",
+        "woodtable"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "BLD_House_Cottage_A",
+        "MOD_Cottage_Courtyard_A",
+        "MOD_Cottage_Yard_Kit_A"
+      ],
+      "can_reuse": true,
+      "notes": "Latest documented standalone cottage module."
+    },
+    {
+      "id": "PROP_Woodshed_A",
+      "name": "Woodshed A",
+      "category": "Prop",
+      "subcategory": "Architecture",
+      "status": "Ready",
+      "path": "Art/House_Cottage_A/Source/Yard/v003/Modules/SM_Woodshed_A",
+      "source_file": "SM_Woodshed_A.blend",
+      "tags": [
+        "a",
+        "cottage",
+        "medieval",
+        "reusable",
+        "sm",
+        "woodshed"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "BLD_House_Cottage_A",
+        "MOD_Cottage_Courtyard_A",
+        "MOD_Cottage_Yard_Kit_A"
+      ],
+      "can_reuse": true,
+      "notes": "Latest documented standalone cottage module."
+    },
+    {
+      "id": "BLD_House_Cottage_A",
+      "name": "Cottage House A",
+      "category": "Building",
+      "subcategory": "Cottage",
+      "status": "Ready",
+      "path": "Art/House_Cottage_A/Source/Roof/v018",
+      "source_file": "House_Cottage_A.blend",
+      "tags": [
+        "cottage",
+        "house",
+        "medieval",
+        "plaster",
+        "residential",
+        "stone",
+        "timber"
+      ],
+      "reusable_parts": [
+        "PROP_Barrel_A",
+        "PROP_Birdhouse_A",
+        "PROP_Bucket_A",
+        "MOD_Cottage_TimberFrame_A",
+        "PROP_Crate_A",
+        "MOD_Door_Entrance_A",
+        "MOD_FenceBay_A",
+        "PROP_FlowerBox_A",
+        "MOD_Gate_A",
+        "PROP_LogStack_A",
+        "PROP_Pot_A",
+        "PROP_Signpost_A",
+        "MOD_StoneWall_A",
+        "PROP_Stump_Axe_A",
+        "PROP_Well_A",
+        "PROP_Wheelbarrow_A",
+        "MOD_Window_Closed_A",
+        "MOD_Window_Open_A",
+        "MOD_Window_Small_A",
+        "PROP_WoodBench_A",
+        "PROP_WoodTable_A",
+        "PROP_Woodshed_A"
+      ],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [
+        "PROP_Barrel_A",
+        "PROP_Birdhouse_A",
+        "PROP_Bucket_A",
+        "MOD_Cottage_TimberFrame_A",
+        "PROP_Crate_A",
+        "MOD_Door_Entrance_A",
+        "MOD_FenceBay_A",
+        "PROP_FlowerBox_A",
+        "MOD_Gate_A",
+        "PROP_LogStack_A",
+        "PROP_Pot_A",
+        "PROP_Signpost_A",
+        "MOD_StoneWall_A",
+        "PROP_Stump_Axe_A",
+        "PROP_Well_A",
+        "PROP_Wheelbarrow_A",
+        "MOD_Window_Closed_A",
+        "MOD_Window_Open_A",
+        "MOD_Window_Small_A",
+        "PROP_WoodBench_A",
+        "PROP_WoodTable_A",
+        "PROP_Woodshed_A"
+      ],
+      "related_assets": [],
+      "used_by": [
+        "MOD_Cottage_Courtyard_A"
+      ],
+      "can_reuse": true,
+      "notes": "Current house assembly source; individual architectural and yard parts are registered separately."
+    },
+    {
+      "id": "VEG_Branch_Curved_A",
+      "name": "Branch Curved A",
+      "category": "Vegetation",
+      "subcategory": "Oak kit",
+      "status": "Ready",
+      "path": "Art/Vegetation/Oak_Kit/Exports",
+      "source_file": "SM_Branch_Curved_A.fbx",
+      "tags": [
+        "a",
+        "branch",
+        "curved",
+        "oak",
+        "reusable",
+        "sm",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Exported reusable oak-kit mesh."
+    },
+    {
+      "id": "VEG_Branch_Fork_A",
+      "name": "Branch Fork A",
+      "category": "Vegetation",
+      "subcategory": "Oak kit",
+      "status": "Ready",
+      "path": "Art/Vegetation/Oak_Kit/Exports",
+      "source_file": "SM_Branch_Fork_A.fbx",
+      "tags": [
+        "a",
+        "branch",
+        "fork",
+        "oak",
+        "reusable",
+        "sm",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Exported reusable oak-kit mesh."
+    },
+    {
+      "id": "VEG_Branch_Large_A",
+      "name": "Branch Large A",
+      "category": "Vegetation",
+      "subcategory": "Oak kit",
+      "status": "Ready",
+      "path": "Art/Vegetation/Oak_Kit/Exports",
+      "source_file": "SM_Branch_Large_A.fbx",
+      "tags": [
+        "a",
+        "branch",
+        "large",
+        "oak",
+        "reusable",
+        "sm",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Exported reusable oak-kit mesh."
+    },
+    {
+      "id": "VEG_Branch_Medium_A",
+      "name": "Branch Medium A",
+      "category": "Vegetation",
+      "subcategory": "Oak kit",
+      "status": "Ready",
+      "path": "Art/Vegetation/Oak_Kit/Exports",
+      "source_file": "SM_Branch_Medium_A.fbx",
+      "tags": [
+        "a",
+        "branch",
+        "medium",
+        "oak",
+        "reusable",
+        "sm",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Exported reusable oak-kit mesh."
+    },
+    {
+      "id": "VEG_Branch_Small_A",
+      "name": "Branch Small A",
+      "category": "Vegetation",
+      "subcategory": "Oak kit",
+      "status": "Ready",
+      "path": "Art/Vegetation/Oak_Kit/Exports",
+      "source_file": "SM_Branch_Small_A.fbx",
+      "tags": [
+        "a",
+        "branch",
+        "oak",
+        "reusable",
+        "sm",
+        "small",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Exported reusable oak-kit mesh."
+    },
+    {
+      "id": "VEG_FlowerCluster_A",
+      "name": "FlowerCluster A",
+      "category": "Vegetation",
+      "subcategory": "Oak kit",
+      "status": "Ready",
+      "path": "Art/Vegetation/Oak_Kit/Exports",
+      "source_file": "SM_FlowerCluster_A.fbx",
+      "tags": [
+        "a",
+        "flowercluster",
+        "oak",
+        "reusable",
+        "sm",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Exported reusable oak-kit mesh."
+    },
+    {
+      "id": "VEG_FlowerCluster_B",
+      "name": "FlowerCluster B",
+      "category": "Vegetation",
+      "subcategory": "Oak kit",
+      "status": "Ready",
+      "path": "Art/Vegetation/Oak_Kit/Exports",
+      "source_file": "SM_FlowerCluster_B.fbx",
+      "tags": [
+        "b",
+        "flowercluster",
+        "oak",
+        "reusable",
+        "sm",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Exported reusable oak-kit mesh."
+    },
+    {
+      "id": "VEG_Grass_Flowers_A",
+      "name": "Grass Flowers A",
+      "category": "Vegetation",
+      "subcategory": "Oak kit",
+      "status": "Ready",
+      "path": "Art/Vegetation/Oak_Kit/Exports",
+      "source_file": "SM_Grass_Flowers_A.fbx",
+      "tags": [
+        "a",
+        "flowers",
+        "grass",
+        "oak",
+        "reusable",
+        "sm",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Exported reusable oak-kit mesh."
+    },
+    {
+      "id": "VEG_Grass_Short_A",
+      "name": "Grass Short A",
+      "category": "Vegetation",
+      "subcategory": "Oak kit",
+      "status": "Ready",
+      "path": "Art/Vegetation/Oak_Kit/Exports",
+      "source_file": "SM_Grass_Short_A.fbx",
+      "tags": [
+        "a",
+        "grass",
+        "oak",
+        "reusable",
+        "short",
+        "sm",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Exported reusable oak-kit mesh."
+    },
+    {
+      "id": "VEG_Grass_Short_B",
+      "name": "Grass Short B",
+      "category": "Vegetation",
+      "subcategory": "Oak kit",
+      "status": "Ready",
+      "path": "Art/Vegetation/Oak_Kit/Exports",
+      "source_file": "SM_Grass_Short_B.fbx",
+      "tags": [
+        "b",
+        "grass",
+        "oak",
+        "reusable",
+        "short",
+        "sm",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Exported reusable oak-kit mesh."
+    },
+    {
+      "id": "VEG_Grass_Tall_A",
+      "name": "Grass Tall A",
+      "category": "Vegetation",
+      "subcategory": "Oak kit",
+      "status": "Ready",
+      "path": "Art/Vegetation/Oak_Kit/Exports",
+      "source_file": "SM_Grass_Tall_A.fbx",
+      "tags": [
+        "a",
+        "grass",
+        "oak",
+        "reusable",
+        "sm",
+        "stylized",
+        "tall"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Exported reusable oak-kit mesh."
+    },
+    {
+      "id": "VEG_GroundLeaves_A",
+      "name": "GroundLeaves A",
+      "category": "Vegetation",
+      "subcategory": "Oak kit",
+      "status": "Ready",
+      "path": "Art/Vegetation/Oak_Kit/Exports",
+      "source_file": "SM_GroundLeaves_A.fbx",
+      "tags": [
+        "a",
+        "groundleaves",
+        "oak",
+        "reusable",
+        "sm",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Exported reusable oak-kit mesh."
+    },
+    {
+      "id": "VEG_GroundPatch_A",
+      "name": "GroundPatch A",
+      "category": "Vegetation",
+      "subcategory": "Oak kit",
+      "status": "Ready",
+      "path": "Art/Vegetation/Oak_Kit/Exports",
+      "source_file": "SM_GroundPatch_A.fbx",
+      "tags": [
+        "a",
+        "groundpatch",
+        "oak",
+        "reusable",
+        "sm",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Exported reusable oak-kit mesh."
+    },
+    {
+      "id": "VEG_GroundPatch_Flowers_A",
+      "name": "GroundPatch Flowers A",
+      "category": "Vegetation",
+      "subcategory": "Oak kit",
+      "status": "Ready",
+      "path": "Art/Vegetation/Oak_Kit/Exports",
+      "source_file": "SM_GroundPatch_Flowers_A.fbx",
+      "tags": [
+        "a",
+        "flowers",
+        "groundpatch",
+        "oak",
+        "reusable",
+        "sm",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Exported reusable oak-kit mesh."
+    },
+    {
+      "id": "VEG_GroundPlant_A",
+      "name": "GroundPlant A",
+      "category": "Vegetation",
+      "subcategory": "Oak kit",
+      "status": "Ready",
+      "path": "Art/Vegetation/Oak_Kit/Exports",
+      "source_file": "SM_GroundPlant_A.fbx",
+      "tags": [
+        "a",
+        "groundplant",
+        "oak",
+        "reusable",
+        "sm",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Exported reusable oak-kit mesh."
+    },
+    {
+      "id": "VEG_GroundPlant_B",
+      "name": "GroundPlant B",
+      "category": "Vegetation",
+      "subcategory": "Oak kit",
+      "status": "Ready",
+      "path": "Art/Vegetation/Oak_Kit/Exports",
+      "source_file": "SM_GroundPlant_B.fbx",
+      "tags": [
+        "b",
+        "groundplant",
+        "oak",
+        "reusable",
+        "sm",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Exported reusable oak-kit mesh."
+    },
+    {
+      "id": "VEG_LeafCluster_Large_A",
+      "name": "LeafCluster Large A",
+      "category": "Vegetation",
+      "subcategory": "Oak kit",
+      "status": "Ready",
+      "path": "Art/Vegetation/Oak_Kit/Exports",
+      "source_file": "SM_LeafCluster_Large_A.fbx",
+      "tags": [
+        "a",
+        "large",
+        "leafcluster",
+        "oak",
+        "reusable",
+        "sm",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Exported reusable oak-kit mesh."
+    },
+    {
+      "id": "VEG_LeafCluster_Large_B",
+      "name": "LeafCluster Large B",
+      "category": "Vegetation",
+      "subcategory": "Oak kit",
+      "status": "Ready",
+      "path": "Art/Vegetation/Oak_Kit/Exports",
+      "source_file": "SM_LeafCluster_Large_B.fbx",
+      "tags": [
+        "b",
+        "large",
+        "leafcluster",
+        "oak",
+        "reusable",
+        "sm",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Exported reusable oak-kit mesh."
+    },
+    {
+      "id": "VEG_LeafCluster_Medium_A",
+      "name": "LeafCluster Medium A",
+      "category": "Vegetation",
+      "subcategory": "Oak kit",
+      "status": "Ready",
+      "path": "Art/Vegetation/Oak_Kit/Exports",
+      "source_file": "SM_LeafCluster_Medium_A.fbx",
+      "tags": [
+        "a",
+        "leafcluster",
+        "medium",
+        "oak",
+        "reusable",
+        "sm",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Exported reusable oak-kit mesh."
+    },
+    {
+      "id": "VEG_LeafCluster_Medium_B",
+      "name": "LeafCluster Medium B",
+      "category": "Vegetation",
+      "subcategory": "Oak kit",
+      "status": "Ready",
+      "path": "Art/Vegetation/Oak_Kit/Exports",
+      "source_file": "SM_LeafCluster_Medium_B.fbx",
+      "tags": [
+        "b",
+        "leafcluster",
+        "medium",
+        "oak",
+        "reusable",
+        "sm",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Exported reusable oak-kit mesh."
+    },
+    {
+      "id": "VEG_LeafCluster_Small_A",
+      "name": "LeafCluster Small A",
+      "category": "Vegetation",
+      "subcategory": "Oak kit",
+      "status": "Ready",
+      "path": "Art/Vegetation/Oak_Kit/Exports",
+      "source_file": "SM_LeafCluster_Small_A.fbx",
+      "tags": [
+        "a",
+        "leafcluster",
+        "oak",
+        "reusable",
+        "sm",
+        "small",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Exported reusable oak-kit mesh."
+    },
+    {
+      "id": "VEG_Stone_Large_A",
+      "name": "Stone Large A",
+      "category": "Vegetation",
+      "subcategory": "Oak kit",
+      "status": "Ready",
+      "path": "Art/Vegetation/Oak_Kit/Exports",
+      "source_file": "SM_Stone_Large_A.fbx",
+      "tags": [
+        "a",
+        "large",
+        "oak",
+        "reusable",
+        "sm",
+        "stone",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Exported reusable oak-kit mesh."
+    },
+    {
+      "id": "VEG_Stone_Medium_A",
+      "name": "Stone Medium A",
+      "category": "Vegetation",
+      "subcategory": "Oak kit",
+      "status": "Ready",
+      "path": "Art/Vegetation/Oak_Kit/Exports",
+      "source_file": "SM_Stone_Medium_A.fbx",
+      "tags": [
+        "a",
+        "medium",
+        "oak",
+        "reusable",
+        "sm",
+        "stone",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Exported reusable oak-kit mesh."
+    },
+    {
+      "id": "VEG_Stone_Medium_B",
+      "name": "Stone Medium B",
+      "category": "Vegetation",
+      "subcategory": "Oak kit",
+      "status": "Ready",
+      "path": "Art/Vegetation/Oak_Kit/Exports",
+      "source_file": "SM_Stone_Medium_B.fbx",
+      "tags": [
+        "b",
+        "medium",
+        "oak",
+        "reusable",
+        "sm",
+        "stone",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Exported reusable oak-kit mesh."
+    },
+    {
+      "id": "VEG_Stone_Mossy_A",
+      "name": "Stone Mossy A",
+      "category": "Vegetation",
+      "subcategory": "Oak kit",
+      "status": "Ready",
+      "path": "Art/Vegetation/Oak_Kit/Exports",
+      "source_file": "SM_Stone_Mossy_A.fbx",
+      "tags": [
+        "a",
+        "mossy",
+        "oak",
+        "reusable",
+        "sm",
+        "stone",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Exported reusable oak-kit mesh."
+    },
+    {
+      "id": "VEG_Stone_Small_A",
+      "name": "Stone Small A",
+      "category": "Vegetation",
+      "subcategory": "Oak kit",
+      "status": "Ready",
+      "path": "Art/Vegetation/Oak_Kit/Exports",
+      "source_file": "SM_Stone_Small_A.fbx",
+      "tags": [
+        "a",
+        "oak",
+        "reusable",
+        "sm",
+        "small",
+        "stone",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Exported reusable oak-kit mesh."
+    },
+    {
+      "id": "VEG_Stone_Small_B",
+      "name": "Stone Small B",
+      "category": "Vegetation",
+      "subcategory": "Oak kit",
+      "status": "Ready",
+      "path": "Art/Vegetation/Oak_Kit/Exports",
+      "source_file": "SM_Stone_Small_B.fbx",
+      "tags": [
+        "b",
+        "oak",
+        "reusable",
+        "sm",
+        "small",
+        "stone",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Exported reusable oak-kit mesh."
+    },
+    {
+      "id": "VEG_Tree_Oak_A",
+      "name": "Tree Oak A",
+      "category": "Vegetation",
+      "subcategory": "Oak kit",
+      "status": "Ready",
+      "path": "Art/Vegetation/Oak_Kit/Exports",
+      "source_file": "SM_Tree_Oak_A.fbx",
+      "tags": [
+        "a",
+        "oak",
+        "reusable",
+        "sm",
+        "stylized",
+        "tree"
+      ],
+      "reusable_parts": [],
+      "materials": [
+        "MAT_Bark",
+        "MAT_T_Foliage"
+      ],
+      "textures": [],
+      "lods": [
+        "LOD0",
+        "LOD1",
+        "LOD2"
+      ],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Exported reusable oak-kit mesh."
+    },
+    {
+      "id": "VEG_TreeRoot_A",
+      "name": "TreeRoot A",
+      "category": "Vegetation",
+      "subcategory": "Oak kit",
+      "status": "Ready",
+      "path": "Art/Vegetation/Oak_Kit/Exports",
+      "source_file": "SM_TreeRoot_A.fbx",
+      "tags": [
+        "a",
+        "oak",
+        "reusable",
+        "sm",
+        "stylized",
+        "treeroot"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Exported reusable oak-kit mesh."
+    },
+    {
+      "id": "BLD_Cottage_01",
+      "name": "Cottage 01",
+      "category": "Building",
+      "subcategory": "Cottage",
+      "status": "Ready",
+      "path": "Art/Cottage",
+      "source_file": "Cottage_01.fbx",
+      "tags": [
+        "01",
+        "cottage",
+        "reusable",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": ""
+    },
+    {
+      "id": "BLD_Cottage_02",
+      "name": "Cottage 02",
+      "category": "Building",
+      "subcategory": "Cottage",
+      "status": "Ready",
+      "path": "Art/Cottage",
+      "source_file": "Cottage_02.fbx",
+      "tags": [
+        "02",
+        "cottage",
+        "reusable",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": ""
+    },
+    {
+      "id": "BLD_Cottage_03",
+      "name": "Cottage 03",
+      "category": "Building",
+      "subcategory": "Cottage",
+      "status": "Ready",
+      "path": "Art/Cottage",
+      "source_file": "Cottage_03.fbx",
+      "tags": [
+        "03",
+        "cottage",
+        "reusable",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": ""
+    },
+    {
+      "id": "PROP_Birdhouse_01",
+      "name": "Birdhouse 01",
+      "category": "Prop",
+      "subcategory": "Birdhouse",
+      "status": "Ready",
+      "path": "Art/Props",
+      "source_file": "Birdhouse_01.fbx",
+      "tags": [
+        "01",
+        "birdhouse",
+        "reusable",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "VEG_Tree_03",
+        "VEG_Tree_04"
+      ],
+      "can_reuse": true,
+      "notes": ""
+    },
+    {
+      "id": "PROP_Lantern_01",
+      "name": "Lantern 01",
+      "category": "Prop",
+      "subcategory": "Lantern",
+      "status": "Ready",
+      "path": "Art/Props",
+      "source_file": "Lantern_01.fbx",
+      "tags": [
+        "01",
+        "lantern",
+        "reusable",
+        "stylized"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "VEG_Tree_03",
+        "VEG_Tree_04"
+      ],
+      "can_reuse": true,
+      "notes": ""
+    },
+    {
+      "id": "VEG_Tree_01",
+      "name": "Tree 01",
+      "category": "Vegetation",
+      "subcategory": "Tree",
+      "status": "Ready",
+      "path": "Art/Vegetation/Tree_01",
+      "source_file": "Tree_01.fbx",
+      "tags": [
+        "01",
+        "reusable",
+        "stylized",
+        "tree"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": ""
+    },
+    {
+      "id": "VEG_Tree_02",
+      "name": "Tree 02",
+      "category": "Vegetation",
+      "subcategory": "Tree",
+      "status": "Ready",
+      "path": "Art/Vegetation/Tree_01",
+      "source_file": "Tree_02_LOD0.fbx",
+      "tags": [
+        "02",
+        "reusable",
+        "stylized",
+        "tree"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [
+        "LOD0",
+        "LOD1",
+        "LOD2"
+      ],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": ""
+    },
+    {
+      "id": "VEG_Tree_03",
+      "name": "Tree 03",
+      "category": "Vegetation",
+      "subcategory": "Tree",
+      "status": "Ready",
+      "path": "Art/Vegetation/Tree_01/Tree_03",
+      "source_file": "Tree_03_LOD0.fbx",
+      "tags": [
+        "03",
+        "reusable",
+        "stylized",
+        "tree"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [
+        "LOD0",
+        "LOD1",
+        "LOD2"
+      ],
+      "dependencies": [
+        "PROP_Birdhouse_01",
+        "PROP_Lantern_01"
+      ],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": ""
+    },
+    {
+      "id": "VEG_Tree_04",
+      "name": "Tree 04",
+      "category": "Vegetation",
+      "subcategory": "Tree",
+      "status": "Ready",
+      "path": "Art/Vegetation/Tree_01/Tree_04",
+      "source_file": "Tree_04_LOD0.fbx",
+      "tags": [
+        "04",
+        "reusable",
+        "stylized",
+        "tree"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [
+        "LOD0",
+        "LOD1",
+        "LOD2"
+      ],
+      "dependencies": [
+        "PROP_Birdhouse_01",
+        "PROP_Lantern_01"
+      ],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": ""
+    },
+    {
+      "id": "TEX_Bark",
+      "name": "Bark texture set",
+      "category": "Texture",
+      "subcategory": "PBR texture set",
+      "status": "Ready",
+      "path": "Mat/Bark",
+      "source_file": "Bark_BaseColor.png",
+      "tags": [
+        "bark",
+        "pbr",
+        "texture"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "MAT_Bark"
+      ],
+      "can_reuse": true,
+      "notes": "Source map suite; contains the maps listed in its folder."
+    },
+    {
+      "id": "MAT_Bark",
+      "name": "Bark",
+      "category": "Material",
+      "subcategory": "Surface material",
+      "status": "Ready",
+      "path": "Mat/Bark",
+      "source_file": "Bark_BaseColor.png",
+      "tags": [
+        "bark",
+        "material",
+        "pbr"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [
+        "TEX_Bark"
+      ],
+      "lods": [],
+      "dependencies": [
+        "TEX_Bark"
+      ],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Material specification based on the registered texture set."
+    },
+    {
+      "id": "TEX_DoorWood",
+      "name": "DoorWood texture set",
+      "category": "Texture",
+      "subcategory": "PBR texture set",
+      "status": "Ready",
+      "path": "Mat/DoorWood",
+      "source_file": "DoorWood_A_BaseColor.png",
+      "tags": [
+        "doorwood",
+        "pbr",
+        "texture"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "MAT_DoorWood"
+      ],
+      "can_reuse": true,
+      "notes": "Source map suite; contains the maps listed in its folder."
+    },
+    {
+      "id": "MAT_DoorWood",
+      "name": "DoorWood",
+      "category": "Material",
+      "subcategory": "Surface material",
+      "status": "Ready",
+      "path": "Mat/DoorWood",
+      "source_file": "DoorWood_A_BaseColor.png",
+      "tags": [
+        "doorwood",
+        "material",
+        "pbr"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [
+        "TEX_DoorWood"
+      ],
+      "lods": [],
+      "dependencies": [
+        "TEX_DoorWood"
+      ],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Material specification based on the registered texture set."
+    },
+    {
+      "id": "TEX_Logs_Bark",
+      "name": "Logs Bark texture set",
+      "category": "Texture",
+      "subcategory": "PBR texture set",
+      "status": "Ready",
+      "path": "Mat/Logs_Bark",
+      "source_file": "Logs_Bark_A_BaseColor.png",
+      "tags": [
+        "bark",
+        "logs",
+        "pbr",
+        "texture"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "MAT_Logs_Bark"
+      ],
+      "can_reuse": true,
+      "notes": "Source map suite; contains the maps listed in its folder."
+    },
+    {
+      "id": "MAT_Logs_Bark",
+      "name": "Logs Bark",
+      "category": "Material",
+      "subcategory": "Surface material",
+      "status": "Ready",
+      "path": "Mat/Logs_Bark",
+      "source_file": "Logs_Bark_A_BaseColor.png",
+      "tags": [
+        "bark",
+        "logs",
+        "material",
+        "pbr"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [
+        "TEX_Logs_Bark"
+      ],
+      "lods": [],
+      "dependencies": [
+        "TEX_Logs_Bark"
+      ],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Material specification based on the registered texture set."
+    },
+    {
+      "id": "TEX_RoofTile",
+      "name": "RoofTile texture set",
+      "category": "Texture",
+      "subcategory": "PBR texture set",
+      "status": "Ready",
+      "path": "Mat/RoofTile",
+      "source_file": "RoofTile_BaseColor.png",
+      "tags": [
+        "pbr",
+        "rooftile",
+        "texture"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "MAT_RoofTile"
+      ],
+      "can_reuse": true,
+      "notes": "Source map suite; contains the maps listed in its folder."
+    },
+    {
+      "id": "MAT_RoofTile",
+      "name": "RoofTile",
+      "category": "Material",
+      "subcategory": "Surface material",
+      "status": "Ready",
+      "path": "Mat/RoofTile",
+      "source_file": "RoofTile_BaseColor.png",
+      "tags": [
+        "material",
+        "pbr",
+        "rooftile"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [
+        "TEX_RoofTile"
+      ],
+      "lods": [],
+      "dependencies": [
+        "TEX_RoofTile"
+      ],
+      "related_assets": [],
+      "used_by": [
+        "PROP_Well_A"
+      ],
+      "can_reuse": true,
+      "notes": "Material specification based on the registered texture set."
+    },
+    {
+      "id": "TEX_Shutters",
+      "name": "Shutters texture set",
+      "category": "Texture",
+      "subcategory": "PBR texture set",
+      "status": "Ready",
+      "path": "Mat/Shutters",
+      "source_file": "Shutters_A_BaseColor.png",
+      "tags": [
+        "pbr",
+        "shutters",
+        "texture"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "MAT_Shutters"
+      ],
+      "can_reuse": true,
+      "notes": "Source map suite; contains the maps listed in its folder."
+    },
+    {
+      "id": "MAT_Shutters",
+      "name": "Shutters",
+      "category": "Material",
+      "subcategory": "Surface material",
+      "status": "Ready",
+      "path": "Mat/Shutters",
+      "source_file": "Shutters_A_BaseColor.png",
+      "tags": [
+        "material",
+        "pbr",
+        "shutters"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [
+        "TEX_Shutters"
+      ],
+      "lods": [],
+      "dependencies": [
+        "TEX_Shutters"
+      ],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Material specification based on the registered texture set."
+    },
+    {
+      "id": "TEX_T_ChimneyStone",
+      "name": "T ChimneyStone texture set",
+      "category": "Texture",
+      "subcategory": "PBR texture set",
+      "status": "Ready",
+      "path": "Mat/T_ChimneyStone",
+      "source_file": "T_ChimneyStone_A_BaseColor.png",
+      "tags": [
+        "chimneystone",
+        "pbr",
+        "t",
+        "texture"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "MAT_T_ChimneyStone"
+      ],
+      "can_reuse": true,
+      "notes": "Source map suite; contains the maps listed in its folder."
+    },
+    {
+      "id": "MAT_T_ChimneyStone",
+      "name": "T ChimneyStone",
+      "category": "Material",
+      "subcategory": "Surface material",
+      "status": "Ready",
+      "path": "Mat/T_ChimneyStone",
+      "source_file": "T_ChimneyStone_A_BaseColor.png",
+      "tags": [
+        "chimneystone",
+        "material",
+        "pbr",
+        "t"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [
+        "TEX_T_ChimneyStone"
+      ],
+      "lods": [],
+      "dependencies": [
+        "TEX_T_ChimneyStone"
+      ],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Material specification based on the registered texture set."
+    },
+    {
+      "id": "TEX_T_FieldStone",
+      "name": "T FieldStone texture set",
+      "category": "Texture",
+      "subcategory": "PBR texture set",
+      "status": "Ready",
+      "path": "Mat/T_FieldStone",
+      "source_file": "T_FieldStone_A_BaseColor.png",
+      "tags": [
+        "fieldstone",
+        "pbr",
+        "t",
+        "texture"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "MAT_T_FieldStone"
+      ],
+      "can_reuse": true,
+      "notes": "Source map suite; contains the maps listed in its folder."
+    },
+    {
+      "id": "MAT_T_FieldStone",
+      "name": "T FieldStone",
+      "category": "Material",
+      "subcategory": "Surface material",
+      "status": "Ready",
+      "path": "Mat/T_FieldStone",
+      "source_file": "T_FieldStone_A_BaseColor.png",
+      "tags": [
+        "fieldstone",
+        "material",
+        "pbr",
+        "t"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [
+        "TEX_T_FieldStone"
+      ],
+      "lods": [],
+      "dependencies": [
+        "TEX_T_FieldStone"
+      ],
+      "related_assets": [],
+      "used_by": [
+        "PROP_Well_A"
+      ],
+      "can_reuse": true,
+      "notes": "Material specification based on the registered texture set."
+    },
+    {
+      "id": "TEX_T_Foliage",
+      "name": "T Foliage texture set",
+      "category": "Texture",
+      "subcategory": "PBR texture set",
+      "status": "Ready",
+      "path": "Mat/T_Foliage",
+      "source_file": "T_Foliage_BaseColor.png",
+      "tags": [
+        "foliage",
+        "pbr",
+        "t",
+        "texture"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "MAT_T_Foliage"
+      ],
+      "can_reuse": true,
+      "notes": "Source map suite; contains the maps listed in its folder."
+    },
+    {
+      "id": "MAT_T_Foliage",
+      "name": "T Foliage",
+      "category": "Material",
+      "subcategory": "Surface material",
+      "status": "Ready",
+      "path": "Mat/T_Foliage",
+      "source_file": "T_Foliage_BaseColor.png",
+      "tags": [
+        "foliage",
+        "material",
+        "pbr",
+        "t"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [
+        "TEX_T_Foliage"
+      ],
+      "lods": [],
+      "dependencies": [
+        "TEX_T_Foliage"
+      ],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Material specification based on the registered texture set."
+    },
+    {
+      "id": "TEX_T_Plaster",
+      "name": "T Plaster texture set",
+      "category": "Texture",
+      "subcategory": "PBR texture set",
+      "status": "Ready",
+      "path": "Mat/T_Plaster",
+      "source_file": "T_Plaster_A_BaseColor.png",
+      "tags": [
+        "pbr",
+        "plaster",
+        "t",
+        "texture"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "MAT_T_Plaster"
+      ],
+      "can_reuse": true,
+      "notes": "Source map suite; contains the maps listed in its folder."
+    },
+    {
+      "id": "MAT_T_Plaster",
+      "name": "T Plaster",
+      "category": "Material",
+      "subcategory": "Surface material",
+      "status": "Ready",
+      "path": "Mat/T_Plaster",
+      "source_file": "T_Plaster_A_BaseColor.png",
+      "tags": [
+        "material",
+        "pbr",
+        "plaster",
+        "t"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [
+        "TEX_T_Plaster"
+      ],
+      "lods": [],
+      "dependencies": [
+        "TEX_T_Plaster"
+      ],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Material specification based on the registered texture set."
+    },
+    {
+      "id": "TEX_T_Timber",
+      "name": "T Timber texture set",
+      "category": "Texture",
+      "subcategory": "PBR texture set",
+      "status": "Ready",
+      "path": "Mat/T_Timber",
+      "source_file": "T_Timber_A_BaseColor.png",
+      "tags": [
+        "pbr",
+        "t",
+        "texture",
+        "timber"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "MAT_T_Timber"
+      ],
+      "can_reuse": true,
+      "notes": "Source map suite; contains the maps listed in its folder."
+    },
+    {
+      "id": "MAT_T_Timber",
+      "name": "T Timber",
+      "category": "Material",
+      "subcategory": "Surface material",
+      "status": "Ready",
+      "path": "Mat/T_Timber",
+      "source_file": "T_Timber_A_BaseColor.png",
+      "tags": [
+        "material",
+        "pbr",
+        "t",
+        "timber"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [
+        "TEX_T_Timber"
+      ],
+      "lods": [],
+      "dependencies": [
+        "TEX_T_Timber"
+      ],
+      "related_assets": [],
+      "used_by": [
+        "PROP_Bucket_A",
+        "PROP_Well_A"
+      ],
+      "can_reuse": true,
+      "notes": "Material specification based on the registered texture set."
+    },
+    {
+      "id": "TEX_Tree02_Bark",
+      "name": "Tree02 Bark texture set",
+      "category": "Texture",
+      "subcategory": "PBR texture set",
+      "status": "Ready",
+      "path": "Mat/Tree02_Bark",
+      "source_file": "Tree02_Bark_BaseColor.png",
+      "tags": [
+        "bark",
+        "pbr",
+        "texture",
+        "tree02"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "MAT_Tree02_Bark"
+      ],
+      "can_reuse": true,
+      "notes": "Source map suite; contains the maps listed in its folder."
+    },
+    {
+      "id": "MAT_Tree02_Bark",
+      "name": "Tree02 Bark",
+      "category": "Material",
+      "subcategory": "Surface material",
+      "status": "Ready",
+      "path": "Mat/Tree02_Bark",
+      "source_file": "Tree02_Bark_BaseColor.png",
+      "tags": [
+        "bark",
+        "material",
+        "pbr",
+        "tree02"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [
+        "TEX_Tree02_Bark"
+      ],
+      "lods": [],
+      "dependencies": [
+        "TEX_Tree02_Bark"
+      ],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Material specification based on the registered texture set."
+    },
+    {
+      "id": "TEX_Tree02_Leaves",
+      "name": "Tree02 Leaves texture set",
+      "category": "Texture",
+      "subcategory": "PBR texture set",
+      "status": "Ready",
+      "path": "Mat/Tree02_Leaves",
+      "source_file": "Tree02_Leaves_BaseColor.png",
+      "tags": [
+        "leaves",
+        "pbr",
+        "texture",
+        "tree02"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "MAT_Tree02_Leaves"
+      ],
+      "can_reuse": true,
+      "notes": "Source map suite; contains the maps listed in its folder."
+    },
+    {
+      "id": "MAT_Tree02_Leaves",
+      "name": "Tree02 Leaves",
+      "category": "Material",
+      "subcategory": "Surface material",
+      "status": "Ready",
+      "path": "Mat/Tree02_Leaves",
+      "source_file": "Tree02_Leaves_BaseColor.png",
+      "tags": [
+        "leaves",
+        "material",
+        "pbr",
+        "tree02"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [
+        "TEX_Tree02_Leaves"
+      ],
+      "lods": [],
+      "dependencies": [
+        "TEX_Tree02_Leaves"
+      ],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Material specification based on the registered texture set."
+    },
+    {
+      "id": "TEX_Tree02_Moss",
+      "name": "Tree02 Moss texture set",
+      "category": "Texture",
+      "subcategory": "PBR texture set",
+      "status": "Ready",
+      "path": "Mat/Tree02_Moss",
+      "source_file": "Tree02_Moss_BaseColor.png",
+      "tags": [
+        "moss",
+        "pbr",
+        "texture",
+        "tree02"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "MAT_Tree02_Moss"
+      ],
+      "can_reuse": true,
+      "notes": "Source map suite; contains the maps listed in its folder."
+    },
+    {
+      "id": "MAT_Tree02_Moss",
+      "name": "Tree02 Moss",
+      "category": "Material",
+      "subcategory": "Surface material",
+      "status": "Ready",
+      "path": "Mat/Tree02_Moss",
+      "source_file": "Tree02_Moss_BaseColor.png",
+      "tags": [
+        "material",
+        "moss",
+        "pbr",
+        "tree02"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [
+        "TEX_Tree02_Moss"
+      ],
+      "lods": [],
+      "dependencies": [
+        "TEX_Tree02_Moss"
+      ],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Material specification based on the registered texture set."
+    },
+    {
+      "id": "TEX_Tree02_Rocks",
+      "name": "Tree02 Rocks texture set",
+      "category": "Texture",
+      "subcategory": "PBR texture set",
+      "status": "Ready",
+      "path": "Mat/Tree02_Rocks",
+      "source_file": "Tree02_GroundPlants_BaseColor.png",
+      "tags": [
+        "pbr",
+        "rocks",
+        "texture",
+        "tree02"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "MAT_Tree02_Rocks"
+      ],
+      "can_reuse": true,
+      "notes": "Source map suite; contains the maps listed in its folder."
+    },
+    {
+      "id": "MAT_Tree02_Rocks",
+      "name": "Tree02 Rocks",
+      "category": "Material",
+      "subcategory": "Surface material",
+      "status": "Ready",
+      "path": "Mat/Tree02_Rocks",
+      "source_file": "Tree02_GroundPlants_BaseColor.png",
+      "tags": [
+        "material",
+        "pbr",
+        "rocks",
+        "tree02"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [
+        "TEX_Tree02_Rocks"
+      ],
+      "lods": [],
+      "dependencies": [
+        "TEX_Tree02_Rocks"
+      ],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Material specification based on the registered texture set."
+    },
+    {
+      "id": "TEX_DirtGround_A_PBR",
+      "name": "DirtGround A PBR texture set",
+      "category": "Texture",
+      "subcategory": "PBR texture set",
+      "status": "Ready",
+      "path": "Mat/Material_terrain/Ground/DirtGround_A_PBR",
+      "source_file": "DirtGround_A_BaseColor.png",
+      "tags": [
+        "a",
+        "dirtground",
+        "ground",
+        "pbr",
+        "texture"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "MAT_DirtGround_A_PBR"
+      ],
+      "can_reuse": true,
+      "notes": "Source map suite; contains the maps listed in its folder."
+    },
+    {
+      "id": "MAT_DirtGround_A_PBR",
+      "name": "DirtGround A PBR",
+      "category": "Material",
+      "subcategory": "Surface material",
+      "status": "Ready",
+      "path": "Mat/Material_terrain/Ground/DirtGround_A_PBR",
+      "source_file": "DirtGround_A_BaseColor.png",
+      "tags": [
+        "a",
+        "dirtground",
+        "ground",
+        "material",
+        "pbr"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [
+        "TEX_DirtGround_A_PBR"
+      ],
+      "lods": [],
+      "dependencies": [
+        "TEX_DirtGround_A_PBR"
+      ],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Material specification based on the registered texture set."
+    },
+    {
+      "id": "TEX_Grass_Base_A",
+      "name": "Grass Base A texture set",
+      "category": "Texture",
+      "subcategory": "PBR texture set",
+      "status": "Ready",
+      "path": "Mat/Material_terrain/Ground/Grass_Base_A",
+      "source_file": "Grass_Base_A_BaseColor.png",
+      "tags": [
+        "a",
+        "base",
+        "grass",
+        "ground",
+        "pbr",
+        "texture"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "MAT_Grass_Base_A"
+      ],
+      "can_reuse": true,
+      "notes": "Source map suite; contains the maps listed in its folder."
+    },
+    {
+      "id": "MAT_Grass_Base_A",
+      "name": "Grass Base A",
+      "category": "Material",
+      "subcategory": "Surface material",
+      "status": "Ready",
+      "path": "Mat/Material_terrain/Ground/Grass_Base_A",
+      "source_file": "Grass_Base_A_BaseColor.png",
+      "tags": [
+        "a",
+        "base",
+        "grass",
+        "ground",
+        "material",
+        "pbr"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [
+        "TEX_Grass_Base_A"
+      ],
+      "lods": [],
+      "dependencies": [
+        "TEX_Grass_Base_A"
+      ],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Material specification based on the registered texture set."
+    },
+    {
+      "id": "TEX_Grass_Dry_A",
+      "name": "Grass Dry A texture set",
+      "category": "Texture",
+      "subcategory": "PBR texture set",
+      "status": "Ready",
+      "path": "Mat/Material_terrain/Ground/Grass_Dry_A",
+      "source_file": "Grass_Dry_A_BaseColor.png",
+      "tags": [
+        "a",
+        "dry",
+        "grass",
+        "ground",
+        "pbr",
+        "texture"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "MAT_Grass_Dry_A"
+      ],
+      "can_reuse": true,
+      "notes": "Source map suite; contains the maps listed in its folder."
+    },
+    {
+      "id": "MAT_Grass_Dry_A",
+      "name": "Grass Dry A",
+      "category": "Material",
+      "subcategory": "Surface material",
+      "status": "Ready",
+      "path": "Mat/Material_terrain/Ground/Grass_Dry_A",
+      "source_file": "Grass_Dry_A_BaseColor.png",
+      "tags": [
+        "a",
+        "dry",
+        "grass",
+        "ground",
+        "material",
+        "pbr"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [
+        "TEX_Grass_Dry_A"
+      ],
+      "lods": [],
+      "dependencies": [
+        "TEX_Grass_Dry_A"
+      ],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Material specification based on the registered texture set."
+    },
+    {
+      "id": "TEX_Grass_Forest_A_PBR",
+      "name": "Grass Forest A PBR texture set",
+      "category": "Texture",
+      "subcategory": "PBR texture set",
+      "status": "Ready",
+      "path": "Mat/Material_terrain/Ground/Grass_Forest_A_PBR",
+      "source_file": "Grass_Forest_A_BaseColor.png",
+      "tags": [
+        "a",
+        "forest",
+        "grass",
+        "ground",
+        "pbr",
+        "texture"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "MAT_Grass_Forest_A_PBR"
+      ],
+      "can_reuse": true,
+      "notes": "Source map suite; contains the maps listed in its folder."
+    },
+    {
+      "id": "MAT_Grass_Forest_A_PBR",
+      "name": "Grass Forest A PBR",
+      "category": "Material",
+      "subcategory": "Surface material",
+      "status": "Ready",
+      "path": "Mat/Material_terrain/Ground/Grass_Forest_A_PBR",
+      "source_file": "Grass_Forest_A_BaseColor.png",
+      "tags": [
+        "a",
+        "forest",
+        "grass",
+        "ground",
+        "material",
+        "pbr"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [
+        "TEX_Grass_Forest_A_PBR"
+      ],
+      "lods": [],
+      "dependencies": [
+        "TEX_Grass_Forest_A_PBR"
+      ],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Material specification based on the registered texture set."
+    },
+    {
+      "id": "TEX_DirtPath_A_PBR",
+      "name": "DirtPath A PBR texture set",
+      "category": "Texture",
+      "subcategory": "PBR texture set",
+      "status": "Ready",
+      "path": "Mat/Material_terrain/Roads/DirtPath_A_PBR",
+      "source_file": "DirtPath_A_BaseColor.png",
+      "tags": [
+        "a",
+        "dirtpath",
+        "pbr",
+        "roads",
+        "texture"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "MAT_DirtPath_A_PBR"
+      ],
+      "can_reuse": true,
+      "notes": "Source map suite; contains the maps listed in its folder."
+    },
+    {
+      "id": "MAT_DirtPath_A_PBR",
+      "name": "DirtPath A PBR",
+      "category": "Material",
+      "subcategory": "Surface material",
+      "status": "Ready",
+      "path": "Mat/Material_terrain/Roads/DirtPath_A_PBR",
+      "source_file": "DirtPath_A_BaseColor.png",
+      "tags": [
+        "a",
+        "dirtpath",
+        "material",
+        "pbr",
+        "roads"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [
+        "TEX_DirtPath_A_PBR"
+      ],
+      "lods": [],
+      "dependencies": [
+        "TEX_DirtPath_A_PBR"
+      ],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Material specification based on the registered texture set."
+    },
+    {
+      "id": "TEX_DirtRoad_A",
+      "name": "DirtRoad A texture set",
+      "category": "Texture",
+      "subcategory": "PBR texture set",
+      "status": "Ready",
+      "path": "Mat/Material_terrain/Roads/DirtRoad_A",
+      "source_file": "DirtRoad_A_BaseColor.png",
+      "tags": [
+        "a",
+        "dirtroad",
+        "pbr",
+        "roads",
+        "texture"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "MAT_DirtRoad_A"
+      ],
+      "can_reuse": true,
+      "notes": "Source map suite; contains the maps listed in its folder."
+    },
+    {
+      "id": "MAT_DirtRoad_A",
+      "name": "DirtRoad A",
+      "category": "Material",
+      "subcategory": "Surface material",
+      "status": "Ready",
+      "path": "Mat/Material_terrain/Roads/DirtRoad_A",
+      "source_file": "DirtRoad_A_BaseColor.png",
+      "tags": [
+        "a",
+        "dirtroad",
+        "material",
+        "pbr",
+        "roads"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [
+        "TEX_DirtRoad_A"
+      ],
+      "lods": [],
+      "dependencies": [
+        "TEX_DirtRoad_A"
+      ],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Material specification based on the registered texture set."
+    },
+    {
+      "id": "MAT_UE_Cottage_03",
+      "name": "Cottage 03",
+      "category": "Material",
+      "subcategory": "Unreal material",
+      "status": "Ready",
+      "path": "Content/Art/Cottage",
+      "source_file": "Cottage_03.uasset",
+      "tags": [
+        "03",
+        "cottage",
+        "material",
+        "unreal"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Imported Unreal asset; inspect in Unreal before editing."
+    },
+    {
+      "id": "MAT_UE_Dark_iron",
+      "name": "Dark iron",
+      "category": "Material",
+      "subcategory": "Unreal material",
+      "status": "Ready",
+      "path": "Content/Art/Cottage",
+      "source_file": "Dark_iron.uasset",
+      "tags": [
+        "cottage",
+        "dark",
+        "iron",
+        "material",
+        "unreal"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Imported Unreal asset; inspect in Unreal before editing."
+    },
+    {
+      "id": "MAT_UE_Honey_oak",
+      "name": "Honey oak",
+      "category": "Material",
+      "subcategory": "Unreal material",
+      "status": "Ready",
+      "path": "Content/Art/Cottage",
+      "source_file": "Honey_oak.uasset",
+      "tags": [
+        "cottage",
+        "honey",
+        "material",
+        "oak",
+        "unreal"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Imported Unreal asset; inspect in Unreal before editing."
+    },
+    {
+      "id": "MAT_UE_Lantern_warm_glass",
+      "name": "Lantern warm glass",
+      "category": "Material",
+      "subcategory": "Unreal material",
+      "status": "Ready",
+      "path": "Content/Art/Cottage",
+      "source_file": "Lantern_warm_glass.uasset",
+      "tags": [
+        "cottage",
+        "glass",
+        "lantern",
+        "material",
+        "unreal",
+        "warm"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Imported Unreal asset; inspect in Unreal before editing."
+    },
+    {
+      "id": "MAT_UE_Limestone_variation_0",
+      "name": "Limestone variation 0",
+      "category": "Material",
+      "subcategory": "Unreal material",
+      "status": "Ready",
+      "path": "Content/Art/Cottage",
+      "source_file": "Limestone_variation_0.uasset",
+      "tags": [
+        "0",
+        "cottage",
+        "limestone",
+        "material",
+        "unreal",
+        "variation"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Imported Unreal asset; inspect in Unreal before editing."
+    },
+    {
+      "id": "MAT_UE_Limestone_variation_1",
+      "name": "Limestone variation 1",
+      "category": "Material",
+      "subcategory": "Unreal material",
+      "status": "Ready",
+      "path": "Content/Art/Cottage",
+      "source_file": "Limestone_variation_1.uasset",
+      "tags": [
+        "1",
+        "cottage",
+        "limestone",
+        "material",
+        "unreal",
+        "variation"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Imported Unreal asset; inspect in Unreal before editing."
+    },
+    {
+      "id": "MAT_UE_Limestone_variation_2",
+      "name": "Limestone variation 2",
+      "category": "Material",
+      "subcategory": "Unreal material",
+      "status": "Ready",
+      "path": "Content/Art/Cottage",
+      "source_file": "Limestone_variation_2.uasset",
+      "tags": [
+        "2",
+        "cottage",
+        "limestone",
+        "material",
+        "unreal",
+        "variation"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Imported Unreal asset; inspect in Unreal before editing."
+    },
+    {
+      "id": "MAT_UE_Limestone_variation_3",
+      "name": "Limestone variation 3",
+      "category": "Material",
+      "subcategory": "Unreal material",
+      "status": "Ready",
+      "path": "Content/Art/Cottage",
+      "source_file": "Limestone_variation_3.uasset",
+      "tags": [
+        "3",
+        "cottage",
+        "limestone",
+        "material",
+        "unreal",
+        "variation"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Imported Unreal asset; inspect in Unreal before editing."
+    },
+    {
+      "id": "MAT_UE_Limestone_variation_4",
+      "name": "Limestone variation 4",
+      "category": "Material",
+      "subcategory": "Unreal material",
+      "status": "Ready",
+      "path": "Content/Art/Cottage",
+      "source_file": "Limestone_variation_4.uasset",
+      "tags": [
+        "4",
+        "cottage",
+        "limestone",
+        "material",
+        "unreal",
+        "variation"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Imported Unreal asset; inspect in Unreal before editing."
+    },
+    {
+      "id": "MAT_UE_Limestone_variation_5",
+      "name": "Limestone variation 5",
+      "category": "Material",
+      "subcategory": "Unreal material",
+      "status": "Ready",
+      "path": "Content/Art/Cottage",
+      "source_file": "Limestone_variation_5.uasset",
+      "tags": [
+        "5",
+        "cottage",
+        "limestone",
+        "material",
+        "unreal",
+        "variation"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Imported Unreal asset; inspect in Unreal before editing."
+    },
+    {
+      "id": "MAT_UE_Muted_amber_glass",
+      "name": "Muted amber glass",
+      "category": "Material",
+      "subcategory": "Unreal material",
+      "status": "Ready",
+      "path": "Content/Art/Cottage",
+      "source_file": "Muted_amber_glass.uasset",
+      "tags": [
+        "amber",
+        "cottage",
+        "glass",
+        "material",
+        "muted",
+        "unreal"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Imported Unreal asset; inspect in Unreal before editing."
+    },
+    {
+      "id": "MAT_UE_Oak_door_and_shutters",
+      "name": "Oak door and shutters",
+      "category": "Material",
+      "subcategory": "Unreal material",
+      "status": "Ready",
+      "path": "Content/Art/Cottage",
+      "source_file": "Oak_door_and_shutters.uasset",
+      "tags": [
+        "and",
+        "cottage",
+        "door",
+        "material",
+        "oak",
+        "shutters",
+        "unreal"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Imported Unreal asset; inspect in Unreal before editing."
+    },
+    {
+      "id": "MAT_UE_Recess_shadow",
+      "name": "Recess shadow",
+      "category": "Material",
+      "subcategory": "Unreal material",
+      "status": "Ready",
+      "path": "Content/Art/Cottage",
+      "source_file": "Recess_shadow.uasset",
+      "tags": [
+        "cottage",
+        "material",
+        "recess",
+        "shadow",
+        "unreal"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Imported Unreal asset; inspect in Unreal before editing."
+    },
+    {
+      "id": "MAT_UE_Terracotta_00",
+      "name": "Terracotta 00",
+      "category": "Material",
+      "subcategory": "Unreal material",
+      "status": "Ready",
+      "path": "Content/Art/Cottage",
+      "source_file": "Terracotta_00.uasset",
+      "tags": [
+        "00",
+        "cottage",
+        "material",
+        "terracotta",
+        "unreal"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Imported Unreal asset; inspect in Unreal before editing."
+    },
+    {
+      "id": "MAT_UE_Terracotta_01",
+      "name": "Terracotta 01",
+      "category": "Material",
+      "subcategory": "Unreal material",
+      "status": "Ready",
+      "path": "Content/Art/Cottage",
+      "source_file": "Terracotta_01.uasset",
+      "tags": [
+        "01",
+        "cottage",
+        "material",
+        "terracotta",
+        "unreal"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Imported Unreal asset; inspect in Unreal before editing."
+    },
+    {
+      "id": "MAT_UE_Terracotta_02",
+      "name": "Terracotta 02",
+      "category": "Material",
+      "subcategory": "Unreal material",
+      "status": "Ready",
+      "path": "Content/Art/Cottage",
+      "source_file": "Terracotta_02.uasset",
+      "tags": [
+        "02",
+        "cottage",
+        "material",
+        "terracotta",
+        "unreal"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Imported Unreal asset; inspect in Unreal before editing."
+    },
+    {
+      "id": "MAT_UE_Terracotta_03",
+      "name": "Terracotta 03",
+      "category": "Material",
+      "subcategory": "Unreal material",
+      "status": "Ready",
+      "path": "Content/Art/Cottage",
+      "source_file": "Terracotta_03.uasset",
+      "tags": [
+        "03",
+        "cottage",
+        "material",
+        "terracotta",
+        "unreal"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Imported Unreal asset; inspect in Unreal before editing."
+    },
+    {
+      "id": "MAT_UE_Terracotta_04",
+      "name": "Terracotta 04",
+      "category": "Material",
+      "subcategory": "Unreal material",
+      "status": "Ready",
+      "path": "Content/Art/Cottage",
+      "source_file": "Terracotta_04.uasset",
+      "tags": [
+        "04",
+        "cottage",
+        "material",
+        "terracotta",
+        "unreal"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Imported Unreal asset; inspect in Unreal before editing."
+    },
+    {
+      "id": "MAT_UE_Warm_ivory_plaster",
+      "name": "Warm ivory plaster",
+      "category": "Material",
+      "subcategory": "Unreal material",
+      "status": "Ready",
+      "path": "Content/Art/Cottage",
+      "source_file": "Warm_ivory_plaster.uasset",
+      "tags": [
+        "cottage",
+        "ivory",
+        "material",
+        "plaster",
+        "unreal",
+        "warm"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Imported Unreal asset; inspect in Unreal before editing."
+    },
+    {
+      "id": "MAT_UE_Warm_limestone",
+      "name": "Warm limestone",
+      "category": "Material",
+      "subcategory": "Unreal material",
+      "status": "Ready",
+      "path": "Content/Art/Cottage",
+      "source_file": "Warm_limestone.uasset",
+      "tags": [
+        "cottage",
+        "limestone",
+        "material",
+        "unreal",
+        "warm"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": true,
+      "notes": "Imported Unreal asset; inspect in Unreal before editing."
+    },
+    {
+      "id": "MOD_Cottage_Courtyard_A",
+      "name": "Cottage Courtyard",
+      "category": "Modular Component",
+      "subcategory": "Courtyard assembly",
+      "status": "InProgress",
+      "path": "Art/House_Cottage_A/Source/Assembly/v020",
+      "source_file": "Cottage_Courtyard.blend",
+      "tags": [
+        "a",
+        "assembly",
+        "component",
+        "cottage",
+        "courtyard",
+        "mod",
+        "modular"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [
+        "BLD_House_Cottage_A",
+        "PROP_Woodshed_A",
+        "PROP_LogStack_A",
+        "PROP_Well_A",
+        "PROP_Barrel_A",
+        "PROP_Bucket_A",
+        "PROP_WoodBench_A",
+        "PROP_WoodTable_A",
+        "PROP_FlowerBox_A",
+        "PROP_Pot_A",
+        "PROP_Crate_A",
+        "MOD_FenceBay_A",
+        "MOD_Gate_A",
+        "MOD_StoneWall_A",
+        "PROP_Stump_Axe_A",
+        "PROP_Birdhouse_A",
+        "PROP_Signpost_A",
+        "PROP_Wheelbarrow_A"
+      ],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": false,
+      "notes": "Existing cottage courtyard assembly, now explicitly catalogued; v020 adds well and bucket materials. Other prop materials and engine preparation remain pending."
+    },
+    {
+      "id": "MOD_Cottage_Yard_Kit_A",
+      "name": "Cottage Yard Kit",
+      "category": "Modular Component",
+      "subcategory": "Prop gallery",
+      "status": "InProgress",
+      "path": "Art/House_Cottage_A/Source/Yard/v004",
+      "source_file": "Cottage_Yard_Kit.blend",
+      "tags": [
+        "a",
+        "component",
+        "cottage",
+        "gallery",
+        "kit",
+        "mod",
+        "modular",
+        "prop",
+        "yard"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [
+        "PROP_Woodshed_A",
+        "PROP_LogStack_A",
+        "PROP_Well_A",
+        "PROP_Barrel_A",
+        "PROP_Bucket_A",
+        "PROP_WoodBench_A",
+        "PROP_WoodTable_A",
+        "PROP_FlowerBox_A",
+        "PROP_Pot_A",
+        "PROP_Crate_A",
+        "MOD_FenceBay_A",
+        "MOD_Gate_A",
+        "MOD_StoneWall_A",
+        "PROP_Stump_Axe_A",
+        "PROP_Birdhouse_A",
+        "PROP_Signpost_A",
+        "PROP_Wheelbarrow_A"
+      ],
+      "related_assets": [],
+      "used_by": [],
+      "can_reuse": false,
+      "notes": "Existing 17-module gallery; four modules textured in v004. Catalogue composite, not a new geometry variant."
+    },
+    {
+      "id": "MAT_Cottage_HempRope_A",
+      "name": "Cottage HempRope",
+      "category": "Material",
+      "subcategory": "Blender procedural material",
+      "status": "Ready",
+      "path": "Art/House_Cottage_A/Source/Materials/Rope_v001",
+      "source_file": "Cottage_HempRope.blend",
+      "tags": [
+        "a",
+        "blender",
+        "cottage",
+        "hemp",
+        "hemprope",
+        "mat",
+        "material",
+        "procedural",
+        "rope",
+        "веревка"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "PROP_Well_A"
+      ],
+      "can_reuse": true,
+      "notes": "Missing catalogue surface: metric UV hemp fibers for existing well rope. Append Material; bake before engine export."
+    },
+    {
+      "id": "MAT_Cottage_ForgedIron_A",
+      "name": "Cottage ForgedIron",
+      "category": "Material",
+      "subcategory": "Blender material",
+      "status": "Ready",
+      "path": "Art/House_Cottage_A/Source/Materials/Iron_v001",
+      "source_file": "Cottage_ForgedIron.blend",
+      "tags": [
+        "a",
+        "blender",
+        "cottage",
+        "forgediron",
+        "iron",
+        "mat",
+        "material",
+        "metal"
+      ],
+      "reusable_parts": [],
+      "materials": [],
+      "textures": [],
+      "lods": [],
+      "dependencies": [],
+      "related_assets": [],
+      "used_by": [
+        "PROP_Bucket_A"
+      ],
+      "can_reuse": true,
+      "notes": "Existing house M_Cottage_ForgedIron_A extracted unchanged for reuse. Native Blender alternative to the catalogued Unreal-only Dark_iron; not a visual variant."
+    }
+  ],
+  "search_index": {
+    "0": [
+      "MAT_UE_Limestone_variation_0"
+    ],
+    "00": [
+      "MAT_UE_Terracotta_00"
+    ],
+    "01": [
+      "BLD_Cottage_01",
+      "MAT_UE_Terracotta_01",
+      "PROP_Birdhouse_01",
+      "PROP_Lantern_01",
+      "VEG_Tree_01"
+    ],
+    "02": [
+      "BLD_Cottage_02",
+      "MAT_UE_Terracotta_02",
+      "VEG_Tree_02"
+    ],
+    "03": [
+      "BLD_Cottage_03",
+      "MAT_UE_Cottage_03",
+      "MAT_UE_Terracotta_03",
+      "VEG_Tree_03"
+    ],
+    "04": [
+      "MAT_UE_Terracotta_04",
+      "VEG_Tree_04"
+    ],
+    "1": [
+      "MAT_UE_Limestone_variation_1"
+    ],
+    "17": [
+      "MOD_Cottage_Yard_Kit_A"
+    ],
+    "2": [
+      "MAT_UE_Limestone_variation_2"
+    ],
+    "3": [
+      "MAT_UE_Limestone_variation_3"
+    ],
+    "4": [
+      "MAT_UE_Limestone_variation_4"
+    ],
+    "5": [
+      "MAT_UE_Limestone_variation_5"
+    ],
+    "a": [
+      "BLD_House_Cottage_A",
+      "MAT_Cottage_ForgedIron_A",
+      "MAT_Cottage_HempRope_A",
+      "MAT_DirtGround_A_PBR",
+      "MAT_DirtPath_A_PBR",
+      "MAT_DirtRoad_A",
+      "MAT_Grass_Base_A",
+      "MAT_Grass_Dry_A",
+      "MAT_Grass_Forest_A_PBR",
+      "MOD_Cottage_Courtyard_A",
+      "MOD_Cottage_TimberFrame_A",
+      "MOD_Cottage_Yard_Kit_A",
+      "MOD_Door_Entrance_A",
+      "MOD_FenceBay_A",
+      "MOD_Gate_A",
+      "MOD_StoneWall_A",
+      "MOD_Window_Closed_A",
+      "MOD_Window_Open_A",
+      "MOD_Window_Small_A",
+      "PROP_Barrel_A",
+      "PROP_Birdhouse_A",
+      "PROP_Bucket_A",
+      "PROP_Crate_A",
+      "PROP_FlowerBox_A",
+      "PROP_LogStack_A",
+      "PROP_Pot_A",
+      "PROP_Signpost_A",
+      "PROP_Stump_Axe_A",
+      "PROP_Well_A",
+      "PROP_Wheelbarrow_A",
+      "PROP_WoodBench_A",
+      "PROP_WoodTable_A",
+      "PROP_Woodshed_A",
+      "TEX_DirtGround_A_PBR",
+      "TEX_DirtPath_A_PBR",
+      "TEX_DirtRoad_A",
+      "TEX_Grass_Base_A",
+      "TEX_Grass_Dry_A",
+      "TEX_Grass_Forest_A_PBR",
+      "VEG_Branch_Curved_A",
+      "VEG_Branch_Fork_A",
+      "VEG_Branch_Large_A",
+      "VEG_Branch_Medium_A",
+      "VEG_Branch_Small_A",
+      "VEG_FlowerCluster_A",
+      "VEG_Grass_Flowers_A",
+      "VEG_Grass_Short_A",
+      "VEG_Grass_Tall_A",
+      "VEG_GroundLeaves_A",
+      "VEG_GroundPatch_A",
+      "VEG_GroundPatch_Flowers_A",
+      "VEG_GroundPlant_A",
+      "VEG_LeafCluster_Large_A",
+      "VEG_LeafCluster_Medium_A",
+      "VEG_LeafCluster_Small_A",
+      "VEG_Stone_Large_A",
+      "VEG_Stone_Medium_A",
+      "VEG_Stone_Mossy_A",
+      "VEG_Stone_Small_A",
+      "VEG_TreeRoot_A",
+      "VEG_Tree_Oak_A"
+    ],
+    "adds": [
+      "MOD_Cottage_Courtyard_A"
+    ],
+    "alternative": [
+      "MAT_Cottage_ForgedIron_A"
+    ],
+    "amber": [
+      "MAT_UE_Muted_amber_glass"
+    ],
+    "and": [
+      "BLD_House_Cottage_A",
+      "MAT_UE_Oak_door_and_shutters",
+      "MOD_Cottage_Courtyard_A"
+    ],
+    "append": [
+      "MAT_Cottage_HempRope_A"
+    ],
+    "architectural": [
+      "BLD_House_Cottage_A"
+    ],
+    "architecture": [
+      "MOD_Cottage_TimberFrame_A",
+      "MOD_Door_Entrance_A",
+      "MOD_FenceBay_A",
+      "MOD_Gate_A",
+      "MOD_StoneWall_A",
+      "MOD_Window_Closed_A",
+      "MOD_Window_Open_A",
+      "MOD_Window_Small_A",
+      "PROP_Barrel_A",
+      "PROP_Birdhouse_A",
+      "PROP_Bucket_A",
+      "PROP_Crate_A",
+      "PROP_FlowerBox_A",
+      "PROP_LogStack_A",
+      "PROP_Pot_A",
+      "PROP_Signpost_A",
+      "PROP_Stump_Axe_A",
+      "PROP_Well_A",
+      "PROP_Wheelbarrow_A",
+      "PROP_WoodBench_A",
+      "PROP_WoodTable_A",
+      "PROP_Woodshed_A"
+    ],
+    "are": [
+      "BLD_House_Cottage_A"
+    ],
+    "assembly": [
+      "BLD_House_Cottage_A",
+      "MOD_Cottage_Courtyard_A"
+    ],
+    "asset": [
+      "MAT_UE_Cottage_03",
+      "MAT_UE_Dark_iron",
+      "MAT_UE_Honey_oak",
+      "MAT_UE_Lantern_warm_glass",
+      "MAT_UE_Limestone_variation_0",
+      "MAT_UE_Limestone_variation_1",
+      "MAT_UE_Limestone_variation_2",
+      "MAT_UE_Limestone_variation_3",
+      "MAT_UE_Limestone_variation_4",
+      "MAT_UE_Limestone_variation_5",
+      "MAT_UE_Muted_amber_glass",
+      "MAT_UE_Oak_door_and_shutters",
+      "MAT_UE_Recess_shadow",
+      "MAT_UE_Terracotta_00",
+      "MAT_UE_Terracotta_01",
+      "MAT_UE_Terracotta_02",
+      "MAT_UE_Terracotta_03",
+      "MAT_UE_Terracotta_04",
+      "MAT_UE_Warm_ivory_plaster",
+      "MAT_UE_Warm_limestone"
+    ],
+    "axe": [
+      "BLD_House_Cottage_A",
+      "PROP_Stump_Axe_A"
+    ],
+    "b": [
+      "VEG_FlowerCluster_B",
+      "VEG_Grass_Short_B",
+      "VEG_GroundPlant_B",
+      "VEG_LeafCluster_Large_B",
+      "VEG_LeafCluster_Medium_B",
+      "VEG_Stone_Medium_B",
+      "VEG_Stone_Small_B"
+    ],
+    "bake": [
+      "MAT_Cottage_HempRope_A"
+    ],
+    "baking": [
+      "PROP_Bucket_A",
+      "PROP_Well_A"
+    ],
+    "bark": [
+      "MAT_Bark",
+      "MAT_Logs_Bark",
+      "MAT_Tree02_Bark",
+      "TEX_Bark",
+      "TEX_Logs_Bark",
+      "TEX_Tree02_Bark"
+    ],
+    "barrel": [
+      "BLD_House_Cottage_A",
+      "PROP_Barrel_A"
+    ],
+    "base": [
+      "MAT_Grass_Base_A",
+      "TEX_Grass_Base_A"
+    ],
+    "based": [
+      "MAT_Bark",
+      "MAT_DirtGround_A_PBR",
+      "MAT_DirtPath_A_PBR",
+      "MAT_DirtRoad_A",
+      "MAT_DoorWood",
+      "MAT_Grass_Base_A",
+      "MAT_Grass_Dry_A",
+      "MAT_Grass_Forest_A_PBR",
+      "MAT_Logs_Bark",
+      "MAT_RoofTile",
+      "MAT_Shutters",
+      "MAT_T_ChimneyStone",
+      "MAT_T_FieldStone",
+      "MAT_T_Foliage",
+      "MAT_T_Plaster",
+      "MAT_T_Timber",
+      "MAT_Tree02_Bark",
+      "MAT_Tree02_Leaves",
+      "MAT_Tree02_Moss",
+      "MAT_Tree02_Rocks"
+    ],
+    "before": [
+      "MAT_Cottage_HempRope_A",
+      "MAT_UE_Cottage_03",
+      "MAT_UE_Dark_iron",
+      "MAT_UE_Honey_oak",
+      "MAT_UE_Lantern_warm_glass",
+      "MAT_UE_Limestone_variation_0",
+      "MAT_UE_Limestone_variation_1",
+      "MAT_UE_Limestone_variation_2",
+      "MAT_UE_Limestone_variation_3",
+      "MAT_UE_Limestone_variation_4",
+      "MAT_UE_Limestone_variation_5",
+      "MAT_UE_Muted_amber_glass",
+      "MAT_UE_Oak_door_and_shutters",
+      "MAT_UE_Recess_shadow",
+      "MAT_UE_Terracotta_00",
+      "MAT_UE_Terracotta_01",
+      "MAT_UE_Terracotta_02",
+      "MAT_UE_Terracotta_03",
+      "MAT_UE_Terracotta_04",
+      "MAT_UE_Warm_ivory_plaster",
+      "MAT_UE_Warm_limestone"
+    ],
+    "birdhouse": [
+      "BLD_House_Cottage_A",
+      "PROP_Birdhouse_01",
+      "PROP_Birdhouse_A"
+    ],
+    "bld": [
+      "BLD_Cottage_01",
+      "BLD_Cottage_02",
+      "BLD_Cottage_03",
+      "BLD_House_Cottage_A"
+    ],
+    "blender": [
+      "MAT_Cottage_ForgedIron_A",
+      "MAT_Cottage_HempRope_A",
+      "PROP_Bucket_A",
+      "PROP_Well_A"
+    ],
+    "branch": [
+      "VEG_Branch_Curved_A",
+      "VEG_Branch_Fork_A",
+      "VEG_Branch_Large_A",
+      "VEG_Branch_Medium_A",
+      "VEG_Branch_Small_A"
+    ],
+    "bucket": [
+      "BLD_House_Cottage_A",
+      "MOD_Cottage_Courtyard_A",
+      "PROP_Bucket_A",
+      "PROP_Well_A"
+    ],
+    "building": [
+      "BLD_Cottage_01",
+      "BLD_Cottage_02",
+      "BLD_Cottage_03",
+      "BLD_House_Cottage_A"
+    ],
+    "catalogue": [
+      "MAT_Cottage_HempRope_A",
+      "MOD_Cottage_Yard_Kit_A"
+    ],
+    "catalogued": [
+      "MAT_Cottage_ForgedIron_A",
+      "MOD_Cottage_Courtyard_A"
+    ],
+    "chimneystone": [
+      "MAT_T_ChimneyStone",
+      "TEX_T_ChimneyStone"
+    ],
+    "clay": [
+      "PROP_Bucket_A",
+      "PROP_Well_A"
+    ],
+    "closed": [
+      "BLD_House_Cottage_A",
+      "MOD_Window_Closed_A"
+    ],
+    "collision": [
+      "PROP_Bucket_A",
+      "PROP_Well_A"
+    ],
+    "component": [
+      "MOD_Cottage_Courtyard_A",
+      "MOD_Cottage_TimberFrame_A",
+      "MOD_Cottage_Yard_Kit_A",
+      "MOD_Door_Entrance_A",
+      "MOD_FenceBay_A",
+      "MOD_Gate_A",
+      "MOD_StoneWall_A",
+      "MOD_Window_Closed_A",
+      "MOD_Window_Open_A",
+      "MOD_Window_Small_A"
+    ],
+    "composite": [
+      "MOD_Cottage_Yard_Kit_A"
+    ],
+    "contains": [
+      "TEX_Bark",
+      "TEX_DirtGround_A_PBR",
+      "TEX_DirtPath_A_PBR",
+      "TEX_DirtRoad_A",
+      "TEX_DoorWood",
+      "TEX_Grass_Base_A",
+      "TEX_Grass_Dry_A",
+      "TEX_Grass_Forest_A_PBR",
+      "TEX_Logs_Bark",
+      "TEX_RoofTile",
+      "TEX_Shutters",
+      "TEX_T_ChimneyStone",
+      "TEX_T_FieldStone",
+      "TEX_T_Foliage",
+      "TEX_T_Plaster",
+      "TEX_T_Timber",
+      "TEX_Tree02_Bark",
+      "TEX_Tree02_Leaves",
+      "TEX_Tree02_Moss",
+      "TEX_Tree02_Rocks"
+    ],
+    "cottage": [
+      "BLD_Cottage_01",
+      "BLD_Cottage_02",
+      "BLD_Cottage_03",
+      "BLD_House_Cottage_A",
+      "MAT_Cottage_ForgedIron_A",
+      "MAT_Cottage_HempRope_A",
+      "MAT_UE_Cottage_03",
+      "MAT_UE_Dark_iron",
+      "MAT_UE_Honey_oak",
+      "MAT_UE_Lantern_warm_glass",
+      "MAT_UE_Limestone_variation_0",
+      "MAT_UE_Limestone_variation_1",
+      "MAT_UE_Limestone_variation_2",
+      "MAT_UE_Limestone_variation_3",
+      "MAT_UE_Limestone_variation_4",
+      "MAT_UE_Limestone_variation_5",
+      "MAT_UE_Muted_amber_glass",
+      "MAT_UE_Oak_door_and_shutters",
+      "MAT_UE_Recess_shadow",
+      "MAT_UE_Terracotta_00",
+      "MAT_UE_Terracotta_01",
+      "MAT_UE_Terracotta_02",
+      "MAT_UE_Terracotta_03",
+      "MAT_UE_Terracotta_04",
+      "MAT_UE_Warm_ivory_plaster",
+      "MAT_UE_Warm_limestone",
+      "MOD_Cottage_Courtyard_A",
+      "MOD_Cottage_TimberFrame_A",
+      "MOD_Cottage_Yard_Kit_A",
+      "MOD_Door_Entrance_A",
+      "MOD_FenceBay_A",
+      "MOD_Gate_A",
+      "MOD_StoneWall_A",
+      "MOD_Window_Closed_A",
+      "MOD_Window_Open_A",
+      "MOD_Window_Small_A",
+      "PROP_Barrel_A",
+      "PROP_Birdhouse_A",
+      "PROP_Bucket_A",
+      "PROP_Crate_A",
+      "PROP_FlowerBox_A",
+      "PROP_LogStack_A",
+      "PROP_Pot_A",
+      "PROP_Signpost_A",
+      "PROP_Stump_Axe_A",
+      "PROP_Well_A",
+      "PROP_Wheelbarrow_A",
+      "PROP_WoodBench_A",
+      "PROP_WoodTable_A",
+      "PROP_Woodshed_A"
+    ],
+    "courtyard": [
+      "MOD_Cottage_Courtyard_A"
+    ],
+    "crate": [
+      "BLD_House_Cottage_A",
+      "PROP_Crate_A"
+    ],
+    "current": [
+      "BLD_House_Cottage_A"
+    ],
+    "curved": [
+      "VEG_Branch_Curved_A"
+    ],
+    "dark": [
+      "MAT_Cottage_ForgedIron_A",
+      "MAT_UE_Dark_iron"
+    ],
+    "dirtground": [
+      "MAT_DirtGround_A_PBR",
+      "TEX_DirtGround_A_PBR"
+    ],
+    "dirtpath": [
+      "MAT_DirtPath_A_PBR",
+      "TEX_DirtPath_A_PBR"
+    ],
+    "dirtroad": [
+      "MAT_DirtRoad_A",
+      "TEX_DirtRoad_A"
+    ],
+    "documented": [
+      "MOD_Cottage_TimberFrame_A",
+      "MOD_Door_Entrance_A",
+      "MOD_FenceBay_A",
+      "MOD_Gate_A",
+      "MOD_StoneWall_A",
+      "MOD_Window_Closed_A",
+      "MOD_Window_Open_A",
+      "MOD_Window_Small_A",
+      "PROP_Barrel_A",
+      "PROP_Birdhouse_A",
+      "PROP_Crate_A",
+      "PROP_FlowerBox_A",
+      "PROP_LogStack_A",
+      "PROP_Pot_A",
+      "PROP_Signpost_A",
+      "PROP_Stump_Axe_A",
+      "PROP_Wheelbarrow_A",
+      "PROP_WoodBench_A",
+      "PROP_WoodTable_A",
+      "PROP_Woodshed_A"
+    ],
+    "door": [
+      "BLD_House_Cottage_A",
+      "MAT_UE_Oak_door_and_shutters",
+      "MOD_Door_Entrance_A"
+    ],
+    "doorwood": [
+      "MAT_DoorWood",
+      "TEX_DoorWood"
+    ],
+    "dry": [
+      "MAT_Grass_Dry_A",
+      "TEX_Grass_Dry_A"
+    ],
+    "editing": [
+      "MAT_UE_Cottage_03",
+      "MAT_UE_Dark_iron",
+      "MAT_UE_Honey_oak",
+      "MAT_UE_Lantern_warm_glass",
+      "MAT_UE_Limestone_variation_0",
+      "MAT_UE_Limestone_variation_1",
+      "MAT_UE_Limestone_variation_2",
+      "MAT_UE_Limestone_variation_3",
+      "MAT_UE_Limestone_variation_4",
+      "MAT_UE_Limestone_variation_5",
+      "MAT_UE_Muted_amber_glass",
+      "MAT_UE_Oak_door_and_shutters",
+      "MAT_UE_Recess_shadow",
+      "MAT_UE_Terracotta_00",
+      "MAT_UE_Terracotta_01",
+      "MAT_UE_Terracotta_02",
+      "MAT_UE_Terracotta_03",
+      "MAT_UE_Terracotta_04",
+      "MAT_UE_Warm_ivory_plaster",
+      "MAT_UE_Warm_limestone"
+    ],
+    "engine": [
+      "MAT_Cottage_HempRope_A",
+      "MOD_Cottage_Courtyard_A",
+      "PROP_Bucket_A",
+      "PROP_Well_A"
+    ],
+    "entrance": [
+      "BLD_House_Cottage_A",
+      "MOD_Door_Entrance_A"
+    ],
+    "existing": [
+      "MAT_Cottage_ForgedIron_A",
+      "MAT_Cottage_HempRope_A",
+      "MOD_Cottage_Courtyard_A",
+      "MOD_Cottage_Yard_Kit_A",
+      "PROP_Bucket_A",
+      "PROP_Well_A"
+    ],
+    "explicitly": [
+      "MOD_Cottage_Courtyard_A"
+    ],
+    "export": [
+      "MAT_Cottage_HempRope_A"
+    ],
+    "exported": [
+      "VEG_Branch_Curved_A",
+      "VEG_Branch_Fork_A",
+      "VEG_Branch_Large_A",
+      "VEG_Branch_Medium_A",
+      "VEG_Branch_Small_A",
+      "VEG_FlowerCluster_A",
+      "VEG_FlowerCluster_B",
+      "VEG_Grass_Flowers_A",
+      "VEG_Grass_Short_A",
+      "VEG_Grass_Short_B",
+      "VEG_Grass_Tall_A",
+      "VEG_GroundLeaves_A",
+      "VEG_GroundPatch_A",
+      "VEG_GroundPatch_Flowers_A",
+      "VEG_GroundPlant_A",
+      "VEG_GroundPlant_B",
+      "VEG_LeafCluster_Large_A",
+      "VEG_LeafCluster_Large_B",
+      "VEG_LeafCluster_Medium_A",
+      "VEG_LeafCluster_Medium_B",
+      "VEG_LeafCluster_Small_A",
+      "VEG_Stone_Large_A",
+      "VEG_Stone_Medium_A",
+      "VEG_Stone_Medium_B",
+      "VEG_Stone_Mossy_A",
+      "VEG_Stone_Small_A",
+      "VEG_Stone_Small_B",
+      "VEG_TreeRoot_A",
+      "VEG_Tree_Oak_A"
+    ],
+    "extracted": [
+      "MAT_Cottage_ForgedIron_A"
+    ],
+    "fencebay": [
+      "BLD_House_Cottage_A",
+      "MOD_FenceBay_A"
+    ],
+    "fibers": [
+      "MAT_Cottage_HempRope_A"
+    ],
+    "fieldstone": [
+      "MAT_T_FieldStone",
+      "TEX_T_FieldStone"
+    ],
+    "flowerbox": [
+      "BLD_House_Cottage_A",
+      "PROP_FlowerBox_A"
+    ],
+    "flowercluster": [
+      "VEG_FlowerCluster_A",
+      "VEG_FlowerCluster_B"
+    ],
+    "flowers": [
+      "VEG_Grass_Flowers_A",
+      "VEG_GroundPatch_Flowers_A"
+    ],
+    "folder": [
+      "TEX_Bark",
+      "TEX_DirtGround_A_PBR",
+      "TEX_DirtPath_A_PBR",
+      "TEX_DirtRoad_A",
+      "TEX_DoorWood",
+      "TEX_Grass_Base_A",
+      "TEX_Grass_Dry_A",
+      "TEX_Grass_Forest_A_PBR",
+      "TEX_Logs_Bark",
+      "TEX_RoofTile",
+      "TEX_Shutters",
+      "TEX_T_ChimneyStone",
+      "TEX_T_FieldStone",
+      "TEX_T_Foliage",
+      "TEX_T_Plaster",
+      "TEX_T_Timber",
+      "TEX_Tree02_Bark",
+      "TEX_Tree02_Leaves",
+      "TEX_Tree02_Moss",
+      "TEX_Tree02_Rocks"
+    ],
+    "foliage": [
+      "MAT_T_Foliage",
+      "TEX_T_Foliage"
+    ],
+    "for": [
+      "MAT_Cottage_ForgedIron_A",
+      "MAT_Cottage_HempRope_A"
+    ],
+    "forest": [
+      "MAT_Grass_Forest_A_PBR",
+      "TEX_Grass_Forest_A_PBR"
+    ],
+    "forgediron": [
+      "MAT_Cottage_ForgedIron_A"
+    ],
+    "fork": [
+      "VEG_Branch_Fork_A"
+    ],
+    "four": [
+      "MOD_Cottage_Yard_Kit_A"
+    ],
+    "gallery": [
+      "MOD_Cottage_Yard_Kit_A"
+    ],
+    "gate": [
+      "BLD_House_Cottage_A",
+      "MOD_Gate_A"
+    ],
+    "geometry": [
+      "MOD_Cottage_Yard_Kit_A"
+    ],
+    "glass": [
+      "MAT_UE_Lantern_warm_glass",
+      "MAT_UE_Muted_amber_glass"
+    ],
+    "grass": [
+      "MAT_Grass_Base_A",
+      "MAT_Grass_Dry_A",
+      "MAT_Grass_Forest_A_PBR",
+      "TEX_Grass_Base_A",
+      "TEX_Grass_Dry_A",
+      "TEX_Grass_Forest_A_PBR",
+      "VEG_Grass_Flowers_A",
+      "VEG_Grass_Short_A",
+      "VEG_Grass_Short_B",
+      "VEG_Grass_Tall_A"
+    ],
+    "ground": [
+      "MAT_DirtGround_A_PBR",
+      "MAT_Grass_Base_A",
+      "MAT_Grass_Dry_A",
+      "MAT_Grass_Forest_A_PBR",
+      "TEX_DirtGround_A_PBR",
+      "TEX_Grass_Base_A",
+      "TEX_Grass_Dry_A",
+      "TEX_Grass_Forest_A_PBR"
+    ],
+    "groundleaves": [
+      "VEG_GroundLeaves_A"
+    ],
+    "groundpatch": [
+      "VEG_GroundPatch_A",
+      "VEG_GroundPatch_Flowers_A"
+    ],
+    "groundplant": [
+      "VEG_GroundPlant_A",
+      "VEG_GroundPlant_B"
+    ],
+    "handle": [
+      "PROP_Bucket_A",
+      "PROP_Well_A"
+    ],
+    "hemp": [
+      "MAT_Cottage_HempRope_A"
+    ],
+    "hemprope": [
+      "MAT_Cottage_HempRope_A"
+    ],
+    "honey": [
+      "MAT_UE_Honey_oak"
+    ],
+    "house": [
+      "BLD_House_Cottage_A",
+      "MAT_Cottage_ForgedIron_A"
+    ],
+    "id": [
+      "PROP_Bucket_A",
+      "PROP_Well_A"
+    ],
+    "imported": [
+      "MAT_UE_Cottage_03",
+      "MAT_UE_Dark_iron",
+      "MAT_UE_Honey_oak",
+      "MAT_UE_Lantern_warm_glass",
+      "MAT_UE_Limestone_variation_0",
+      "MAT_UE_Limestone_variation_1",
+      "MAT_UE_Limestone_variation_2",
+      "MAT_UE_Limestone_variation_3",
+      "MAT_UE_Limestone_variation_4",
+      "MAT_UE_Limestone_variation_5",
+      "MAT_UE_Muted_amber_glass",
+      "MAT_UE_Oak_door_and_shutters",
+      "MAT_UE_Recess_shadow",
+      "MAT_UE_Terracotta_00",
+      "MAT_UE_Terracotta_01",
+      "MAT_UE_Terracotta_02",
+      "MAT_UE_Terracotta_03",
+      "MAT_UE_Terracotta_04",
+      "MAT_UE_Warm_ivory_plaster",
+      "MAT_UE_Warm_limestone"
+    ],
+    "in": [
+      "MAT_UE_Cottage_03",
+      "MAT_UE_Dark_iron",
+      "MAT_UE_Honey_oak",
+      "MAT_UE_Lantern_warm_glass",
+      "MAT_UE_Limestone_variation_0",
+      "MAT_UE_Limestone_variation_1",
+      "MAT_UE_Limestone_variation_2",
+      "MAT_UE_Limestone_variation_3",
+      "MAT_UE_Limestone_variation_4",
+      "MAT_UE_Limestone_variation_5",
+      "MAT_UE_Muted_amber_glass",
+      "MAT_UE_Oak_door_and_shutters",
+      "MAT_UE_Recess_shadow",
+      "MAT_UE_Terracotta_00",
+      "MAT_UE_Terracotta_01",
+      "MAT_UE_Terracotta_02",
+      "MAT_UE_Terracotta_03",
+      "MAT_UE_Terracotta_04",
+      "MAT_UE_Warm_ivory_plaster",
+      "MAT_UE_Warm_limestone",
+      "MOD_Cottage_Yard_Kit_A",
+      "PROP_Bucket_A",
+      "PROP_Well_A",
+      "TEX_Bark",
+      "TEX_DirtGround_A_PBR",
+      "TEX_DirtPath_A_PBR",
+      "TEX_DirtRoad_A",
+      "TEX_DoorWood",
+      "TEX_Grass_Base_A",
+      "TEX_Grass_Dry_A",
+      "TEX_Grass_Forest_A_PBR",
+      "TEX_Logs_Bark",
+      "TEX_RoofTile",
+      "TEX_Shutters",
+      "TEX_T_ChimneyStone",
+      "TEX_T_FieldStone",
+      "TEX_T_Foliage",
+      "TEX_T_Plaster",
+      "TEX_T_Timber",
+      "TEX_Tree02_Bark",
+      "TEX_Tree02_Leaves",
+      "TEX_Tree02_Moss",
+      "TEX_Tree02_Rocks"
+    ],
+    "individual": [
+      "BLD_House_Cottage_A"
+    ],
+    "inspect": [
+      "MAT_UE_Cottage_03",
+      "MAT_UE_Dark_iron",
+      "MAT_UE_Honey_oak",
+      "MAT_UE_Lantern_warm_glass",
+      "MAT_UE_Limestone_variation_0",
+      "MAT_UE_Limestone_variation_1",
+      "MAT_UE_Limestone_variation_2",
+      "MAT_UE_Limestone_variation_3",
+      "MAT_UE_Limestone_variation_4",
+      "MAT_UE_Limestone_variation_5",
+      "MAT_UE_Muted_amber_glass",
+      "MAT_UE_Oak_door_and_shutters",
+      "MAT_UE_Recess_shadow",
+      "MAT_UE_Terracotta_00",
+      "MAT_UE_Terracotta_01",
+      "MAT_UE_Terracotta_02",
+      "MAT_UE_Terracotta_03",
+      "MAT_UE_Terracotta_04",
+      "MAT_UE_Warm_ivory_plaster",
+      "MAT_UE_Warm_limestone"
+    ],
+    "iron": [
+      "MAT_Cottage_ForgedIron_A",
+      "MAT_UE_Dark_iron"
+    ],
+    "its": [
+      "TEX_Bark",
+      "TEX_DirtGround_A_PBR",
+      "TEX_DirtPath_A_PBR",
+      "TEX_DirtRoad_A",
+      "TEX_DoorWood",
+      "TEX_Grass_Base_A",
+      "TEX_Grass_Dry_A",
+      "TEX_Grass_Forest_A_PBR",
+      "TEX_Logs_Bark",
+      "TEX_RoofTile",
+      "TEX_Shutters",
+      "TEX_T_ChimneyStone",
+      "TEX_T_FieldStone",
+      "TEX_T_Foliage",
+      "TEX_T_Plaster",
+      "TEX_T_Timber",
+      "TEX_Tree02_Bark",
+      "TEX_Tree02_Leaves",
+      "TEX_Tree02_Moss",
+      "TEX_Tree02_Rocks"
+    ],
+    "ivory": [
+      "MAT_UE_Warm_ivory_plaster"
+    ],
+    "kit": [
+      "MOD_Cottage_Yard_Kit_A",
+      "VEG_Branch_Curved_A",
+      "VEG_Branch_Fork_A",
+      "VEG_Branch_Large_A",
+      "VEG_Branch_Medium_A",
+      "VEG_Branch_Small_A",
+      "VEG_FlowerCluster_A",
+      "VEG_FlowerCluster_B",
+      "VEG_Grass_Flowers_A",
+      "VEG_Grass_Short_A",
+      "VEG_Grass_Short_B",
+      "VEG_Grass_Tall_A",
+      "VEG_GroundLeaves_A",
+      "VEG_GroundPatch_A",
+      "VEG_GroundPatch_Flowers_A",
+      "VEG_GroundPlant_A",
+      "VEG_GroundPlant_B",
+      "VEG_LeafCluster_Large_A",
+      "VEG_LeafCluster_Large_B",
+      "VEG_LeafCluster_Medium_A",
+      "VEG_LeafCluster_Medium_B",
+      "VEG_LeafCluster_Small_A",
+      "VEG_Stone_Large_A",
+      "VEG_Stone_Medium_A",
+      "VEG_Stone_Medium_B",
+      "VEG_Stone_Mossy_A",
+      "VEG_Stone_Small_A",
+      "VEG_Stone_Small_B",
+      "VEG_TreeRoot_A",
+      "VEG_Tree_Oak_A"
+    ],
+    "lantern": [
+      "MAT_UE_Lantern_warm_glass",
+      "PROP_Lantern_01"
+    ],
+    "large": [
+      "VEG_Branch_Large_A",
+      "VEG_LeafCluster_Large_A",
+      "VEG_LeafCluster_Large_B",
+      "VEG_Stone_Large_A"
+    ],
+    "latest": [
+      "MOD_Cottage_TimberFrame_A",
+      "MOD_Door_Entrance_A",
+      "MOD_FenceBay_A",
+      "MOD_Gate_A",
+      "MOD_StoneWall_A",
+      "MOD_Window_Closed_A",
+      "MOD_Window_Open_A",
+      "MOD_Window_Small_A",
+      "PROP_Barrel_A",
+      "PROP_Birdhouse_A",
+      "PROP_Crate_A",
+      "PROP_FlowerBox_A",
+      "PROP_LogStack_A",
+      "PROP_Pot_A",
+      "PROP_Signpost_A",
+      "PROP_Stump_Axe_A",
+      "PROP_Wheelbarrow_A",
+      "PROP_WoodBench_A",
+      "PROP_WoodTable_A",
+      "PROP_Woodshed_A"
+    ],
+    "leafcluster": [
+      "VEG_LeafCluster_Large_A",
+      "VEG_LeafCluster_Large_B",
+      "VEG_LeafCluster_Medium_A",
+      "VEG_LeafCluster_Medium_B",
+      "VEG_LeafCluster_Small_A"
+    ],
+    "leaves": [
+      "MAT_Tree02_Leaves",
+      "TEX_Tree02_Leaves"
+    ],
+    "lightmap": [
+      "PROP_Bucket_A",
+      "PROP_Well_A"
+    ],
+    "limestone": [
+      "MAT_UE_Limestone_variation_0",
+      "MAT_UE_Limestone_variation_1",
+      "MAT_UE_Limestone_variation_2",
+      "MAT_UE_Limestone_variation_3",
+      "MAT_UE_Limestone_variation_4",
+      "MAT_UE_Limestone_variation_5",
+      "MAT_UE_Warm_limestone"
+    ],
+    "listed": [
+      "TEX_Bark",
+      "TEX_DirtGround_A_PBR",
+      "TEX_DirtPath_A_PBR",
+      "TEX_DirtRoad_A",
+      "TEX_DoorWood",
+      "TEX_Grass_Base_A",
+      "TEX_Grass_Dry_A",
+      "TEX_Grass_Forest_A_PBR",
+      "TEX_Logs_Bark",
+      "TEX_RoofTile",
+      "TEX_Shutters",
+      "TEX_T_ChimneyStone",
+      "TEX_T_FieldStone",
+      "TEX_T_Foliage",
+      "TEX_T_Plaster",
+      "TEX_T_Timber",
+      "TEX_Tree02_Bark",
+      "TEX_Tree02_Leaves",
+      "TEX_Tree02_Moss",
+      "TEX_Tree02_Rocks"
+    ],
+    "lod": [
+      "PROP_Bucket_A",
+      "PROP_Well_A"
+    ],
+    "logs": [
+      "MAT_Logs_Bark",
+      "TEX_Logs_Bark"
+    ],
+    "logstack": [
+      "BLD_House_Cottage_A",
+      "PROP_LogStack_A"
+    ],
+    "m": [
+      "MAT_Cottage_ForgedIron_A"
+    ],
+    "map": [
+      "TEX_Bark",
+      "TEX_DirtGround_A_PBR",
+      "TEX_DirtPath_A_PBR",
+      "TEX_DirtRoad_A",
+      "TEX_DoorWood",
+      "TEX_Grass_Base_A",
+      "TEX_Grass_Dry_A",
+      "TEX_Grass_Forest_A_PBR",
+      "TEX_Logs_Bark",
+      "TEX_RoofTile",
+      "TEX_Shutters",
+      "TEX_T_ChimneyStone",
+      "TEX_T_FieldStone",
+      "TEX_T_Foliage",
+      "TEX_T_Plaster",
+      "TEX_T_Timber",
+      "TEX_Tree02_Bark",
+      "TEX_Tree02_Leaves",
+      "TEX_Tree02_Moss",
+      "TEX_Tree02_Rocks"
+    ],
+    "maps": [
+      "PROP_Bucket_A",
+      "PROP_Well_A",
+      "TEX_Bark",
+      "TEX_DirtGround_A_PBR",
+      "TEX_DirtPath_A_PBR",
+      "TEX_DirtRoad_A",
+      "TEX_DoorWood",
+      "TEX_Grass_Base_A",
+      "TEX_Grass_Dry_A",
+      "TEX_Grass_Forest_A_PBR",
+      "TEX_Logs_Bark",
+      "TEX_RoofTile",
+      "TEX_Shutters",
+      "TEX_T_ChimneyStone",
+      "TEX_T_FieldStone",
+      "TEX_T_Foliage",
+      "TEX_T_Plaster",
+      "TEX_T_Timber",
+      "TEX_Tree02_Bark",
+      "TEX_Tree02_Leaves",
+      "TEX_Tree02_Moss",
+      "TEX_Tree02_Rocks"
+    ],
+    "mat": [
+      "MAT_Bark",
+      "MAT_Cottage_ForgedIron_A",
+      "MAT_Cottage_HempRope_A",
+      "MAT_DirtGround_A_PBR",
+      "MAT_DirtPath_A_PBR",
+      "MAT_DirtRoad_A",
+      "MAT_DoorWood",
+      "MAT_Grass_Base_A",
+      "MAT_Grass_Dry_A",
+      "MAT_Grass_Forest_A_PBR",
+      "MAT_Logs_Bark",
+      "MAT_RoofTile",
+      "MAT_Shutters",
+      "MAT_T_ChimneyStone",
+      "MAT_T_FieldStone",
+      "MAT_T_Foliage",
+      "MAT_T_Plaster",
+      "MAT_T_Timber",
+      "MAT_Tree02_Bark",
+      "MAT_Tree02_Leaves",
+      "MAT_Tree02_Moss",
+      "MAT_Tree02_Rocks",
+      "MAT_UE_Cottage_03",
+      "MAT_UE_Dark_iron",
+      "MAT_UE_Honey_oak",
+      "MAT_UE_Lantern_warm_glass",
+      "MAT_UE_Limestone_variation_0",
+      "MAT_UE_Limestone_variation_1",
+      "MAT_UE_Limestone_variation_2",
+      "MAT_UE_Limestone_variation_3",
+      "MAT_UE_Limestone_variation_4",
+      "MAT_UE_Limestone_variation_5",
+      "MAT_UE_Muted_amber_glass",
+      "MAT_UE_Oak_door_and_shutters",
+      "MAT_UE_Recess_shadow",
+      "MAT_UE_Terracotta_00",
+      "MAT_UE_Terracotta_01",
+      "MAT_UE_Terracotta_02",
+      "MAT_UE_Terracotta_03",
+      "MAT_UE_Terracotta_04",
+      "MAT_UE_Warm_ivory_plaster",
+      "MAT_UE_Warm_limestone"
+    ],
+    "material": [
+      "MAT_Bark",
+      "MAT_Cottage_ForgedIron_A",
+      "MAT_Cottage_HempRope_A",
+      "MAT_DirtGround_A_PBR",
+      "MAT_DirtPath_A_PBR",
+      "MAT_DirtRoad_A",
+      "MAT_DoorWood",
+      "MAT_Grass_Base_A",
+      "MAT_Grass_Dry_A",
+      "MAT_Grass_Forest_A_PBR",
+      "MAT_Logs_Bark",
+      "MAT_RoofTile",
+      "MAT_Shutters",
+      "MAT_T_ChimneyStone",
+      "MAT_T_FieldStone",
+      "MAT_T_Foliage",
+      "MAT_T_Plaster",
+      "MAT_T_Timber",
+      "MAT_Tree02_Bark",
+      "MAT_Tree02_Leaves",
+      "MAT_Tree02_Moss",
+      "MAT_Tree02_Rocks",
+      "MAT_UE_Cottage_03",
+      "MAT_UE_Dark_iron",
+      "MAT_UE_Honey_oak",
+      "MAT_UE_Lantern_warm_glass",
+      "MAT_UE_Limestone_variation_0",
+      "MAT_UE_Limestone_variation_1",
+      "MAT_UE_Limestone_variation_2",
+      "MAT_UE_Limestone_variation_3",
+      "MAT_UE_Limestone_variation_4",
+      "MAT_UE_Limestone_variation_5",
+      "MAT_UE_Muted_amber_glass",
+      "MAT_UE_Oak_door_and_shutters",
+      "MAT_UE_Recess_shadow",
+      "MAT_UE_Terracotta_00",
+      "MAT_UE_Terracotta_01",
+      "MAT_UE_Terracotta_02",
+      "MAT_UE_Terracotta_03",
+      "MAT_UE_Terracotta_04",
+      "MAT_UE_Warm_ivory_plaster",
+      "MAT_UE_Warm_limestone"
+    ],
+    "materials": [
+      "MOD_Cottage_Courtyard_A",
+      "PROP_Bucket_A",
+      "PROP_Well_A"
+    ],
+    "medieval": [
+      "BLD_House_Cottage_A",
+      "MOD_Cottage_TimberFrame_A",
+      "MOD_Door_Entrance_A",
+      "MOD_FenceBay_A",
+      "MOD_Gate_A",
+      "MOD_StoneWall_A",
+      "MOD_Window_Closed_A",
+      "MOD_Window_Open_A",
+      "MOD_Window_Small_A",
+      "PROP_Barrel_A",
+      "PROP_Birdhouse_A",
+      "PROP_Bucket_A",
+      "PROP_Crate_A",
+      "PROP_FlowerBox_A",
+      "PROP_LogStack_A",
+      "PROP_Pot_A",
+      "PROP_Signpost_A",
+      "PROP_Stump_Axe_A",
+      "PROP_Well_A",
+      "PROP_Wheelbarrow_A",
+      "PROP_WoodBench_A",
+      "PROP_WoodTable_A",
+      "PROP_Woodshed_A"
+    ],
+    "medium": [
+      "VEG_Branch_Medium_A",
+      "VEG_LeafCluster_Medium_A",
+      "VEG_LeafCluster_Medium_B",
+      "VEG_Stone_Medium_A",
+      "VEG_Stone_Medium_B"
+    ],
+    "mesh": [
+      "VEG_Branch_Curved_A",
+      "VEG_Branch_Fork_A",
+      "VEG_Branch_Large_A",
+      "VEG_Branch_Medium_A",
+      "VEG_Branch_Small_A",
+      "VEG_FlowerCluster_A",
+      "VEG_FlowerCluster_B",
+      "VEG_Grass_Flowers_A",
+      "VEG_Grass_Short_A",
+      "VEG_Grass_Short_B",
+      "VEG_Grass_Tall_A",
+      "VEG_GroundLeaves_A",
+      "VEG_GroundPatch_A",
+      "VEG_GroundPatch_Flowers_A",
+      "VEG_GroundPlant_A",
+      "VEG_GroundPlant_B",
+      "VEG_LeafCluster_Large_A",
+      "VEG_LeafCluster_Large_B",
+      "VEG_LeafCluster_Medium_A",
+      "VEG_LeafCluster_Medium_B",
+      "VEG_LeafCluster_Small_A",
+      "VEG_Stone_Large_A",
+      "VEG_Stone_Medium_A",
+      "VEG_Stone_Medium_B",
+      "VEG_Stone_Mossy_A",
+      "VEG_Stone_Small_A",
+      "VEG_Stone_Small_B",
+      "VEG_TreeRoot_A",
+      "VEG_Tree_Oak_A"
+    ],
+    "metal": [
+      "MAT_Cottage_ForgedIron_A"
+    ],
+    "metric": [
+      "MAT_Cottage_HempRope_A"
+    ],
+    "missing": [
+      "MAT_Cottage_HempRope_A"
+    ],
+    "mod": [
+      "BLD_House_Cottage_A",
+      "MOD_Cottage_Courtyard_A",
+      "MOD_Cottage_TimberFrame_A",
+      "MOD_Cottage_Yard_Kit_A",
+      "MOD_Door_Entrance_A",
+      "MOD_FenceBay_A",
+      "MOD_Gate_A",
+      "MOD_StoneWall_A",
+      "MOD_Window_Closed_A",
+      "MOD_Window_Open_A",
+      "MOD_Window_Small_A"
+    ],
+    "model": [
+      "PROP_Bucket_A",
+      "PROP_Well_A"
+    ],
+    "modular": [
+      "MOD_Cottage_Courtyard_A",
+      "MOD_Cottage_TimberFrame_A",
+      "MOD_Cottage_Yard_Kit_A",
+      "MOD_Door_Entrance_A",
+      "MOD_FenceBay_A",
+      "MOD_Gate_A",
+      "MOD_StoneWall_A",
+      "MOD_Window_Closed_A",
+      "MOD_Window_Open_A",
+      "MOD_Window_Small_A"
+    ],
+    "module": [
+      "MOD_Cottage_TimberFrame_A",
+      "MOD_Cottage_Yard_Kit_A",
+      "MOD_Door_Entrance_A",
+      "MOD_FenceBay_A",
+      "MOD_Gate_A",
+      "MOD_StoneWall_A",
+      "MOD_Window_Closed_A",
+      "MOD_Window_Open_A",
+      "MOD_Window_Small_A",
+      "PROP_Barrel_A",
+      "PROP_Birdhouse_A",
+      "PROP_Crate_A",
+      "PROP_FlowerBox_A",
+      "PROP_LogStack_A",
+      "PROP_Pot_A",
+      "PROP_Signpost_A",
+      "PROP_Stump_Axe_A",
+      "PROP_Wheelbarrow_A",
+      "PROP_WoodBench_A",
+      "PROP_WoodTable_A",
+      "PROP_Woodshed_A"
+    ],
+    "modules": [
+      "MOD_Cottage_Yard_Kit_A"
+    ],
+    "moss": [
+      "MAT_Tree02_Moss",
+      "TEX_Tree02_Moss"
+    ],
+    "mossy": [
+      "VEG_Stone_Mossy_A"
+    ],
+    "muted": [
+      "MAT_UE_Muted_amber_glass"
+    ],
+    "native": [
+      "MAT_Cottage_ForgedIron_A"
+    ],
+    "new": [
+      "MOD_Cottage_Yard_Kit_A"
+    ],
+    "not": [
+      "MAT_Cottage_ForgedIron_A",
+      "MOD_Cottage_Yard_Kit_A"
+    ],
+    "now": [
+      "MOD_Cottage_Courtyard_A"
+    ],
+    "oak": [
+      "MAT_UE_Honey_oak",
+      "MAT_UE_Oak_door_and_shutters",
+      "VEG_Branch_Curved_A",
+      "VEG_Branch_Fork_A",
+      "VEG_Branch_Large_A",
+      "VEG_Branch_Medium_A",
+      "VEG_Branch_Small_A",
+      "VEG_FlowerCluster_A",
+      "VEG_FlowerCluster_B",
+      "VEG_Grass_Flowers_A",
+      "VEG_Grass_Short_A",
+      "VEG_Grass_Short_B",
+      "VEG_Grass_Tall_A",
+      "VEG_GroundLeaves_A",
+      "VEG_GroundPatch_A",
+      "VEG_GroundPatch_Flowers_A",
+      "VEG_GroundPlant_A",
+      "VEG_GroundPlant_B",
+      "VEG_LeafCluster_Large_A",
+      "VEG_LeafCluster_Large_B",
+      "VEG_LeafCluster_Medium_A",
+      "VEG_LeafCluster_Medium_B",
+      "VEG_LeafCluster_Small_A",
+      "VEG_Stone_Large_A",
+      "VEG_Stone_Medium_A",
+      "VEG_Stone_Medium_B",
+      "VEG_Stone_Mossy_A",
+      "VEG_Stone_Small_A",
+      "VEG_Stone_Small_B",
+      "VEG_TreeRoot_A",
+      "VEG_Tree_Oak_A"
+    ],
+    "on": [
+      "MAT_Bark",
+      "MAT_DirtGround_A_PBR",
+      "MAT_DirtPath_A_PBR",
+      "MAT_DirtRoad_A",
+      "MAT_DoorWood",
+      "MAT_Grass_Base_A",
+      "MAT_Grass_Dry_A",
+      "MAT_Grass_Forest_A_PBR",
+      "MAT_Logs_Bark",
+      "MAT_RoofTile",
+      "MAT_Shutters",
+      "MAT_T_ChimneyStone",
+      "MAT_T_FieldStone",
+      "MAT_T_Foliage",
+      "MAT_T_Plaster",
+      "MAT_T_Timber",
+      "MAT_Tree02_Bark",
+      "MAT_Tree02_Leaves",
+      "MAT_Tree02_Moss",
+      "MAT_Tree02_Rocks"
+    ],
+    "only": [
+      "MAT_Cottage_ForgedIron_A"
+    ],
+    "open": [
+      "BLD_House_Cottage_A",
+      "MOD_Window_Open_A"
+    ],
+    "other": [
+      "MOD_Cottage_Courtyard_A"
+    ],
+    "packed": [
+      "PROP_Bucket_A",
+      "PROP_Well_A"
+    ],
+    "parts": [
+      "BLD_House_Cottage_A"
+    ],
+    "pbr": [
+      "MAT_Bark",
+      "MAT_DirtGround_A_PBR",
+      "MAT_DirtPath_A_PBR",
+      "MAT_DirtRoad_A",
+      "MAT_DoorWood",
+      "MAT_Grass_Base_A",
+      "MAT_Grass_Dry_A",
+      "MAT_Grass_Forest_A_PBR",
+      "MAT_Logs_Bark",
+      "MAT_RoofTile",
+      "MAT_Shutters",
+      "MAT_T_ChimneyStone",
+      "MAT_T_FieldStone",
+      "MAT_T_Foliage",
+      "MAT_T_Plaster",
+      "MAT_T_Timber",
+      "MAT_Tree02_Bark",
+      "MAT_Tree02_Leaves",
+      "MAT_Tree02_Moss",
+      "MAT_Tree02_Rocks",
+      "TEX_Bark",
+      "TEX_DirtGround_A_PBR",
+      "TEX_DirtPath_A_PBR",
+      "TEX_DirtRoad_A",
+      "TEX_DoorWood",
+      "TEX_Grass_Base_A",
+      "TEX_Grass_Dry_A",
+      "TEX_Grass_Forest_A_PBR",
+      "TEX_Logs_Bark",
+      "TEX_RoofTile",
+      "TEX_Shutters",
+      "TEX_T_ChimneyStone",
+      "TEX_T_FieldStone",
+      "TEX_T_Foliage",
+      "TEX_T_Plaster",
+      "TEX_T_Timber",
+      "TEX_Tree02_Bark",
+      "TEX_Tree02_Leaves",
+      "TEX_Tree02_Moss",
+      "TEX_Tree02_Rocks"
+    ],
+    "pending": [
+      "MOD_Cottage_Courtyard_A",
+      "PROP_Bucket_A",
+      "PROP_Well_A"
+    ],
+    "place": [
+      "PROP_Bucket_A",
+      "PROP_Well_A"
+    ],
+    "plaster": [
+      "BLD_House_Cottage_A",
+      "MAT_T_Plaster",
+      "MAT_UE_Warm_ivory_plaster",
+      "TEX_T_Plaster"
+    ],
+    "pot": [
+      "BLD_House_Cottage_A",
+      "PROP_Pot_A"
+    ],
+    "preparation": [
+      "MOD_Cottage_Courtyard_A"
+    ],
+    "procedural": [
+      "MAT_Cottage_HempRope_A"
+    ],
+    "prop": [
+      "BLD_House_Cottage_A",
+      "MOD_Cottage_Courtyard_A",
+      "MOD_Cottage_Yard_Kit_A",
+      "PROP_Barrel_A",
+      "PROP_Birdhouse_01",
+      "PROP_Birdhouse_A",
+      "PROP_Bucket_A",
+      "PROP_Crate_A",
+      "PROP_FlowerBox_A",
+      "PROP_Lantern_01",
+      "PROP_LogStack_A",
+      "PROP_Pot_A",
+      "PROP_Signpost_A",
+      "PROP_Stump_Axe_A",
+      "PROP_Well_A",
+      "PROP_Wheelbarrow_A",
+      "PROP_WoodBench_A",
+      "PROP_WoodTable_A",
+      "PROP_Woodshed_A"
+    ],
+    "recess": [
+      "MAT_UE_Recess_shadow"
+    ],
+    "registered": [
+      "BLD_House_Cottage_A",
+      "MAT_Bark",
+      "MAT_DirtGround_A_PBR",
+      "MAT_DirtPath_A_PBR",
+      "MAT_DirtRoad_A",
+      "MAT_DoorWood",
+      "MAT_Grass_Base_A",
+      "MAT_Grass_Dry_A",
+      "MAT_Grass_Forest_A_PBR",
+      "MAT_Logs_Bark",
+      "MAT_RoofTile",
+      "MAT_Shutters",
+      "MAT_T_ChimneyStone",
+      "MAT_T_FieldStone",
+      "MAT_T_Foliage",
+      "MAT_T_Plaster",
+      "MAT_T_Timber",
+      "MAT_Tree02_Bark",
+      "MAT_Tree02_Leaves",
+      "MAT_Tree02_Moss",
+      "MAT_Tree02_Rocks"
+    ],
+    "remain": [
+      "MOD_Cottage_Courtyard_A"
+    ],
+    "residential": [
+      "BLD_House_Cottage_A"
+    ],
+    "restored": [
+      "PROP_Bucket_A",
+      "PROP_Well_A"
+    ],
+    "reusable": [
+      "BLD_Cottage_01",
+      "BLD_Cottage_02",
+      "BLD_Cottage_03",
+      "MOD_Cottage_TimberFrame_A",
+      "MOD_Door_Entrance_A",
+      "MOD_FenceBay_A",
+      "MOD_Gate_A",
+      "MOD_StoneWall_A",
+      "MOD_Window_Closed_A",
+      "MOD_Window_Open_A",
+      "MOD_Window_Small_A",
+      "PROP_Barrel_A",
+      "PROP_Birdhouse_01",
+      "PROP_Birdhouse_A",
+      "PROP_Bucket_A",
+      "PROP_Crate_A",
+      "PROP_FlowerBox_A",
+      "PROP_Lantern_01",
+      "PROP_LogStack_A",
+      "PROP_Pot_A",
+      "PROP_Signpost_A",
+      "PROP_Stump_Axe_A",
+      "PROP_Well_A",
+      "PROP_Wheelbarrow_A",
+      "PROP_WoodBench_A",
+      "PROP_WoodTable_A",
+      "PROP_Woodshed_A",
+      "VEG_Branch_Curved_A",
+      "VEG_Branch_Fork_A",
+      "VEG_Branch_Large_A",
+      "VEG_Branch_Medium_A",
+      "VEG_Branch_Small_A",
+      "VEG_FlowerCluster_A",
+      "VEG_FlowerCluster_B",
+      "VEG_Grass_Flowers_A",
+      "VEG_Grass_Short_A",
+      "VEG_Grass_Short_B",
+      "VEG_Grass_Tall_A",
+      "VEG_GroundLeaves_A",
+      "VEG_GroundPatch_A",
+      "VEG_GroundPatch_Flowers_A",
+      "VEG_GroundPlant_A",
+      "VEG_GroundPlant_B",
+      "VEG_LeafCluster_Large_A",
+      "VEG_LeafCluster_Large_B",
+      "VEG_LeafCluster_Medium_A",
+      "VEG_LeafCluster_Medium_B",
+      "VEG_LeafCluster_Small_A",
+      "VEG_Stone_Large_A",
+      "VEG_Stone_Medium_A",
+      "VEG_Stone_Medium_B",
+      "VEG_Stone_Mossy_A",
+      "VEG_Stone_Small_A",
+      "VEG_Stone_Small_B",
+      "VEG_TreeRoot_A",
+      "VEG_Tree_01",
+      "VEG_Tree_02",
+      "VEG_Tree_03",
+      "VEG_Tree_04",
+      "VEG_Tree_Oak_A"
+    ],
+    "reuse": [
+      "MAT_Cottage_ForgedIron_A"
+    ],
+    "roads": [
+      "MAT_DirtPath_A_PBR",
+      "MAT_DirtRoad_A",
+      "TEX_DirtPath_A_PBR",
+      "TEX_DirtRoad_A"
+    ],
+    "rocks": [
+      "MAT_Tree02_Rocks",
+      "TEX_Tree02_Rocks"
+    ],
+    "rooftile": [
+      "MAT_RoofTile",
+      "TEX_RoofTile"
+    ],
+    "rope": [
+      "MAT_Cottage_HempRope_A"
+    ],
+    "seated": [
+      "PROP_Bucket_A",
+      "PROP_Well_A"
+    ],
+    "separately": [
+      "BLD_House_Cottage_A"
+    ],
+    "set": [
+      "MAT_Bark",
+      "MAT_DirtGround_A_PBR",
+      "MAT_DirtPath_A_PBR",
+      "MAT_DirtRoad_A",
+      "MAT_DoorWood",
+      "MAT_Grass_Base_A",
+      "MAT_Grass_Dry_A",
+      "MAT_Grass_Forest_A_PBR",
+      "MAT_Logs_Bark",
+      "MAT_RoofTile",
+      "MAT_Shutters",
+      "MAT_T_ChimneyStone",
+      "MAT_T_FieldStone",
+      "MAT_T_Foliage",
+      "MAT_T_Plaster",
+      "MAT_T_Timber",
+      "MAT_Tree02_Bark",
+      "MAT_Tree02_Leaves",
+      "MAT_Tree02_Moss",
+      "MAT_Tree02_Rocks",
+      "TEX_Bark",
+      "TEX_DirtGround_A_PBR",
+      "TEX_DirtPath_A_PBR",
+      "TEX_DirtRoad_A",
+      "TEX_DoorWood",
+      "TEX_Grass_Base_A",
+      "TEX_Grass_Dry_A",
+      "TEX_Grass_Forest_A_PBR",
+      "TEX_Logs_Bark",
+      "TEX_RoofTile",
+      "TEX_Shutters",
+      "TEX_T_ChimneyStone",
+      "TEX_T_FieldStone",
+      "TEX_T_Foliage",
+      "TEX_T_Plaster",
+      "TEX_T_Timber",
+      "TEX_Tree02_Bark",
+      "TEX_Tree02_Leaves",
+      "TEX_Tree02_Moss",
+      "TEX_Tree02_Rocks"
+    ],
+    "shadow": [
+      "MAT_UE_Recess_shadow"
+    ],
+    "short": [
+      "VEG_Grass_Short_A",
+      "VEG_Grass_Short_B"
+    ],
+    "shutters": [
+      "MAT_Shutters",
+      "MAT_UE_Oak_door_and_shutters",
+      "TEX_Shutters"
+    ],
+    "signpost": [
+      "BLD_House_Cottage_A",
+      "PROP_Signpost_A"
+    ],
+    "sm": [
+      "MOD_Cottage_TimberFrame_A",
+      "MOD_Door_Entrance_A",
+      "MOD_FenceBay_A",
+      "MOD_Gate_A",
+      "MOD_StoneWall_A",
+      "MOD_Window_Closed_A",
+      "MOD_Window_Open_A",
+      "MOD_Window_Small_A",
+      "PROP_Barrel_A",
+      "PROP_Birdhouse_A",
+      "PROP_Bucket_A",
+      "PROP_Crate_A",
+      "PROP_FlowerBox_A",
+      "PROP_LogStack_A",
+      "PROP_Pot_A",
+      "PROP_Signpost_A",
+      "PROP_Stump_Axe_A",
+      "PROP_Well_A",
+      "PROP_Wheelbarrow_A",
+      "PROP_WoodBench_A",
+      "PROP_WoodTable_A",
+      "PROP_Woodshed_A",
+      "VEG_Branch_Curved_A",
+      "VEG_Branch_Fork_A",
+      "VEG_Branch_Large_A",
+      "VEG_Branch_Medium_A",
+      "VEG_Branch_Small_A",
+      "VEG_FlowerCluster_A",
+      "VEG_FlowerCluster_B",
+      "VEG_Grass_Flowers_A",
+      "VEG_Grass_Short_A",
+      "VEG_Grass_Short_B",
+      "VEG_Grass_Tall_A",
+      "VEG_GroundLeaves_A",
+      "VEG_GroundPatch_A",
+      "VEG_GroundPatch_Flowers_A",
+      "VEG_GroundPlant_A",
+      "VEG_GroundPlant_B",
+      "VEG_LeafCluster_Large_A",
+      "VEG_LeafCluster_Large_B",
+      "VEG_LeafCluster_Medium_A",
+      "VEG_LeafCluster_Medium_B",
+      "VEG_LeafCluster_Small_A",
+      "VEG_Stone_Large_A",
+      "VEG_Stone_Medium_A",
+      "VEG_Stone_Medium_B",
+      "VEG_Stone_Mossy_A",
+      "VEG_Stone_Small_A",
+      "VEG_Stone_Small_B",
+      "VEG_TreeRoot_A",
+      "VEG_Tree_Oak_A"
+    ],
+    "small": [
+      "BLD_House_Cottage_A",
+      "MOD_Window_Small_A",
+      "VEG_Branch_Small_A",
+      "VEG_LeafCluster_Small_A",
+      "VEG_Stone_Small_A",
+      "VEG_Stone_Small_B"
+    ],
+    "source": [
+      "BLD_House_Cottage_A",
+      "TEX_Bark",
+      "TEX_DirtGround_A_PBR",
+      "TEX_DirtPath_A_PBR",
+      "TEX_DirtRoad_A",
+      "TEX_DoorWood",
+      "TEX_Grass_Base_A",
+      "TEX_Grass_Dry_A",
+      "TEX_Grass_Forest_A_PBR",
+      "TEX_Logs_Bark",
+      "TEX_RoofTile",
+      "TEX_Shutters",
+      "TEX_T_ChimneyStone",
+      "TEX_T_FieldStone",
+      "TEX_T_Foliage",
+      "TEX_T_Plaster",
+      "TEX_T_Timber",
+      "TEX_Tree02_Bark",
+      "TEX_Tree02_Leaves",
+      "TEX_Tree02_Moss",
+      "TEX_Tree02_Rocks"
+    ],
+    "specification": [
+      "MAT_Bark",
+      "MAT_DirtGround_A_PBR",
+      "MAT_DirtPath_A_PBR",
+      "MAT_DirtRoad_A",
+      "MAT_DoorWood",
+      "MAT_Grass_Base_A",
+      "MAT_Grass_Dry_A",
+      "MAT_Grass_Forest_A_PBR",
+      "MAT_Logs_Bark",
+      "MAT_RoofTile",
+      "MAT_Shutters",
+      "MAT_T_ChimneyStone",
+      "MAT_T_FieldStone",
+      "MAT_T_Foliage",
+      "MAT_T_Plaster",
+      "MAT_T_Timber",
+      "MAT_Tree02_Bark",
+      "MAT_Tree02_Leaves",
+      "MAT_Tree02_Moss",
+      "MAT_Tree02_Rocks"
+    ],
+    "stable": [
+      "PROP_Bucket_A",
+      "PROP_Well_A"
+    ],
+    "standalone": [
+      "MOD_Cottage_TimberFrame_A",
+      "MOD_Door_Entrance_A",
+      "MOD_FenceBay_A",
+      "MOD_Gate_A",
+      "MOD_StoneWall_A",
+      "MOD_Window_Closed_A",
+      "MOD_Window_Open_A",
+      "MOD_Window_Small_A",
+      "PROP_Barrel_A",
+      "PROP_Birdhouse_A",
+      "PROP_Crate_A",
+      "PROP_FlowerBox_A",
+      "PROP_LogStack_A",
+      "PROP_Pot_A",
+      "PROP_Signpost_A",
+      "PROP_Stump_Axe_A",
+      "PROP_Wheelbarrow_A",
+      "PROP_WoodBench_A",
+      "PROP_WoodTable_A",
+      "PROP_Woodshed_A"
+    ],
+    "stone": [
+      "BLD_House_Cottage_A",
+      "VEG_Stone_Large_A",
+      "VEG_Stone_Medium_A",
+      "VEG_Stone_Medium_B",
+      "VEG_Stone_Mossy_A",
+      "VEG_Stone_Small_A",
+      "VEG_Stone_Small_B"
+    ],
+    "stonewall": [
+      "BLD_House_Cottage_A",
+      "MOD_StoneWall_A"
+    ],
+    "stump": [
+      "BLD_House_Cottage_A",
+      "PROP_Stump_Axe_A"
+    ],
+    "stylized": [
+      "BLD_Cottage_01",
+      "BLD_Cottage_02",
+      "BLD_Cottage_03",
+      "PROP_Birdhouse_01",
+      "PROP_Lantern_01",
+      "VEG_Branch_Curved_A",
+      "VEG_Branch_Fork_A",
+      "VEG_Branch_Large_A",
+      "VEG_Branch_Medium_A",
+      "VEG_Branch_Small_A",
+      "VEG_FlowerCluster_A",
+      "VEG_FlowerCluster_B",
+      "VEG_Grass_Flowers_A",
+      "VEG_Grass_Short_A",
+      "VEG_Grass_Short_B",
+      "VEG_Grass_Tall_A",
+      "VEG_GroundLeaves_A",
+      "VEG_GroundPatch_A",
+      "VEG_GroundPatch_Flowers_A",
+      "VEG_GroundPlant_A",
+      "VEG_GroundPlant_B",
+      "VEG_LeafCluster_Large_A",
+      "VEG_LeafCluster_Large_B",
+      "VEG_LeafCluster_Medium_A",
+      "VEG_LeafCluster_Medium_B",
+      "VEG_LeafCluster_Small_A",
+      "VEG_Stone_Large_A",
+      "VEG_Stone_Medium_A",
+      "VEG_Stone_Medium_B",
+      "VEG_Stone_Mossy_A",
+      "VEG_Stone_Small_A",
+      "VEG_Stone_Small_B",
+      "VEG_TreeRoot_A",
+      "VEG_Tree_01",
+      "VEG_Tree_02",
+      "VEG_Tree_03",
+      "VEG_Tree_04",
+      "VEG_Tree_Oak_A"
+    ],
+    "suite": [
+      "TEX_Bark",
+      "TEX_DirtGround_A_PBR",
+      "TEX_DirtPath_A_PBR",
+      "TEX_DirtRoad_A",
+      "TEX_DoorWood",
+      "TEX_Grass_Base_A",
+      "TEX_Grass_Dry_A",
+      "TEX_Grass_Forest_A_PBR",
+      "TEX_Logs_Bark",
+      "TEX_RoofTile",
+      "TEX_Shutters",
+      "TEX_T_ChimneyStone",
+      "TEX_T_FieldStone",
+      "TEX_T_Foliage",
+      "TEX_T_Plaster",
+      "TEX_T_Timber",
+      "TEX_Tree02_Bark",
+      "TEX_Tree02_Leaves",
+      "TEX_Tree02_Moss",
+      "TEX_Tree02_Rocks"
+    ],
+    "surface": [
+      "MAT_Bark",
+      "MAT_Cottage_HempRope_A",
+      "MAT_DirtGround_A_PBR",
+      "MAT_DirtPath_A_PBR",
+      "MAT_DirtRoad_A",
+      "MAT_DoorWood",
+      "MAT_Grass_Base_A",
+      "MAT_Grass_Dry_A",
+      "MAT_Grass_Forest_A_PBR",
+      "MAT_Logs_Bark",
+      "MAT_RoofTile",
+      "MAT_Shutters",
+      "MAT_T_ChimneyStone",
+      "MAT_T_FieldStone",
+      "MAT_T_Foliage",
+      "MAT_T_Plaster",
+      "MAT_T_Timber",
+      "MAT_Tree02_Bark",
+      "MAT_Tree02_Leaves",
+      "MAT_Tree02_Moss",
+      "MAT_Tree02_Rocks"
+    ],
+    "t": [
+      "MAT_T_ChimneyStone",
+      "MAT_T_FieldStone",
+      "MAT_T_Foliage",
+      "MAT_T_Plaster",
+      "MAT_T_Timber",
+      "TEX_T_ChimneyStone",
+      "TEX_T_FieldStone",
+      "TEX_T_Foliage",
+      "TEX_T_Plaster",
+      "TEX_T_Timber"
+    ],
+    "tall": [
+      "VEG_Grass_Tall_A"
+    ],
+    "terracotta": [
+      "MAT_UE_Terracotta_00",
+      "MAT_UE_Terracotta_01",
+      "MAT_UE_Terracotta_02",
+      "MAT_UE_Terracotta_03",
+      "MAT_UE_Terracotta_04"
+    ],
+    "tex": [
+      "TEX_Bark",
+      "TEX_DirtGround_A_PBR",
+      "TEX_DirtPath_A_PBR",
+      "TEX_DirtRoad_A",
+      "TEX_DoorWood",
+      "TEX_Grass_Base_A",
+      "TEX_Grass_Dry_A",
+      "TEX_Grass_Forest_A_PBR",
+      "TEX_Logs_Bark",
+      "TEX_RoofTile",
+      "TEX_Shutters",
+      "TEX_T_ChimneyStone",
+      "TEX_T_FieldStone",
+      "TEX_T_Foliage",
+      "TEX_T_Plaster",
+      "TEX_T_Timber",
+      "TEX_Tree02_Bark",
+      "TEX_Tree02_Leaves",
+      "TEX_Tree02_Moss",
+      "TEX_Tree02_Rocks"
+    ],
+    "texture": [
+      "MAT_Bark",
+      "MAT_DirtGround_A_PBR",
+      "MAT_DirtPath_A_PBR",
+      "MAT_DirtRoad_A",
+      "MAT_DoorWood",
+      "MAT_Grass_Base_A",
+      "MAT_Grass_Dry_A",
+      "MAT_Grass_Forest_A_PBR",
+      "MAT_Logs_Bark",
+      "MAT_RoofTile",
+      "MAT_Shutters",
+      "MAT_T_ChimneyStone",
+      "MAT_T_FieldStone",
+      "MAT_T_Foliage",
+      "MAT_T_Plaster",
+      "MAT_T_Timber",
+      "MAT_Tree02_Bark",
+      "MAT_Tree02_Leaves",
+      "MAT_Tree02_Moss",
+      "MAT_Tree02_Rocks",
+      "TEX_Bark",
+      "TEX_DirtGround_A_PBR",
+      "TEX_DirtPath_A_PBR",
+      "TEX_DirtRoad_A",
+      "TEX_DoorWood",
+      "TEX_Grass_Base_A",
+      "TEX_Grass_Dry_A",
+      "TEX_Grass_Forest_A_PBR",
+      "TEX_Logs_Bark",
+      "TEX_RoofTile",
+      "TEX_Shutters",
+      "TEX_T_ChimneyStone",
+      "TEX_T_FieldStone",
+      "TEX_T_Foliage",
+      "TEX_T_Plaster",
+      "TEX_T_Timber",
+      "TEX_Tree02_Bark",
+      "TEX_Tree02_Leaves",
+      "TEX_Tree02_Moss",
+      "TEX_Tree02_Rocks"
+    ],
+    "textured": [
+      "MOD_Cottage_Yard_Kit_A"
+    ],
+    "the": [
+      "MAT_Bark",
+      "MAT_Cottage_ForgedIron_A",
+      "MAT_DirtGround_A_PBR",
+      "MAT_DirtPath_A_PBR",
+      "MAT_DirtRoad_A",
+      "MAT_DoorWood",
+      "MAT_Grass_Base_A",
+      "MAT_Grass_Dry_A",
+      "MAT_Grass_Forest_A_PBR",
+      "MAT_Logs_Bark",
+      "MAT_RoofTile",
+      "MAT_Shutters",
+      "MAT_T_ChimneyStone",
+      "MAT_T_FieldStone",
+      "MAT_T_Foliage",
+      "MAT_T_Plaster",
+      "MAT_T_Timber",
+      "MAT_Tree02_Bark",
+      "MAT_Tree02_Leaves",
+      "MAT_Tree02_Moss",
+      "MAT_Tree02_Rocks",
+      "TEX_Bark",
+      "TEX_DirtGround_A_PBR",
+      "TEX_DirtPath_A_PBR",
+      "TEX_DirtRoad_A",
+      "TEX_DoorWood",
+      "TEX_Grass_Base_A",
+      "TEX_Grass_Dry_A",
+      "TEX_Grass_Forest_A_PBR",
+      "TEX_Logs_Bark",
+      "TEX_RoofTile",
+      "TEX_Shutters",
+      "TEX_T_ChimneyStone",
+      "TEX_T_FieldStone",
+      "TEX_T_Foliage",
+      "TEX_T_Plaster",
+      "TEX_T_Timber",
+      "TEX_Tree02_Bark",
+      "TEX_Tree02_Leaves",
+      "TEX_Tree02_Moss",
+      "TEX_Tree02_Rocks"
+    ],
+    "thickness": [
+      "PROP_Bucket_A",
+      "PROP_Well_A"
+    ],
+    "timber": [
+      "BLD_House_Cottage_A",
+      "MAT_T_Timber",
+      "TEX_T_Timber"
+    ],
+    "timberframe": [
+      "BLD_House_Cottage_A",
+      "MOD_Cottage_TimberFrame_A"
+    ],
+    "to": [
+      "MAT_Cottage_ForgedIron_A"
+    ],
+    "tree": [
+      "VEG_Tree_01",
+      "VEG_Tree_02",
+      "VEG_Tree_03",
+      "VEG_Tree_04",
+      "VEG_Tree_Oak_A"
+    ],
+    "tree02": [
+      "MAT_Tree02_Bark",
+      "MAT_Tree02_Leaves",
+      "MAT_Tree02_Moss",
+      "MAT_Tree02_Rocks",
+      "TEX_Tree02_Bark",
+      "TEX_Tree02_Leaves",
+      "TEX_Tree02_Moss",
+      "TEX_Tree02_Rocks"
+    ],
+    "treeroot": [
+      "VEG_TreeRoot_A"
+    ],
+    "ue": [
+      "MAT_UE_Cottage_03",
+      "MAT_UE_Dark_iron",
+      "MAT_UE_Honey_oak",
+      "MAT_UE_Lantern_warm_glass",
+      "MAT_UE_Limestone_variation_0",
+      "MAT_UE_Limestone_variation_1",
+      "MAT_UE_Limestone_variation_2",
+      "MAT_UE_Limestone_variation_3",
+      "MAT_UE_Limestone_variation_4",
+      "MAT_UE_Limestone_variation_5",
+      "MAT_UE_Muted_amber_glass",
+      "MAT_UE_Oak_door_and_shutters",
+      "MAT_UE_Recess_shadow",
+      "MAT_UE_Terracotta_00",
+      "MAT_UE_Terracotta_01",
+      "MAT_UE_Terracotta_02",
+      "MAT_UE_Terracotta_03",
+      "MAT_UE_Terracotta_04",
+      "MAT_UE_Warm_ivory_plaster",
+      "MAT_UE_Warm_limestone"
+    ],
+    "unchanged": [
+      "MAT_Cottage_ForgedIron_A"
+    ],
+    "unreal": [
+      "MAT_Cottage_ForgedIron_A",
+      "MAT_UE_Cottage_03",
+      "MAT_UE_Dark_iron",
+      "MAT_UE_Honey_oak",
+      "MAT_UE_Lantern_warm_glass",
+      "MAT_UE_Limestone_variation_0",
+      "MAT_UE_Limestone_variation_1",
+      "MAT_UE_Limestone_variation_2",
+      "MAT_UE_Limestone_variation_3",
+      "MAT_UE_Limestone_variation_4",
+      "MAT_UE_Limestone_variation_5",
+      "MAT_UE_Muted_amber_glass",
+      "MAT_UE_Oak_door_and_shutters",
+      "MAT_UE_Recess_shadow",
+      "MAT_UE_Terracotta_00",
+      "MAT_UE_Terracotta_01",
+      "MAT_UE_Terracotta_02",
+      "MAT_UE_Terracotta_03",
+      "MAT_UE_Terracotta_04",
+      "MAT_UE_Warm_ivory_plaster",
+      "MAT_UE_Warm_limestone"
+    ],
+    "upgraded": [
+      "PROP_Bucket_A",
+      "PROP_Well_A"
+    ],
+    "uv": [
+      "MAT_Cottage_HempRope_A",
+      "PROP_Bucket_A",
+      "PROP_Well_A"
+    ],
+    "v004": [
+      "MOD_Cottage_Yard_Kit_A"
+    ],
+    "v020": [
+      "MOD_Cottage_Courtyard_A"
+    ],
+    "variant": [
+      "MAT_Cottage_ForgedIron_A",
+      "MOD_Cottage_Yard_Kit_A"
+    ],
+    "variation": [
+      "MAT_UE_Limestone_variation_0",
+      "MAT_UE_Limestone_variation_1",
+      "MAT_UE_Limestone_variation_2",
+      "MAT_UE_Limestone_variation_3",
+      "MAT_UE_Limestone_variation_4",
+      "MAT_UE_Limestone_variation_5"
+    ],
+    "veg": [
+      "VEG_Branch_Curved_A",
+      "VEG_Branch_Fork_A",
+      "VEG_Branch_Large_A",
+      "VEG_Branch_Medium_A",
+      "VEG_Branch_Small_A",
+      "VEG_FlowerCluster_A",
+      "VEG_FlowerCluster_B",
+      "VEG_Grass_Flowers_A",
+      "VEG_Grass_Short_A",
+      "VEG_Grass_Short_B",
+      "VEG_Grass_Tall_A",
+      "VEG_GroundLeaves_A",
+      "VEG_GroundPatch_A",
+      "VEG_GroundPatch_Flowers_A",
+      "VEG_GroundPlant_A",
+      "VEG_GroundPlant_B",
+      "VEG_LeafCluster_Large_A",
+      "VEG_LeafCluster_Large_B",
+      "VEG_LeafCluster_Medium_A",
+      "VEG_LeafCluster_Medium_B",
+      "VEG_LeafCluster_Small_A",
+      "VEG_Stone_Large_A",
+      "VEG_Stone_Medium_A",
+      "VEG_Stone_Medium_B",
+      "VEG_Stone_Mossy_A",
+      "VEG_Stone_Small_A",
+      "VEG_Stone_Small_B",
+      "VEG_TreeRoot_A",
+      "VEG_Tree_01",
+      "VEG_Tree_02",
+      "VEG_Tree_03",
+      "VEG_Tree_04",
+      "VEG_Tree_Oak_A"
+    ],
+    "vegetation": [
+      "VEG_Branch_Curved_A",
+      "VEG_Branch_Fork_A",
+      "VEG_Branch_Large_A",
+      "VEG_Branch_Medium_A",
+      "VEG_Branch_Small_A",
+      "VEG_FlowerCluster_A",
+      "VEG_FlowerCluster_B",
+      "VEG_Grass_Flowers_A",
+      "VEG_Grass_Short_A",
+      "VEG_Grass_Short_B",
+      "VEG_Grass_Tall_A",
+      "VEG_GroundLeaves_A",
+      "VEG_GroundPatch_A",
+      "VEG_GroundPatch_Flowers_A",
+      "VEG_GroundPlant_A",
+      "VEG_GroundPlant_B",
+      "VEG_LeafCluster_Large_A",
+      "VEG_LeafCluster_Large_B",
+      "VEG_LeafCluster_Medium_A",
+      "VEG_LeafCluster_Medium_B",
+      "VEG_LeafCluster_Small_A",
+      "VEG_Stone_Large_A",
+      "VEG_Stone_Medium_A",
+      "VEG_Stone_Medium_B",
+      "VEG_Stone_Mossy_A",
+      "VEG_Stone_Small_A",
+      "VEG_Stone_Small_B",
+      "VEG_TreeRoot_A",
+      "VEG_Tree_01",
+      "VEG_Tree_02",
+      "VEG_Tree_03",
+      "VEG_Tree_04",
+      "VEG_Tree_Oak_A"
+    ],
+    "visual": [
+      "MAT_Cottage_ForgedIron_A"
+    ],
+    "warm": [
+      "MAT_UE_Lantern_warm_glass",
+      "MAT_UE_Warm_ivory_plaster",
+      "MAT_UE_Warm_limestone"
+    ],
+    "well": [
+      "BLD_House_Cottage_A",
+      "MAT_Cottage_HempRope_A",
+      "MOD_Cottage_Courtyard_A",
+      "PROP_Bucket_A",
+      "PROP_Well_A"
+    ],
+    "wheelbarrow": [
+      "BLD_House_Cottage_A",
+      "PROP_Wheelbarrow_A"
+    ],
+    "window": [
+      "BLD_House_Cottage_A",
+      "MOD_Window_Closed_A",
+      "MOD_Window_Open_A",
+      "MOD_Window_Small_A"
+    ],
+    "woodbench": [
+      "BLD_House_Cottage_A",
+      "PROP_WoodBench_A"
+    ],
+    "woodshed": [
+      "BLD_House_Cottage_A",
+      "PROP_Woodshed_A"
+    ],
+    "woodtable": [
+      "BLD_House_Cottage_A",
+      "PROP_WoodTable_A"
+    ],
+    "yard": [
+      "BLD_House_Cottage_A",
+      "MOD_Cottage_Yard_Kit_A"
+    ],
+    "веревка": [
+      "MAT_Cottage_HempRope_A"
+    ]
+  }
+}

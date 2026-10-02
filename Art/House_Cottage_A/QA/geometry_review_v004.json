@@ -1,0 +1,35 @@
+{
+  "source": "E:\\Games_Develop\\CozySettlement\\Art\\House_Cottage_A\\Source\\Blockout\\v004\\House_Cottage_A_Blockout.blend",
+  "checks": {
+    "all_vertices_finite_and_triangles_nonzero": true,
+    "one_grey_material": true,
+    "nine_review_cameras": true,
+    "house_width_under_8m": true,
+    "chimney_higher_than_ridge": true,
+    "door_height_2_05m": true,
+    "separate_roof_halves": true,
+    "no_image_texture_nodes_on_house": true
+  },
+  "passed": true,
+  "object_count": 291,
+  "evaluated_triangles": 76436,
+  "bounds_min_m": [
+    -3.6913821697235107,
+    -3.4000000953674316,
+    0.0
+  ],
+  "bounds_max_m": [
+    3.6499998569488525,
+    3.0450000762939453,
+    6.699999809265137
+  ],
+  "materials": [
+    "M_Blockout_Grey"
+  ],
+  "issues": [],
+  "limits": [
+    "No engine import, collision, LOD or UV validation.",
+    "Intersections at roof/dormer/chimney are blockout volumes.",
+    "Visual likeness requires comparing saved renders to supplied concepts."
+  ]
+}

@@ -1,0 +1,494 @@
+{
+  "asset_count": 29,
+  "lod_count": 3,
+  "assets": {
+    "SM_TreeRoot_A": {
+      "triangles": 412,
+      "vertices": 208,
+      "materials": [
+        "M_Oak_Bark"
+      ],
+      "dimensions_m": [
+        1.5058,
+        0.697,
+        0.5585
+      ],
+      "uv_layers": [
+        "UV0"
+      ]
+    },
+    "SM_Branch_Small_A": {
+      "triangles": 284,
+      "vertices": 144,
+      "materials": [
+        "M_Oak_Bark"
+      ],
+      "dimensions_m": [
+        0.501,
+        0.3264,
+        0.9641
+      ],
+      "uv_layers": [
+        "UV0"
+      ]
+    },
+    "SM_Branch_Medium_A": {
+      "triangles": 412,
+      "vertices": 208,
+      "materials": [
+        "M_Oak_Bark"
+      ],
+      "dimensions_m": [
+        1.0141,
+        0.4701,
+        1.585
+      ],
+      "uv_layers": [
+        "UV0"
+      ]
+    },
+    "SM_Branch_Large_A": {
+      "triangles": 412,
+      "vertices": 208,
+      "materials": [
+        "M_Oak_Bark"
+      ],
+      "dimensions_m": [
+        1.3241,
+        0.6314,
+        2.179
+      ],
+      "uv_layers": [
+        "UV0"
+      ]
+    },
+    "SM_Branch_Fork_A": {
+      "triangles": 1300,
+      "vertices": 652,
+      "materials": [
+        "M_Oak_Bark"
+      ],
+      "dimensions_m": [
+        1.2682,
+        0.4874,
+        1.679
+      ],
+      "uv_layers": [
+        "UV0"
+      ]
+    },
+    "SM_Branch_Curved_A": {
+      "triangles": 540,
+      "vertices": 272,
+      "materials": [
+        "M_Oak_Bark"
+      ],
+      "dimensions_m": [
+        1.0634,
+        0.5343,
+        1.9294
+      ],
+      "uv_layers": [
+        "UV0"
+      ]
+    },
+    "SM_LeafCluster_Small_A": {
+      "triangles": 128,
+      "vertices": 144,
+      "materials": [
+        "M_Oak_Foliage"
+      ],
+      "dimensions_m": [
+        0.9189,
+        0.8549,
+        0.69
+      ],
+      "uv_layers": [
+        "UV0"
+      ]
+    },
+    "SM_LeafCluster_Medium_A": {
+      "triangles": 192,
+      "vertices": 216,
+      "materials": [
+        "M_Oak_Foliage"
+      ],
+      "dimensions_m": [
+        1.4904,
+        1.3758,
+        1.1351
+      ],
+      "uv_layers": [
+        "UV0"
+      ]
+    },
+    "SM_LeafCluster_Large_A": {
+      "triangles": 272,
+      "vertices": 306,
+      "materials": [
+        "M_Oak_Foliage"
+      ],
+      "dimensions_m": [
+        2.0723,
+        1.8432,
+        1.5555
+      ],
+      "uv_layers": [
+        "UV0"
+      ]
+    },
+    "SM_LeafCluster_Medium_B": {
+      "triangles": 192,
+      "vertices": 216,
+      "materials": [
+        "M_Oak_Foliage"
+      ],
+      "dimensions_m": [
+        1.4263,
+        1.5535,
+        1.0902
+      ],
+      "uv_layers": [
+        "UV0"
+      ]
+    },
+    "SM_LeafCluster_Large_B": {
+      "triangles": 272,
+      "vertices": 306,
+      "materials": [
+        "M_Oak_Foliage"
+      ],
+      "dimensions_m": [
+        2.0314,
+        2.0832,
+        1.505
+      ],
+      "uv_layers": [
+        "UV0"
+      ]
+    },
+    "SM_Stone_Small_A": {
+      "triangles": 216,
+      "vertices": 110,
+      "materials": [
+        "M_Oak_Kit_Palette"
+      ],
+      "dimensions_m": [
+        0.42,
+        0.3478,
+        0.2855
+      ],
+      "uv_layers": [
+        "UVMap"
+      ]
+    },
+    "SM_Stone_Small_B": {
+      "triangles": 220,
+      "vertices": 112,
+      "materials": [
+        "M_Oak_Kit_Palette"
+      ],
+      "dimensions_m": [
+        0.4931,
+        0.2913,
+        0.1939
+      ],
+      "uv_layers": [
+        "UVMap"
+      ]
+    },
+    "SM_Stone_Medium_A": {
+      "triangles": 216,
+      "vertices": 110,
+      "materials": [
+        "M_Oak_Kit_Palette"
+      ],
+      "dimensions_m": [
+        0.8704,
+        0.6494,
+        0.5399
+      ],
+      "uv_layers": [
+        "UVMap"
+      ]
+    },
+    "SM_Stone_Medium_B": {
+      "triangles": 216,
+      "vertices": 110,
+      "materials": [
+        "M_Oak_Kit_Palette"
+      ],
+      "dimensions_m": [
+        0.6413,
+        0.8061,
+        0.4109
+      ],
+      "uv_layers": [
+        "UVMap"
+      ]
+    },
+    "SM_Stone_Large_A": {
+      "triangles": 204,
+      "vertices": 104,
+      "materials": [
+        "M_Oak_Kit_Palette"
+      ],
+      "dimensions_m": [
+        1.2413,
+        0.9935,
+        0.873
+      ],
+      "uv_layers": [
+        "UVMap"
+      ]
+    },
+    "SM_Stone_Mossy_A": {
+      "triangles": 180,
+      "vertices": 92,
+      "materials": [
+        "M_Oak_Kit_Palette"
+      ],
+      "dimensions_m": [
+        1.1078,
+        0.8176,
+        0.5861
+      ],
+      "uv_layers": [
+        "UVMap"
+      ]
+    },
+    "SM_Grass_Short_A": {
+      "triangles": 80,
+      "vertices": 128,
+      "materials": [
+        "M_Oak_Kit_Palette"
+      ],
+      "dimensions_m": [
+        0.4023,
+        0.4843,
+        0.3542
+      ],
+      "uv_layers": [
+        "UV0"
+      ]
+    },
+    "SM_Grass_Short_B": {
+      "triangles": 80,
+      "vertices": 128,
+      "materials": [
+        "M_Oak_Kit_Palette"
+      ],
+      "dimensions_m": [
+        0.4333,
+        0.4831,
+        0.3463
+      ],
+      "uv_layers": [
+        "UV0"
+      ]
+    },
+    "SM_Grass_Tall_A": {
+      "triangles": 90,
+      "vertices": 144,
+      "materials": [
+        "M_Oak_Kit_Palette"
+      ],
+      "dimensions_m": [
+        0.8928,
+        0.8394,
+        0.679
+      ],
+      "uv_layers": [
+        "UV0"
+      ]
+    },
+    "SM_GroundPlant_A": {
+      "triangles": 104,
+      "vertices": 117,
+      "materials": [
+        "M_Oak_Kit_Palette"
+      ],
+      "dimensions_m": [
+        0.7914,
+        0.7359,
+        0.1981
+      ],
+      "uv_layers": [
+        "UV0"
+      ]
+    },
+    "SM_GroundPlant_B": {
+      "triangles": 104,
+      "vertices": 117,
+      "materials": [
+        "M_Oak_Kit_Palette"
+      ],
+      "dimensions_m": [
+        0.6344,
+        0.773,
+        0.2873
+      ],
+      "uv_layers": [
+        "UV0"
+      ]
+    },
+    "SM_FlowerCluster_A": {
+      "triangles": 450,
+      "vertices": 435,
+      "materials": [
+        "M_Oak_Kit_Palette"
+      ],
+      "dimensions_m": [
+        0.4871,
+        0.4246,
+        0.4726
+      ],
+      "uv_layers": [
+        "UV0"
+      ]
+    },
+    "SM_FlowerCluster_B": {
+      "triangles": 930,
+      "vertices": 975,
+      "materials": [
+        "M_Oak_Kit_Palette"
+      ],
+      "dimensions_m": [
+        0.4761,
+        0.3853,
+        0.5072
+      ],
+      "uv_layers": [
+        "UV0"
+      ]
+    },
+    "SM_Grass_Flowers_A": {
+      "triangles": 530,
+      "vertices": 563,
+      "materials": [
+        "M_Oak_Kit_Palette"
+      ],
+      "dimensions_m": [
+        0.4871,
+        0.4945,
+        0.4526
+      ],
+      "uv_layers": [
+        "UV0"
+      ]
+    },
+    "SM_GroundLeaves_A": {
+      "triangles": 88,
+      "vertices": 99,
+      "materials": [
+        "M_Oak_Kit_Palette"
+      ],
+      "dimensions_m": [
+        0.9275,
+        0.8553,
+        0.0223
+      ],
+      "uv_layers": [
+        "UV0"
+      ]
+    },
+    "SM_GroundPatch_A": {
+      "triangles": 832,
+      "vertices": 1276,
+      "materials": [
+        "M_Oak_Kit_Palette"
+      ],
+      "dimensions_m": [
+        2.0817,
+        1.6951,
+        0.2483
+      ],
+      "uv_layers": [
+        "UV0"
+      ]
+    },
+    "SM_GroundPatch_Flowers_A": {
+      "triangles": 1942,
+      "vertices": 2197,
+      "materials": [
+        "M_Oak_Kit_Palette"
+      ],
+      "dimensions_m": [
+        2.0817,
+        1.6951,
+        0.3238
+      ],
+      "uv_layers": [
+        "UV0"
+      ]
+    },
+    "SM_Tree_Oak_A": {
+      "triangles": 12068,
+      "vertices": 7836,
+      "materials": [
+        "M_Oak_Bark",
+        "M_Oak_Foliage"
+      ],
+      "dimensions_m": [
+        7.3347,
+        5.7757,
+        7.4005
+      ],
+      "uv_layers": [
+        "UV0"
+      ]
+    },
+    "SM_Tree_Oak_A_LOD1": {
+      "triangles": 6858,
+      "vertices": 4511,
+      "materials": [
+        "M_Oak_Bark",
+        "M_Oak_Foliage"
+      ],
+      "dimensions_m": [
+        7.3347,
+        5.7757,
+        7.4005
+      ],
+      "uv_layers": [
+        "UV0"
+      ]
+    },
+    "SM_Tree_Oak_A_LOD2": {
+      "triangles": 3106,
+      "vertices": 2635,
+      "materials": [
+        "M_Oak_Bark",
+        "M_Oak_Foliage"
+      ],
+      "dimensions_m": [
+        7.3347,
+        5.7757,
+        7.4001
+      ],
+      "uv_layers": [
+        "UV0"
+      ]
+    }
+  },
+  "canopy_masses": 10,
+  "canopy_cards": 360,
+  "primary_branches": 7,
+  "roots": 7,
+  "source_textures_reused": [
+    "E:\\Games_Develop\\CozySettlement\\Mat\\T_Foliage\\T_Foliage_BaseColor.png",
+    "E:\\Games_Develop\\CozySettlement\\Mat\\Bark\\Bark_BaseColor.png",
+    "E:\\Games_Develop\\CozySettlement\\Mat\\Bark\\Bark_Normal.png"
+  ],
+  "notes": [
+    "Bark mixes a broad procedural tile with the existing painted Bark set; oriented along growth.",
+    "FieldStone depicts masonry; coordinated solid palette used for individual stones.",
+    "Ground decoration is optional and separate from SM_Tree_Oak_A.",
+    "Target engine: Unity. Y-up FBX, -Z forward, metre scene. Engine testing intentionally deferred.",
+    "Foliage requires alpha clipping and double-sided rendering. Existing BaseColor RGBA supplies opacity.",
+    "FBXs contain only the asset mesh, no UCX collider. Optional collider guide stays in Blender.",
+    "Assign the three tree meshes to a Unity LODGroup later.",
+    "Blender shader graphs do not transfer through FBX; reproduce material settings from README.",
+    "Canopy enlarged by mass, without increasing card count or triangles."
+  ]
+}

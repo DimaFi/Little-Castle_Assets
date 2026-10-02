@@ -1,11 +1,11 @@
 # Little-Castle Assets repository rules
 
-This repository is the source-of-truth for Little Castle art, not a Unity project.
+This local folder is the source-of-truth workspace for Little Castle art, not a Unity project. Its GitHub repository deliberately contains only lightweight reproducibility data; large art binaries remain local.
 
 1. Read `README.md` and `docs/MIGRATION_MANIFEST.md` before moving, renaming, exporting, or deleting art.
-2. Keep editable Blender source, references, QA evidence, build scripts, and the Asset Book here. Never put Unity `.meta`, `Library`, `Temp`, or generated engine caches here.
-3. Do not edit an already-released game export in place. Create a new version in `Source/`, validate it, then publish a reviewed FBX/texture package in `Releases/`.
-4. `Releases/` is the only directory Unity may consume. Copy a specific reviewed release into `Little-Castle/Assets/_Game/Art/Imported`; do not use symlinks/junctions between repositories.
+2. Preserve the existing `Art/`, `Mat/`, `Scripts/`, `AssetsDatabase/`, `Content/` and `Config/` paths. Asset Book records depend on them. Do not move or rename these roots without an explicit catalog migration.
+3. Editable Blender source, FBX exports, textures, references, QA evidence and build scripts live here locally. Never add heavy binary art files to GitHub. Their snapshot is `docs/SOURCE_SNAPSHOT.sha256.csv`.
+4. Do not edit an already-released game export in place. Validate a new local version, then create a reviewed Unity handoff package outside Git tracking. Copy a specific reviewed package into `Little-Castle/Assets/_Game/Art/Imported`; do not use symlinks/junctions between repositories.
 5. Preserve stable asset IDs from `AssetBook/AssetBook.json`. Run the Asset Book sync/validation after catalog changes.
-6. Binary art files are Git LFS files. Verify `git lfs install` before the first large import and verify pointers before pushing.
-7. Unreal `.uasset` and `.umap` files are retained only in `Legacy/Unreal/` as historical reference. Unity cannot import them.
+6. Use `python Scripts/asset_book.py validate` in this local workspace. A lightweight GitHub clone uses `python Scripts/asset_book.py validate-catalog` because the binary source files are intentionally absent there.
+7. Unreal `.uasset`, `.umap`, `.uproject` and `Config/` are retained locally as historical reference only. Unity cannot import them.

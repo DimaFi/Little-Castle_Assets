@@ -1,0 +1,374 @@
+{
+  "SM_TreeRoot_A": {
+    "triangles": 412,
+    "dimensions_m": [
+      1.505813479423523,
+      0.6970049142837524,
+      0.5585395097732544
+    ],
+    "uv_layers": 1,
+    "material_slots": 1,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  },
+  "SM_Branch_Small_A": {
+    "triangles": 284,
+    "dimensions_m": [
+      0.501030683517456,
+      0.32636111974716187,
+      0.9641250967979431
+    ],
+    "uv_layers": 1,
+    "material_slots": 1,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  },
+  "SM_Branch_Medium_A": {
+    "triangles": 412,
+    "dimensions_m": [
+      1.0140551328659058,
+      0.470094233751297,
+      1.5850225687026978
+    ],
+    "uv_layers": 1,
+    "material_slots": 1,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  },
+  "SM_Branch_Large_A": {
+    "triangles": 412,
+    "dimensions_m": [
+      1.3241331577301025,
+      0.6313672065734863,
+      2.1789958477020264
+    ],
+    "uv_layers": 1,
+    "material_slots": 1,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  },
+  "SM_Branch_Fork_A": {
+    "triangles": 1300,
+    "dimensions_m": [
+      1.2681589126586914,
+      0.4873770475387573,
+      1.6790130138397217
+    ],
+    "uv_layers": 1,
+    "material_slots": 1,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  },
+  "SM_Branch_Curved_A": {
+    "triangles": 540,
+    "dimensions_m": [
+      1.0633959770202637,
+      0.5342873334884644,
+      1.9293618202209473
+    ],
+    "uv_layers": 1,
+    "material_slots": 1,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  },
+  "SM_LeafCluster_Small_A": {
+    "triangles": 128,
+    "dimensions_m": [
+      0.9189159870147705,
+      0.8548976182937622,
+      0.6899548768997192
+    ],
+    "uv_layers": 1,
+    "material_slots": 1,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  },
+  "SM_LeafCluster_Medium_A": {
+    "triangles": 192,
+    "dimensions_m": [
+      1.4903923273086548,
+      1.375764012336731,
+      1.1350657939910889
+    ],
+    "uv_layers": 1,
+    "material_slots": 1,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  },
+  "SM_LeafCluster_Large_A": {
+    "triangles": 272,
+    "dimensions_m": [
+      2.072279214859009,
+      1.8431802988052368,
+      1.5554845333099365
+    ],
+    "uv_layers": 1,
+    "material_slots": 1,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  },
+  "SM_LeafCluster_Medium_B": {
+    "triangles": 192,
+    "dimensions_m": [
+      1.4263193607330322,
+      1.5534677505493164,
+      1.0902159214019775
+    ],
+    "uv_layers": 1,
+    "material_slots": 1,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  },
+  "SM_LeafCluster_Large_B": {
+    "triangles": 272,
+    "dimensions_m": [
+      2.031404495239258,
+      2.0832486152648926,
+      1.5050405263900757
+    ],
+    "uv_layers": 1,
+    "material_slots": 1,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  },
+  "SM_Stone_Small_A": {
+    "triangles": 216,
+    "dimensions_m": [
+      0.4200138747692108,
+      0.3477698564529419,
+      0.2854565680027008
+    ],
+    "uv_layers": 1,
+    "material_slots": 1,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  },
+  "SM_Stone_Small_B": {
+    "triangles": 220,
+    "dimensions_m": [
+      0.4931192994117737,
+      0.2913495898246765,
+      0.19386833906173706
+    ],
+    "uv_layers": 1,
+    "material_slots": 1,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  },
+  "SM_Stone_Medium_A": {
+    "triangles": 216,
+    "dimensions_m": [
+      0.8704059720039368,
+      0.6493613719940186,
+      0.5398774743080139
+    ],
+    "uv_layers": 1,
+    "material_slots": 1,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  },
+  "SM_Stone_Medium_B": {
+    "triangles": 216,
+    "dimensions_m": [
+      0.6412906646728516,
+      0.8061181306838989,
+      0.41093528270721436
+    ],
+    "uv_layers": 1,
+    "material_slots": 1,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  },
+  "SM_Stone_Large_A": {
+    "triangles": 204,
+    "dimensions_m": [
+      1.2413017749786377,
+      0.9935119152069092,
+      0.8729730248451233
+    ],
+    "uv_layers": 1,
+    "material_slots": 1,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  },
+  "SM_Stone_Mossy_A": {
+    "triangles": 180,
+    "dimensions_m": [
+      1.1077593564987183,
+      0.8175855875015259,
+      0.5861161947250366
+    ],
+    "uv_layers": 1,
+    "material_slots": 1,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  },
+  "SM_Grass_Short_A": {
+    "triangles": 80,
+    "dimensions_m": [
+      0.402283251285553,
+      0.48430174589157104,
+      0.3542433977127075
+    ],
+    "uv_layers": 1,
+    "material_slots": 1,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  },
+  "SM_Grass_Short_B": {
+    "triangles": 80,
+    "dimensions_m": [
+      0.4332605004310608,
+      0.4830564558506012,
+      0.34625452756881714
+    ],
+    "uv_layers": 1,
+    "material_slots": 1,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  },
+  "SM_Grass_Tall_A": {
+    "triangles": 90,
+    "dimensions_m": [
+      0.892813503742218,
+      0.8393540382385254,
+      0.6790432333946228
+    ],
+    "uv_layers": 1,
+    "material_slots": 1,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  },
+  "SM_GroundPlant_A": {
+    "triangles": 104,
+    "dimensions_m": [
+      0.7913751006126404,
+      0.7358869314193726,
+      0.1981426626443863
+    ],
+    "uv_layers": 1,
+    "material_slots": 1,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  },
+  "SM_GroundPlant_B": {
+    "triangles": 104,
+    "dimensions_m": [
+      0.6344490051269531,
+      0.7730053067207336,
+      0.2873094081878662
+    ],
+    "uv_layers": 1,
+    "material_slots": 1,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  },
+  "SM_FlowerCluster_A": {
+    "triangles": 450,
+    "dimensions_m": [
+      0.48713430762290955,
+      0.42460864782333374,
+      0.4725595712661743
+    ],
+    "uv_layers": 1,
+    "material_slots": 1,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  },
+  "SM_FlowerCluster_B": {
+    "triangles": 930,
+    "dimensions_m": [
+      0.4761139154434204,
+      0.3853115737438202,
+      0.5072068572044373
+    ],
+    "uv_layers": 1,
+    "material_slots": 1,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  },
+  "SM_Grass_Flowers_A": {
+    "triangles": 530,
+    "dimensions_m": [
+      0.48713430762290955,
+      0.4945434629917145,
+      0.45256656408309937
+    ],
+    "uv_layers": 1,
+    "material_slots": 1,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  },
+  "SM_GroundLeaves_A": {
+    "triangles": 88,
+    "dimensions_m": [
+      0.927458643913269,
+      0.855262279510498,
+      0.022305140271782875
+    ],
+    "uv_layers": 1,
+    "material_slots": 1,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  },
+  "SM_GroundPatch_A": {
+    "triangles": 832,
+    "dimensions_m": [
+      2.0817270278930664,
+      1.6951360702514648,
+      0.24825820326805115
+    ],
+    "uv_layers": 1,
+    "material_slots": 1,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  },
+  "SM_GroundPatch_Flowers_A": {
+    "triangles": 1942,
+    "dimensions_m": [
+      2.0817270278930664,
+      1.6951360702514648,
+      0.32377415895462036
+    ],
+    "uv_layers": 1,
+    "material_slots": 1,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  },
+  "SM_Tree_Oak_A": {
+    "triangles": 12068,
+    "dimensions_m": [
+      7.334698677062988,
+      5.775651454925537,
+      7.400547981262207
+    ],
+    "uv_layers": 1,
+    "material_slots": 2,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  },
+  "SM_Tree_Oak_A_LOD1": {
+    "triangles": 6858,
+    "dimensions_m": [
+      7.334698677062988,
+      5.775651454925537,
+      7.400547981262207
+    ],
+    "uv_layers": 1,
+    "material_slots": 2,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  },
+  "SM_Tree_Oak_A_LOD2": {
+    "triangles": 3106,
+    "dimensions_m": [
+      7.334698677062988,
+      5.775651454925537,
+      7.400111675262451
+    ],
+    "uv_layers": 1,
+    "material_slots": 2,
+    "degenerate_triangles": 0,
+    "fbx_roundtrip": "PASS"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "revision": "v005",
+  "objects": 293,
+  "triangles": 80286,
+  "geometry_issues": [],
+  "foundation_stones": 80,
+  "stone_variants": 3,
+  "max_dormer_join_error_m": 1.2896350654045818e-12,
+  "chimney_axis_xy_m": [
+    -2.94,
+    0.72
+  ],
+  "checks": {
+    "geometry_clean": true,
+    "hood_rear_meets_roof": true,
+    "chimney_courses_vertical": true,
+    "dormer_hole_clear": true,
+    "chimney_hole_clear": true,
+    "front_roof_retained": true,
+    "back_roof_retained": true
+  },
+  "scope": "Grey structural refinement. No UV, tiles or engine export.",
+  "passed": true
+}

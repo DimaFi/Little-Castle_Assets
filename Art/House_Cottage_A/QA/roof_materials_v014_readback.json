@@ -1,0 +1,46 @@
+[
+  {
+    "unique_mesh_uv_triangles": 16172,
+    "uv_bounds": [
+      0.30000001192092896,
+      0.25,
+      0.5862873196601868,
+      0.5362873077392578
+    ],
+    "sample_bounds_with_offset": [
+      0.30000001192092896,
+      0.25,
+      0.6862873196601867,
+      0.6962873077392578
+    ],
+    "name": "house",
+    "geometry_unchanged": true,
+    "roof_closed": true,
+    "packed_images": 3
+  },
+  {
+    "unique_mesh_uv_triangles": 16172,
+    "uv_bounds": [
+      0.30000001192092896,
+      0.25,
+      0.5862873196601868,
+      0.5362873077392578
+    ],
+    "sample_bounds_with_offset": [
+      0.30000001192092896,
+      0.25,
+      0.6862873196601867,
+      0.6962873077392578
+    ],
+    "name": "assembly",
+    "geometry_unchanged": true,
+    "roof_closed": true,
+    "packed_images": 3
+  },
+  {
+    "name": "material_study",
+    "objects": 3,
+    "triangles": 324,
+    "issues": []
+  }
+]

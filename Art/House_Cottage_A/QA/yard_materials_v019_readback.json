@@ -1,0 +1,66 @@
+[
+  {
+    "file": "Source\\Assembly\\v019\\Cottage_Courtyard.blend",
+    "checks": [
+      {
+        "objects": 226,
+        "triangles": 49212,
+        "issues": [],
+        "uv_triangles_checked": 14232
+      },
+      {
+        "objects": 42,
+        "triangles": 21172,
+        "issues": [],
+        "uv_triangles_checked": 2604
+      }
+    ],
+    "packed_images": true,
+    "saved_camera": true
+  },
+  {
+    "file": "Source\\Yard\\v003\\Cottage_Yard_Kit.blend",
+    "checks": [
+      {
+        "objects": 226,
+        "triangles": 49212,
+        "issues": [],
+        "uv_triangles_checked": 14232
+      },
+      {
+        "objects": 42,
+        "triangles": 21172,
+        "issues": [],
+        "uv_triangles_checked": 2604
+      }
+    ],
+    "packed_images": true,
+    "saved_camera": true
+  },
+  {
+    "file": "Source\\Yard\\v003\\Modules\\SM_Woodshed_A\\SM_Woodshed_A.blend",
+    "checks": [
+      {
+        "objects": 226,
+        "triangles": 49212,
+        "issues": [],
+        "uv_triangles_checked": 14232
+      }
+    ],
+    "packed_images": true,
+    "saved_camera": true
+  },
+  {
+    "file": "Source\\Yard\\v003\\Modules\\SM_LogStack_A\\SM_LogStack_A.blend",
+    "checks": [
+      {
+        "objects": 42,
+        "triangles": 21172,
+        "issues": [],
+        "uv_triangles_checked": 2604
+      }
+    ],
+    "packed_images": true,
+    "saved_camera": true
+  }
+]

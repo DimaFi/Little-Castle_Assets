@@ -1,0 +1,50 @@
+{
+  "0": {
+    "Tree03_LOD0_Canopy": {
+      "triangles": 62400,
+      "uv_layers": 1,
+      "materials": 1
+    },
+    "Tree03_LOD0_Trunk": {
+      "triangles": 62824,
+      "uv_layers": 1,
+      "materials": 1
+    },
+    "foliage_textures": [
+      "T_Foliage_BaseColor.png",
+      "T_Foliage_BaseColor.png.002"
+    ]
+  },
+  "1": {
+    "Tree03_LOD1_Canopy": {
+      "triangles": 31200,
+      "uv_layers": 1,
+      "materials": 1
+    },
+    "Tree03_LOD1_Trunk": {
+      "triangles": 31397,
+      "uv_layers": 1,
+      "materials": 1
+    },
+    "foliage_textures": [
+      "T_Foliage_BaseColor.png",
+      "T_Foliage_BaseColor.png.002"
+    ]
+  },
+  "2": {
+    "Tree03_LOD2_Canopy": {
+      "triangles": 15600,
+      "uv_layers": 1,
+      "materials": 1
+    },
+    "Tree03_LOD2_Trunk": {
+      "triangles": 12532,
+      "uv_layers": 1,
+      "materials": 1
+    },
+    "foliage_textures": [
+      "T_Foliage_BaseColor.png",
+      "T_Foliage_BaseColor.png.002"
+    ]
+  }
+}

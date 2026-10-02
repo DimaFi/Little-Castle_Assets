@@ -1,0 +1,62 @@
+[
+  {
+    "name": "house",
+    "caps": {
+      "objects": 27,
+      "triangles": 2700,
+      "issues": []
+    },
+    "max_contact_gap_m": -0.002338409423828125,
+    "contact_samples": 2059,
+    "plaster": {
+      "objects": 9,
+      "triangles": 5476,
+      "issues": [],
+      "base_uv_triangles_checked": 980,
+      "base_uv_degenerate_faces": 0,
+      "names": [
+        "SM_Wall_Front_A",
+        "SM_Wall_Back_A",
+        "SM_Wall_Left_A",
+        "SM_Wall_Right_A",
+        "SM_Wall_Gable_Left_A",
+        "SM_Wall_Gable_Right_A",
+        "SM_Dormer_Front_A",
+        "SM_Dormer_Cheek_A",
+        "SM_Dormer_Cheek_A.001"
+      ]
+    },
+    "packed_plaster_images": 3,
+    "other_geometry_unchanged": true
+  },
+  {
+    "name": "assembly",
+    "caps": {
+      "objects": 27,
+      "triangles": 2700,
+      "issues": []
+    },
+    "max_contact_gap_m": -0.002338409423828125,
+    "contact_samples": 2059,
+    "plaster": {
+      "objects": 9,
+      "triangles": 5476,
+      "issues": [],
+      "base_uv_triangles_checked": 980,
+      "base_uv_degenerate_faces": 0,
+      "names": [
+        "SM_Wall_Front_A",
+        "SM_Wall_Back_A",
+        "SM_Wall_Left_A",
+        "SM_Wall_Right_A",
+        "SM_Wall_Gable_Left_A",
+        "SM_Wall_Gable_Right_A",
+        "SM_Dormer_Front_A",
+        "SM_Dormer_Cheek_A",
+        "SM_Dormer_Cheek_A.001"
+      ]
+    },
+    "packed_plaster_images": 3,
+    "other_geometry_unchanged": true
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "blender": "4.4.3",
+  "stage": 1,
+  "revision": "v002",
+  "root_count": 7,
+  "primary_branch_count": 8,
+  "canopy_mass_count": 8,
+  "bounds_m": {
+    "min": [
+      -2.070796489715576,
+      -1.243032455444336,
+      -0.11942979693412781
+    ],
+    "max": [
+      2.571782112121582,
+      1.7164924144744873,
+      5.314187526702881
+    ],
+    "dimensions": [
+      4.642578601837158,
+      2.9595248699188232,
+      5.433617323637009
+    ]
+  },
+  "wood_triangles": 24312,
+  "wood_nonmanifold_edges": 0,
+  "source_parts": 19,
+  "stone_source": "E:\\Games_Develop\\CozySettlement\\Art\\Vegetation\\Oak_Kit\\Cozy_Oak_Kit.blend",
+  "stone_source_sha256": "79929b1aaed57d8dcc26500d75b03c35dcd36cf9cf173567578b16930293dacf",
+  "stones": [
+    "SM_Stone_Medium_A",
+    "SM_Stone_Small_B"
+  ],
+  "stones_enabled_by_default": false,
+  "reference": "E:\\Games_Develop\\CozySettlement\\Mat\\TZ_Tree2\\\u0421\u0442\u0438\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u043e\u0435 \u0434\u0435\u0440\u0435\u0432\u043e \u0441 \u0446\u0432\u0435\u0442\u0443\u0449\u0438\u043c\u0438 \u043a\u043e\u0440\u043d\u044f\u043c\u0438.png",
+  "not_implemented": [
+    "final leaves",
+    "UV",
+    "final bark and foliage materials",
+    "wind",
+    "LOD",
+    "collision",
+    "FBX",
+    "engine import"
+  ],
+  "render_views": [
+    "Front",
+    "Back",
+    "Left",
+    "Right",
+    "Top",
+    "Bottom",
+    "Perspective",
+    "Gameplay",
+    "Wood",
+    "Stones"
+  ]
+}

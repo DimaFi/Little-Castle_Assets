@@ -1,0 +1,14 @@
+{
+  "width_m": 6.2,
+  "depth_m": 4.8,
+  "wall_base_m": 0.46,
+  "wall_top_m": 3.28,
+  "roof_half_width_m": 3.57,
+  "roof_half_depth_m": 2.94,
+  "ridge_end_m": 5.64,
+  "ridge_sag_m": 0.22,
+  "door_height_m": 2.05,
+  "door_width_m": 1.02,
+  "door_x_m": 0.8,
+  "chimney_top_m": 6.43
+}

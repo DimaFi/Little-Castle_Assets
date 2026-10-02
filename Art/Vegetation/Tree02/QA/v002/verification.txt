@@ -1,0 +1,8 @@
+PASS: 34 original Tree02 input files unchanged (SHA-256).
+PASS: Oak_Kit source unchanged (SHA-256).
+PASS: 10 renders decode at 900x900.
+PASS: review document links resolve.
+PASS: saved blend reopened in Blender 4.4.3; object counts, origin, camera, packed images verified.
+PASS: wood non-manifold edge count = 0.
+Visual inspection: all 10 rendered views reviewed; shape limitations documented in STAGE01_REVIEW_RU.md.
+No game-ready or final-art approval implied.

@@ -1,0 +1,66 @@
+[
+  {
+    "file": "Source\\Assembly\\v020\\Cottage_Courtyard.blend",
+    "checks": [
+      {
+        "objects": 127,
+        "triangles": 21664,
+        "issues": [],
+        "uv_triangles_checked": 8240
+      },
+      {
+        "objects": 16,
+        "triangles": 5464,
+        "issues": [],
+        "uv_triangles_checked": 1192
+      }
+    ],
+    "packed_images": true,
+    "camera_saved": true
+  },
+  {
+    "file": "Source\\Yard\\v004\\Cottage_Yard_Kit.blend",
+    "checks": [
+      {
+        "objects": 127,
+        "triangles": 21664,
+        "issues": [],
+        "uv_triangles_checked": 8240
+      },
+      {
+        "objects": 16,
+        "triangles": 5464,
+        "issues": [],
+        "uv_triangles_checked": 1192
+      }
+    ],
+    "packed_images": true,
+    "camera_saved": true
+  },
+  {
+    "file": "Source\\Yard\\v004\\Modules\\SM_Well_A\\SM_Well_A.blend",
+    "checks": [
+      {
+        "objects": 127,
+        "triangles": 21664,
+        "issues": [],
+        "uv_triangles_checked": 8240
+      }
+    ],
+    "packed_images": true,
+    "camera_saved": true
+  },
+  {
+    "file": "Source\\Yard\\v004\\Modules\\SM_Bucket_A\\SM_Bucket_A.blend",
+    "checks": [
+      {
+        "objects": 16,
+        "triangles": 5464,
+        "issues": [],
+        "uv_triangles_checked": 1192
+      }
+    ],
+    "packed_images": true,
+    "camera_saved": true
+  }
+]

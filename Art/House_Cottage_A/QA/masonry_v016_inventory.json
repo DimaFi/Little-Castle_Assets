@@ -1,0 +1,2433 @@
+[
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Entrance_Step_A",
+    "dims": [
+      1.6799999475479126,
+      0.7200000286102295,
+      0.12999999523162842
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Entrance_Step_A.001",
+    "dims": [
+      1.559999942779541,
+      0.7200000286102295,
+      0.12999999523162842
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Entrance_Step_A.002",
+    "dims": [
+      1.440000057220459,
+      0.7200000286102295,
+      0.12999999523162842
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_0_0_00",
+    "dims": [
+      0.5664389133453369,
+      0.41621771454811096,
+      0.24720756709575653
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_0_0_01",
+    "dims": [
+      0.5330772995948792,
+      0.42942607402801514,
+      0.24661315977573395
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_0_0_02",
+    "dims": [
+      0.5294116735458374,
+      0.3996477723121643,
+      0.24634718894958496
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_0_0_03",
+    "dims": [
+      0.6015843152999878,
+      0.42010775208473206,
+      0.24720756709575653
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_0_0_04",
+    "dims": [
+      0.5521661043167114,
+      0.4266139566898346,
+      0.24661315977573395
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_0_0_05",
+    "dims": [
+      0.5164433121681213,
+      0.39905059337615967,
+      0.24634718894958496
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_0_0_06",
+    "dims": [
+      0.5907511115074158,
+      0.4236106276512146,
+      0.24720756709575653
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_0_0_07",
+    "dims": [
+      0.5721385478973389,
+      0.423069566488266,
+      0.24661315977573395
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_0_0_08",
+    "dims": [
+      0.514165997505188,
+      0.39968183636665344,
+      0.24634718894958496
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_0_0_09",
+    "dims": [
+      0.5718810558319092,
+      0.42637765407562256,
+      0.24720756709575653
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_0_0_10",
+    "dims": [
+      0.5863921046257019,
+      0.41914570331573486,
+      0.24661315977573395
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_0_0_11",
+    "dims": [
+      0.2666584849357605,
+      0.40147864818573,
+      0.24634718894958496
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_1_0_00",
+    "dims": [
+      0.5548389554023743,
+      0.4298408329486847,
+      0.24661315977573395
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_1_0_01",
+    "dims": [
+      0.5137403607368469,
+      0.41067180037498474,
+      0.24634718894958496
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_1_0_02",
+    "dims": [
+      0.5811391472816467,
+      0.4065685272216797,
+      0.24720756709575653
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_1_0_03",
+    "dims": [
+      0.5809589624404907,
+      0.43143123388290405,
+      0.24661315977573395
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_1_0_04",
+    "dims": [
+      0.5178375244140625,
+      0.4068692624568939,
+      0.24634718894958496
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_1_0_05",
+    "dims": [
+      0.5604258179664612,
+      0.40951773524284363,
+      0.24720756709575653
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_1_0_06",
+    "dims": [
+      0.5899350643157959,
+      0.4318099319934845,
+      0.24661315977573395
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_1_0_07",
+    "dims": [
+      0.5321648120880127,
+      0.40351685881614685,
+      0.24634718894958496
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_1_0_08",
+    "dims": [
+      0.5417003035545349,
+      0.413133829832077,
+      0.24720756709575653
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_1_0_09",
+    "dims": [
+      0.5873093605041504,
+      0.4309391677379608,
+      0.24661315977573395
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_1_0_10",
+    "dims": [
+      0.5519859194755554,
+      0.4009483754634857,
+      0.24634718894958496
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_1_0_11",
+    "dims": [
+      0.2783253490924835,
+      0.4170568883419037,
+      0.24720756709575653
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_4_0_00",
+    "dims": [
+      0.5548389554023743,
+      0.4097381830215454,
+      0.24661315977573395
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_4_0_01",
+    "dims": [
+      0.583911120891571,
+      0.4103667438030243,
+      0.24634718894958496
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_4_0_02",
+    "dims": [
+      0.5565713047981262,
+      0.426888644695282,
+      0.24720756709575653
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_4_0_03",
+    "dims": [
+      0.52557373046875,
+      0.4076506495475769,
+      0.24661315977573395
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_4_0_04",
+    "dims": [
+      0.5770597457885742,
+      0.4142494797706604,
+      0.24634718894958496
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_4_0_05",
+    "dims": [
+      0.5774452090263367,
+      0.4243375062942505,
+      0.24720756709575653
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_4_0_06",
+    "dims": [
+      0.5192803740501404,
+      0.40671831369400024,
+      0.24661315977573395
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_4_0_07",
+    "dims": [
+      0.3674762547016144,
+      0.41784781217575073,
+      0.24634718894958496
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_3_0_00",
+    "dims": [
+      0.5664389133453369,
+      0.41797980666160583,
+      0.24720756709575653
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_3_0_01",
+    "dims": [
+      0.57241290807724,
+      0.4081451892852783,
+      0.24661315977573395
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_3_0_02",
+    "dims": [
+      0.572106122970581,
+      0.422483891248703,
+      0.24634718894958496
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_3_0_03",
+    "dims": [
+      0.5329328179359436,
+      0.4140409529209137,
+      0.24720756709575653
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_3_0_04",
+    "dims": [
+      0.5524801015853882,
+      0.4105340838432312,
+      0.24661315977573395
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_3_0_05",
+    "dims": [
+      0.5827542543411255,
+      0.4236180782318115,
+      0.24634718894958496
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_3_0_06",
+    "dims": [
+      0.5461759567260742,
+      0.4103187620639801,
+      0.24720756709575653
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_3_0_07",
+    "dims": [
+      0.3514532148838043,
+      0.4137911796569824,
+      0.24661315977573395
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_0_1_00",
+    "dims": [
+      0.30079182982444763,
+      0.4192570447921753,
+      0.24661315977573395
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_0_1_01",
+    "dims": [
+      0.5272597074508667,
+      0.4213705062866211,
+      0.24634718894958496
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_0_1_02",
+    "dims": [
+      0.5464434623718262,
+      0.40433546900749207,
+      0.24720756709575653
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_0_1_03",
+    "dims": [
+      0.5892645716667175,
+      0.42317551374435425,
+      0.24661315977573395
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_0_1_04",
+    "dims": [
+      0.546140193939209,
+      0.4186111390590668,
+      0.24634718894958496
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_0_1_05",
+    "dims": [
+      0.4102450907230377,
+      0.4037312865257263,
+      0.24720756709575653
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_2_1_00",
+    "dims": [
+      0.30708047747612,
+      0.4275716543197632,
+      0.24720756709575653
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_2_1_01",
+    "dims": [
+      0.5383146405220032,
+      0.40829458832740784,
+      0.24661315977573395
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_2_1_02",
+    "dims": [
+      0.4847199618816376,
+      0.412830650806427,
+      0.24634718894958496
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_1_1_00",
+    "dims": [
+      0.29750922322273254,
+      0.42177748680114746,
+      0.24634718894958496
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_1_1_01",
+    "dims": [
+      0.5302680134773254,
+      0.4154888093471527,
+      0.24720756709575653
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_1_1_02",
+    "dims": [
+      0.5692381262779236,
+      0.4095374047756195,
+      0.24661315977573395
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_1_1_03",
+    "dims": [
+      0.5746188163757324,
+      0.4233380854129791,
+      0.24634718894958496
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_1_1_04",
+    "dims": [
+      0.5344970226287842,
+      0.4116416573524475,
+      0.24720756709575653
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_1_1_05",
+    "dims": [
+      0.5489489436149597,
+      0.41250815987586975,
+      0.24661315977573395
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_1_1_06",
+    "dims": [
+      0.5834969878196716,
+      0.4237096607685089,
+      0.24634718894958496
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_1_1_07",
+    "dims": [
+      0.5492852330207825,
+      0.40824994444847107,
+      0.24720756709575653
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_1_1_08",
+    "dims": [
+      0.5306069254875183,
+      0.41615065932273865,
+      0.24661315977573395
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_1_1_09",
+    "dims": [
+      0.5808998942375183,
+      0.4228552281856537,
+      0.24634718894958496
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_X_1_1_10",
+    "dims": [
+      0.2920047342777252,
+      0.405651330947876,
+      0.24720756709575653
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_4_1_00",
+    "dims": [
+      0.29750922322273254,
+      0.4020519554615021,
+      0.24634718894958496
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_4_1_01",
+    "dims": [
+      0.6026962399482727,
+      0.41518017649650574,
+      0.24720756709575653
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_4_1_02",
+    "dims": [
+      0.5451734066009521,
+      0.43000590801239014,
+      0.24661315977573395
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_4_1_03",
+    "dims": [
+      0.5198380351066589,
+      0.4000035524368286,
+      0.24634718894958496
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_4_1_04",
+    "dims": [
+      0.5956245064735413,
+      0.41910842061042786,
+      0.24720756709575653
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_4_1_05",
+    "dims": [
+      0.5656198263168335,
+      0.42743614315986633,
+      0.24661315977573395
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_4_1_06",
+    "dims": [
+      0.5136133432388306,
+      0.3990887403488159,
+      0.24634718894958496
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_4_1_07",
+    "dims": [
+      0.5789047479629517,
+      0.42274898290634155,
+      0.24720756709575653
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_4_1_08",
+    "dims": [
+      0.5825024843215942,
+      0.42405229806900024,
+      0.24661315977573395
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_4_1_09",
+    "dims": [
+      0.2576804757118225,
+      0.399398535490036,
+      0.24634718894958496
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_3_1_00",
+    "dims": [
+      0.30079182982444763,
+      0.42103201150894165,
+      0.24661315977573395
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_3_1_01",
+    "dims": [
+      0.5661660432815552,
+      0.40048882365226746,
+      0.24634718894958496
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_3_1_02",
+    "dims": [
+      0.5905115008354187,
+      0.42743945121765137,
+      0.24720756709575653
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_3_1_03",
+    "dims": [
+      0.5220189690589905,
+      0.4170643985271454,
+      0.24661315977573395
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_3_1_04",
+    "dims": [
+      0.5464507937431335,
+      0.40283292531967163,
+      0.24634718894958496
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_3_1_05",
+    "dims": [
+      0.6015021800994873,
+      0.4285869300365448,
+      0.24720756709575653
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_3_1_06",
+    "dims": [
+      0.5349909663200378,
+      0.4133150279521942,
+      0.24661315977573395
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_3_1_07",
+    "dims": [
+      0.5275067687034607,
+      0.4060289263725281,
+      0.24634718894958496
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_3_1_08",
+    "dims": [
+      0.6009018421173096,
+      0.42850324511528015,
+      0.24720756709575653
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "02_FOUNDATION",
+    "name": "SM_Foundation_Bonded_Y_3_1_09",
+    "dims": [
+      0.26807472109794617,
+      0.41015714406967163,
+      0.24661315977573395
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A",
+    "dims": [
+      0.9799829721450806,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.001",
+    "dims": [
+      0.9799829721450806,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.002",
+    "dims": [
+      0.24476145207881927,
+      0.5013865828514099,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.003",
+    "dims": [
+      0.24476145207881927,
+      0.5013865828514099,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.004",
+    "dims": [
+      0.24476145207881927,
+      0.9752547144889832,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.005",
+    "dims": [
+      0.24476145207881927,
+      0.9752547144889832,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.006",
+    "dims": [
+      0.4725990891456604,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.007",
+    "dims": [
+      0.4725990891456604,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.008",
+    "dims": [
+      0.9442610144615173,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.009",
+    "dims": [
+      0.9442610144615173,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.010",
+    "dims": [
+      0.24476145207881927,
+      0.4716666638851166,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.011",
+    "dims": [
+      0.24476145207881927,
+      0.4716666638851166,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.012",
+    "dims": [
+      0.24476145207881927,
+      0.9455348253250122,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.013",
+    "dims": [
+      0.24476145207881927,
+      0.9455348253250122,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.014",
+    "dims": [
+      0.43687713146209717,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.015",
+    "dims": [
+      0.43687713146209717,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.016",
+    "dims": [
+      0.9085390567779541,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.017",
+    "dims": [
+      0.9085390567779541,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.018",
+    "dims": [
+      0.24476145207881927,
+      0.44194668531417847,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.019",
+    "dims": [
+      0.24476145207881927,
+      0.44194668531417847,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.020",
+    "dims": [
+      0.24476145207881927,
+      0.9158148169517517,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.021",
+    "dims": [
+      0.24476145207881927,
+      0.9158148169517517,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.022",
+    "dims": [
+      0.4011552035808563,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.023",
+    "dims": [
+      0.4011552035808563,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.024",
+    "dims": [
+      0.8728170990943909,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.025",
+    "dims": [
+      0.8728170990943909,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.026",
+    "dims": [
+      0.24476145207881927,
+      0.41222673654556274,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.027",
+    "dims": [
+      0.24476145207881927,
+      0.41222673654556274,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.028",
+    "dims": [
+      0.24476145207881927,
+      0.886094868183136,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.029",
+    "dims": [
+      0.24476145207881927,
+      0.886094868183136,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.030",
+    "dims": [
+      0.3654332458972931,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.031",
+    "dims": [
+      0.3654332458972931,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.032",
+    "dims": [
+      0.8370951414108276,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.033",
+    "dims": [
+      0.8370951414108276,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.034",
+    "dims": [
+      0.24476145207881927,
+      0.3825068175792694,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.035",
+    "dims": [
+      0.24476145207881927,
+      0.3825068175792694,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.036",
+    "dims": [
+      0.24476145207881927,
+      0.856374979019165,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.037",
+    "dims": [
+      0.24476145207881927,
+      0.856374979019165,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.038",
+    "dims": [
+      0.32971131801605225,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.039",
+    "dims": [
+      0.32971131801605225,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.040",
+    "dims": [
+      0.8013732433319092,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.041",
+    "dims": [
+      0.8013732433319092,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.042",
+    "dims": [
+      0.24476145207881927,
+      0.3527868390083313,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.043",
+    "dims": [
+      0.24476145207881927,
+      0.3527868390083313,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.044",
+    "dims": [
+      0.24476145207881927,
+      0.8266549706459045,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.045",
+    "dims": [
+      0.24476145207881927,
+      0.8266549706459045,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.046",
+    "dims": [
+      0.2939893901348114,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.047",
+    "dims": [
+      0.2939893901348114,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.048",
+    "dims": [
+      0.765651285648346,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.049",
+    "dims": [
+      0.765651285648346,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.050",
+    "dims": [
+      0.24476145207881927,
+      0.3230668902397156,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.051",
+    "dims": [
+      0.24476145207881927,
+      0.3230668902397156,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.052",
+    "dims": [
+      0.24476145207881927,
+      0.7969350218772888,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.053",
+    "dims": [
+      0.24476145207881927,
+      0.7969350218772888,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.054",
+    "dims": [
+      0.25826743245124817,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.055",
+    "dims": [
+      0.25826743245124817,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.056",
+    "dims": [
+      0.7444827556610107,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.057",
+    "dims": [
+      0.7444827556610107,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.058",
+    "dims": [
+      0.24476145207881927,
+      0.3054550588130951,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.059",
+    "dims": [
+      0.24476145207881927,
+      0.3054550588130951,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.060",
+    "dims": [
+      0.24476145207881927,
+      0.7941831946372986,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.061",
+    "dims": [
+      0.24476145207881927,
+      0.7941831946372986,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.062",
+    "dims": [
+      0.2549598217010498,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.063",
+    "dims": [
+      0.2549598217010498,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.064",
+    "dims": [
+      0.7444827556610107,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.065",
+    "dims": [
+      0.7444827556610107,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.066",
+    "dims": [
+      0.24476145207881927,
+      0.3054550588130951,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.067",
+    "dims": [
+      0.24476145207881927,
+      0.3054550588130951,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.068",
+    "dims": [
+      0.24476145207881927,
+      0.7941831946372986,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.069",
+    "dims": [
+      0.24476145207881927,
+      0.7941831946372986,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.070",
+    "dims": [
+      0.2549598217010498,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.071",
+    "dims": [
+      0.2549598217010498,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.072",
+    "dims": [
+      0.7444827556610107,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.073",
+    "dims": [
+      0.7444827556610107,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.074",
+    "dims": [
+      0.24476145207881927,
+      0.3054550588130951,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.075",
+    "dims": [
+      0.24476145207881927,
+      0.3054550588130951,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.076",
+    "dims": [
+      0.24476145207881927,
+      0.7941831946372986,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.077",
+    "dims": [
+      0.24476145207881927,
+      0.7941831946372986,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.078",
+    "dims": [
+      0.2549598217010498,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.079",
+    "dims": [
+      0.2549598217010498,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.080",
+    "dims": [
+      0.7444827556610107,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.081",
+    "dims": [
+      0.7444827556610107,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.082",
+    "dims": [
+      0.24476145207881927,
+      0.3054550588130951,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.083",
+    "dims": [
+      0.24476145207881927,
+      0.3054550588130951,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.084",
+    "dims": [
+      0.24476145207881927,
+      0.7941831946372986,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.085",
+    "dims": [
+      0.24476145207881927,
+      0.7941831946372986,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.086",
+    "dims": [
+      0.2549598217010498,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.087",
+    "dims": [
+      0.2549598217010498,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.088",
+    "dims": [
+      0.7444827556610107,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.089",
+    "dims": [
+      0.7444827556610107,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.090",
+    "dims": [
+      0.24476145207881927,
+      0.3054550588130951,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.091",
+    "dims": [
+      0.24476145207881927,
+      0.3054550588130951,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.092",
+    "dims": [
+      0.24476145207881927,
+      0.7941831946372986,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.093",
+    "dims": [
+      0.24476145207881927,
+      0.7941831946372986,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.094",
+    "dims": [
+      0.2549598217010498,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Course_A.095",
+    "dims": [
+      0.2549598217010498,
+      0.24436405301094055,
+      0.2580000162124634
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Top_A",
+    "dims": [
+      0.9586489796638489,
+      0.2545458674430847,
+      0.24000000953674316
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Top_A.001",
+    "dims": [
+      0.9586489796638489,
+      0.2545458674430847,
+      0.24000000953674316
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Top_A.002",
+    "dims": [
+      0.24476145207881927,
+      0.45818257331848145,
+      0.24000000953674316
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_Top_A.003",
+    "dims": [
+      0.24476145207881927,
+      0.45818257331848145,
+      0.24000000953674316
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "06_CHIMNEY",
+    "name": "SM_Chimney_RoofCollar_A",
+    "dims": [
+      1.071662187576294,
+      1.1328989267349243,
+      1.160386562347412
+    ],
+    "verts": 12,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "09_DETAILS",
+    "name": "SM_House_WallLantern_A",
+    "dims": [
+      0.23000000417232513,
+      0.23000000417232513,
+      0.45350000262260437
+    ],
+    "verts": 1368,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "09_DETAILS",
+    "name": "SM_Lantern_Backplate_A",
+    "dims": [
+      0.11999999731779099,
+      0.054999999701976776,
+      0.3499999940395355
+    ],
+    "verts": 8,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  },
+  {
+    "collection": "09_DETAILS",
+    "name": "SM_Lantern_Bracket_A",
+    "dims": [
+      0.041999995708465576,
+      0.4762558937072754,
+      0.3224375247955322
+    ],
+    "verts": 40,
+    "materials": [
+      "M_Blockout_Grey"
+    ]
+  }
+]

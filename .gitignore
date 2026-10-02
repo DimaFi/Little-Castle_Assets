@@ -1,3 +1,18 @@
+# Large authored binaries remain in this local workspace. GitHub stores their
+# Asset Book entries, scripts, specs and hash manifest, not binary backups.
+*.blend
+*.fbx
+*.png
+*.jpg
+*.jpeg
+*.exr
+*.tga
+*.psd
+*.wav
+*.uasset
+*.umap
+*.uproject
+
 # Blender recovery and local UI state
 *.blend@
 *.blend~
@@ -5,6 +20,7 @@
 *.blend1
 __pycache__/
 *.py[cod]
+*.log
 
 # OS/editor noise
 .DS_Store

@@ -1,0 +1,195 @@
+{
+  "passed": true,
+  "files_checked": 21,
+  "modules": [
+    {
+      "name": "SM_Woodshed_A",
+      "file": "Source\\Yard\\v002\\Modules\\SM_Woodshed_A\\SM_Woodshed_A.blend",
+      "geometry_clean": true,
+      "camera_saved": true,
+      "metres": true,
+      "objects": 226,
+      "triangles": 42732
+    },
+    {
+      "name": "SM_LogStack_A",
+      "file": "Source\\Yard\\v002\\Modules\\SM_LogStack_A\\SM_LogStack_A.blend",
+      "geometry_clean": true,
+      "camera_saved": true,
+      "metres": true,
+      "objects": 42,
+      "triangles": 21172
+    },
+    {
+      "name": "SM_Well_A",
+      "file": "Source\\Yard\\v002\\Modules\\SM_Well_A\\SM_Well_A.blend",
+      "geometry_clean": true,
+      "camera_saved": true,
+      "metres": true,
+      "objects": 127,
+      "triangles": 17804
+    },
+    {
+      "name": "SM_Barrel_A",
+      "file": "Source\\Yard\\v002\\Modules\\SM_Barrel_A\\SM_Barrel_A.blend",
+      "geometry_clean": true,
+      "camera_saved": true,
+      "metres": true,
+      "objects": 21,
+      "triangles": 7352
+    },
+    {
+      "name": "SM_Bucket_A",
+      "file": "Source\\Yard\\v002\\Modules\\SM_Bucket_A\\SM_Bucket_A.blend",
+      "geometry_clean": true,
+      "camera_saved": true,
+      "metres": true,
+      "objects": 16,
+      "triangles": 5464
+    },
+    {
+      "name": "SM_WoodBench_A",
+      "file": "Source\\Yard\\v002\\Modules\\SM_WoodBench_A\\SM_WoodBench_A.blend",
+      "geometry_clean": true,
+      "camera_saved": true,
+      "metres": true,
+      "objects": 9,
+      "triangles": 2364
+    },
+    {
+      "name": "SM_WoodTable_A",
+      "file": "Source\\Yard\\v002\\Modules\\SM_WoodTable_A\\SM_WoodTable_A.blend",
+      "geometry_clean": true,
+      "camera_saved": true,
+      "metres": true,
+      "objects": 11,
+      "triangles": 2548
+    },
+    {
+      "name": "SM_FlowerBox_A",
+      "file": "Source\\Yard\\v002\\Modules\\SM_FlowerBox_A\\SM_FlowerBox_A.blend",
+      "geometry_clean": true,
+      "camera_saved": true,
+      "metres": true,
+      "objects": 19,
+      "triangles": 4670
+    },
+    {
+      "name": "SM_Pot_A",
+      "file": "Source\\Yard\\v002\\Modules\\SM_Pot_A\\SM_Pot_A.blend",
+      "geometry_clean": true,
+      "camera_saved": true,
+      "metres": true,
+      "objects": 1,
+      "triangles": 1632
+    },
+    {
+      "name": "SM_Crate_A",
+      "file": "Source\\Yard\\v002\\Modules\\SM_Crate_A\\SM_Crate_A.blend",
+      "geometry_clean": true,
+      "camera_saved": true,
+      "metres": true,
+      "objects": 21,
+      "triangles": 4044
+    },
+    {
+      "name": "SM_FenceBay_A",
+      "file": "Source\\Yard\\v002\\Modules\\SM_FenceBay_A\\SM_FenceBay_A.blend",
+      "geometry_clean": true,
+      "camera_saved": true,
+      "metres": true,
+      "objects": 6,
+      "triangles": 1320
+    },
+    {
+      "name": "SM_Gate_A",
+      "file": "Source\\Yard\\v002\\Modules\\SM_Gate_A\\SM_Gate_A.blend",
+      "geometry_clean": true,
+      "camera_saved": true,
+      "metres": true,
+      "objects": 12,
+      "triangles": 2560
+    },
+    {
+      "name": "SM_StoneWall_A",
+      "file": "Source\\Yard\\v002\\Modules\\SM_StoneWall_A\\SM_StoneWall_A.blend",
+      "geometry_clean": true,
+      "camera_saved": true,
+      "metres": true,
+      "objects": 13,
+      "triangles": 2444
+    },
+    {
+      "name": "SM_Stump_Axe_A",
+      "file": "Source\\Yard\\v002\\Modules\\SM_Stump_Axe_A\\SM_Stump_Axe_A.blend",
+      "geometry_clean": true,
+      "camera_saved": true,
+      "metres": true,
+      "objects": 4,
+      "triangles": 880
+    },
+    {
+      "name": "SM_Birdhouse_A",
+      "file": "Source\\Yard\\v002\\Modules\\SM_Birdhouse_A\\SM_Birdhouse_A.blend",
+      "geometry_clean": true,
+      "camera_saved": true,
+      "metres": true,
+      "objects": 1,
+      "triangles": 7084
+    },
+    {
+      "name": "SM_Signpost_A",
+      "file": "Source\\Yard\\v002\\Modules\\SM_Signpost_A\\SM_Signpost_A.blend",
+      "geometry_clean": true,
+      "camera_saved": true,
+      "metres": true,
+      "objects": 2,
+      "triangles": 520
+    },
+    {
+      "name": "SM_Wheelbarrow_A",
+      "file": "Source\\Yard\\v002\\Modules\\SM_Wheelbarrow_A\\SM_Wheelbarrow_A.blend",
+      "geometry_clean": true,
+      "camera_saved": true,
+      "metres": true,
+      "objects": 17,
+      "triangles": 4640
+    },
+    {
+      "name": "SM_Door_Entrance_A",
+      "file": "Source\\Modules\\Openings_v002\\SM_Door_Entrance_A\\SM_Door_Entrance_A.blend",
+      "geometry_clean": true,
+      "camera_saved": true,
+      "metres": true,
+      "objects": 37,
+      "triangles": 8444
+    },
+    {
+      "name": "SM_Window_Open_A",
+      "file": "Source\\Modules\\Openings_v002\\SM_Window_Open_A\\SM_Window_Open_A.blend",
+      "geometry_clean": true,
+      "camera_saved": true,
+      "metres": true,
+      "objects": 21,
+      "triangles": 4732
+    },
+    {
+      "name": "SM_Window_Small_A",
+      "file": "Source\\Modules\\Openings_v002\\SM_Window_Small_A\\SM_Window_Small_A.blend",
+      "geometry_clean": true,
+      "camera_saved": true,
+      "metres": true,
+      "objects": 7,
+      "triangles": 2100
+    },
+    {
+      "name": "SM_Window_Closed_A",
+      "file": "Source\\Modules\\Openings_v002\\SM_Window_Closed_A\\SM_Window_Closed_A.blend",
+      "geometry_clean": true,
+      "camera_saved": true,
+      "metres": true,
+      "objects": 17,
+      "triangles": 4300
+    }
+  ]
+}

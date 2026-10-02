@@ -1,0 +1,324 @@
+{
+  "house_source": "Source/Openings/v007/House_Cottage_A.blend",
+  "yard_source": "Source/Yard/v002/Cottage_Yard_Kit.blend",
+  "placements": [
+    {
+      "module": "SM_Woodshed_A",
+      "location_m": [
+        5.4,
+        0.75,
+        0
+      ],
+      "rotation_z_deg": 0,
+      "scale": 1
+    },
+    {
+      "module": "SM_Well_A",
+      "location_m": [
+        -4.8,
+        -3.5,
+        0
+      ],
+      "rotation_z_deg": -5,
+      "scale": 1
+    },
+    {
+      "module": "SM_WoodBench_A",
+      "location_m": [
+        -4.2,
+        0.0,
+        0
+      ],
+      "rotation_z_deg": 90,
+      "scale": 1
+    },
+    {
+      "module": "SM_WoodTable_A",
+      "location_m": [
+        3.8,
+        -3.4,
+        0
+      ],
+      "rotation_z_deg": -12,
+      "scale": 1
+    },
+    {
+      "module": "SM_Barrel_A",
+      "location_m": [
+        3.58,
+        -1.65,
+        0
+      ],
+      "rotation_z_deg": 7,
+      "scale": 1
+    },
+    {
+      "module": "SM_Barrel_A",
+      "location_m": [
+        6.98,
+        1.18,
+        0
+      ],
+      "rotation_z_deg": -8,
+      "scale": 1
+    },
+    {
+      "module": "SM_Crate_A",
+      "location_m": [
+        6.85,
+        -0.63,
+        0
+      ],
+      "rotation_z_deg": -13,
+      "scale": 1
+    },
+    {
+      "module": "SM_Bucket_A",
+      "location_m": [
+        -3.87,
+        -3.6,
+        0
+      ],
+      "rotation_z_deg": 0,
+      "scale": 1
+    },
+    {
+      "module": "SM_FlowerBox_A",
+      "location_m": [
+        -1.56,
+        -2.71,
+        0.57
+      ],
+      "rotation_z_deg": 0,
+      "scale": 1
+    },
+    {
+      "module": "SM_FlowerBox_A",
+      "location_m": [
+        2.64,
+        -2.73,
+        0.02
+      ],
+      "rotation_z_deg": 0,
+      "scale": 1
+    },
+    {
+      "module": "SM_Pot_A",
+      "location_m": [
+        -0.45,
+        -3.15,
+        0
+      ],
+      "rotation_z_deg": 0,
+      "scale": 1
+    },
+    {
+      "module": "SM_Pot_A",
+      "location_m": [
+        4.05,
+        -0.4,
+        0
+      ],
+      "rotation_z_deg": 0,
+      "scale": 0.85
+    },
+    {
+      "module": "SM_Stump_Axe_A",
+      "location_m": [
+        4.45,
+        -1.5,
+        0
+      ],
+      "rotation_z_deg": -25,
+      "scale": 1
+    },
+    {
+      "module": "SM_LogStack_A",
+      "location_m": [
+        6.55,
+        2.8,
+        0
+      ],
+      "rotation_z_deg": 90,
+      "scale": 0.8
+    },
+    {
+      "module": "SM_Wheelbarrow_A",
+      "location_m": [
+        5.75,
+        -3.6,
+        0
+      ],
+      "rotation_z_deg": 30,
+      "scale": 1
+    },
+    {
+      "module": "SM_Birdhouse_A",
+      "location_m": [
+        6.8,
+        -0.24,
+        1.36
+      ],
+      "rotation_z_deg": 0,
+      "scale": 1
+    },
+    {
+      "module": "SM_Signpost_A",
+      "location_m": [
+        2.35,
+        -5.78,
+        0
+      ],
+      "rotation_z_deg": -7,
+      "scale": 1
+    },
+    {
+      "module": "SM_StoneWall_A",
+      "location_m": [
+        -4.7,
+        -5.8,
+        0
+      ],
+      "rotation_z_deg": 0,
+      "scale": 1
+    },
+    {
+      "module": "SM_StoneWall_A",
+      "location_m": [
+        -2.6,
+        -5.8,
+        0
+      ],
+      "rotation_z_deg": 0,
+      "scale": 1
+    },
+    {
+      "module": "SM_StoneWall_A",
+      "location_m": [
+        0.83,
+        -5.8,
+        0
+      ],
+      "rotation_z_deg": 0,
+      "scale": 1
+    },
+    {
+      "module": "SM_Gate_A",
+      "location_m": [
+        -0.9,
+        -5.8,
+        0
+      ],
+      "rotation_z_deg": 0,
+      "scale": 1
+    },
+    {
+      "module": "SM_FenceBay_A",
+      "location_m": [
+        -5.5,
+        0.9,
+        0
+      ],
+      "rotation_z_deg": 90,
+      "scale": 1
+    },
+    {
+      "module": "SM_FenceBay_A",
+      "location_m": [
+        -4.3,
+        3.6,
+        0
+      ],
+      "rotation_z_deg": 0,
+      "scale": 1
+    },
+    {
+      "module": "SM_FenceBay_A",
+      "location_m": [
+        -1.7,
+        3.6,
+        0
+      ],
+      "rotation_z_deg": 0,
+      "scale": 1
+    },
+    {
+      "module": "SM_FenceBay_A",
+      "location_m": [
+        1.0,
+        3.6,
+        0
+      ],
+      "rotation_z_deg": 0,
+      "scale": 1
+    },
+    {
+      "module": "SM_FenceBay_A",
+      "location_m": [
+        7.35,
+        -0.6,
+        0
+      ],
+      "rotation_z_deg": 90,
+      "scale": 1
+    }
+  ],
+  "distinct_yard_modules": 17,
+  "hinge_checks": [
+    {
+      "controller": "CTRL_Door_Main_A",
+      "children": 16,
+      "rotation_moves_child": true
+    },
+    {
+      "controller": "CTRL_Gate_Hinge",
+      "children": 12,
+      "rotation_moves_child": true
+    },
+    {
+      "controller": "CTRL_Shutter_Back",
+      "children": 7,
+      "rotation_moves_child": true
+    },
+    {
+      "controller": "CTRL_Shutter_Back.001",
+      "children": 7,
+      "rotation_moves_child": true
+    },
+    {
+      "controller": "CTRL_Shutter_Front_L",
+      "children": 7,
+      "rotation_moves_child": true
+    },
+    {
+      "controller": "CTRL_Shutter_Front_L.001",
+      "children": 7,
+      "rotation_moves_child": true
+    },
+    {
+      "controller": "CTRL_Shutter_Left",
+      "children": 7,
+      "rotation_moves_child": true
+    },
+    {
+      "controller": "CTRL_Shutter_Left.001",
+      "children": 7,
+      "rotation_moves_child": true
+    },
+    {
+      "controller": "CTRL_Shutter_Right",
+      "children": 7,
+      "rotation_moves_child": true
+    },
+    {
+      "controller": "CTRL_Shutter_Right.001",
+      "children": 7,
+      "rotation_moves_child": true
+    }
+  ],
+  "limitations": [
+    "Demonstration layout, not gameplay navigation or collision validation.",
+    "Grey materials; UV/materials/LOD/export remain pending.",
+    "Fence segments are placed as samples; this is not a continuous closed enclosure."
+  ]
+}

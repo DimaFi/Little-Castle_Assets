@@ -1,0 +1,353 @@
+{
+  "file": "Source\\Assembly\\v016\\Cottage_Courtyard.blend",
+  "caps": [
+    {
+      "name": "SM_RidgeCap_00",
+      "kind": "main",
+      "lowered_m": 0.06,
+      "skirt_extension_m": [
+        0.18227090454101563,
+        0.11398162460327149
+      ],
+      "max_gap_before_m": 0.23627090454101562,
+      "max_gap_after_m": -0.002338409423828125,
+      "checked_contact_samples": 61
+    },
+    {
+      "name": "SM_RidgeCap_01",
+      "kind": "main",
+      "lowered_m": 0.06,
+      "skirt_extension_m": [
+        0.19152154541015626,
+        0.11873426055908204
+      ],
+      "max_gap_before_m": 0.24552154541015625,
+      "max_gap_after_m": -0.008451461791992188,
+      "checked_contact_samples": 78
+    },
+    {
+      "name": "SM_RidgeCap_02",
+      "kind": "main",
+      "lowered_m": 0.06,
+      "skirt_extension_m": [
+        0.19160165405273438,
+        0.11510362243652345
+      ],
+      "max_gap_before_m": 0.24560165405273438,
+      "max_gap_after_m": -0.006200313568115234,
+      "checked_contact_samples": 78
+    },
+    {
+      "name": "SM_RidgeCap_03",
+      "kind": "main",
+      "lowered_m": 0.06,
+      "skirt_extension_m": [
+        0.19111146545410157,
+        0.11060943222045899
+      ],
+      "max_gap_before_m": 0.24511146545410156,
+      "max_gap_after_m": -0.003200054168701172,
+      "checked_contact_samples": 78
+    },
+    {
+      "name": "SM_RidgeCap_04",
+      "kind": "main",
+      "lowered_m": 0.06,
+      "skirt_extension_m": [
+        0.10451449966430665,
+        0.10665406799316407
+      ],
+      "max_gap_before_m": 0.16065406799316406,
+      "max_gap_after_m": -0.00705718994140625,
+      "checked_contact_samples": 78
+    },
+    {
+      "name": "SM_RidgeCap_05",
+      "kind": "main",
+      "lowered_m": 0.06,
+      "skirt_extension_m": [
+        0.10592355346679688,
+        0.10808028793334962
+      ],
+      "max_gap_before_m": 0.1620802879333496,
+      "max_gap_after_m": -0.006989479064941406,
+      "checked_contact_samples": 78
+    },
+    {
+      "name": "SM_RidgeCap_06",
+      "kind": "main",
+      "lowered_m": 0.06,
+      "skirt_extension_m": [
+        0.10957517242431641,
+        0.11176099395751954
+      ],
+      "max_gap_before_m": 0.16576099395751953,
+      "max_gap_after_m": -0.0058193206787109375,
+      "checked_contact_samples": 78
+    },
+    {
+      "name": "SM_RidgeCap_07",
+      "kind": "main",
+      "lowered_m": 0.06,
+      "skirt_extension_m": [
+        0.10718860244750977,
+        0.10937060928344727
+      ],
+      "max_gap_before_m": 0.16337060928344727,
+      "max_gap_after_m": -0.005835533142089844,
+      "checked_contact_samples": 78
+    },
+    {
+      "name": "SM_RidgeCap_08",
+      "kind": "main",
+      "lowered_m": 0.06,
+      "skirt_extension_m": [
+        0.10955609893798829,
+        0.11176433181762696
+      ],
+      "max_gap_before_m": 0.16576433181762695,
+      "max_gap_after_m": -0.0069561004638671875,
+      "checked_contact_samples": 78
+    },
+    {
+      "name": "SM_RidgeCap_09",
+      "kind": "main",
+      "lowered_m": 0.06,
+      "skirt_extension_m": [
+        0.11296500778198243,
+        0.11520137405395509
+      ],
+      "max_gap_before_m": 0.16920137405395508,
+      "max_gap_after_m": -0.005948543548583984,
+      "checked_contact_samples": 78
+    },
+    {
+      "name": "SM_RidgeCap_10",
+      "kind": "main",
+      "lowered_m": 0.06,
+      "skirt_extension_m": [
+        0.11034717178344727,
+        0.1125797233581543
+      ],
+      "max_gap_before_m": 0.1665797233581543,
+      "max_gap_after_m": -0.006056308746337891,
+      "checked_contact_samples": 78
+    },
+    {
+      "name": "SM_RidgeCap_11",
+      "kind": "main",
+      "lowered_m": 0.06,
+      "skirt_extension_m": [
+        0.10531940078735352,
+        0.1074665985107422
+      ],
+      "max_gap_before_m": 0.1614665985107422,
+      "max_gap_after_m": -0.006198406219482422,
+      "checked_contact_samples": 78
+    },
+    {
+      "name": "SM_RidgeCap_12",
+      "kind": "main",
+      "lowered_m": 0.06,
+      "skirt_extension_m": [
+        0.10304822540283204,
+        0.10518779373168946
+      ],
+      "max_gap_before_m": 0.15918779373168945,
+      "max_gap_after_m": -0.005280017852783203,
+      "checked_contact_samples": 78
+    },
+    {
+      "name": "SM_RidgeCap_13",
+      "kind": "main",
+      "lowered_m": 0.06,
+      "skirt_extension_m": [
+        0.10490979766845704,
+        0.10706891632080079
+      ],
+      "max_gap_before_m": 0.16106891632080078,
+      "max_gap_after_m": -0.005847454071044922,
+      "checked_contact_samples": 78
+    },
+    {
+      "name": "SM_RidgeCap_14",
+      "kind": "main",
+      "lowered_m": 0.06,
+      "skirt_extension_m": [
+        0.10909833526611329,
+        0.1112965545654297
+      ],
+      "max_gap_before_m": 0.1652965545654297,
+      "max_gap_after_m": -0.0067615509033203125,
+      "checked_contact_samples": 78
+    },
+    {
+      "name": "SM_RidgeCap_15",
+      "kind": "main",
+      "lowered_m": 0.06,
+      "skirt_extension_m": [
+        0.1065515480041504,
+        0.10874595260620118
+      ],
+      "max_gap_before_m": 0.16274595260620117,
+      "max_gap_after_m": -0.006028652191162109,
+      "checked_contact_samples": 78
+    },
+    {
+      "name": "SM_RidgeCap_16",
+      "kind": "main",
+      "lowered_m": 0.06,
+      "skirt_extension_m": [
+        0.10790814971923829,
+        0.1101216278076172
+      ],
+      "max_gap_before_m": 0.1641216278076172,
+      "max_gap_after_m": -0.006157875061035156,
+      "checked_contact_samples": 78
+    },
+    {
+      "name": "SM_RidgeCap_17",
+      "kind": "main",
+      "lowered_m": 0.06,
+      "skirt_extension_m": [
+        0.11190499877929688,
+        0.11414231872558595
+      ],
+      "max_gap_before_m": 0.16814231872558594,
+      "max_gap_after_m": -0.006688117980957031,
+      "checked_contact_samples": 78
+    },
+    {
+      "name": "SM_RidgeCap_18",
+      "kind": "main",
+      "lowered_m": 0.06,
+      "skirt_extension_m": [
+        0.10957183456420899,
+        0.11180629348754884
+      ],
+      "max_gap_before_m": 0.16580629348754883,
+      "max_gap_after_m": -0.006850719451904297,
+      "checked_contact_samples": 78
+    },
+    {
+      "name": "SM_RidgeCap_19",
+      "kind": "main",
+      "lowered_m": 0.06,
+      "skirt_extension_m": [
+        0.1016377410888672,
+        0.10337438201904298
+      ],
+      "max_gap_before_m": 0.15737438201904297,
+      "max_gap_after_m": -0.0035114288330078125,
+      "checked_contact_samples": 62
+    },
+    {
+      "name": "SM_Dormer_RidgeCap_00",
+      "kind": "dormer",
+      "lowered_m": 0.008,
+      "skirt_extension_m": [
+        0.07297167587280273,
+        0.07297930526733398
+      ],
+      "max_gap_before_m": 0.07497930526733398,
+      "max_gap_after_m": -0.006000041961669922,
+      "checked_contact_samples": 78
+    },
+    {
+      "name": "SM_Dormer_RidgeCap_01",
+      "kind": "dormer",
+      "lowered_m": 0.008,
+      "skirt_extension_m": [
+        0.07291350173950195,
+        0.07291779327392578
+      ],
+      "max_gap_before_m": 0.07491779327392578,
+      "max_gap_after_m": -0.006000041961669922,
+      "checked_contact_samples": 78
+    },
+    {
+      "name": "SM_Dormer_RidgeCap_02",
+      "kind": "dormer",
+      "lowered_m": 0.008,
+      "skirt_extension_m": [
+        0.07285818862915039,
+        0.07285580444335937
+      ],
+      "max_gap_before_m": 0.07485818862915039,
+      "max_gap_after_m": -0.006000041961669922,
+      "checked_contact_samples": 78
+    },
+    {
+      "name": "SM_Dormer_RidgeCap_03",
+      "kind": "dormer",
+      "lowered_m": 0.008,
+      "skirt_extension_m": [
+        0.07280335235595703,
+        0.07279381561279297
+      ],
+      "max_gap_before_m": 0.07480335235595703,
+      "max_gap_after_m": -0.006000041961669922,
+      "checked_contact_samples": 78
+    },
+    {
+      "name": "SM_Dormer_RidgeCap_04",
+      "kind": "dormer",
+      "lowered_m": 0.008,
+      "skirt_extension_m": [
+        0.07274756240844726,
+        0.07272944259643555
+      ],
+      "max_gap_before_m": 0.07474756240844727,
+      "max_gap_after_m": -0.006000041961669922,
+      "checked_contact_samples": 78
+    },
+    {
+      "name": "SM_Dormer_RidgeCap_05",
+      "kind": "dormer",
+      "lowered_m": 0.008,
+      "skirt_extension_m": [
+        0.07269367980957031,
+        0.07265887069702148
+      ],
+      "max_gap_before_m": 0.07469367980957031,
+      "max_gap_after_m": -0.006000041961669922,
+      "checked_contact_samples": 78
+    },
+    {
+      "name": "SM_Dormer_RidgeCap_06",
+      "kind": "dormer",
+      "lowered_m": 0.008,
+      "skirt_extension_m": [
+        0.0193627815246582,
+        0.07483086395263672
+      ],
+      "max_gap_before_m": 0.07683086395263672,
+      "max_gap_after_m": -0.006000041961669922,
+      "checked_contact_samples": 64
+    }
+  ],
+  "cap_geometry": {
+    "objects": 27,
+    "triangles": 2700,
+    "issues": []
+  },
+  "plaster": {
+    "objects": 9,
+    "triangles": 5476,
+    "issues": [],
+    "base_uv_triangles_checked": 980,
+    "base_uv_degenerate_faces": 0,
+    "names": [
+      "SM_Wall_Front_A",
+      "SM_Wall_Back_A",
+      "SM_Wall_Left_A",
+      "SM_Wall_Right_A",
+      "SM_Wall_Gable_Left_A",
+      "SM_Wall_Gable_Right_A",
+      "SM_Dormer_Front_A",
+      "SM_Dormer_Cheek_A",
+      "SM_Dormer_Cheek_A.001"
+    ]
+  },
+  "other_geometry_unchanged": true
+}
