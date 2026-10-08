@@ -16,7 +16,7 @@ Four distinct release manifests, without modifying released files:
 | `Releases/Wall_Stone_Modular/v005` | `files` objects (`path`,`sha256`,`bytes`) | 26 |
 | `Releases/TerrainStarter-v001` | historical `files` objects (`source`,`target`,`sha256`,`bytes`) | 16 |
 
-`AssetBook/AssetBook.json`: 23 new versioned records; `AssetsDatabase/AssetBook.json` is a distinct legacy catalog. Neither catalog was rewritten. The original handoff reports 278 LFS paths / 172 unique objects (~392 MB); **these counts were not independently confirmed by a freshly hydrated checkout here**.
+`AssetBook/AssetBook.json`: 23 new versioned records; `AssetsDatabase/AssetBook.json` is a distinct legacy catalog. Neither catalog was rewritten. The connected GitHub tree at art commit `0e23f677` independently contains **278 versioned binary paths (197 Source, 81 Releases)**. The original handoff reports 172 unique LFS objects (~392 MB); **unique object/OID counts and hashes were not independently confirmed by a freshly hydrated checkout here**.
 
 Some legacy TerrainStarter manifest entries contain Windows paths. Verifier should extract only the relative suffix after `Releases/TerrainStarter-v001/` and never use the historical machine-specific absolute path. The v002 bridge source imports v001 and versioned wall geometry through source-relative paths.
 
