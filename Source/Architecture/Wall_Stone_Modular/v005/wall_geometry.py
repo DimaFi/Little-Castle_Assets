@@ -442,8 +442,7 @@ def prepare_inputs():
         dest=HERE/'Textures'/p.name
         if not dest.exists():shutil.copy2(p,dest)
         assert hashlib.sha256(p.read_bytes()).digest()==hashlib.sha256(dest.read_bytes()).digest()
-    ref=Path('C:/Users/Дмитрий/Downloads/Модульная каменная стена_ чертёж поселения.png')
-    if ref.exists() and not (HERE/'References/Wall_Concept.png').exists():shutil.copy2(ref,HERE/'References/Wall_Concept.png')
+    # The optional wall concept is already versioned at References/Wall_Concept.png.
 
 if __name__=='__main__':
     prepare_inputs();bpy.ops.wm.read_factory_settings(use_empty=True)
