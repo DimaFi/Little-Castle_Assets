@@ -122,6 +122,27 @@ def release_entries(manifest: dict[str, Any], release_name: str) -> list[tuple[s
 def validate_texture_dependencies(release: Path, files: set[str]) -> dict[str, int]:
     """Check material binding and FBX QA texture references, not .blend image packing."""
     result = {"material_bindings": 0, "qa_texture_references": 0}
+
+    def texture_path(reference: str) -> str:
+        require(isinstance(reference, str) and reference, f"{release.name}: bad texture reference")
+        normalized = reference.replace("\\", "/")
+        require(not normalized.startswith("/") and ":" not in normalized,
+                f"{release.name}: non-portable texture reference: {reference}")
+        parts: list[str] = []
+        for part in normalized.split("/"):
+            if part in ("", "."):
+                continue
+            if part == "..":
+                require(bool(parts), f"{release.name}: escaping texture reference: {reference}")
+                parts.pop()
+            else:
+                parts.append(part)
+        if len(parts) == 1:
+            parts.insert(0, "Textures")
+        require(len(parts) == 2 and parts[0] == "Textures",
+                f"{release.name}: invalid texture reference: {reference}")
+        return "/".join(parts)
+
     binding_rel = "Textures/material-bindings.json"
     if binding_rel in files:
         binding = json.loads((release / binding_rel).read_text(encoding="utf-8"))
@@ -132,7 +153,7 @@ def validate_texture_dependencies(release: Path, files: set[str]) -> dict[str, i
                 continue
             main = values.get("_MainTex")
             if main:
-                require(f"Textures/{main}" in files, f"{release.name}: missing texture dependency for {material}: {main}")
+                require(texture_path(main) in files, f"{release.name}: missing texture dependency for {material}: {main}")
                 result["material_bindings"] += 1
     report_rel = "QA/roundtrip_report.json"
     if report_rel in files:
@@ -141,7 +162,7 @@ def validate_texture_dependencies(release: Path, files: set[str]) -> dict[str, i
         for objects in report.get("files", {}).values():
             for object_info in objects:
                 for texture in object_info.get("textures", []):
-                    require(f"Textures/{texture}" in files, f"{release.name}: QA references missing texture: {texture}")
+                    require(texture_path(texture) in files, f"{release.name}: QA references missing texture: {texture}")
                     result["qa_texture_references"] += 1
     return result
 
@@ -241,6 +262,7 @@ def audit_bridge_recipe(repo: Path) -> dict[str, Any]:
         base / "bridge_contract.py", base / "bridge-site.json",
         base.parent / "v001/build_bridge.py",
         repo / "Source/Architecture/Wall_Stone_Modular/v005/wall_geometry.py",
+        repo / "Source/Dependencies/Bridge_Stone_A/SM_Grass_Short_A.fbx",
     ]
     for path in dependencies:
         require(path.is_file(), f"Bridge v002 source dependency absent: {path.relative_to(repo)}")

@@ -347,7 +347,9 @@ def render(name,pos,target,scale,res=(1500,1100)):
     bpy.ops.render.render(write_still=True)
 
 def preflight():
-    source=ROOT.parent/'CozySettlement/Art/Vegetation/Oak_Kit/Exports/SM_Grass_Short_A.fbx'
+    source=ROOT/'Source/Dependencies/Bridge_Stone_A/SM_Grass_Short_A.fbx'
+    if not source.is_file():
+        raise FileNotFoundError(f'Published grass preflight input missing: {source}; run git lfs pull')
     bpy.ops.import_scene.fbx(filepath=str(source))
     records=[]
     for ob in list(bpy.context.scene.objects):
@@ -368,8 +370,9 @@ def preflight():
 def main():
     global studio
     for folder in ['Textures','Meshes','Preview','QA','References']:(HERE/folder).mkdir(parents=True,exist_ok=True)
-    ref=Path('C:/Users/Дмитрий/Downloads/Концепт‑лист средневекового каменного моста.png')
-    shutil.copy2(ref,HERE/'References/Bridge_Concept.png')
+    ref=HERE/'References/Bridge_Concept.png'
+    if not ref.is_file():
+        raise FileNotFoundError(f'Published bridge concept missing: {ref}')
     shutil.copy2(ROOT/'Source/Architecture/Wall_Stone_Modular/v002/Textures/T_WallStoneSurface_A_BaseColor.png',HERE/'Textures/T_WallStoneSurface_A_BaseColor.png')
     bpy.ops.wm.read_factory_settings(use_empty=True)
     preflight();palette_texture()

@@ -104,21 +104,36 @@ class PortableReleaseTests(unittest.TestCase):
                 "Textures/material-bindings.json", "QA/roundtrip_report.json",
             })
 
+    def test_legacy_fbx_relative_texture_references(self):
+        save_json(self.release / "QA/roundtrip_report.json",
+                  {"passed": True, "files": {"mesh.fbx": [{
+                      "textures": [r"Meshes\..\Textures\demo.png"]}]}})
+        files = {"Textures/demo.png", "QA/roundtrip_report.json"}
+        self.assertEqual(portable.validate_texture_dependencies(self.release, files)["qa_texture_references"], 1)
+        save_json(self.release / "QA/roundtrip_report.json",
+                  {"passed": True, "files": {"mesh.fbx": [{
+                      "textures": [r"..\private.png"]}]}})
+        with self.assertRaisesRegex(portable.AuditError, "escaping texture reference"):
+            portable.validate_texture_dependencies(self.release, files)
+
     def test_recipe_rejects_user_machine_drive_path(self):
         recipe = self.repo / "Source/Architecture/Bridge_Stone_A/v002"
         prior = recipe.parent / "v001"
         wall = self.repo / "Source/Architecture/Wall_Stone_Modular/v005"
         for path in (recipe / "build_bridge.py", recipe / "validate_bridge.py",
                      recipe / "bridge_contract.py", recipe / "bridge-site.json",
-                     prior / "build_bridge.py", wall / "wall_geometry.py"):
+                     prior / "build_bridge.py", wall / "wall_geometry.py",
+                     self.repo / "Source/Dependencies/Bridge_Stone_A/SM_Grass_Short_A.fbx"):
             path.parent.mkdir(parents=True, exist_ok=True)
             if path.suffix == ".json":
                 save_json(path, {"asset_id": "ENV_Bridge_Stone_A",
                                  "version": "v002", "bridge_length": 10.8,
                                  "clear_walk_width": 2.86})
+            elif path.suffix == ".fbx":
+                path.write_bytes(b"Kaydara FBX Binary  \x00\x1a\x00")
             else:
                 path.write_text("# portable\n", encoding="utf-8")
-        self.assertEqual(portable.audit_bridge_recipe(self.repo)["bridge_recipe_dependencies"], 6)
+        self.assertEqual(portable.audit_bridge_recipe(self.repo)["bridge_recipe_dependencies"], 7)
         (recipe / "build_bridge.py").write_text("bpy.load(r'C:\\Downloads\\asset.png')")
         with self.assertRaisesRegex(portable.AuditError, "Absolute Windows drive"):
             portable.audit_bridge_recipe(self.repo)
