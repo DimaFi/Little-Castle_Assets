@@ -1,0 +1,39 @@
+{
+  "version": "v004",
+  "triangles": 48960,
+  "previous": 50746,
+  "net_removed": 1786,
+  "interior_tile_triangles_removed": 3600,
+  "by_collection": {
+    "01_NAVE": 1108,
+    "02_FOUNDATION_AND_MASONRY": 3388,
+    "03_TIMBER": 4216,
+    "04_TILED_ROOFS": 11060,
+    "05_WINDOWS_AND_DOOR": 12600,
+    "06_REAR_BELL_TOWER": 12052,
+    "07_ENTRANCE": 1268,
+    "08_LIGHT_VINES": 3268
+  },
+  "metric_timber_objects": 111,
+  "timber_uv_repeat_per_m": 0.64,
+  "foliage_patches": [
+    {
+      "name": "Ivy_Entrance",
+      "cards": 66
+    },
+    {
+      "name": "Ivy_Left",
+      "cards": 79
+    },
+    {
+      "name": "Ivy_Tower",
+      "cards": 68
+    },
+    {
+      "name": "Ivy_Right",
+      "cards": 31
+    }
+  ],
+  "degenerate_objects": [],
+  "engine_ready": false
+}

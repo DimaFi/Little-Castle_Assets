@@ -13,6 +13,21 @@
 *.umap
 *.uproject
 
+# User requested publishing the current versioned sources/releases on 2026-10-08.
+# Their binary payloads are protected by .gitattributes / Git LFS.
+!/Source/**/*.blend
+!/Source/**/*.fbx
+!/Source/**/*.png
+!/Source/**/*.jpg
+!/Source/**/*.jpeg
+!/Source/**/*.exr
+!/Source/**/*.tga
+!/Source/**/*.psd
+!/Releases/**/*.fbx
+!/Releases/**/*.png
+!/Releases/**/*.jpg
+!/Releases/**/*.jpeg
+
 # Blender recovery and local UI state
 *.blend@
 *.blend~

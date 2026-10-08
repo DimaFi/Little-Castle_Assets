@@ -2,3 +2,18 @@
 # SHA-256 values are recorded in docs/SOURCE_SNAPSHOT.sha256.csv instead.
 # A reviewed small preview may be explicitly force-added when documentation
 # genuinely needs it; production models and textures never enter GitHub.
+
+# Explicit user-authorized GitHub handoff, 2026-10-08. New versioned Source/
+# and Releases/ binaries use LFS; legacy Art/Mat/Content policy is unchanged.
+Source/**/*.blend filter=lfs diff=lfs merge=lfs -text
+Source/**/*.fbx filter=lfs diff=lfs merge=lfs -text
+Source/**/*.png filter=lfs diff=lfs merge=lfs -text
+Source/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+Source/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
+Source/**/*.exr filter=lfs diff=lfs merge=lfs -text
+Source/**/*.tga filter=lfs diff=lfs merge=lfs -text
+Source/**/*.psd filter=lfs diff=lfs merge=lfs -text
+Releases/**/*.fbx filter=lfs diff=lfs merge=lfs -text
+Releases/**/*.png filter=lfs diff=lfs merge=lfs -text
+Releases/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+Releases/**/*.jpeg filter=lfs diff=lfs merge=lfs -text

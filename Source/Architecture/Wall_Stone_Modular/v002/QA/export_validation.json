@@ -1,0 +1,643 @@
+{
+  "status": "PASS",
+  "unity_playmode_tested": false,
+  "exports": [
+    {
+      "file": "SM_Wall_Stone_2m_A.fbx",
+      "status": "PASS",
+      "fbx_version": 7400,
+      "Y_up": true,
+      "metre_units": true,
+      "identity_roots": true,
+      "locators_verified": true,
+      "raw_geometry": [
+        {
+          "name": "SM_Wall_Stone_2m_A_LOD0",
+          "bounds_unity": {
+            "min": [
+              -0.30000001192092896,
+              0.0,
+              -1.0
+            ],
+            "max": [
+              0.30000001192092896,
+              1.399999976158142,
+              1.0
+            ],
+            "size": [
+              0.6000000238418579,
+              1.399999976158142,
+              2.0
+            ]
+          }
+        },
+        {
+          "name": "SM_Wall_Stone_2m_A_LOD1",
+          "bounds_unity": {
+            "min": [
+              -0.30000001192092896,
+              0.0,
+              -1.0
+            ],
+            "max": [
+              0.30000001192092896,
+              1.399999976158142,
+              1.0
+            ],
+            "size": [
+              0.6000000238418579,
+              1.399999976158142,
+              2.0
+            ]
+          }
+        },
+        {
+          "name": "SM_Wall_Stone_2m_A_LOD2",
+          "bounds_unity": {
+            "min": [
+              -0.30000001192092896,
+              0.0,
+              -1.0
+            ],
+            "max": [
+              0.30000001192092896,
+              1.399999976158142,
+              1.0
+            ],
+            "size": [
+              0.6000000238418579,
+              1.399999976158142,
+              2.0
+            ]
+          }
+        },
+        {
+          "name": "UCX_SM_Wall_Stone_2m_A",
+          "bounds_unity": {
+            "min": [
+              -0.30000001192092896,
+              0.0,
+              -1.0
+            ],
+            "max": [
+              0.30000001192092896,
+              1.399999976158142,
+              1.0
+            ],
+            "size": [
+              0.6000000238418579,
+              1.399999976158142,
+              2.0
+            ]
+          }
+        }
+      ],
+      "roundtrip_lods": [
+        {
+          "name": "SM_Wall_Stone_2m_A_LOD0",
+          "triangles": 3684,
+          "material": "M_Wall_Stone_Shared"
+        },
+        {
+          "name": "SM_Wall_Stone_2m_A_LOD1",
+          "triangles": 1508,
+          "material": "M_Wall_Stone_Shared"
+        },
+        {
+          "name": "SM_Wall_Stone_2m_A_LOD2",
+          "triangles": 408,
+          "material": "M_Wall_Stone_Shared"
+        }
+      ]
+    },
+    {
+      "file": "SM_Wall_Stone_1m_A.fbx",
+      "status": "PASS",
+      "fbx_version": 7400,
+      "Y_up": true,
+      "metre_units": true,
+      "identity_roots": true,
+      "locators_verified": false,
+      "raw_geometry": [
+        {
+          "name": "SM_Wall_Stone_1m_A_LOD0",
+          "bounds_unity": {
+            "min": [
+              -0.30000001192092896,
+              0.0,
+              -0.5
+            ],
+            "max": [
+              0.30000001192092896,
+              1.399999976158142,
+              0.5
+            ],
+            "size": [
+              0.6000000238418579,
+              1.399999976158142,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "SM_Wall_Stone_1m_A_LOD1",
+          "bounds_unity": {
+            "min": [
+              -0.30000001192092896,
+              0.0,
+              -0.5
+            ],
+            "max": [
+              0.30000001192092896,
+              1.399999976158142,
+              0.5
+            ],
+            "size": [
+              0.6000000238418579,
+              1.399999976158142,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "SM_Wall_Stone_1m_A_LOD2",
+          "bounds_unity": {
+            "min": [
+              -0.30000001192092896,
+              0.0,
+              -0.5
+            ],
+            "max": [
+              0.30000001192092896,
+              1.399999976158142,
+              0.5
+            ],
+            "size": [
+              0.6000000238418579,
+              1.399999976158142,
+              1.0
+            ]
+          }
+        },
+        {
+          "name": "UCX_SM_Wall_Stone_1m_A",
+          "bounds_unity": {
+            "min": [
+              -0.30000001192092896,
+              0.0,
+              -0.5
+            ],
+            "max": [
+              0.30000001192092896,
+              1.399999976158142,
+              0.5
+            ],
+            "size": [
+              0.6000000238418579,
+              1.399999976158142,
+              1.0
+            ]
+          }
+        }
+      ],
+      "roundtrip_lods": [
+        {
+          "name": "SM_Wall_Stone_1m_A_LOD0",
+          "triangles": 3468,
+          "material": "M_Wall_Stone_Shared"
+        },
+        {
+          "name": "SM_Wall_Stone_1m_A_LOD1",
+          "triangles": 1420,
+          "material": "M_Wall_Stone_Shared"
+        },
+        {
+          "name": "SM_Wall_Stone_1m_A_LOD2",
+          "triangles": 392,
+          "material": "M_Wall_Stone_Shared"
+        }
+      ]
+    },
+    {
+      "file": "SM_Wall_Stone_Pillar_A.fbx",
+      "status": "PASS",
+      "fbx_version": 7400,
+      "Y_up": true,
+      "metre_units": true,
+      "identity_roots": true,
+      "locators_verified": true,
+      "raw_geometry": [
+        {
+          "name": "SM_Wall_Stone_Pillar_A_LOD0",
+          "bounds_unity": {
+            "min": [
+              -0.3499999940395355,
+              0.0,
+              -0.3499999940395355
+            ],
+            "max": [
+              0.3499999940395355,
+              1.600000023841858,
+              0.3499999940395355
+            ],
+            "size": [
+              0.699999988079071,
+              1.600000023841858,
+              0.699999988079071
+            ]
+          }
+        },
+        {
+          "name": "SM_Wall_Stone_Pillar_A_LOD1",
+          "bounds_unity": {
+            "min": [
+              -0.3499999940395355,
+              0.0,
+              -0.3499999940395355
+            ],
+            "max": [
+              0.3499999940395355,
+              1.600000023841858,
+              0.3499999940395355
+            ],
+            "size": [
+              0.699999988079071,
+              1.600000023841858,
+              0.699999988079071
+            ]
+          }
+        },
+        {
+          "name": "SM_Wall_Stone_Pillar_A_LOD2",
+          "bounds_unity": {
+            "min": [
+              -0.3499999940395355,
+              0.0,
+              -0.3499999940395355
+            ],
+            "max": [
+              0.3499999940395355,
+              1.600000023841858,
+              0.3499999940395355
+            ],
+            "size": [
+              0.699999988079071,
+              1.600000023841858,
+              0.699999988079071
+            ]
+          }
+        },
+        {
+          "name": "UCX_SM_Wall_Stone_Pillar_A",
+          "bounds_unity": {
+            "min": [
+              -0.3499999940395355,
+              0.0,
+              -0.3499999940395355
+            ],
+            "max": [
+              0.3499999940395355,
+              1.600000023841858,
+              0.3499999940395355
+            ],
+            "size": [
+              0.699999988079071,
+              1.600000023841858,
+              0.699999988079071
+            ]
+          }
+        }
+      ],
+      "roundtrip_lods": [
+        {
+          "name": "SM_Wall_Stone_Pillar_A_LOD0",
+          "triangles": 2794,
+          "material": "M_Wall_Stone_Shared"
+        },
+        {
+          "name": "SM_Wall_Stone_Pillar_A_LOD1",
+          "triangles": 1258,
+          "material": "M_Wall_Stone_Shared"
+        },
+        {
+          "name": "SM_Wall_Stone_Pillar_A_LOD2",
+          "triangles": 346,
+          "material": "M_Wall_Stone_Shared"
+        }
+      ]
+    },
+    {
+      "file": "SM_Wall_Stone_End_A.fbx",
+      "status": "PASS",
+      "fbx_version": 7400,
+      "Y_up": true,
+      "metre_units": true,
+      "identity_roots": true,
+      "locators_verified": false,
+      "raw_geometry": [
+        {
+          "name": "SM_Wall_Stone_End_A_LOD0",
+          "bounds_unity": {
+            "min": [
+              -0.30000001192092896,
+              0.0,
+              -0.30000001192092896
+            ],
+            "max": [
+              0.30000001192092896,
+              1.399999976158142,
+              0.30000001192092896
+            ],
+            "size": [
+              0.6000000238418579,
+              1.399999976158142,
+              0.6000000238418579
+            ]
+          }
+        },
+        {
+          "name": "SM_Wall_Stone_End_A_LOD1",
+          "bounds_unity": {
+            "min": [
+              -0.30000001192092896,
+              0.0,
+              -0.30000001192092896
+            ],
+            "max": [
+              0.30000001192092896,
+              1.399999976158142,
+              0.30000001192092896
+            ],
+            "size": [
+              0.6000000238418579,
+              1.399999976158142,
+              0.6000000238418579
+            ]
+          }
+        },
+        {
+          "name": "SM_Wall_Stone_End_A_LOD2",
+          "bounds_unity": {
+            "min": [
+              -0.30000001192092896,
+              0.0,
+              -0.30000001192092896
+            ],
+            "max": [
+              0.30000001192092896,
+              1.399999976158142,
+              0.30000001192092896
+            ],
+            "size": [
+              0.6000000238418579,
+              1.399999976158142,
+              0.6000000238418579
+            ]
+          }
+        },
+        {
+          "name": "UCX_SM_Wall_Stone_End_A",
+          "bounds_unity": {
+            "min": [
+              -0.30000001192092896,
+              0.0,
+              -0.30000001192092896
+            ],
+            "max": [
+              0.30000001192092896,
+              1.399999976158142,
+              0.30000001192092896
+            ],
+            "size": [
+              0.6000000238418579,
+              1.399999976158142,
+              0.6000000238418579
+            ]
+          }
+        }
+      ],
+      "roundtrip_lods": [
+        {
+          "name": "SM_Wall_Stone_End_A_LOD0",
+          "triangles": 2292,
+          "material": "M_Wall_Stone_Shared"
+        },
+        {
+          "name": "SM_Wall_Stone_End_A_LOD1",
+          "triangles": 1012,
+          "material": "M_Wall_Stone_Shared"
+        },
+        {
+          "name": "SM_Wall_Stone_End_A_LOD2",
+          "triangles": 276,
+          "material": "M_Wall_Stone_Shared"
+        }
+      ]
+    },
+    {
+      "file": "SM_Wall_Banner_Cloth_A.fbx",
+      "status": "PASS",
+      "fbx_version": 7400,
+      "Y_up": true,
+      "metre_units": true,
+      "identity_roots": true,
+      "locators_verified": false,
+      "raw_geometry": [
+        {
+          "name": "BannerCloth",
+          "bounds_unity": {
+            "min": [
+              -0.18000000715255737,
+              -0.550000011920929,
+              0.002605926711112261
+            ],
+            "max": [
+              0.18000000715255737,
+              0.0,
+              0.019999999552965164
+            ],
+            "size": [
+              0.36000001430511475,
+              0.550000011920929,
+              0.017394072841852903
+            ]
+          }
+        },
+        {
+          "name": "BannerCloth.001",
+          "bounds_unity": {
+            "min": [
+              -0.18000000715255737,
+              -0.550000011920929,
+              0.007000000216066837
+            ],
+            "max": [
+              0.18000000715255737,
+              0.0,
+              0.012000000104308128
+            ],
+            "size": [
+              0.36000001430511475,
+              0.550000011920929,
+              0.004999999888241291
+            ]
+          }
+        },
+        {
+          "name": "BannerCloth.002",
+          "bounds_unity": {
+            "min": [
+              -0.18000000715255737,
+              -0.550000011920929,
+              0.007000000216066837
+            ],
+            "max": [
+              0.18000000715255737,
+              0.0,
+              0.012000000104308128
+            ],
+            "size": [
+              0.36000001430511475,
+              0.550000011920929,
+              0.004999999888241291
+            ]
+          }
+        }
+      ],
+      "roundtrip_lods": [
+        {
+          "name": "SM_Wall_Banner_Cloth_A_LOD0",
+          "triangles": 384,
+          "material": "M_PlayerBanner"
+        },
+        {
+          "name": "SM_Wall_Banner_Cloth_A_LOD1",
+          "triangles": 96,
+          "material": "M_PlayerBanner"
+        },
+        {
+          "name": "SM_Wall_Banner_Cloth_A_LOD2",
+          "triangles": 24,
+          "material": "M_PlayerBanner"
+        }
+      ]
+    },
+    {
+      "file": "SM_Wall_Banner_Bracket_A.fbx",
+      "status": "PASS",
+      "fbx_version": 7400,
+      "Y_up": true,
+      "metre_units": true,
+      "identity_roots": true,
+      "locators_verified": false,
+      "raw_geometry": [
+        {
+          "name": "SM_Wall_Banner_Bracket_A_LOD0",
+          "bounds_unity": {
+            "min": [
+              -0.20999999344348907,
+              -0.03999999910593033,
+              0.0
+            ],
+            "max": [
+              0.20999999344348907,
+              0.02500000037252903,
+              0.04699999839067459
+            ],
+            "size": [
+              0.41999998688697815,
+              0.06499999947845936,
+              0.04699999839067459
+            ]
+          }
+        },
+        {
+          "name": "SM_Wall_Banner_Bracket_A_LOD1",
+          "bounds_unity": {
+            "min": [
+              -0.20999999344348907,
+              -0.03999999910593033,
+              0.0
+            ],
+            "max": [
+              0.20999999344348907,
+              0.02500000037252903,
+              0.04699999839067459
+            ],
+            "size": [
+              0.41999998688697815,
+              0.06499999947845936,
+              0.04699999839067459
+            ]
+          }
+        },
+        {
+          "name": "SM_Wall_Banner_Bracket_A_LOD2",
+          "bounds_unity": {
+            "min": [
+              -0.20999999344348907,
+              -0.03999999910593033,
+              0.0
+            ],
+            "max": [
+              0.20999999344348907,
+              0.02500000037252903,
+              0.04699999839067459
+            ],
+            "size": [
+              0.41999998688697815,
+              0.06499999947845936,
+              0.04699999839067459
+            ]
+          }
+        }
+      ],
+      "roundtrip_lods": [
+        {
+          "name": "SM_Wall_Banner_Bracket_A_LOD0",
+          "triangles": 300,
+          "material": "M_BannerBracket_Shared"
+        },
+        {
+          "name": "SM_Wall_Banner_Bracket_A_LOD1",
+          "triangles": 60,
+          "material": "M_BannerBracket_Shared"
+        },
+        {
+          "name": "SM_Wall_Banner_Bracket_A_LOD2",
+          "triangles": 36,
+          "material": "M_BannerBracket_Shared"
+        }
+      ]
+    }
+  ],
+  "source_sha256": "8c3c7a0c5b2603e5018ae82514cbdd145b718a7a51a2986d71ee8ad9a4046637",
+  "assembly_footprints": "PASS: straight, 2m-to-1m, 5deg arc, 90deg pillar junction",
+  "textures": [
+    {
+      "file": "StoneWall_A_AO_2048.png",
+      "sha256": "92798d1805d37c41a36b4c98c66dbf2c62edb11dabec4e58582f36a4031ab0d8"
+    },
+    {
+      "file": "StoneWall_A_BaseColor_2048.png",
+      "sha256": "bd97f81de026c2edae7a3495707692b3b7a2bfbbd943a3ec0cea2da6998451b8"
+    },
+    {
+      "file": "StoneWall_A_Height_2048.png",
+      "sha256": "8e7069ffb66aa7e6d797fc6dbd56be58f7732c180328baa04df24dfd51c610bc"
+    },
+    {
+      "file": "StoneWall_A_Normal_2048.png",
+      "sha256": "2a893e3970a78418f01958bdf653dd7b685f4c2749e18af27dd9ce898be33a09"
+    },
+    {
+      "file": "StoneWall_A_Roughness_2048.png",
+      "sha256": "98acd3a1b4b7c5d4e3f647b18a45ff56de370a540996a1d149bf669a241b227a"
+    },
+    {
+      "file": "StoneWall_A_TilingPreview_2x2.png",
+      "sha256": "4d821d3da6234df29a618e53fd28a127c1b4e6ac1c79772ddd86f6440430e324"
+    }
+  ],
+  "editable_source_reopen": "PASS; six source roots, studio camera, packed texture inputs"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "shader": "Little Castle/Surface/LC Stylized Lit",
+  "import": {"sRGB": true, "mipmaps": true, "read_write": false, "wrap": "Repeat"},
+  "materials": {
+    "M_Wall_Stone_Shared": {"_MainTex": "T_WallStoneSurface_A_BaseColor.png", "_Color": [1,1,1,1], "_Roughness": 0.9, "_RoughnessMapStrength": 0, "_BumpScale": 0, "note": "Exact approved v002 texture and mapping"},
+    "M_FortificationRoof_Shared": {"_MainTex": "RoofTile_BaseColor.png", "_Color_linear": [0.58,0.30,0.15,1], "_Roughness": 0.9, "_RoughnessMapStrength": 0, "_BumpScale": 0},
+    "M_FortificationTimber_Shared": {"_MainTex": "DoorWood_A_BaseColor.png", "_Color": [1,1,1,1], "_Roughness": 0.9, "_RoughnessMapStrength": 0, "_BumpScale": 0},
+    "M_BannerBracket_Shared": {"_Color_linear": [0.12,0.105,0.085,1], "_Roughness": 0.65, "note": "Shared by banner mounts and gate straps; Unity shader has no metallic input"},
+    "M_PlayerBanner": {"_Color": [1,1,1,1], "_Roughness": 0.96, "wrap": "Clamp", "texture": "Future composited player design; none baked into FBX", "safe_emblem_uv": [0.15,0.30,0.85,0.85]},
+    "M_PlayerBannerTrim": {"_Color": [1,1,1,1], "_Roughness": 0.82, "note": "Independently customizable tint; no gold baked in"}
+  },
+  "distant": {"shader_candidate": "Little Castle/Distance/LC Distant Simple", "shadows": false, "probes": false, "local_lights": false},
+  "runtime_customization_implemented": false
+}

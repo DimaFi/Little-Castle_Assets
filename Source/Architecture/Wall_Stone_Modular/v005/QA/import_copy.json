@@ -1,0 +1,18 @@
+{
+  "updated": [
+    "Models/SM_ArcherTower_A.fbx",
+    "Models/SM_Wall_Banner_Bracket_A.fbx",
+    "Models/SM_Wall_Banner_Cloth_A.fbx",
+    "Models/SM_Wall_Banner_Trim_A.fbx",
+    "Models/SM_Wall_Gatehouse_A.fbx",
+    "Models/SM_Wall_GateLeaf_Left_A.fbx",
+    "Models/SM_Wall_GateLeaf_Right_A.fbx",
+    "Models/SM_Wall_Stone_1m_A.fbx",
+    "Models/SM_Wall_Stone_2m_A.fbx",
+    "Models/SM_Wall_Stone_End_A.fbx",
+    "Models/SM_Wall_Stone_Pillar_A.fbx",
+    "Connections.json"
+  ],
+  "backup": "E:\\Games_Develop\\Little-Castle\\Temp\\Fortifications-v005-backup",
+  "unity_editor_validation": "PASS; see integration_status.json and unity-update.txt"
+}

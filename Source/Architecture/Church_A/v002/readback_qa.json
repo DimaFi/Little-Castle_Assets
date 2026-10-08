@@ -1,0 +1,17 @@
+{
+  "saved_blend_readback": true,
+  "mesh_objects": 1238,
+  "installed_triangles": 49196,
+  "issues": [],
+  "roof_rear_y": 4.065000057220459,
+  "tower_shaft_front_y": 4.369999885559082,
+  "roof_to_shaft_gap_m": 0.30499982833862305,
+  "porch_top_z": 3.602126121520996,
+  "window_surround_bottom_z": 3.7900002002716064,
+  "porch_window_clearance_m": 0.18787407875061035,
+  "shaft_top_z": 6.510000228881836,
+  "belfry_bottom_z": 6.5199995040893555,
+  "tower_on_centreline": true,
+  "source_stone": "SM_StoneWall_A / Wall_Stone",
+  "engine_ready": false
+}

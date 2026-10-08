@@ -1,0 +1,8 @@
+{
+  "accepted": false,
+  "status": "stone_modules_accepted_banner_superseded_v003",
+  "accepted_stone_modules": ["SM_Wall_Stone_2m_A", "SM_Wall_Stone_1m_A", "SM_Wall_Stone_Pillar_A", "SM_Wall_Stone_End_A"],
+  "accepted_stone_material": "M_Wall_Stone_Shared",
+  "review_date": "2026-10-03",
+  "reason": "User explicitly approved v002 wall geometry and material. Rectangular flag rejected; replaced in v003. Full v002 package therefore remains unpublished."
+}

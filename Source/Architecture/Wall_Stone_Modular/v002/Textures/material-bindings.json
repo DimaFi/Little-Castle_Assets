@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "source": "v002 grout-free shared albedo generated with built-in image_gen; see generation-prompt.txt",
+  "stone": {
+    "material_slot": "M_Wall_Stone_Shared",
+    "asset_id": "MAT_WallStoneSurface_A",
+    "unity_shader": "Little Castle/Surface/LC Stylized Lit",
+    "texture_scale": [1, 1],
+    "uv_units_per_metre": 0.8,
+    "maps": {"_MainTex": {"file": "T_WallStoneSurface_A_BaseColor.png", "sRGB": true}},
+    "scalars": {"_BumpScale": 0, "_Roughness": 0.9, "_RoughnessMapStrength": 0, "_OcclusionStrength": 0},
+    "colour": [1, 1, 1, 1],
+    "original_maps": "StoneWall_A_* are unchanged reference inputs only. Do not attach their masonry normal/AO/height to these individual blocks.",
+    "import": {"wrap": "Repeat", "mipmaps": true, "read_write": false}
+  },
+  "banner": {
+    "material_slot": "M_PlayerBanner",
+    "colour": [1, 1, 1, 1],
+    "uv": "0..1, top at v=1, full rectangular front and readable reverse",
+    "image_aspect": "fit/crop in future compositor; do not stretch square artwork",
+    "alpha": "Composite emblem alpha over selected fabric colour; fabric remains opaque",
+    "import": {"wrap": "Clamp", "sRGB": true, "mipmaps": true},
+    "runtime_implemented": false
+  }
+}

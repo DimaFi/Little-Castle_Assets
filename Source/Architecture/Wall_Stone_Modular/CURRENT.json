@@ -1,0 +1,13 @@
+{
+  "version": "v005",
+  "source": "v005/Wall_Fortifications.blend",
+  "readme": "v005/README_RU.md",
+  "meshes": "v005/Meshes",
+  "status": "manual_edits_preserved_imported_unity_asset_and_physics_qa_passed",
+  "approved_stone_appearance": "v002",
+  "optimization_baseline": "v003",
+  "unity_tested": true,
+  "runtime_placement_playmode_tested": false,
+  "fps_profiled": false,
+  "published_release": "Releases/Wall_Stone_Modular/v005"
+}

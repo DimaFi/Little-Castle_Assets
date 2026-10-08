@@ -1,0 +1,419 @@
+{
+  "schema_version": "1.0",
+  "project": "Little Castle Assets",
+  "updated": "2026-10-08",
+  "migration_note": "Local wall-kit, church and bridge records. Legacy CozySettlement catalog has not migrated; merge its IDs later without replacing these records.",
+  "assets": [
+    {
+      "id": "ENV_Bridge_Stone_A",
+      "name": "Fixed stone bridge with authored riverbanks and dressing",
+      "category": "Environment Module",
+      "status": "InProgress",
+      "path": "Source/Architecture/Bridge_Stone_A/v002",
+      "source_file": "Bridge_Stone_A.blend",
+      "editable_source": "Source/Architecture/Bridge_Stone_A/v002/Bridge_Stone_A.blend",
+      "materials": ["M_Bridge_Stone", "M_Bridge_Palette", "M_Bridge_FactionCloth", "M_Bridge_Grass", "M_Bridge_TerrainReference", "M_Bridge_Water"],
+      "dependencies": [],
+      "lods": ["LOD0", "LOD1", "LOD2"],
+      "can_reuse": true,
+      "notes": "v002 locally reviewed candidate released in Releases/Bridge_Stone_A/v002. Fixed 10.8m bridge, 2.86m clear path; Y-up road Z and river X. Structural LODs 13598/7704/1736 triangles; separate dressing 12428/5022/80. 286-triangle collision. Two flags seated on right-hand entrance stone caps. FBX roundtrip, packed texture and Cycles/Eevee visual checks passed. Opt-in Unity fixed-site generation contract implemented/tested; art import, global water/socket integration and in-game visual approval remain pending. v001 preserved."
+    },
+    {
+      "id": "MOD_Wall_Stone_2m_A",
+      "name": "Modular stone wall 2m A",
+      "category": "Modular Component",
+      "status": "InProgress",
+      "path": "Source/Architecture/Wall_Stone_Modular/v005/Meshes",
+      "source_file": "SM_Wall_Stone_2m_A.fbx",
+      "editable_source": "Source/Architecture/Wall_Stone_Modular/v005/Wall_Fortifications.blend",
+      "materials": [
+        "MAT_WallStoneSurface_A"
+      ],
+      "dependencies": [
+        "MAT_WallStoneSurface_A"
+      ],
+      "lods": [
+        "LOD0",
+        "LOD1",
+        "LOD2"
+      ],
+      "can_reuse": true,
+      "notes": "v005 preserves saved manual edits dated 2026-10-06. Published under Releases/Wall_Stone_Modular/v005; original v004 user source preserved. FBX QA and 0..90 degree gate mesh sweep passed. See current README for measured sizes; 2m/1m in IDs are legacy names."
+    },
+    {
+      "id": "MOD_Wall_Stone_1m_A",
+      "name": "Modular stone wall 1m A",
+      "category": "Modular Component",
+      "status": "InProgress",
+      "path": "Source/Architecture/Wall_Stone_Modular/v005/Meshes",
+      "source_file": "SM_Wall_Stone_1m_A.fbx",
+      "editable_source": "Source/Architecture/Wall_Stone_Modular/v005/Wall_Fortifications.blend",
+      "materials": [
+        "MAT_WallStoneSurface_A"
+      ],
+      "dependencies": [
+        "MAT_WallStoneSurface_A"
+      ],
+      "lods": [
+        "LOD0",
+        "LOD1",
+        "LOD2"
+      ],
+      "can_reuse": true,
+      "notes": "v005 preserves saved manual edits dated 2026-10-06. Published under Releases/Wall_Stone_Modular/v005; original v004 user source preserved. FBX QA and 0..90 degree gate mesh sweep passed. See current README for measured sizes; 2m/1m in IDs are legacy names."
+    },
+    {
+      "id": "MOD_Wall_Stone_Pillar_A",
+      "name": "Stone wall structural pillar A",
+      "category": "Modular Component",
+      "status": "InProgress",
+      "path": "Source/Architecture/Wall_Stone_Modular/v005/Meshes",
+      "source_file": "SM_Wall_Stone_Pillar_A.fbx",
+      "editable_source": "Source/Architecture/Wall_Stone_Modular/v005/Wall_Fortifications.blend",
+      "materials": [
+        "MAT_WallStoneSurface_A"
+      ],
+      "dependencies": [
+        "MAT_WallStoneSurface_A"
+      ],
+      "lods": [
+        "LOD0",
+        "LOD1",
+        "LOD2"
+      ],
+      "can_reuse": true,
+      "notes": "v005 preserves saved manual edits dated 2026-10-06. Published under Releases/Wall_Stone_Modular/v005; original v004 user source preserved. FBX QA and 0..90 degree gate mesh sweep passed. See current README for measured sizes; 2m/1m in IDs are legacy names."
+    },
+    {
+      "id": "MOD_Wall_Stone_End_A",
+      "name": "Stone wall end cap A",
+      "category": "Modular Component",
+      "status": "InProgress",
+      "path": "Source/Architecture/Wall_Stone_Modular/v005/Meshes",
+      "source_file": "SM_Wall_Stone_End_A.fbx",
+      "editable_source": "Source/Architecture/Wall_Stone_Modular/v005/Wall_Fortifications.blend",
+      "materials": [
+        "MAT_WallStoneSurface_A"
+      ],
+      "dependencies": [
+        "MAT_WallStoneSurface_A"
+      ],
+      "lods": [
+        "LOD0",
+        "LOD1",
+        "LOD2"
+      ],
+      "can_reuse": true,
+      "notes": "v005 preserves saved manual edits dated 2026-10-06. Published under Releases/Wall_Stone_Modular/v005; original v004 user source preserved. FBX QA and 0..90 degree gate mesh sweep passed. See current README for measured sizes; 2m/1m in IDs are legacy names."
+    },
+    {
+      "id": "PROP_Wall_Banner_Cloth_A",
+      "name": "Customizable wall banner cloth A",
+      "category": "Prop",
+      "status": "InProgress",
+      "path": "Source/Architecture/Wall_Stone_Modular/v005/Meshes",
+      "source_file": "SM_Wall_Banner_Cloth_A.fbx",
+      "editable_source": "Source/Architecture/Wall_Stone_Modular/v005/Wall_Fortifications.blend",
+      "materials": [],
+      "dependencies": [
+        "MAT_PlayerBanner_Shared"
+      ],
+      "lods": [
+        "LOD0",
+        "LOD1",
+        "LOD2"
+      ],
+      "can_reuse": true,
+      "notes": "v005 preserves saved manual edits dated 2026-10-06. Published under Releases/Wall_Stone_Modular/v005; original v004 user source preserved. FBX QA and 0..90 degree gate mesh sweep passed. See current README for measured sizes; 2m/1m in IDs are legacy names."
+    },
+    {
+      "id": "PROP_Wall_Banner_Bracket_A",
+      "name": "Wall banner bracket A",
+      "category": "Prop",
+      "status": "InProgress",
+      "path": "Source/Architecture/Wall_Stone_Modular/v005/Meshes",
+      "source_file": "SM_Wall_Banner_Bracket_A.fbx",
+      "editable_source": "Source/Architecture/Wall_Stone_Modular/v005/Wall_Fortifications.blend",
+      "materials": [],
+      "dependencies": [
+        "MAT_BannerBracket_Shared"
+      ],
+      "lods": [
+        "LOD0",
+        "LOD1",
+        "LOD2"
+      ],
+      "can_reuse": true,
+      "notes": "v005 preserves saved manual edits dated 2026-10-06. Published under Releases/Wall_Stone_Modular/v005; original v004 user source preserved. FBX QA and 0..90 degree gate mesh sweep passed. See current README for measured sizes; 2m/1m in IDs are legacy names."
+    },
+    {
+      "id": "TEX_StoneWall_A_Unity",
+      "name": "StoneWall A Unity texture suite",
+      "category": "Texture",
+      "status": "InProgress",
+      "path": "Source/Architecture/Wall_Stone_Modular/v002/Textures",
+      "source_file": "StoneWall_A_BaseColor_2048.png",
+      "materials": [],
+      "dependencies": [],
+      "lods": [],
+      "can_reuse": true,
+      "notes": "v002 visual revision; not released or imported into Unity. User-selected original BaseColor/Normal/AO/Roughness/Height copied byte-for-byte from CozySettlement/Mat/StoneWall_A_Unity."
+    },
+    {
+      "id": "MAT_StoneWall_A_Unity",
+      "name": "Shared stone wall material specification",
+      "category": "Material",
+      "status": "InProgress",
+      "path": "Source/Architecture/Wall_Stone_Modular/v001/Textures",
+      "source_file": "material-bindings.json",
+      "materials": [],
+      "dependencies": [
+        "TEX_StoneWall_A_Unity"
+      ],
+      "lods": [],
+      "can_reuse": true,
+      "notes": "v002 visual revision; not released or imported into Unity. Blender material + Unity property mapping; Unity .mat not yet created."
+    },
+    {
+      "id": "TEX_WallStoneSurface_A",
+      "name": "Grout-free stylized limestone surface",
+      "category": "Texture",
+      "status": "InProgress",
+      "path": "Source/Architecture/Wall_Stone_Modular/v005/Textures",
+      "source_file": "T_WallStoneSurface_A_BaseColor.png",
+      "materials": [],
+      "dependencies": [],
+      "lods": [],
+      "can_reuse": true,
+      "notes": "v005 preserves saved manual edits dated 2026-10-06. Published under Releases/Wall_Stone_Modular/v005; original v004 user source preserved. FBX QA and 0..90 degree gate mesh sweep passed. See current README for measured sizes; 2m/1m in IDs are legacy names."
+    },
+    {
+      "id": "MAT_WallStoneSurface_A",
+      "name": "Shared volumetric wall stone material specification",
+      "category": "Material",
+      "status": "InProgress",
+      "path": "Source/Architecture/Wall_Stone_Modular/v005/Textures",
+      "source_file": "material-bindings.json",
+      "materials": [],
+      "dependencies": [
+        "TEX_WallStoneSurface_A"
+      ],
+      "lods": [],
+      "can_reuse": true,
+      "notes": "v005 preserves saved manual edits dated 2026-10-06. Published under Releases/Wall_Stone_Modular/v005; original v004 user source preserved. FBX QA and 0..90 degree gate mesh sweep passed. See current README for measured sizes; 2m/1m in IDs are legacy names."
+    },
+    {
+      "id": "TEX_RoofTile",
+      "name": "Existing RoofTile albedo",
+      "category": "Texture",
+      "status": "InProgress",
+      "path": "Source/Architecture/Wall_Stone_Modular/v005/Textures",
+      "source_file": "RoofTile_BaseColor.png",
+      "materials": [],
+      "dependencies": [],
+      "lods": [],
+      "can_reuse": true,
+      "notes": "v005 preserves saved manual edits dated 2026-10-06. Published under Releases/Wall_Stone_Modular/v005; original v004 user source preserved. FBX QA and 0..90 degree gate mesh sweep passed. See current README for measured sizes; 2m/1m in IDs are legacy names."
+    },
+    {
+      "id": "TEX_DoorWood",
+      "name": "Existing DoorWood albedo",
+      "category": "Texture",
+      "status": "InProgress",
+      "path": "Source/Architecture/Wall_Stone_Modular/v005/Textures",
+      "source_file": "DoorWood_A_BaseColor.png",
+      "materials": [],
+      "dependencies": [],
+      "lods": [],
+      "can_reuse": true,
+      "notes": "v005 preserves saved manual edits dated 2026-10-06. Published under Releases/Wall_Stone_Modular/v005; original v004 user source preserved. FBX QA and 0..90 degree gate mesh sweep passed. See current README for measured sizes; 2m/1m in IDs are legacy names."
+    },
+    {
+      "id": "MAT_FortificationRoof_Shared",
+      "name": "Shared fortification roof specification",
+      "category": "Material",
+      "status": "InProgress",
+      "path": "Source/Architecture/Wall_Stone_Modular/v005/Textures",
+      "source_file": "material-bindings.json",
+      "materials": [],
+      "dependencies": [
+        "TEX_RoofTile"
+      ],
+      "lods": [],
+      "can_reuse": true,
+      "notes": "v005 preserves saved manual edits dated 2026-10-06. Published under Releases/Wall_Stone_Modular/v005; original v004 user source preserved. FBX QA and 0..90 degree gate mesh sweep passed. See current README for measured sizes; 2m/1m in IDs are legacy names."
+    },
+    {
+      "id": "MAT_FortificationTimber_Shared",
+      "name": "Shared fortification timber specification",
+      "category": "Material",
+      "status": "InProgress",
+      "path": "Source/Architecture/Wall_Stone_Modular/v005/Textures",
+      "source_file": "material-bindings.json",
+      "materials": [],
+      "dependencies": [
+        "TEX_DoorWood"
+      ],
+      "lods": [],
+      "can_reuse": true,
+      "notes": "v005 preserves saved manual edits dated 2026-10-06. Published under Releases/Wall_Stone_Modular/v005; original v004 user source preserved. FBX QA and 0..90 degree gate mesh sweep passed. See current README for measured sizes; 2m/1m in IDs are legacy names."
+    },
+    {
+      "id": "MAT_PlayerBanner_Shared",
+      "name": "Neutral customizable banner specification",
+      "category": "Material",
+      "status": "InProgress",
+      "path": "Source/Architecture/Wall_Stone_Modular/v005/Textures",
+      "source_file": "material-bindings.json",
+      "materials": [],
+      "dependencies": [],
+      "lods": [],
+      "can_reuse": true,
+      "notes": "v005 preserves saved manual edits dated 2026-10-06. Published under Releases/Wall_Stone_Modular/v005; original v004 user source preserved. FBX QA and 0..90 degree gate mesh sweep passed. See current README for measured sizes; 2m/1m in IDs are legacy names."
+    },
+    {
+      "id": "MAT_BannerBracket_Shared",
+      "name": "Neutral bracket and gate hardware specification",
+      "category": "Material",
+      "status": "InProgress",
+      "path": "Source/Architecture/Wall_Stone_Modular/v005/Textures",
+      "source_file": "material-bindings.json",
+      "materials": [],
+      "dependencies": [],
+      "lods": [],
+      "can_reuse": true,
+      "notes": "v005 preserves saved manual edits dated 2026-10-06. Published under Releases/Wall_Stone_Modular/v005; original v004 user source preserved. FBX QA and 0..90 degree gate mesh sweep passed. See current README for measured sizes; 2m/1m in IDs are legacy names."
+    },
+    {
+      "id": "MOD_ArcherTower_A",
+      "name": "Stone archer tower A",
+      "category": "Architecture",
+      "status": "InProgress",
+      "path": "Source/Architecture/Wall_Stone_Modular/v005/Meshes",
+      "source_file": "SM_ArcherTower_A.fbx",
+      "editable_source": "Source/Architecture/Wall_Stone_Modular/v005/Wall_Fortifications.blend",
+      "materials": [],
+      "dependencies": [
+        "MAT_WallStoneSurface_A",
+        "MAT_FortificationRoof_Shared",
+        "MAT_FortificationTimber_Shared"
+      ],
+      "lods": [
+        "LOD0",
+        "LOD1",
+        "LOD2"
+      ],
+      "can_reuse": true,
+      "notes": "v005 preserves saved manual edits dated 2026-10-06. Published under Releases/Wall_Stone_Modular/v005; original v004 user source preserved. FBX QA and 0..90 degree gate mesh sweep passed. See current README for measured sizes; 2m/1m in IDs are legacy names."
+    },
+    {
+      "id": "MOD_Wall_Gatehouse_A",
+      "name": "Arched wall gatehouse A",
+      "category": "Modular Component",
+      "status": "InProgress",
+      "path": "Source/Architecture/Wall_Stone_Modular/v005/Meshes",
+      "source_file": "SM_Wall_Gatehouse_A.fbx",
+      "editable_source": "Source/Architecture/Wall_Stone_Modular/v005/Wall_Fortifications.blend",
+      "materials": [],
+      "dependencies": [
+        "MAT_WallStoneSurface_A"
+      ],
+      "lods": [
+        "LOD0",
+        "LOD1",
+        "LOD2"
+      ],
+      "can_reuse": true,
+      "notes": "v005 preserves saved manual edits dated 2026-10-06. Published under Releases/Wall_Stone_Modular/v005; original v004 user source preserved. FBX QA and 0..90 degree gate mesh sweep passed. See current README for measured sizes; 2m/1m in IDs are legacy names."
+    },
+    {
+      "id": "PROP_Wall_GateLeaf_Left_A",
+      "name": "Wall gate leaf Left",
+      "category": "Prop",
+      "status": "InProgress",
+      "path": "Source/Architecture/Wall_Stone_Modular/v005/Meshes",
+      "source_file": "SM_Wall_GateLeaf_Left_A.fbx",
+      "editable_source": "Source/Architecture/Wall_Stone_Modular/v005/Wall_Fortifications.blend",
+      "materials": [],
+      "dependencies": [
+        "MAT_FortificationTimber_Shared",
+        "MAT_BannerBracket_Shared"
+      ],
+      "lods": [
+        "LOD0",
+        "LOD1",
+        "LOD2"
+      ],
+      "can_reuse": true,
+      "notes": "v005 preserves saved manual edits dated 2026-10-06. Published under Releases/Wall_Stone_Modular/v005; original v004 user source preserved. FBX QA and 0..90 degree gate mesh sweep passed. See current README for measured sizes; 2m/1m in IDs are legacy names."
+    },
+    {
+      "id": "PROP_Wall_GateLeaf_Right_A",
+      "name": "Wall gate leaf Right",
+      "category": "Prop",
+      "status": "InProgress",
+      "path": "Source/Architecture/Wall_Stone_Modular/v005/Meshes",
+      "source_file": "SM_Wall_GateLeaf_Right_A.fbx",
+      "editable_source": "Source/Architecture/Wall_Stone_Modular/v005/Wall_Fortifications.blend",
+      "materials": [],
+      "dependencies": [
+        "MAT_FortificationTimber_Shared",
+        "MAT_BannerBracket_Shared"
+      ],
+      "lods": [
+        "LOD0",
+        "LOD1",
+        "LOD2"
+      ],
+      "can_reuse": true,
+      "notes": "v005 preserves saved manual edits dated 2026-10-06. Published under Releases/Wall_Stone_Modular/v005; original v004 user source preserved. FBX QA and 0..90 degree gate mesh sweep passed. See current README for measured sizes; 2m/1m in IDs are legacy names."
+    },
+    {
+      "id": "PROP_Wall_Banner_Trim_A",
+      "name": "Customizable banner edging A",
+      "category": "Prop",
+      "status": "InProgress",
+      "path": "Source/Architecture/Wall_Stone_Modular/v005/Meshes",
+      "source_file": "SM_Wall_Banner_Trim_A.fbx",
+      "editable_source": "Source/Architecture/Wall_Stone_Modular/v005/Wall_Fortifications.blend",
+      "materials": [],
+      "dependencies": [
+        "MAT_PlayerBanner_Shared"
+      ],
+      "lods": [
+        "LOD0",
+        "LOD1",
+        "LOD2"
+      ],
+      "can_reuse": true,
+      "notes": "v005 preserves saved manual edits dated 2026-10-06. Published under Releases/Wall_Stone_Modular/v005; original v004 user source preserved. FBX QA and 0..90 degree gate mesh sweep passed. See current README for measured sizes; 2m/1m in IDs are legacy names."
+    },
+    {
+      "id": "BLD_Church_A",
+      "name": "Church A - cottage materials and light vines",
+      "category": "Building",
+      "status": "InProgress",
+      "path": "Source/Architecture/Church_A/v003",
+      "source_file": "Church_A.blend",
+      "editable_source": "Source/Architecture/Church_A/v003/Church_A.blend",
+      "materials": [
+        "M_Church_Bell_Bronze",
+        "M_Church_Vine_ExistingFoliage",
+        "M_Church_Vine_Stem",
+        "M_Cottage_DoorWood_A",
+        "M_Cottage_FieldStone_A",
+        "M_Cottage_ForgedIron_A",
+        "M_Cottage_FrameWood_A",
+        "M_Cottage_RoofUnderlay_A",
+        "M_Cottage_StructuralTimber_A",
+        "M_Cottage_Terracotta_A",
+        "M_Cottage_WarmPlaster_A",
+        "M_Cottage_WindowGlass_Proxy_A"
+      ],
+      "dependencies": [],
+      "lods": [],
+      "can_reuse": true,
+      "notes": "v003 material review: 50746 installed triangles, +1550 from v002. Closed stone stair cheeks, 4 restrained vine patches using existing foliage atlas. Cottage materials and textures reused; all used images packed. Solid topology/readback QA passed; foliage cards intentionally two-sided and open. No game release or Unity test."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+Fortifications v005 update
+PREFAB_PASS Assets/_Game/Art/Imported/TerrainStarter_v001/Prefabs/SM_ArcherTower_A.prefab
+PREFAB_PASS Assets/_Game/Art/Imported/TerrainStarter_v001/Prefabs/SM_Wall_Stone_2m_A.prefab
+PREFAB_PASS Assets/_Game/Art/Imported/TerrainStarter_v001/Prefabs/SM_Wall_Stone_Pillar_A.prefab
+PREFAB_PASS Assets/_Game/Art/Imported/TerrainStarter_v001/Study/Prefabs/SM_ArcherTower_A.prefab
+PREFAB_PASS Assets/_Game/Art/Imported/TerrainStarter_v001/Study/Prefabs/SM_Wall_Gatehouse_A.prefab
+PREFAB_PASS Assets/_Game/Art/Imported/TerrainStarter_v001/Study/Prefabs/SM_Wall_GateLeaf_Left_A.prefab
+PREFAB_PASS Assets/_Game/Art/Imported/TerrainStarter_v001/Study/Prefabs/SM_Wall_GateLeaf_Right_A.prefab
+PREFAB_PASS Assets/_Game/Art/Imported/TerrainStarter_v001/Study/Prefabs/SM_Wall_Stone_2m_A.prefab
+PREFAB_PASS Assets/_Game/Art/Imported/TerrainStarter_v001/Study/Prefabs/SM_Wall_Stone_Pillar_A.prefab
+WALL_ROWS_UPDATED_NO_GATE Assets/_Game/Art/Imported/TerrainStarter_v001/MeadowVillage.unity
+SCENE_UPDATED_SCOPED Assets/_Game/Art/Imported/TerrainStarter_v001/MeadowVillage.unity
+SCENE_UPDATED_SCOPED Assets/_Game/Art/Imported/TerrainStarter_v001/CottageGarden.unity
+UNITY_GATE_PHYSICS_PASS 362 poses, 0..90 degrees, both leaves
+PASS

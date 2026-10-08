@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-06",
+  "fbx_validation": "PASS",
+  "blender_gate_sweep_poses": 1086,
+  "blender_gate_sweep_intersections": 0,
+  "unity_prefabs_validated": 9,
+  "unity_asset_validator_errors": 0,
+  "unity_asset_validator_warnings": 0,
+  "unity_physics_gate_poses": 362,
+  "unity_physics_collisions": 0,
+  "wall_editmode_tests_passed": 8,
+  "wall_editmode_tests_failed": 0,
+  "unity_editor_exit_code": 0,
+  "unity_scenes_updated": ["MeadowVillage", "CottageGarden"],
+  "manual_input_unchanged": true,
+  "runtime_placement_playmode_tested": false,
+  "fps_profiled": false,
+  "report": "Little-Castle/docs/reports/fortifications-v005-update-2026-10-06.md"
+}

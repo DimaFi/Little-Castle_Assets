@@ -1,0 +1,23 @@
+{
+  "stage": "Unpainted geometry checkpoint; no UV, textures, LODs or engine release",
+  "triangles_evaluated": 49944,
+  "triangles_by_collection": {
+    "01_NAVE": 1072,
+    "02_FOUNDATION_AND_MASONRY": 4048,
+    "03_TIMBER": 4152,
+    "04_TILED_ROOFS": 15396,
+    "05_WINDOWS_AND_DOOR": 12600,
+    "06_REAR_BELL_TOWER": 11948,
+    "07_ENTRANCE": 728
+  },
+  "issues": [],
+  "tower_center_x": 0,
+  "tower_center_y": 5.02,
+  "tower_height_m": 12.32,
+  "nave_roof_peak_m": 6.71,
+  "source_files": [
+    "E:\\Games_Develop\\CozySettlement\\Art\\House_Cottage_A\\Source\\Modules\\v002\\Cottage_A_Primitives.blend",
+    "E:\\Games_Develop\\CozySettlement\\Art\\House_Cottage_A\\Source\\Openings\\v007\\House_Cottage_A.blend"
+  ],
+  "reuse": "Source stone, timber, ridge; reduced source tile profile. Gothic openings and bell authored for church."
+}

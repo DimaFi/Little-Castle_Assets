@@ -1,0 +1,158 @@
+{
+  "status": "PASS",
+  "unity_tested": false,
+  "assets": [
+    {
+      "name": "SM_Wall_Stone_2m_A",
+      "status": "PASS",
+      "triangles": [
+        3684,
+        1508,
+        408
+      ],
+      "sha256": "d4583a80e1e8a88d28b3bf55c0efd915ecacccb92b90356bdcf90014bb82df80",
+      "locators": [
+        "BannerAnchor_XPlus",
+        "BannerAnchor_XMinus",
+        "WallConnection_Left",
+        "WallConnection_Right"
+      ]
+    },
+    {
+      "name": "SM_Wall_Stone_1m_A",
+      "status": "PASS",
+      "triangles": [
+        3468,
+        1420,
+        392
+      ],
+      "sha256": "791a2218b2d189acd1ac9eb1b6fba266b798e285876aee1a5b9550f9affdcebb",
+      "locators": [
+        "WallConnection_Left",
+        "WallConnection_Right"
+      ]
+    },
+    {
+      "name": "SM_Wall_Stone_Pillar_A",
+      "status": "PASS",
+      "triangles": [
+        2794,
+        1258,
+        346
+      ],
+      "sha256": "00552ae57b4de930a30a83041385237783282c8baf575bef3cb3e073dbc652db",
+      "locators": [
+        "BannerAnchor_XPlus",
+        "BannerAnchor_XMinus"
+      ]
+    },
+    {
+      "name": "SM_Wall_Stone_End_A",
+      "status": "PASS",
+      "triangles": [
+        2292,
+        1012,
+        276
+      ],
+      "sha256": "69c106250153910bfd9905c9f260ac6b930acef90b95cf5b2008ad35396c52df",
+      "locators": []
+    },
+    {
+      "name": "SM_Wall_Banner_Cloth_A",
+      "status": "PASS",
+      "triangles": [
+        336,
+        88,
+        20
+      ],
+      "sha256": "f9a50655210f635367f6419c1ac7f6a7a234d4ff6c35ba72bc355ff0aab2b5ad",
+      "locators": []
+    },
+    {
+      "name": "SM_Wall_Banner_Bracket_A",
+      "status": "PASS",
+      "triangles": [
+        540,
+        84,
+        60
+      ],
+      "sha256": "1d569b51097438f37a38814e0768790ab097d1151c4406b486db3fa275ee9034",
+      "locators": []
+    },
+    {
+      "name": "SM_Wall_Banner_Trim_A",
+      "status": "PASS",
+      "triangles": [
+        120,
+        60,
+        20
+      ],
+      "sha256": "1963ed31eccf6405173ff3ebe255aa83dd0b7e1132d1d39ce67be008361bc195",
+      "locators": []
+    },
+    {
+      "name": "SM_ArcherTower_A",
+      "status": "PASS",
+      "triangles": [
+        10228,
+        3628,
+        644
+      ],
+      "sha256": "7b7165bbbaf576dabae7e8a1224ffa70f56376a1890523c628311d3534656c9b",
+      "locators": [
+        "WallConnection_A",
+        "WallConnection_B",
+        "BannerAnchor_XPlus",
+        "BannerAnchor_XMinus",
+        "ArrowOrigin_XPlus",
+        "ArrowOrigin_XMinus",
+        "ArrowOrigin_ZPlus",
+        "ArrowOrigin_ZMinus"
+      ]
+    },
+    {
+      "name": "SM_Wall_Gatehouse_A",
+      "status": "PASS",
+      "triangles": [
+        3390,
+        1958,
+        954
+      ],
+      "sha256": "84f3c4520455462346419a83953057c360f335f0c11deea750e9b23473272274",
+      "locators": [
+        "WallConnection_Left",
+        "WallConnection_Right",
+        "GateHinge_Left",
+        "GateHinge_Right",
+        "BannerAnchor_Left",
+        "BannerAnchor_Right"
+      ]
+    },
+    {
+      "name": "SM_Wall_GateLeaf_Left_A",
+      "status": "PASS",
+      "triangles": [
+        972,
+        408,
+        96
+      ],
+      "sha256": "568f925d5b099aa25b25adc5a9027cb6a441dc7abf54875fb7d5ed35e589d590",
+      "locators": []
+    },
+    {
+      "name": "SM_Wall_GateLeaf_Right_A",
+      "status": "PASS",
+      "triangles": [
+        972,
+        408,
+        96
+      ],
+      "sha256": "35e9717beec29caadb6cdcc21b2e68ce445125bfd7df159fca1e2756a19dbec0",
+      "locators": []
+    }
+  ],
+  "approved_v002_stones": "PASS: identical vertices, faces, UVs across all 12 stone LOD meshes; identical texture bytes",
+  "socket_contract": "PASS: base-height endpoints, outgoing directions, 0.08m nominal overlap; no claim of runtime placement validation",
+  "gate_opening": "PASS: structural box proxies leave centre passage; independent door leaf meshes pivot at hinges",
+  "source_sha256": "b30dc498bff69d02a6589edcb96fdc07dd3d4993bbf74616a7ef083b81c55671"
+}

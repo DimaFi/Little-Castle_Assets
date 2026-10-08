@@ -1,0 +1,11 @@
+{
+  "saved_file_readback": true,
+  "triangles": 48960,
+  "reduction_from_v003": 1786,
+  "reduction_percent": 3.52,
+  "metric_timber_uv_objects": 111,
+  "interior_tiles_with_deliberate_culling": 450,
+  "cross_to_ridge_gap_m": 0.039999961853027344,
+  "packed_used_images": 16,
+  "issues": []
+}

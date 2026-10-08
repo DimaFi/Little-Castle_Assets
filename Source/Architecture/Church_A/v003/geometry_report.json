@@ -1,0 +1,30 @@
+{
+  "version": "v003",
+  "painted_architecture": true,
+  "triangles_total": 50746,
+  "previous_triangles": 49196,
+  "added_triangles_net": 1550,
+  "vine_triangles": 1054,
+  "patches": [
+    {
+      "patch": "Vine_Left_Pier",
+      "leaves": 45
+    },
+    {
+      "patch": "Vine_Entrance_Right",
+      "leaves": 24
+    },
+    {
+      "patch": "Vine_Tower_Left",
+      "leaves": 41
+    },
+    {
+      "patch": "Vine_Right_Pier",
+      "leaves": 15
+    }
+  ],
+  "degenerate_objects": [],
+  "leaf_texture": "CozySettlement/Mat/T_Foliage/T_Foliage_BaseColor.png",
+  "stair_side_cladding": "16 source stone blocks plus 2 closed backing meshes",
+  "engine_ready": false
+}

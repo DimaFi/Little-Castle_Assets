@@ -1,0 +1,365 @@
+{
+  "method": "Strict interior half-space culling; surviving positions and UVs unchanged",
+  "parts": [
+    {
+      "name": "SM_Wall_Stone_2m_A_LOD0",
+      "vertices_before": 1912,
+      "vertices_after": 1909,
+      "triangles_before": 3684,
+      "triangles_after": 3659,
+      "removed_fully_internal_triangles": 25
+    },
+    {
+      "name": "SM_Wall_Stone_2m_A_LOD1",
+      "vertices_before": 824,
+      "vertices_after": 824,
+      "triangles_before": 1508,
+      "triangles_after": 1504,
+      "removed_fully_internal_triangles": 4
+    },
+    {
+      "name": "SM_Wall_Stone_2m_A_LOD2",
+      "vertices_before": 256,
+      "vertices_after": 256,
+      "triangles_before": 408,
+      "triangles_after": 408,
+      "removed_fully_internal_triangles": 0
+    },
+    {
+      "name": "SM_Wall_Stone_1m_A_LOD0",
+      "vertices_before": 1800,
+      "vertices_after": 1589,
+      "triangles_before": 3468,
+      "triangles_after": 2811,
+      "removed_fully_internal_triangles": 657
+    },
+    {
+      "name": "SM_Wall_Stone_1m_A_LOD1",
+      "vertices_before": 776,
+      "vertices_after": 736,
+      "triangles_before": 1420,
+      "triangles_after": 1218,
+      "removed_fully_internal_triangles": 202
+    },
+    {
+      "name": "SM_Wall_Stone_1m_A_LOD2",
+      "vertices_before": 256,
+      "vertices_after": 256,
+      "triangles_before": 392,
+      "triangles_after": 376,
+      "removed_fully_internal_triangles": 16
+    },
+    {
+      "name": "SM_Wall_Stone_Pillar_A_LOD0",
+      "vertices_before": 1456,
+      "vertices_after": 1318,
+      "triangles_before": 2794,
+      "triangles_after": 2271,
+      "removed_fully_internal_triangles": 523
+    },
+    {
+      "name": "SM_Wall_Stone_Pillar_A_LOD1",
+      "vertices_before": 688,
+      "vertices_after": 679,
+      "triangles_before": 1258,
+      "triangles_after": 1112,
+      "removed_fully_internal_triangles": 146
+    },
+    {
+      "name": "SM_Wall_Stone_Pillar_A_LOD2",
+      "vertices_before": 232,
+      "vertices_after": 232,
+      "triangles_before": 346,
+      "triangles_after": 326,
+      "removed_fully_internal_triangles": 20
+    },
+    {
+      "name": "SM_Wall_Stone_End_A_LOD0",
+      "vertices_before": 1192,
+      "vertices_after": 1086,
+      "triangles_before": 2292,
+      "triangles_after": 1905,
+      "removed_fully_internal_triangles": 387
+    },
+    {
+      "name": "SM_Wall_Stone_End_A_LOD1",
+      "vertices_before": 552,
+      "vertices_after": 540,
+      "triangles_before": 1012,
+      "triangles_after": 893,
+      "removed_fully_internal_triangles": 119
+    },
+    {
+      "name": "SM_Wall_Stone_End_A_LOD2",
+      "vertices_before": 184,
+      "vertices_after": 184,
+      "triangles_before": 276,
+      "triangles_after": 276,
+      "removed_fully_internal_triangles": 0
+    },
+    {
+      "name": "SM_Wall_Banner_Cloth_A_LOD0",
+      "vertices_before": 200,
+      "vertices_after": 200,
+      "triangles_before": 336,
+      "triangles_after": 336,
+      "removed_fully_internal_triangles": 0
+    },
+    {
+      "name": "SM_Wall_Banner_Cloth_A_LOD1",
+      "vertices_before": 62,
+      "vertices_after": 62,
+      "triangles_before": 88,
+      "triangles_after": 88,
+      "removed_fully_internal_triangles": 0
+    },
+    {
+      "name": "SM_Wall_Banner_Cloth_A_LOD2",
+      "vertices_before": 20,
+      "vertices_after": 20,
+      "triangles_before": 20,
+      "triangles_after": 20,
+      "removed_fully_internal_triangles": 0
+    },
+    {
+      "name": "SM_Wall_Banner_Bracket_A_LOD0",
+      "vertices_before": 288,
+      "vertices_after": 261,
+      "triangles_before": 540,
+      "triangles_after": 445,
+      "removed_fully_internal_triangles": 95
+    },
+    {
+      "name": "SM_Wall_Banner_Bracket_A_LOD1",
+      "vertices_before": 56,
+      "vertices_after": 56,
+      "triangles_before": 84,
+      "triangles_after": 80,
+      "removed_fully_internal_triangles": 4
+    },
+    {
+      "name": "SM_Wall_Banner_Bracket_A_LOD2",
+      "vertices_before": 40,
+      "vertices_after": 40,
+      "triangles_before": 60,
+      "triangles_after": 60,
+      "removed_fully_internal_triangles": 0
+    },
+    {
+      "name": "SM_Wall_Banner_Trim_A_Trim_LOD0",
+      "vertices_before": 120,
+      "vertices_after": 120,
+      "triangles_before": 120,
+      "triangles_after": 120,
+      "removed_fully_internal_triangles": 0
+    },
+    {
+      "name": "SM_Wall_Banner_Trim_A_Trim_LOD1",
+      "vertices_before": 60,
+      "vertices_after": 60,
+      "triangles_before": 60,
+      "triangles_after": 60,
+      "removed_fully_internal_triangles": 0
+    },
+    {
+      "name": "SM_Wall_Banner_Trim_A_Trim_LOD2",
+      "vertices_before": 20,
+      "vertices_after": 20,
+      "triangles_before": 20,
+      "triangles_after": 20,
+      "removed_fully_internal_triangles": 0
+    },
+    {
+      "name": "SM_ArcherTower_A_Stone_LOD0",
+      "vertices_before": 4040,
+      "vertices_after": 4034,
+      "triangles_before": 7408,
+      "triangles_after": 7210,
+      "removed_fully_internal_triangles": 198
+    },
+    {
+      "name": "SM_ArcherTower_A_Timber_LOD0",
+      "vertices_before": 544,
+      "vertices_after": 528,
+      "triangles_before": 1008,
+      "triangles_after": 934,
+      "removed_fully_internal_triangles": 74
+    },
+    {
+      "name": "SM_ArcherTower_A_Roof_LOD0",
+      "vertices_before": 1232,
+      "vertices_after": 1232,
+      "triangles_before": 1812,
+      "triangles_after": 1812,
+      "removed_fully_internal_triangles": 0
+    },
+    {
+      "name": "SM_ArcherTower_A_Stone_LOD1",
+      "vertices_before": 1416,
+      "vertices_after": 1412,
+      "triangles_before": 2160,
+      "triangles_after": 2104,
+      "removed_fully_internal_triangles": 56
+    },
+    {
+      "name": "SM_ArcherTower_A_Timber_LOD1",
+      "vertices_before": 544,
+      "vertices_after": 528,
+      "triangles_before": 1008,
+      "triangles_after": 924,
+      "removed_fully_internal_triangles": 84
+    },
+    {
+      "name": "SM_ArcherTower_A_Roof_LOD1",
+      "vertices_before": 296,
+      "vertices_after": 296,
+      "triangles_before": 460,
+      "triangles_after": 460,
+      "removed_fully_internal_triangles": 0
+    },
+    {
+      "name": "SM_ArcherTower_A_Stone_LOD2",
+      "vertices_before": 688,
+      "vertices_after": 688,
+      "triangles_before": 376,
+      "triangles_after": 372,
+      "removed_fully_internal_triangles": 4
+    },
+    {
+      "name": "SM_ArcherTower_A_Timber_LOD2",
+      "vertices_before": 160,
+      "vertices_after": 160,
+      "triangles_before": 240,
+      "triangles_after": 240,
+      "removed_fully_internal_triangles": 0
+    },
+    {
+      "name": "SM_ArcherTower_A_Roof_LOD2",
+      "vertices_before": 39,
+      "vertices_after": 39,
+      "triangles_before": 28,
+      "triangles_after": 28,
+      "removed_fully_internal_triangles": 0
+    },
+    {
+      "name": "SM_Wall_Gatehouse_A_Stone_LOD0",
+      "vertices_before": 1820,
+      "vertices_after": 1796,
+      "triangles_before": 3390,
+      "triangles_after": 3306,
+      "removed_fully_internal_triangles": 84
+    },
+    {
+      "name": "SM_Wall_Gatehouse_A_Stone_LOD1",
+      "vertices_before": 1100,
+      "vertices_after": 1100,
+      "triangles_before": 1958,
+      "triangles_after": 1946,
+      "removed_fully_internal_triangles": 12
+    },
+    {
+      "name": "SM_Wall_Gatehouse_A_Stone_LOD2",
+      "vertices_before": 596,
+      "vertices_after": 596,
+      "triangles_before": 954,
+      "triangles_after": 942,
+      "removed_fully_internal_triangles": 12
+    },
+    {
+      "name": "SM_Wall_GateLeaf_Left_A_Timber_LOD0",
+      "vertices_before": 48,
+      "vertices_after": 48,
+      "triangles_before": 72,
+      "triangles_after": 72,
+      "removed_fully_internal_triangles": 0
+    },
+    {
+      "name": "SM_Wall_GateLeaf_Left_A_Iron_LOD0",
+      "vertices_before": 480,
+      "vertices_after": 480,
+      "triangles_before": 900,
+      "triangles_after": 882,
+      "removed_fully_internal_triangles": 18
+    },
+    {
+      "name": "SM_Wall_GateLeaf_Left_A_Timber_LOD1",
+      "vertices_before": 32,
+      "vertices_after": 32,
+      "triangles_before": 48,
+      "triangles_after": 48,
+      "removed_fully_internal_triangles": 0
+    },
+    {
+      "name": "SM_Wall_GateLeaf_Left_A_Iron_LOD1",
+      "vertices_before": 192,
+      "vertices_after": 192,
+      "triangles_before": 360,
+      "triangles_after": 360,
+      "removed_fully_internal_triangles": 0
+    },
+    {
+      "name": "SM_Wall_GateLeaf_Left_A_Timber_LOD2",
+      "vertices_before": 16,
+      "vertices_after": 16,
+      "triangles_before": 24,
+      "triangles_after": 24,
+      "removed_fully_internal_triangles": 0
+    },
+    {
+      "name": "SM_Wall_GateLeaf_Left_A_Iron_LOD2",
+      "vertices_before": 48,
+      "vertices_after": 48,
+      "triangles_before": 72,
+      "triangles_after": 72,
+      "removed_fully_internal_triangles": 0
+    },
+    {
+      "name": "SM_Wall_GateLeaf_Right_A_Timber_LOD0",
+      "vertices_before": 48,
+      "vertices_after": 48,
+      "triangles_before": 72,
+      "triangles_after": 72,
+      "removed_fully_internal_triangles": 0
+    },
+    {
+      "name": "SM_Wall_GateLeaf_Right_A_Iron_LOD0",
+      "vertices_before": 480,
+      "vertices_after": 480,
+      "triangles_before": 900,
+      "triangles_after": 882,
+      "removed_fully_internal_triangles": 18
+    },
+    {
+      "name": "SM_Wall_GateLeaf_Right_A_Timber_LOD1",
+      "vertices_before": 32,
+      "vertices_after": 32,
+      "triangles_before": 48,
+      "triangles_after": 48,
+      "removed_fully_internal_triangles": 0
+    },
+    {
+      "name": "SM_Wall_GateLeaf_Right_A_Iron_LOD1",
+      "vertices_before": 192,
+      "vertices_after": 192,
+      "triangles_before": 360,
+      "triangles_after": 360,
+      "removed_fully_internal_triangles": 0
+    },
+    {
+      "name": "SM_Wall_GateLeaf_Right_A_Timber_LOD2",
+      "vertices_before": 16,
+      "vertices_after": 16,
+      "triangles_before": 24,
+      "triangles_after": 24,
+      "removed_fully_internal_triangles": 0
+    },
+    {
+      "name": "SM_Wall_GateLeaf_Right_A_Iron_LOD2",
+      "vertices_before": 48,
+      "vertices_after": 48,
+      "triangles_before": 72,
+      "triangles_after": 72,
+      "removed_fully_internal_triangles": 0
+    }
+  ]
+}

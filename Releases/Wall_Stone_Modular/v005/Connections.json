@@ -1,0 +1,343 @@
+{
+  "version": "v005",
+  "units": "metres",
+  "up": "Y",
+  "outward_axis": "+Z",
+  "recommended_overlap_m": 0.12373408317565918,
+  "runtime_docking_tested": false,
+  "assets": {
+    "SM_Wall_Stone_2m_A": [
+      {
+        "name": "BannerAnchor_XPlus",
+        "position": [
+          0.47946956753730774,
+          1.8250776529312134,
+          -0.0
+        ],
+        "yaw": 90.00000250447816,
+        "scale": [
+          1.5466760396957397,
+          1.5466760396957397,
+          1.5466760396957397
+        ]
+      },
+      {
+        "name": "BannerAnchor_XMinus",
+        "position": [
+          -0.47946956753730774,
+          1.8250776529312134,
+          -0.0
+        ],
+        "yaw": -90.00000250447816,
+        "scale": [
+          1.5466760396957397,
+          1.5466760396957397,
+          1.5466760396957397
+        ]
+      },
+      {
+        "name": "WallConnection_Left",
+        "position": [
+          0.0,
+          0.0,
+          -1.5466760396957397
+        ],
+        "yaw": 180.00000500895632,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "name": "WallConnection_Right",
+        "position": [
+          0.0,
+          0.0,
+          1.5466760396957397
+        ],
+        "yaw": 0.0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ],
+    "SM_Wall_Stone_1m_A": [
+      {
+        "name": "WallConnection_Left",
+        "position": [
+          0.0,
+          0.0,
+          -0.7733380198478699
+        ],
+        "yaw": 180.00000500895632,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "name": "WallConnection_Right",
+        "position": [
+          0.0,
+          0.0,
+          0.7733380198478699
+        ],
+        "yaw": 0.0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ],
+    "SM_Wall_Stone_Pillar_A": [
+      {
+        "name": "BannerAnchor_XPlus",
+        "position": [
+          0.5568034052848816,
+          2.134413003921509,
+          -0.0
+        ],
+        "yaw": 90.00000250447816,
+        "scale": [
+          1.5466760396957397,
+          1.5466760396957397,
+          1.5466760396957397
+        ]
+      },
+      {
+        "name": "BannerAnchor_XMinus",
+        "position": [
+          -0.5568034052848816,
+          2.134413003921509,
+          -0.0
+        ],
+        "yaw": -90.00000250447816,
+        "scale": [
+          1.5466760396957397,
+          1.5466760396957397,
+          1.5466760396957397
+        ]
+      }
+    ],
+    "SM_Wall_Stone_End_A": [],
+    "SM_Wall_Banner_Cloth_A": [],
+    "SM_Wall_Banner_Bracket_A": [],
+    "SM_Wall_Banner_Trim_A": [],
+    "SM_ArcherTower_A": [
+      {
+        "name": "WallConnection_A",
+        "position": [
+          0.0,
+          0.0,
+          -0.8999999761581421
+        ],
+        "yaw": 180.00000500895632,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "name": "WallConnection_B",
+        "position": [
+          0.0,
+          0.0,
+          0.8999999761581421
+        ],
+        "yaw": 0.0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "name": "BannerAnchor_XPlus",
+        "position": [
+          0.925000011920929,
+          1.8300000429153442,
+          -0.0
+        ],
+        "yaw": 90.00000250447816,
+        "scale": [
+          1.5,
+          1.5,
+          1.5
+        ]
+      },
+      {
+        "name": "BannerAnchor_XMinus",
+        "position": [
+          -0.925000011920929,
+          1.8300000429153442,
+          -0.0
+        ],
+        "yaw": -90.00000250447816,
+        "scale": [
+          1.5,
+          1.5,
+          1.5
+        ]
+      },
+      {
+        "name": "ArrowOrigin_XPlus",
+        "position": [
+          0.9200000166893005,
+          2.119999885559082,
+          5.633375257193976e-17
+        ],
+        "yaw": 90.00000250447816,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "name": "ArrowOrigin_XMinus",
+        "position": [
+          -0.9200000166893005,
+          2.119999885559082,
+          5.633375257193976e-17
+        ],
+        "yaw": -90.00000250447816,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "name": "ArrowOrigin_ZPlus",
+        "position": [
+          0.0,
+          2.119999885559082,
+          0.9200000166893005
+        ],
+        "yaw": 0.0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "name": "ArrowOrigin_ZMinus",
+        "position": [
+          1.1266750514387952e-16,
+          2.119999885559082,
+          -0.9200000166893005
+        ],
+        "yaw": 180.00000500895632,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ],
+    "SM_Wall_Gatehouse_A": [
+      {
+        "name": "WallConnection_Left",
+        "position": [
+          0.0,
+          0.0,
+          -1.9900000095367432
+        ],
+        "yaw": 180.00000500895632,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "name": "WallConnection_Right",
+        "position": [
+          0.0,
+          0.0,
+          1.9900000095367432
+        ],
+        "yaw": 0.0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "name": "GateHinge_Left",
+        "position": [
+          0.6000000238418579,
+          0.0,
+          -1.0399999618530273
+        ],
+        "yaw": 0.0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "name": "GateHinge_Right",
+        "position": [
+          0.6000000238418579,
+          0.0,
+          1.0399999618530273
+        ],
+        "yaw": 0.0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "name": "BannerAnchor_Left",
+        "position": [
+          0.5,
+          2.0999999046325684,
+          -1.559999942779541
+        ],
+        "yaw": 90.00000250447816,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "name": "BannerAnchor_Right",
+        "position": [
+          0.5,
+          2.0999999046325684,
+          1.559999942779541
+        ],
+        "yaw": 90.00000250447816,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ],
+    "SM_Wall_GateLeaf_Left_A": [],
+    "SM_Wall_GateLeaf_Right_A": []
+  },
+  "segment_length": 3.0933520793914795,
+  "short_segment_length": 1.5466760396957397,
+  "gate": {
+    "interior_axis": "+X",
+    "exterior_axis": "-X",
+    "hinge_x": 0.6,
+    "left_open_y_degrees": 90,
+    "right_open_y_degrees": -90
+  }
+}

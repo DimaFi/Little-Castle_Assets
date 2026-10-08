@@ -1,0 +1,1929 @@
+{
+  "version": "v004",
+  "unity_tested": false,
+  "coordinates": "metres, Y-up, wall axis Z",
+  "assets": {
+    "SM_Wall_Stone_2m_A": {
+      "lods": [
+        {
+          "triangles": 3659,
+          "renderers": 1,
+          "parts": [
+            {
+              "min": [
+                -0.30000001192092896,
+                0.0,
+                -1.0
+              ],
+              "max": [
+                0.30000001192092896,
+                1.399999976158142,
+                1.0
+              ],
+              "size": [
+                0.6000000238418579,
+                1.399999976158142,
+                2.0
+              ],
+              "triangles": 3659,
+              "vertices": 1909,
+              "material": "M_Wall_Stone_Shared",
+              "min_triangle_area": 2.5433903273121754e-05,
+              "min_uv_area": 1.6064497067702632e-05,
+              "identity_transform": true,
+              "name": "SM_Wall_Stone_2m_A_LOD0"
+            }
+          ]
+        },
+        {
+          "triangles": 1504,
+          "renderers": 1,
+          "parts": [
+            {
+              "min": [
+                -0.30000001192092896,
+                0.0,
+                -1.0
+              ],
+              "max": [
+                0.30000001192092896,
+                1.399999976158142,
+                1.0
+              ],
+              "size": [
+                0.6000000238418579,
+                1.399999976158142,
+                2.0
+              ],
+              "triangles": 1504,
+              "vertices": 824,
+              "material": "M_Wall_Stone_Shared",
+              "min_triangle_area": 5.91980483606591e-05,
+              "min_uv_area": 3.788721924991023e-05,
+              "identity_transform": true,
+              "name": "SM_Wall_Stone_2m_A_LOD1"
+            }
+          ]
+        },
+        {
+          "triangles": 408,
+          "renderers": 1,
+          "parts": [
+            {
+              "min": [
+                -0.30000001192092896,
+                0.0,
+                -1.0
+              ],
+              "max": [
+                0.30000001192092896,
+                1.399999976158142,
+                1.0
+              ],
+              "size": [
+                0.6000000238418579,
+                1.399999976158142,
+                2.0
+              ],
+              "triangles": 408,
+              "vertices": 256,
+              "material": "M_Wall_Stone_Shared",
+              "min_triangle_area": 0.011399989024397388,
+              "min_uv_area": 0.00729599607372311,
+              "identity_transform": true,
+              "name": "SM_Wall_Stone_2m_A_LOD2"
+            }
+          ]
+        }
+      ],
+      "locators": [
+        {
+          "name": "BannerAnchor_XPlus",
+          "position": [
+            0.3100000023841858,
+            1.1799999475479126,
+            -0.0
+          ],
+          "yaw": 90.00000250447816,
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "name": "BannerAnchor_XMinus",
+          "position": [
+            -0.3100000023841858,
+            1.1799999475479126,
+            -0.0
+          ],
+          "yaw": -90.00000250447816,
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "name": "WallConnection_Left",
+          "position": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "yaw": 180.00000500895632,
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "name": "WallConnection_Right",
+          "position": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "yaw": 0.0,
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      ],
+      "colliders": [
+        {
+          "min": [
+            -0.30000001192092896,
+            0.0,
+            -1.0
+          ],
+          "max": [
+            0.30000001192092896,
+            1.399999976158142,
+            1.0
+          ],
+          "size": [
+            0.6000000238418579,
+            1.399999976158142,
+            2.0
+          ]
+        }
+      ]
+    },
+    "SM_Wall_Stone_1m_A": {
+      "lods": [
+        {
+          "triangles": 2811,
+          "renderers": 1,
+          "parts": [
+            {
+              "min": [
+                -0.30000001192092896,
+                0.0,
+                -0.5
+              ],
+              "max": [
+                0.30000001192092896,
+                1.399999976158142,
+                0.5
+              ],
+              "size": [
+                0.6000000238418579,
+                1.399999976158142,
+                1.0
+              ],
+              "triangles": 2811,
+              "vertices": 1589,
+              "material": "M_Wall_Stone_Shared",
+              "min_triangle_area": 2.868837097527436e-05,
+              "min_uv_area": 1.8354560431532718e-05,
+              "identity_transform": true,
+              "name": "SM_Wall_Stone_1m_A_LOD0"
+            }
+          ]
+        },
+        {
+          "triangles": 1218,
+          "renderers": 1,
+          "parts": [
+            {
+              "min": [
+                -0.30000001192092896,
+                0.0,
+                -0.5
+              ],
+              "max": [
+                0.30000001192092896,
+                1.399999976158142,
+                0.5
+              ],
+              "size": [
+                0.6000000238418579,
+                1.399999976158142,
+                1.0
+              ],
+              "triangles": 1218,
+              "vertices": 736,
+              "material": "M_Wall_Stone_Shared",
+              "min_triangle_area": 6.484313403464425e-05,
+              "min_uv_area": 4.149978895462425e-05,
+              "identity_transform": true,
+              "name": "SM_Wall_Stone_1m_A_LOD1"
+            }
+          ]
+        },
+        {
+          "triangles": 376,
+          "renderers": 1,
+          "parts": [
+            {
+              "min": [
+                -0.30000001192092896,
+                0.0,
+                -0.5
+              ],
+              "max": [
+                0.30000001192092896,
+                1.399999976158142,
+                0.5
+              ],
+              "size": [
+                0.6000000238418579,
+                1.399999976158142,
+                1.0
+              ],
+              "triangles": 376,
+              "vertices": 256,
+              "material": "M_Wall_Stone_Shared",
+              "min_triangle_area": 0.009000047353773877,
+              "min_uv_area": 0.00576003192900032,
+              "identity_transform": true,
+              "name": "SM_Wall_Stone_1m_A_LOD2"
+            }
+          ]
+        }
+      ],
+      "locators": [
+        {
+          "name": "WallConnection_Left",
+          "position": [
+            0.0,
+            0.0,
+            -0.5
+          ],
+          "yaw": 180.00000500895632,
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "name": "WallConnection_Right",
+          "position": [
+            0.0,
+            0.0,
+            0.5
+          ],
+          "yaw": 0.0,
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      ],
+      "colliders": [
+        {
+          "min": [
+            -0.30000001192092896,
+            0.0,
+            -0.5
+          ],
+          "max": [
+            0.30000001192092896,
+            1.399999976158142,
+            0.5
+          ],
+          "size": [
+            0.6000000238418579,
+            1.399999976158142,
+            1.0
+          ]
+        }
+      ]
+    },
+    "SM_Wall_Stone_Pillar_A": {
+      "lods": [
+        {
+          "triangles": 2271,
+          "renderers": 1,
+          "parts": [
+            {
+              "min": [
+                -0.3499999940395355,
+                0.0,
+                -0.3499999940395355
+              ],
+              "max": [
+                0.3499999940395355,
+                1.600000023841858,
+                0.3499999940395355
+              ],
+              "size": [
+                0.699999988079071,
+                1.600000023841858,
+                0.699999988079071
+              ],
+              "triangles": 2271,
+              "vertices": 1318,
+              "material": "M_Wall_Stone_Shared",
+              "min_triangle_area": 7.42155276536012e-05,
+              "min_uv_area": 4.749773091816678e-05,
+              "identity_transform": true,
+              "name": "SM_Wall_Stone_Pillar_A_LOD0"
+            }
+          ]
+        },
+        {
+          "triangles": 1112,
+          "renderers": 1,
+          "parts": [
+            {
+              "min": [
+                -0.3499999940395355,
+                0.0,
+                -0.3499999940395355
+              ],
+              "max": [
+                0.3499999940395355,
+                1.600000023841858,
+                0.3499999940395355
+              ],
+              "size": [
+                0.699999988079071,
+                1.600000023841858,
+                0.699999988079071
+              ],
+              "triangles": 1112,
+              "vertices": 679,
+              "material": "M_Wall_Stone_Shared",
+              "min_triangle_area": 7.42155276536012e-05,
+              "min_uv_area": 4.749773091816678e-05,
+              "identity_transform": true,
+              "name": "SM_Wall_Stone_Pillar_A_LOD1"
+            }
+          ]
+        },
+        {
+          "triangles": 326,
+          "renderers": 1,
+          "parts": [
+            {
+              "min": [
+                -0.3499999940395355,
+                0.0,
+                -0.3499999940395355
+              ],
+              "max": [
+                0.3499999940395355,
+                1.600000023841858,
+                0.3499999940395355
+              ],
+              "size": [
+                0.699999988079071,
+                1.600000023841858,
+                0.699999988079071
+              ],
+              "triangles": 326,
+              "vertices": 232,
+              "material": "M_Wall_Stone_Shared",
+              "min_triangle_area": 0.017803890573399775,
+              "min_uv_area": 0.011394486868365306,
+              "identity_transform": true,
+              "name": "SM_Wall_Stone_Pillar_A_LOD2"
+            }
+          ]
+        }
+      ],
+      "locators": [
+        {
+          "name": "BannerAnchor_XPlus",
+          "position": [
+            0.36000001430511475,
+            1.3799999952316284,
+            -0.0
+          ],
+          "yaw": 90.00000250447816,
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "name": "BannerAnchor_XMinus",
+          "position": [
+            -0.36000001430511475,
+            1.3799999952316284,
+            -0.0
+          ],
+          "yaw": -90.00000250447816,
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      ],
+      "colliders": [
+        {
+          "min": [
+            -0.3499999940395355,
+            0.0,
+            -0.3499999940395355
+          ],
+          "max": [
+            0.3499999940395355,
+            1.600000023841858,
+            0.3499999940395355
+          ],
+          "size": [
+            0.699999988079071,
+            1.600000023841858,
+            0.699999988079071
+          ]
+        }
+      ]
+    },
+    "SM_Wall_Stone_End_A": {
+      "lods": [
+        {
+          "triangles": 1905,
+          "renderers": 1,
+          "parts": [
+            {
+              "min": [
+                -0.30000001192092896,
+                0.0,
+                -0.30000001192092896
+              ],
+              "max": [
+                0.30000001192092896,
+                1.399999976158142,
+                0.30000001192092896
+              ],
+              "size": [
+                0.6000000238418579,
+                1.399999976158142,
+                0.6000000238418579
+              ],
+              "triangles": 1905,
+              "vertices": 1086,
+              "material": "M_Wall_Stone_Shared",
+              "min_triangle_area": 7.421559347512529e-05,
+              "min_uv_area": 4.749773091816678e-05,
+              "identity_transform": true,
+              "name": "SM_Wall_Stone_End_A_LOD0"
+            }
+          ]
+        },
+        {
+          "triangles": 893,
+          "renderers": 1,
+          "parts": [
+            {
+              "min": [
+                -0.30000001192092896,
+                0.0,
+                -0.30000001192092896
+              ],
+              "max": [
+                0.30000001192092896,
+                1.399999976158142,
+                0.30000001192092896
+              ],
+              "size": [
+                0.6000000238418579,
+                1.399999976158142,
+                0.6000000238418579
+              ],
+              "triangles": 893,
+              "vertices": 540,
+              "material": "M_Wall_Stone_Shared",
+              "min_triangle_area": 7.421559347512529e-05,
+              "min_uv_area": 4.749773091816678e-05,
+              "identity_transform": true,
+              "name": "SM_Wall_Stone_End_A_LOD1"
+            }
+          ]
+        },
+        {
+          "triangles": 276,
+          "renderers": 1,
+          "parts": [
+            {
+              "min": [
+                -0.30000001192092896,
+                0.0,
+                -0.30000001192092896
+              ],
+              "max": [
+                0.30000001192092896,
+                1.399999976158142,
+                0.30000001192092896
+              ],
+              "size": [
+                0.6000000238418579,
+                1.399999976158142,
+                0.6000000238418579
+              ],
+              "triangles": 276,
+              "vertices": 184,
+              "material": "M_Wall_Stone_Shared",
+              "min_triangle_area": 0.018160857442120037,
+              "min_uv_area": 0.011622948054384352,
+              "identity_transform": true,
+              "name": "SM_Wall_Stone_End_A_LOD2"
+            }
+          ]
+        }
+      ],
+      "locators": [],
+      "colliders": [
+        {
+          "min": [
+            -0.30000001192092896,
+            0.0,
+            -0.30000001192092896
+          ],
+          "max": [
+            0.30000001192092896,
+            1.399999976158142,
+            0.30000001192092896
+          ],
+          "size": [
+            0.6000000238418579,
+            1.399999976158142,
+            0.6000000238418579
+          ]
+        }
+      ]
+    },
+    "SM_Wall_Banner_Cloth_A": {
+      "lods": [
+        {
+          "triangles": 336,
+          "renderers": 1,
+          "parts": [
+            {
+              "min": [
+                -0.18000000715255737,
+                -0.6000000238418579,
+                0.007805630564689636
+              ],
+              "max": [
+                0.18000000715255737,
+                0.0,
+                0.028794368728995323
+              ],
+              "size": [
+                0.36000001430511475,
+                0.6000000238418579,
+                0.020988738164305687
+              ],
+              "triangles": 336,
+              "vertices": 200,
+              "material": "M_PlayerBanner",
+              "min_triangle_area": 0.001080001292358709,
+              "min_uv_area": 0.004999998956918716,
+              "identity_transform": true,
+              "name": "SM_Wall_Banner_Cloth_A_LOD0"
+            }
+          ]
+        },
+        {
+          "triangles": 88,
+          "renderers": 1,
+          "parts": [
+            {
+              "min": [
+                -0.18000000715255737,
+                -0.6000000238418579,
+                0.013000000268220901
+              ],
+              "max": [
+                0.18000000715255737,
+                0.0,
+                0.023250721395015717
+              ],
+              "size": [
+                0.36000001430511475,
+                0.6000000238418579,
+                0.010250721126794815
+              ],
+              "triangles": 88,
+              "vertices": 62,
+              "material": "M_PlayerBanner",
+              "min_triangle_area": 0.004320005616280574,
+              "min_uv_area": 0.019999995827674866,
+              "identity_transform": true,
+              "name": "SM_Wall_Banner_Cloth_A_LOD1"
+            }
+          ]
+        },
+        {
+          "triangles": 20,
+          "renderers": 1,
+          "parts": [
+            {
+              "min": [
+                -0.18000000715255737,
+                -0.6000000238418579,
+                0.013000000268220901
+              ],
+              "max": [
+                0.18000000715255737,
+                0.0,
+                0.023250721395015717
+              ],
+              "size": [
+                0.36000001430511475,
+                0.6000000238418579,
+                0.010250721126794815
+              ],
+              "triangles": 20,
+              "vertices": 20,
+              "material": "M_PlayerBanner",
+              "min_triangle_area": 0.010800696524058627,
+              "min_uv_area": 0.05000000074505806,
+              "identity_transform": true,
+              "name": "SM_Wall_Banner_Cloth_A_LOD2"
+            }
+          ]
+        }
+      ],
+      "locators": [],
+      "colliders": []
+    },
+    "SM_Wall_Banner_Bracket_A": {
+      "lods": [
+        {
+          "triangles": 445,
+          "renderers": 1,
+          "parts": [
+            {
+              "min": [
+                -0.2199999988079071,
+                -0.032999999821186066,
+                -0.0
+              ],
+              "max": [
+                0.2199999988079071,
+                0.02500000037252903,
+                0.06499999761581421
+              ],
+              "size": [
+                0.4399999976158142,
+                0.058000000193715096,
+                0.06499999761581421
+              ],
+              "triangles": 445,
+              "vertices": 261,
+              "material": "M_BannerBracket_Shared",
+              "min_triangle_area": 2.061554859758717e-06,
+              "min_uv_area": 1.3193473513695153e-06,
+              "identity_transform": true,
+              "name": "SM_Wall_Banner_Bracket_A_LOD0"
+            }
+          ]
+        },
+        {
+          "triangles": 80,
+          "renderers": 1,
+          "parts": [
+            {
+              "min": [
+                -0.20499999821186066,
+                -0.032999999821186066,
+                -0.0
+              ],
+              "max": [
+                0.20499999821186066,
+                0.02500000037252903,
+                0.06199999898672104
+              ],
+              "size": [
+                0.4099999964237213,
+                0.058000000193715096,
+                0.06199999898672104
+              ],
+              "triangles": 80,
+              "vertices": 56,
+              "material": "M_BannerBracket_Shared",
+              "min_triangle_area": 0.00015299994508595317,
+              "min_uv_area": 9.79199772643824e-05,
+              "identity_transform": true,
+              "name": "SM_Wall_Banner_Bracket_A_LOD1"
+            }
+          ]
+        },
+        {
+          "triangles": 60,
+          "renderers": 1,
+          "parts": [
+            {
+              "min": [
+                -0.20499999821186066,
+                -0.032999999821186066,
+                -0.0
+              ],
+              "max": [
+                0.20499999821186066,
+                0.02500000037252903,
+                0.06199999898672104
+              ],
+              "size": [
+                0.4099999964237213,
+                0.058000000193715096,
+                0.06199999898672104
+              ],
+              "triangles": 60,
+              "vertices": 40,
+              "material": "M_BannerBracket_Shared",
+              "min_triangle_area": 0.00016199998038557125,
+              "min_uv_area": 0.00010368007690431114,
+              "identity_transform": true,
+              "name": "SM_Wall_Banner_Bracket_A_LOD2"
+            }
+          ]
+        }
+      ],
+      "locators": [],
+      "colliders": []
+    },
+    "SM_Wall_Banner_Trim_A": {
+      "lods": [
+        {
+          "triangles": 120,
+          "renderers": 1,
+          "parts": [
+            {
+              "min": [
+                -0.18000000715255737,
+                -0.6000000238418579,
+                0.008395281620323658
+              ],
+              "max": [
+                0.18000000715255737,
+                -0.0,
+                0.032238930463790894
+              ],
+              "size": [
+                0.36000001430511475,
+                0.6000000238418579,
+                0.023843648843467236
+              ],
+              "triangles": 120,
+              "vertices": 120,
+              "material": "M_PlayerBannerTrim",
+              "min_triangle_area": 0.00023526329429012915,
+              "min_uv_area": 0.0001501135612933524,
+              "identity_transform": true,
+              "name": "SM_Wall_Banner_Trim_A_Trim_LOD0"
+            }
+          ]
+        },
+        {
+          "triangles": 60,
+          "renderers": 1,
+          "parts": [
+            {
+              "min": [
+                -0.18000000715255737,
+                -0.6000000238418579,
+                0.008395281620323658
+              ],
+              "max": [
+                0.18000000715255737,
+                -0.0,
+                0.031870294362306595
+              ],
+              "size": [
+                0.36000001430511475,
+                0.6000000238418579,
+                0.023475012741982937
+              ],
+              "triangles": 60,
+              "vertices": 60,
+              "material": "M_PlayerBannerTrim",
+              "min_triangle_area": 0.0004705263809413063,
+              "min_uv_area": 0.0003009740759392088,
+              "identity_transform": true,
+              "name": "SM_Wall_Banner_Trim_A_Trim_LOD1"
+            }
+          ]
+        },
+        {
+          "triangles": 20,
+          "renderers": 1,
+          "parts": [
+            {
+              "min": [
+                -0.18000000715255737,
+                -0.6000000238418579,
+                0.009000000543892384
+              ],
+              "max": [
+                0.18000000715255737,
+                -0.0,
+                0.029746131971478462
+              ],
+              "size": [
+                0.36000001430511475,
+                0.6000000238418579,
+                0.02074613142758608
+              ],
+              "triangles": 20,
+              "vertices": 20,
+              "material": "M_PlayerBannerTrim",
+              "min_triangle_area": 0.0012602895621993137,
+              "min_uv_area": 0.0007895050421833361,
+              "identity_transform": true,
+              "name": "SM_Wall_Banner_Trim_A_Trim_LOD2"
+            }
+          ]
+        }
+      ],
+      "locators": [],
+      "colliders": []
+    },
+    "SM_ArcherTower_A": {
+      "lods": [
+        {
+          "triangles": 9956,
+          "renderers": 3,
+          "parts": [
+            {
+              "min": [
+                -1.0,
+                0.0,
+                -1.0
+              ],
+              "max": [
+                1.0,
+                2.700000047683716,
+                1.0
+              ],
+              "size": [
+                2.0,
+                2.700000047683716,
+                2.0
+              ],
+              "triangles": 7210,
+              "vertices": 4034,
+              "material": "M_Wall_Stone_Shared",
+              "min_triangle_area": 0.000146370458815948,
+              "min_uv_area": 9.367720496911147e-05,
+              "identity_transform": true,
+              "name": "SM_ArcherTower_A_Stone_LOD0"
+            },
+            {
+              "min": [
+                -1.100000023841858,
+                1.8300000429153442,
+                -1.100000023841858
+              ],
+              "max": [
+                1.100000023841858,
+                2.759999990463257,
+                1.100000023841858
+              ],
+              "size": [
+                2.200000047683716,
+                0.9299999475479126,
+                2.200000047683716
+              ],
+              "triangles": 934,
+              "vertices": 528,
+              "material": "M_FortificationTimber_Shared",
+              "min_triangle_area": 7.42148552235503e-05,
+              "min_uv_area": 4.749711778195831e-05,
+              "identity_transform": true,
+              "name": "SM_ArcherTower_A_Timber_LOD0"
+            },
+            {
+              "min": [
+                -1.2074999809265137,
+                2.7089998722076416,
+                -1.2074999809265137
+              ],
+              "max": [
+                1.2074999809265137,
+                3.5999999046325684,
+                1.2074999809265137
+              ],
+              "size": [
+                2.4149999618530273,
+                0.8910000324249268,
+                2.4149999618530273
+              ],
+              "triangles": 1812,
+              "vertices": 1232,
+              "material": "M_FortificationRoof_Shared",
+              "min_triangle_area": 0.0024750060789273587,
+              "min_uv_area": 0.005999998986720989,
+              "identity_transform": true,
+              "name": "SM_ArcherTower_A_Roof_LOD0"
+            }
+          ]
+        },
+        {
+          "triangles": 3488,
+          "renderers": 3,
+          "parts": [
+            {
+              "min": [
+                -1.0,
+                0.0,
+                -1.0
+              ],
+              "max": [
+                1.0,
+                2.700000047683716,
+                1.0
+              ],
+              "size": [
+                2.0,
+                2.700000047683716,
+                2.0
+              ],
+              "triangles": 2104,
+              "vertices": 1412,
+              "material": "M_Wall_Stone_Shared",
+              "min_triangle_area": 0.00018605598459328862,
+              "min_uv_area": 0.00011907629249208185,
+              "identity_transform": true,
+              "name": "SM_ArcherTower_A_Stone_LOD1"
+            },
+            {
+              "min": [
+                -1.100000023841858,
+                1.8300000429153442,
+                -1.100000023841858
+              ],
+              "max": [
+                1.100000023841858,
+                2.759999990463257,
+                1.100000023841858
+              ],
+              "size": [
+                2.200000047683716,
+                0.9299999475479126,
+                2.200000047683716
+              ],
+              "triangles": 924,
+              "vertices": 528,
+              "material": "M_FortificationTimber_Shared",
+              "min_triangle_area": 7.42148552235503e-05,
+              "min_uv_area": 4.749711778195831e-05,
+              "identity_transform": true,
+              "name": "SM_ArcherTower_A_Timber_LOD1"
+            },
+            {
+              "min": [
+                -1.2074999809265137,
+                2.7089998722076416,
+                -1.2074999809265137
+              ],
+              "max": [
+                1.2074999809265137,
+                3.5999999046325684,
+                1.2074999809265137
+              ],
+              "size": [
+                2.4149999618530273,
+                0.8910000324249268,
+                2.4149999618530273
+              ],
+              "triangles": 460,
+              "vertices": 296,
+              "material": "M_FortificationRoof_Shared",
+              "min_triangle_area": 0.004725011906679008,
+              "min_uv_area": 0.005999998986720989,
+              "identity_transform": true,
+              "name": "SM_ArcherTower_A_Roof_LOD1"
+            }
+          ]
+        },
+        {
+          "triangles": 640,
+          "renderers": 3,
+          "parts": [
+            {
+              "min": [
+                -1.0,
+                0.0,
+                -1.0
+              ],
+              "max": [
+                1.0,
+                2.700000047683716,
+                1.0
+              ],
+              "size": [
+                2.0,
+                2.700000047683716,
+                2.0
+              ],
+              "triangles": 372,
+              "vertices": 688,
+              "material": "M_Wall_Stone_Shared",
+              "min_triangle_area": 0.018415015544907695,
+              "min_uv_area": 0.011785605568313429,
+              "identity_transform": true,
+              "name": "SM_ArcherTower_A_Stone_LOD2"
+            },
+            {
+              "min": [
+                -1.100000023841858,
+                1.8300000429153442,
+                -1.100000023841858
+              ],
+              "max": [
+                1.100000023841858,
+                2.759999990463257,
+                1.100000023841858
+              ],
+              "size": [
+                2.200000047683716,
+                0.9299999475479126,
+                2.200000047683716
+              ],
+              "triangles": 240,
+              "vertices": 160,
+              "material": "M_FortificationTimber_Shared",
+              "min_triangle_area": 0.00020999728915250935,
+              "min_uv_area": 0.00010000019669531568,
+              "identity_transform": true,
+              "name": "SM_ArcherTower_A_Timber_LOD2"
+            },
+            {
+              "min": [
+                -1.2000000476837158,
+                2.7200000286102295,
+                -1.2000000476837158
+              ],
+              "max": [
+                1.2000000476837158,
+                3.5999999046325684,
+                1.2000000476837158
+              ],
+              "size": [
+                2.4000000953674316,
+                0.8799998760223389,
+                2.4000000953674316
+              ],
+              "triangles": 28,
+              "vertices": 39,
+              "material": "M_FortificationRoof_Shared",
+              "min_triangle_area": 0.006772560308715102,
+              "min_uv_area": 0.02999999940395348,
+              "identity_transform": true,
+              "name": "SM_ArcherTower_A_Roof_LOD2"
+            }
+          ]
+        }
+      ],
+      "locators": [
+        {
+          "name": "WallConnection_A",
+          "position": [
+            0.0,
+            0.0,
+            -0.8999999761581421
+          ],
+          "yaw": 180.00000500895632,
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "name": "WallConnection_B",
+          "position": [
+            0.0,
+            0.0,
+            0.8999999761581421
+          ],
+          "yaw": 0.0,
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "name": "BannerAnchor_XPlus",
+          "position": [
+            0.925000011920929,
+            1.8300000429153442,
+            -0.0
+          ],
+          "yaw": 90.00000250447816,
+          "scale": [
+            1.5,
+            1.5,
+            1.5
+          ]
+        },
+        {
+          "name": "BannerAnchor_XMinus",
+          "position": [
+            -0.925000011920929,
+            1.8300000429153442,
+            -0.0
+          ],
+          "yaw": -90.00000250447816,
+          "scale": [
+            1.5,
+            1.5,
+            1.5
+          ]
+        },
+        {
+          "name": "ArrowOrigin_XPlus",
+          "position": [
+            0.9200000166893005,
+            2.119999885559082,
+            5.633375257193976e-17
+          ],
+          "yaw": 90.00000250447816,
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "name": "ArrowOrigin_XMinus",
+          "position": [
+            -0.9200000166893005,
+            2.119999885559082,
+            5.633375257193976e-17
+          ],
+          "yaw": -90.00000250447816,
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "name": "ArrowOrigin_ZPlus",
+          "position": [
+            0.0,
+            2.119999885559082,
+            0.9200000166893005
+          ],
+          "yaw": 0.0,
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "name": "ArrowOrigin_ZMinus",
+          "position": [
+            1.1266750514387952e-16,
+            2.119999885559082,
+            -0.9200000166893005
+          ],
+          "yaw": 180.00000500895632,
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      ],
+      "colliders": [
+        {
+          "min": [
+            -1.0,
+            0.0,
+            -1.0
+          ],
+          "max": [
+            1.0,
+            0.3400000035762787,
+            1.0
+          ],
+          "size": [
+            2.0,
+            0.3400000035762787,
+            2.0
+          ]
+        },
+        {
+          "min": [
+            -0.8999999761581421,
+            0.3400000035762787,
+            -0.8999999761581421
+          ],
+          "max": [
+            0.8999999761581421,
+            2.700000047683716,
+            0.8999999761581421
+          ],
+          "size": [
+            1.7999999523162842,
+            2.360000044107437,
+            1.7999999523162842
+          ]
+        }
+      ]
+    },
+    "SM_Wall_Gatehouse_A": {
+      "lods": [
+        {
+          "triangles": 3306,
+          "renderers": 1,
+          "parts": [
+            {
+              "min": [
+                -0.5299999713897705,
+                0.0,
+                -2.0399999618530273
+              ],
+              "max": [
+                0.5299999713897705,
+                3.0399999618530273,
+                2.0399999618530273
+              ],
+              "size": [
+                1.059999942779541,
+                3.0399999618530273,
+                4.079999923706055
+              ],
+              "triangles": 3306,
+              "vertices": 1796,
+              "material": "M_Wall_Stone_Shared",
+              "min_triangle_area": 9.116653903808865e-05,
+              "min_uv_area": 5.834624013090206e-05,
+              "identity_transform": true,
+              "name": "SM_Wall_Gatehouse_A_Stone_LOD0"
+            }
+          ]
+        },
+        {
+          "triangles": 1946,
+          "renderers": 1,
+          "parts": [
+            {
+              "min": [
+                -0.5299999713897705,
+                0.0,
+                -2.0399999618530273
+              ],
+              "max": [
+                0.5299999713897705,
+                3.0399999618530273,
+                2.0399999618530273
+              ],
+              "size": [
+                1.059999942779541,
+                3.0399999618530273,
+                4.079999923706055
+              ],
+              "triangles": 1946,
+              "vertices": 1100,
+              "material": "M_Wall_Stone_Shared",
+              "min_triangle_area": 9.116653903808865e-05,
+              "min_uv_area": 5.834624013090206e-05,
+              "identity_transform": true,
+              "name": "SM_Wall_Gatehouse_A_Stone_LOD1"
+            }
+          ]
+        },
+        {
+          "triangles": 942,
+          "renderers": 1,
+          "parts": [
+            {
+              "min": [
+                -0.5299999713897705,
+                0.0,
+                -2.0399999618530273
+              ],
+              "max": [
+                0.5299999713897705,
+                3.0399999618530273,
+                2.0399999618530273
+              ],
+              "size": [
+                1.059999942779541,
+                3.0399999618530273,
+                4.079999923706055
+              ],
+              "triangles": 942,
+              "vertices": 596,
+              "material": "M_Wall_Stone_Shared",
+              "min_triangle_area": 0.0162439923847269,
+              "min_uv_area": 0.010396156555977143,
+              "identity_transform": true,
+              "name": "SM_Wall_Gatehouse_A_Stone_LOD2"
+            }
+          ]
+        }
+      ],
+      "locators": [
+        {
+          "name": "WallConnection_Left",
+          "position": [
+            0.0,
+            0.0,
+            -1.9900000095367432
+          ],
+          "yaw": 180.00000500895632,
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "name": "WallConnection_Right",
+          "position": [
+            0.0,
+            0.0,
+            1.9900000095367432
+          ],
+          "yaw": 0.0,
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "name": "GateHinge_Left",
+          "position": [
+            0.0,
+            0.0,
+            -1.0399999618530273
+          ],
+          "yaw": 0.0,
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "name": "GateHinge_Right",
+          "position": [
+            0.0,
+            0.0,
+            1.0399999618530273
+          ],
+          "yaw": 0.0,
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "name": "BannerAnchor_Left",
+          "position": [
+            0.5,
+            2.0999999046325684,
+            -1.559999942779541
+          ],
+          "yaw": 90.00000250447816,
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        },
+        {
+          "name": "BannerAnchor_Right",
+          "position": [
+            0.5,
+            2.0999999046325684,
+            1.559999942779541
+          ],
+          "yaw": 90.00000250447816,
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ]
+        }
+      ],
+      "colliders": [
+        {
+          "min": [
+            -0.4699999988079071,
+            0.0,
+            -1.9900000095367432
+          ],
+          "max": [
+            0.4699999988079071,
+            2.619999885559082,
+            -1.0499999523162842
+          ],
+          "size": [
+            0.9399999976158142,
+            2.619999885559082,
+            0.940000057220459
+          ]
+        },
+        {
+          "min": [
+            -0.4699999988079071,
+            0.0,
+            1.0499999523162842
+          ],
+          "max": [
+            0.4699999988079071,
+            2.619999885559082,
+            1.9900000095367432
+          ],
+          "size": [
+            0.9399999976158142,
+            2.619999885559082,
+            0.940000057220459
+          ]
+        },
+        {
+          "min": [
+            -0.4699999988079071,
+            2.2899999618530273,
+            -1.0499999523162842
+          ],
+          "max": [
+            0.4699999988079071,
+            2.75,
+            1.0499999523162842
+          ],
+          "size": [
+            0.9399999976158142,
+            0.46000003814697266,
+            2.0999999046325684
+          ]
+        },
+        {
+          "min": [
+            -0.4699999988079071,
+            1.9199999570846558,
+            -1.0499999523162842
+          ],
+          "max": [
+            0.4699999988079071,
+            2.299999952316284,
+            -0.800000011920929
+          ],
+          "size": [
+            0.9399999976158142,
+            0.3799999952316284,
+            0.24999994039535522
+          ]
+        },
+        {
+          "min": [
+            -0.4699999988079071,
+            2.140000104904175,
+            -0.800000011920929
+          ],
+          "max": [
+            0.4699999988079071,
+            2.299999952316284,
+            -0.5199999809265137
+          ],
+          "size": [
+            0.9399999976158142,
+            0.15999984741210938,
+            0.2800000309944153
+          ]
+        },
+        {
+          "min": [
+            -0.4699999988079071,
+            1.9199999570846558,
+            0.800000011920929
+          ],
+          "max": [
+            0.4699999988079071,
+            2.299999952316284,
+            1.0499999523162842
+          ],
+          "size": [
+            0.9399999976158142,
+            0.3799999952316284,
+            0.24999994039535522
+          ]
+        },
+        {
+          "min": [
+            -0.4699999988079071,
+            2.140000104904175,
+            0.5199999809265137
+          ],
+          "max": [
+            0.4699999988079071,
+            2.299999952316284,
+            0.800000011920929
+          ],
+          "size": [
+            0.9399999976158142,
+            0.15999984741210938,
+            0.2800000309944153
+          ]
+        }
+      ]
+    },
+    "SM_Wall_GateLeaf_Left_A": {
+      "lods": [
+        {
+          "triangles": 954,
+          "renderers": 2,
+          "parts": [
+            {
+              "min": [
+                -0.054999999701976776,
+                0.03999999910593033,
+                0.012000000104308128
+              ],
+              "max": [
+                0.054999999701976776,
+                2.2448928356170654,
+                1.024999976158142
+              ],
+              "size": [
+                0.10999999940395355,
+                2.204892836511135,
+                1.012999976053834
+              ],
+              "triangles": 72,
+              "vertices": 48,
+              "material": "M_FortificationTimber_Shared",
+              "min_triangle_area": 0.009056665744575955,
+              "min_uv_area": 0.005796262479210057,
+              "identity_transform": true,
+              "name": "SM_Wall_GateLeaf_Left_A_Timber_LOD0"
+            },
+            {
+              "min": [
+                -0.07500000298023224,
+                0.2849999964237213,
+                -0.03700000047683716
+              ],
+              "max": [
+                0.10000000149011612,
+                1.6009999513626099,
+                0.9900000095367432
+              ],
+              "size": [
+                0.17500000447034836,
+                1.3159999549388885,
+                1.0270000100135803
+              ],
+              "triangles": 882,
+              "vertices": 480,
+              "material": "M_BannerBracket_Shared",
+              "min_triangle_area": 4.186152008814386e-06,
+              "min_uv_area": 2.6790441278734534e-06,
+              "identity_transform": true,
+              "name": "SM_Wall_GateLeaf_Left_A_Iron_LOD0"
+            }
+          ]
+        },
+        {
+          "triangles": 408,
+          "renderers": 2,
+          "parts": [
+            {
+              "min": [
+                -0.054999999701976776,
+                0.03999999910593033,
+                0.012000000104308128
+              ],
+              "max": [
+                0.054999999701976776,
+                2.2448928356170654,
+                1.024999976158142
+              ],
+              "size": [
+                0.10999999940395355,
+                2.204892836511135,
+                1.012999976053834
+              ],
+              "triangles": 48,
+              "vertices": 32,
+              "material": "M_FortificationTimber_Shared",
+              "min_triangle_area": 0.013722498973904264,
+              "min_uv_area": 0.008782393181419934,
+              "identity_transform": true,
+              "name": "SM_Wall_GateLeaf_Left_A_Timber_LOD1"
+            },
+            {
+              "min": [
+                -0.07500000298023224,
+                0.2849999964237213,
+                -0.03700000047683716
+              ],
+              "max": [
+                0.10000000149011612,
+                1.6009999513626099,
+                0.9900000095367432
+              ],
+              "size": [
+                0.17500000447034836,
+                1.3159999549388885,
+                1.0270000100135803
+              ],
+              "triangles": 360,
+              "vertices": 192,
+              "material": "M_BannerBracket_Shared",
+              "min_triangle_area": 1.1628483373314556e-05,
+              "min_uv_area": 7.442309552629922e-06,
+              "identity_transform": true,
+              "name": "SM_Wall_GateLeaf_Left_A_Iron_LOD1"
+            }
+          ]
+        },
+        {
+          "triangles": 96,
+          "renderers": 2,
+          "parts": [
+            {
+              "min": [
+                -0.054999999701976776,
+                0.03999999910593033,
+                0.012000000104308128
+              ],
+              "max": [
+                0.054999999701976776,
+                2.2448928356170654,
+                1.024999976158142
+              ],
+              "size": [
+                0.10999999940395355,
+                2.204892836511135,
+                1.012999976053834
+              ],
+              "triangles": 24,
+              "vertices": 16,
+              "material": "M_FortificationTimber_Shared",
+              "min_triangle_area": 0.02771999685737944,
+              "min_uv_area": 0.017740787910652145,
+              "identity_transform": true,
+              "name": "SM_Wall_GateLeaf_Left_A_Timber_LOD2"
+            },
+            {
+              "min": [
+                -0.07500000298023224,
+                0.2849999964237213,
+                -0.03700000047683716
+              ],
+              "max": [
+                0.10000000149011612,
+                1.6009999513626099,
+                0.9900000095367432
+              ],
+              "size": [
+                0.17500000447034836,
+                1.3159999549388885,
+                1.0270000100135803
+              ],
+              "triangles": 72,
+              "vertices": 48,
+              "material": "M_BannerBracket_Shared",
+              "min_triangle_area": 0.0007500000132640706,
+              "min_uv_area": 0.0004799996209143842,
+              "identity_transform": true,
+              "name": "SM_Wall_GateLeaf_Left_A_Iron_LOD2"
+            }
+          ]
+        }
+      ],
+      "locators": [],
+      "colliders": [
+        {
+          "min": [
+            -0.054999999701976776,
+            0.03999999910593033,
+            -0.0
+          ],
+          "max": [
+            0.054999999701976776,
+            2.2699999809265137,
+            1.034999966621399
+          ],
+          "size": [
+            0.10999999940395355,
+            2.2299999818205833,
+            1.034999966621399
+          ]
+        }
+      ]
+    },
+    "SM_Wall_GateLeaf_Right_A": {
+      "lods": [
+        {
+          "triangles": 954,
+          "renderers": 2,
+          "parts": [
+            {
+              "min": [
+                -0.054999999701976776,
+                0.03999999910593033,
+                -1.024999976158142
+              ],
+              "max": [
+                0.054999999701976776,
+                2.2448928356170654,
+                -0.012000000104308128
+              ],
+              "size": [
+                0.10999999940395355,
+                2.204892836511135,
+                1.012999976053834
+              ],
+              "triangles": 72,
+              "vertices": 48,
+              "material": "M_FortificationTimber_Shared",
+              "min_triangle_area": 0.009056665744575955,
+              "min_uv_area": 0.005796262479210057,
+              "identity_transform": true,
+              "name": "SM_Wall_GateLeaf_Right_A_Timber_LOD0"
+            },
+            {
+              "min": [
+                -0.07500000298023224,
+                0.2849999964237213,
+                -0.9900000095367432
+              ],
+              "max": [
+                0.10000000149011612,
+                1.6009999513626099,
+                0.03700000047683716
+              ],
+              "size": [
+                0.17500000447034836,
+                1.3159999549388885,
+                1.0270000100135803
+              ],
+              "triangles": 882,
+              "vertices": 480,
+              "material": "M_BannerBracket_Shared",
+              "min_triangle_area": 4.1861518534159885e-06,
+              "min_uv_area": 2.6790441278734534e-06,
+              "identity_transform": true,
+              "name": "SM_Wall_GateLeaf_Right_A_Iron_LOD0"
+            }
+          ]
+        },
+        {
+          "triangles": 408,
+          "renderers": 2,
+          "parts": [
+            {
+              "min": [
+                -0.054999999701976776,
+                0.03999999910593033,
+                -1.024999976158142
+              ],
+              "max": [
+                0.054999999701976776,
+                2.2448928356170654,
+                -0.012000000104308128
+              ],
+              "size": [
+                0.10999999940395355,
+                2.204892836511135,
+                1.012999976053834
+              ],
+              "triangles": 48,
+              "vertices": 32,
+              "material": "M_FortificationTimber_Shared",
+              "min_triangle_area": 0.013722498973904264,
+              "min_uv_area": 0.008782393181419934,
+              "identity_transform": true,
+              "name": "SM_Wall_GateLeaf_Right_A_Timber_LOD1"
+            },
+            {
+              "min": [
+                -0.07500000298023224,
+                0.2849999964237213,
+                -0.9900000095367432
+              ],
+              "max": [
+                0.10000000149011612,
+                1.6009999513626099,
+                0.03700000047683716
+              ],
+              "size": [
+                0.17500000447034836,
+                1.3159999549388885,
+                1.0270000100135803
+              ],
+              "triangles": 360,
+              "vertices": 192,
+              "material": "M_BannerBracket_Shared",
+              "min_triangle_area": 1.1628483373314556e-05,
+              "min_uv_area": 7.442309552629922e-06,
+              "identity_transform": true,
+              "name": "SM_Wall_GateLeaf_Right_A_Iron_LOD1"
+            }
+          ]
+        },
+        {
+          "triangles": 96,
+          "renderers": 2,
+          "parts": [
+            {
+              "min": [
+                -0.054999999701976776,
+                0.03999999910593033,
+                -1.024999976158142
+              ],
+              "max": [
+                0.054999999701976776,
+                2.2448928356170654,
+                -0.012000000104308128
+              ],
+              "size": [
+                0.10999999940395355,
+                2.204892836511135,
+                1.012999976053834
+              ],
+              "triangles": 24,
+              "vertices": 16,
+              "material": "M_FortificationTimber_Shared",
+              "min_triangle_area": 0.02771999685737944,
+              "min_uv_area": 0.017740787910652145,
+              "identity_transform": true,
+              "name": "SM_Wall_GateLeaf_Right_A_Timber_LOD2"
+            },
+            {
+              "min": [
+                -0.07500000298023224,
+                0.2849999964237213,
+                -0.9900000095367432
+              ],
+              "max": [
+                0.10000000149011612,
+                1.6009999513626099,
+                0.03700000047683716
+              ],
+              "size": [
+                0.17500000447034836,
+                1.3159999549388885,
+                1.0270000100135803
+              ],
+              "triangles": 72,
+              "vertices": 48,
+              "material": "M_BannerBracket_Shared",
+              "min_triangle_area": 0.0007500000132640706,
+              "min_uv_area": 0.0004799996209143842,
+              "identity_transform": true,
+              "name": "SM_Wall_GateLeaf_Right_A_Iron_LOD2"
+            }
+          ]
+        }
+      ],
+      "locators": [],
+      "colliders": [
+        {
+          "min": [
+            -0.054999999701976776,
+            0.03999999910593033,
+            -1.034999966621399
+          ],
+          "max": [
+            0.054999999701976776,
+            2.2699999809265137,
+            -0.0
+          ],
+          "size": [
+            0.10999999940395355,
+            2.2299999818205833,
+            1.034999966621399
+          ]
+        }
+      ]
+    }
+  },
+  "source_wall_version": "v002 approved by user 2026-10-03",
+  "source_sha256": "6db59c49ab2b6752bd52c2a7cabd0b747a2414d4e1c1483c82bb78b12ce78809"
+}

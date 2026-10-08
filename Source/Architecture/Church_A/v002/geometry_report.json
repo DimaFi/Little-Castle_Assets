@@ -1,0 +1,32 @@
+{
+  "stage": "Unpainted geometry checkpoint; no UV, textures, LODs or engine release",
+  "triangles_evaluated": 49196,
+  "triangles_by_collection": {
+    "01_NAVE": 1108,
+    "02_FOUNDATION_AND_MASONRY": 3168,
+    "03_TIMBER": 4152,
+    "04_TILED_ROOFS": 15396,
+    "05_WINDOWS_AND_DOOR": 12600,
+    "06_REAR_BELL_TOWER": 12000,
+    "07_ENTRANCE": 772
+  },
+  "issues": [],
+  "tower_center_x": 0,
+  "tower_center_y": 5.72,
+  "tower_height_m": 12.32,
+  "nave_roof_peak_m": 6.71,
+  "source_files": [
+    "E:\\Games_Develop\\CozySettlement\\Art\\House_Cottage_A\\Source\\Yard\\v011\\Modules\\SM_StoneWall_A\\SM_StoneWall_A.blend",
+    "E:\\Games_Develop\\CozySettlement\\Art\\House_Cottage_A\\Source\\Modules\\v002\\Cottage_A_Primitives.blend",
+    "E:\\Games_Develop\\CozySettlement\\Art\\House_Cottage_A\\Source\\Openings\\v007\\House_Cottage_A.blend"
+  ],
+  "reuse": "MOD_StoneWall_A stone; cottage timber, ridge; reduced source tile profile. Gothic openings and bell authored for church.",
+  "revision_fixes": [
+    "Larger garden-wall foundation stones",
+    "Front and rear corner coplanar wall faces removed",
+    "Single continuous belfry wall shell",
+    "No coplanar overlap between shaft and belfry",
+    "Porch lowered; front window raised",
+    "Tower shifted behind roof; short enclosed connection below roof"
+  ]
+}

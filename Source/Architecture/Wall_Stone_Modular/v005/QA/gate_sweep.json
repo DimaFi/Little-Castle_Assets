@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "tests": [
+    {
+      "hinge_x": 0.6,
+      "lod": 0,
+      "angle_step_degrees": 0.5,
+      "collisions": []
+    },
+    {
+      "hinge_x": 0.6,
+      "lod": 1,
+      "angle_step_degrees": 0.5,
+      "collisions": []
+    },
+    {
+      "hinge_x": 0.6,
+      "lod": 2,
+      "angle_step_degrees": 0.5,
+      "collisions": []
+    }
+  ],
+  "scope": "triangle intersection with frame, 0..90 degrees every 0.5 degrees, both leaves all LODs"
+}

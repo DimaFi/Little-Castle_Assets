@@ -1,0 +1,9 @@
+{
+  "version": "v003",
+  "source": "v003/Church_A.blend",
+  "preview": "v003/01_Hero.png",
+  "readme": "v003/README_RU.md",
+  "status": "materials_and_light_vines_review",
+  "unity_tested": false,
+  "published_release": null
+}

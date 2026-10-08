@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "source": "CozySettlement/Mat/StoneWall_A_Unity (selected by user)",
+  "stone": {
+    "material_slot": "M_Wall_Stone_Shared",
+    "unity_shader": "Little Castle/Surface/LC Stylized Lit",
+    "texture_scale": [1, 1],
+    "uv_units_per_metre": 0.5,
+    "maps": {
+      "_MainTex": {"file": "StoneWall_A_BaseColor_2048.png", "sRGB": true},
+      "_BumpMap": {"file": "StoneWall_A_Normal_2048.png", "type": "NormalMap", "sRGB": false},
+      "_RoughnessMap": {"file": "StoneWall_A_Roughness_2048.png", "sRGB": false},
+      "_OcclusionMap": {"file": "StoneWall_A_AO_2048.png", "sRGB": false}
+    },
+    "scalars": {"_BumpScale": 0.12, "_RoughnessMapStrength": 1, "_OcclusionStrength": 0.3},
+    "height": "StoneWall_A_Height_2048.png is source-authoring input only, not a runtime shader slot",
+    "import": {"wrap": "Repeat", "mipmaps": true, "read_write": false}
+  },
+  "banner": {
+    "material_slot": "M_PlayerBanner",
+    "colour": [1, 1, 1, 1],
+    "uv": "0..1, top at v=1, full rectangular front and readable reverse",
+    "image_aspect": "fit/crop in future compositor; do not stretch square artwork",
+    "alpha": "Composite emblem alpha over selected fabric colour; fabric remains opaque",
+    "import": {"wrap": "Clamp", "sRGB": true, "mipmaps": true},
+    "runtime_implemented": false
+  }
+}

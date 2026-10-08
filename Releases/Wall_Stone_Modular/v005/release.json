@@ -1,0 +1,149 @@
+{
+  "version": "v005",
+  "status": "AUTHORED_QA_PASS",
+  "source": "Source/Architecture/Wall_Stone_Modular/v005",
+  "source_sha256": "5077948e8730dd186379a7081ffcec583c095569b42c6a7b403f040858784685",
+  "manual_input_sha256": "a9d2eaa966d3690f310fc264d3b006b940eaae48560a0610812a52d82967b767",
+  "source_commit": "8f2315bd31ca8c4b11bb19badf53640fa47d5bc9",
+  "source_worktree_dirty": true,
+  "blender_version": "4.4.3",
+  "export_date": "2026-10-06",
+  "units": "metres",
+  "up": "Y",
+  "pivot": "base-centre; gate leaves at hinge",
+  "collider_intention": "UCX box guides only; exclude from rendering",
+  "geometry_report": "QA/geometry_report.json",
+  "preview": "Preview/Gate_Interior_90.png",
+  "files": [
+    {
+      "path": "Meshes/SM_ArcherTower_A.fbx",
+      "sha256": "b091994a5bfef4193930389b3c61821861b42aaae0fad42bbaab01b4eece7499",
+      "bytes": 1017564
+    },
+    {
+      "path": "Meshes/SM_Wall_Banner_Bracket_A.fbx",
+      "sha256": "f4ab0a9ff8216b647c493eeaad61fd5062d34e992552138ae538cad30932bdbd",
+      "bytes": 46956
+    },
+    {
+      "path": "Meshes/SM_Wall_Banner_Cloth_A.fbx",
+      "sha256": "54c4046cd075cfb74d0bdf36ed410afd235260ae8dbc5fd2b31c760916885d41",
+      "bytes": 46748
+    },
+    {
+      "path": "Meshes/SM_Wall_Banner_Trim_A.fbx",
+      "sha256": "8beab2b3adf9477bcbee1a04ec7e3f215f03203999545d41ac610aa3f36ad765",
+      "bytes": 43564
+    },
+    {
+      "path": "Meshes/SM_Wall_Gatehouse_A.fbx",
+      "sha256": "59c14318c45ab9f4c5ed027a48bff0a0b5f3bc58669d7306e724b543832f0922",
+      "bytes": 409996
+    },
+    {
+      "path": "Meshes/SM_Wall_GateLeaf_Left_A.fbx",
+      "sha256": "b941c33381cf7849dc3d20e366a4cbee68beb59c2cc9062c57e035d0bf8114fb",
+      "bytes": 109036
+    },
+    {
+      "path": "Meshes/SM_Wall_GateLeaf_Right_A.fbx",
+      "sha256": "a0f1310868bfbd59396ee1994fc682eefc51847ddccc23ab841588be0f0a9695",
+      "bytes": 109484
+    },
+    {
+      "path": "Meshes/SM_Wall_Stone_1m_A.fbx",
+      "sha256": "37568d446b1745825efa9542a8da04da5cc4236f5ed81bf74830dd78479a518b",
+      "bytes": 429948
+    },
+    {
+      "path": "Meshes/SM_Wall_Stone_2m_A.fbx",
+      "sha256": "fe5c9280e27bca0c4fa5be4b857a797fdbcc96e38a050b2052715d4f0d1deafc",
+      "bytes": 534300
+    },
+    {
+      "path": "Meshes/SM_Wall_Stone_End_A.fbx",
+      "sha256": "5674642efd358f30a2366b5a5bccff54cfa3cb9708130b642f738c9794c11017",
+      "bytes": 294684
+    },
+    {
+      "path": "Meshes/SM_Wall_Stone_Pillar_A.fbx",
+      "sha256": "dd55140b4e3c8adfcda4005bf406caa2412afd030029149055d135aef292f937",
+      "bytes": 348140
+    },
+    {
+      "path": "Textures/DoorWood_A_BaseColor.png",
+      "sha256": "7446b60538b2f178c3e6381f6569c9408c6b38a0eb048a0b8ac5bf1d0fb215ff",
+      "bytes": 3146694
+    },
+    {
+      "path": "Textures/RoofTile_BaseColor.png",
+      "sha256": "c53f52aa744443c6830f0505d1d640f5796456d1f29594192bd291e0aaaed0bd",
+      "bytes": 3282491
+    },
+    {
+      "path": "Textures/T_WallStoneSurface_A_BaseColor.png",
+      "sha256": "651415fd08c0f96a875e8cd616d1cf43bf5a0765c2cd20e0be057d33aa95c60b",
+      "bytes": 2999973
+    },
+    {
+      "path": "Textures/material-bindings.json",
+      "sha256": "27c99971370afbd88b43cef9f77169d68ec0b14b9e18c772c00d06ae9820c06c",
+      "bytes": 1418
+    },
+    {
+      "path": "Connections.json",
+      "sha256": "e38b32731e462bd61fc5296b7f393bfe491a257d3f9b31d0d80a4cf3873dfa38",
+      "bytes": 7093
+    },
+    {
+      "path": "README_RU.md",
+      "sha256": "b8a63b3bf2f05685e81798a06e5a84f712d89ce0bbe07923bc0b1eefaf0a891b",
+      "bytes": 4602
+    },
+    {
+      "path": "Preview/Gate_Exterior_Closed.png",
+      "sha256": "3145372b7954e42ba7962f875d76320fb48dc570f88e5270c84c7a459dcdc04a",
+      "bytes": 1833924
+    },
+    {
+      "path": "Preview/Gate_Interior_00.png",
+      "sha256": "b4fb38cd815969fa1249b6100e38157920f4169b501ff4233d62b05b15d30e0b",
+      "bytes": 1821783
+    },
+    {
+      "path": "Preview/Gate_Interior_45.png",
+      "sha256": "bd1d488dc5b517847eda8b3f8e17bbbdae38475325b7ec33d610a6eae6ee5f4c",
+      "bytes": 1810255
+    },
+    {
+      "path": "Preview/Gate_Interior_90.png",
+      "sha256": "035566d5a0ad3a0836d4c11b27fe0ca88290549804f4bd1814021bcbcc2f724a",
+      "bytes": 1802917
+    },
+    {
+      "path": "Preview/Tower_LODs.png",
+      "sha256": "4ab0a380fa81200e603c1a2767d89874adc4bbbb73905f50e821b9bbe2698e8f",
+      "bytes": 1948498
+    },
+    {
+      "path": "Preview/Updated_Tower_and_Walls.png",
+      "sha256": "abcfc9f8870d5d0120a518de880c07c52dc5a44cc032ed413221be1cef376565",
+      "bytes": 2269606
+    },
+    {
+      "path": "QA/geometry_report.json",
+      "sha256": "871116ead619dad17876314168ca64e7a0f80f4023febf166f3d98cdc01e3d65",
+      "bytes": 54655
+    },
+    {
+      "path": "QA/export_validation.json",
+      "sha256": "49e51911465a9e9ef95bce97b7aed7a2b4424d003077d0e7a9ae60b68a0cd458",
+      "bytes": 4148
+    },
+    {
+      "path": "QA/gate_sweep.json",
+      "sha256": "ea1e8e1a3c885fd1cf14cb6ab8ce95ac2576d76a9f8bf3c48805eb9537e9aff1",
+      "bytes": 485
+    }
+  ]
+}

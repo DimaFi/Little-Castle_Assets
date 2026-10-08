@@ -1,0 +1,1142 @@
+[
+  {
+    "hinge_x": 0.4215707778930664,
+    "lod": 0,
+    "angle_step_degrees": 1,
+    "collisions": [
+      {
+        "side": "Left",
+        "angle": 0,
+        "triangle_pairs": 80
+      },
+      {
+        "side": "Left",
+        "angle": 1,
+        "triangle_pairs": 80
+      },
+      {
+        "side": "Left",
+        "angle": 2,
+        "triangle_pairs": 82
+      },
+      {
+        "side": "Left",
+        "angle": 3,
+        "triangle_pairs": 84
+      },
+      {
+        "side": "Left",
+        "angle": 4,
+        "triangle_pairs": 89
+      },
+      {
+        "side": "Left",
+        "angle": 5,
+        "triangle_pairs": 91
+      },
+      {
+        "side": "Left",
+        "angle": 6,
+        "triangle_pairs": 99
+      },
+      {
+        "side": "Left",
+        "angle": 7,
+        "triangle_pairs": 99
+      },
+      {
+        "side": "Left",
+        "angle": 8,
+        "triangle_pairs": 98
+      },
+      {
+        "side": "Left",
+        "angle": 9,
+        "triangle_pairs": 98
+      },
+      {
+        "side": "Left",
+        "angle": 10,
+        "triangle_pairs": 103
+      },
+      {
+        "side": "Left",
+        "angle": 11,
+        "triangle_pairs": 100
+      },
+      {
+        "side": "Left",
+        "angle": 12,
+        "triangle_pairs": 100
+      },
+      {
+        "side": "Left",
+        "angle": 13,
+        "triangle_pairs": 102
+      },
+      {
+        "side": "Left",
+        "angle": 14,
+        "triangle_pairs": 100
+      },
+      {
+        "side": "Left",
+        "angle": 15,
+        "triangle_pairs": 102
+      },
+      {
+        "side": "Left",
+        "angle": 16,
+        "triangle_pairs": 104
+      },
+      {
+        "side": "Left",
+        "angle": 17,
+        "triangle_pairs": 112
+      },
+      {
+        "side": "Left",
+        "angle": 18,
+        "triangle_pairs": 110
+      },
+      {
+        "side": "Left",
+        "angle": 19,
+        "triangle_pairs": 108
+      },
+      {
+        "side": "Left",
+        "angle": 20,
+        "triangle_pairs": 110
+      },
+      {
+        "side": "Left",
+        "angle": 21,
+        "triangle_pairs": 115
+      },
+      {
+        "side": "Left",
+        "angle": 22,
+        "triangle_pairs": 115
+      },
+      {
+        "side": "Left",
+        "angle": 23,
+        "triangle_pairs": 124
+      },
+      {
+        "side": "Left",
+        "angle": 24,
+        "triangle_pairs": 124
+      },
+      {
+        "side": "Left",
+        "angle": 25,
+        "triangle_pairs": 124
+      },
+      {
+        "side": "Left",
+        "angle": 26,
+        "triangle_pairs": 124
+      },
+      {
+        "side": "Left",
+        "angle": 27,
+        "triangle_pairs": 123
+      },
+      {
+        "side": "Left",
+        "angle": 28,
+        "triangle_pairs": 123
+      },
+      {
+        "side": "Left",
+        "angle": 29,
+        "triangle_pairs": 123
+      },
+      {
+        "side": "Left",
+        "angle": 30,
+        "triangle_pairs": 125
+      },
+      {
+        "side": "Left",
+        "angle": 31,
+        "triangle_pairs": 125
+      },
+      {
+        "side": "Left",
+        "angle": 32,
+        "triangle_pairs": 123
+      },
+      {
+        "side": "Left",
+        "angle": 33,
+        "triangle_pairs": 125
+      },
+      {
+        "side": "Left",
+        "angle": 34,
+        "triangle_pairs": 125
+      },
+      {
+        "side": "Left",
+        "angle": 35,
+        "triangle_pairs": 126
+      },
+      {
+        "side": "Left",
+        "angle": 36,
+        "triangle_pairs": 125
+      },
+      {
+        "side": "Left",
+        "angle": 37,
+        "triangle_pairs": 124
+      },
+      {
+        "side": "Left",
+        "angle": 38,
+        "triangle_pairs": 124
+      },
+      {
+        "side": "Left",
+        "angle": 39,
+        "triangle_pairs": 122
+      },
+      {
+        "side": "Left",
+        "angle": 40,
+        "triangle_pairs": 120
+      },
+      {
+        "side": "Left",
+        "angle": 41,
+        "triangle_pairs": 120
+      },
+      {
+        "side": "Left",
+        "angle": 42,
+        "triangle_pairs": 120
+      },
+      {
+        "side": "Left",
+        "angle": 43,
+        "triangle_pairs": 119
+      },
+      {
+        "side": "Left",
+        "angle": 44,
+        "triangle_pairs": 117
+      },
+      {
+        "side": "Left",
+        "angle": 45,
+        "triangle_pairs": 117
+      },
+      {
+        "side": "Left",
+        "angle": 46,
+        "triangle_pairs": 114
+      },
+      {
+        "side": "Left",
+        "angle": 47,
+        "triangle_pairs": 122
+      },
+      {
+        "side": "Left",
+        "angle": 48,
+        "triangle_pairs": 127
+      },
+      {
+        "side": "Left",
+        "angle": 49,
+        "triangle_pairs": 128
+      },
+      {
+        "side": "Left",
+        "angle": 50,
+        "triangle_pairs": 132
+      },
+      {
+        "side": "Left",
+        "angle": 51,
+        "triangle_pairs": 132
+      },
+      {
+        "side": "Left",
+        "angle": 52,
+        "triangle_pairs": 137
+      },
+      {
+        "side": "Left",
+        "angle": 53,
+        "triangle_pairs": 149
+      },
+      {
+        "side": "Left",
+        "angle": 54,
+        "triangle_pairs": 157
+      },
+      {
+        "side": "Left",
+        "angle": 55,
+        "triangle_pairs": 149
+      },
+      {
+        "side": "Left",
+        "angle": 56,
+        "triangle_pairs": 151
+      },
+      {
+        "side": "Left",
+        "angle": 57,
+        "triangle_pairs": 153
+      },
+      {
+        "side": "Left",
+        "angle": 58,
+        "triangle_pairs": 159
+      },
+      {
+        "side": "Left",
+        "angle": 59,
+        "triangle_pairs": 167
+      },
+      {
+        "side": "Left",
+        "angle": 60,
+        "triangle_pairs": 167
+      },
+      {
+        "side": "Left",
+        "angle": 61,
+        "triangle_pairs": 167
+      },
+      {
+        "side": "Left",
+        "angle": 62,
+        "triangle_pairs": 169
+      },
+      {
+        "side": "Left",
+        "angle": 63,
+        "triangle_pairs": 169
+      },
+      {
+        "side": "Left",
+        "angle": 64,
+        "triangle_pairs": 172
+      },
+      {
+        "side": "Left",
+        "angle": 65,
+        "triangle_pairs": 174
+      },
+      {
+        "side": "Left",
+        "angle": 66,
+        "triangle_pairs": 173
+      },
+      {
+        "side": "Left",
+        "angle": 67,
+        "triangle_pairs": 173
+      },
+      {
+        "side": "Left",
+        "angle": 68,
+        "triangle_pairs": 173
+      },
+      {
+        "side": "Left",
+        "angle": 69,
+        "triangle_pairs": 178
+      },
+      {
+        "side": "Left",
+        "angle": 70,
+        "triangle_pairs": 180
+      },
+      {
+        "side": "Left",
+        "angle": 71,
+        "triangle_pairs": 180
+      },
+      {
+        "side": "Left",
+        "angle": 72,
+        "triangle_pairs": 176
+      },
+      {
+        "side": "Left",
+        "angle": 73,
+        "triangle_pairs": 176
+      },
+      {
+        "side": "Left",
+        "angle": 74,
+        "triangle_pairs": 180
+      },
+      {
+        "side": "Left",
+        "angle": 75,
+        "triangle_pairs": 182
+      },
+      {
+        "side": "Left",
+        "angle": 76,
+        "triangle_pairs": 188
+      },
+      {
+        "side": "Left",
+        "angle": 77,
+        "triangle_pairs": 191
+      },
+      {
+        "side": "Left",
+        "angle": 78,
+        "triangle_pairs": 204
+      },
+      {
+        "side": "Left",
+        "angle": 79,
+        "triangle_pairs": 211
+      },
+      {
+        "side": "Left",
+        "angle": 80,
+        "triangle_pairs": 224
+      },
+      {
+        "side": "Left",
+        "angle": 81,
+        "triangle_pairs": 227
+      },
+      {
+        "side": "Left",
+        "angle": 82,
+        "triangle_pairs": 225
+      },
+      {
+        "side": "Left",
+        "angle": 83,
+        "triangle_pairs": 227
+      },
+      {
+        "side": "Left",
+        "angle": 84,
+        "triangle_pairs": 233
+      },
+      {
+        "side": "Left",
+        "angle": 85,
+        "triangle_pairs": 240
+      },
+      {
+        "side": "Left",
+        "angle": 86,
+        "triangle_pairs": 227
+      },
+      {
+        "side": "Left",
+        "angle": 87,
+        "triangle_pairs": 222
+      },
+      {
+        "side": "Left",
+        "angle": 88,
+        "triangle_pairs": 224
+      },
+      {
+        "side": "Left",
+        "angle": 89,
+        "triangle_pairs": 224
+      },
+      {
+        "side": "Left",
+        "angle": 90,
+        "triangle_pairs": 224
+      },
+      {
+        "side": "Right",
+        "angle": 0,
+        "triangle_pairs": 83
+      },
+      {
+        "side": "Right",
+        "angle": 1,
+        "triangle_pairs": 83
+      },
+      {
+        "side": "Right",
+        "angle": 2,
+        "triangle_pairs": 81
+      },
+      {
+        "side": "Right",
+        "angle": 3,
+        "triangle_pairs": 81
+      },
+      {
+        "side": "Right",
+        "angle": 4,
+        "triangle_pairs": 88
+      },
+      {
+        "side": "Right",
+        "angle": 5,
+        "triangle_pairs": 90
+      },
+      {
+        "side": "Right",
+        "angle": 6,
+        "triangle_pairs": 97
+      },
+      {
+        "side": "Right",
+        "angle": 7,
+        "triangle_pairs": 97
+      },
+      {
+        "side": "Right",
+        "angle": 8,
+        "triangle_pairs": 98
+      },
+      {
+        "side": "Right",
+        "angle": 9,
+        "triangle_pairs": 100
+      },
+      {
+        "side": "Right",
+        "angle": 10,
+        "triangle_pairs": 99
+      },
+      {
+        "side": "Right",
+        "angle": 11,
+        "triangle_pairs": 97
+      },
+      {
+        "side": "Right",
+        "angle": 12,
+        "triangle_pairs": 97
+      },
+      {
+        "side": "Right",
+        "angle": 13,
+        "triangle_pairs": 95
+      },
+      {
+        "side": "Right",
+        "angle": 14,
+        "triangle_pairs": 97
+      },
+      {
+        "side": "Right",
+        "angle": 15,
+        "triangle_pairs": 101
+      },
+      {
+        "side": "Right",
+        "angle": 16,
+        "triangle_pairs": 103
+      },
+      {
+        "side": "Right",
+        "angle": 17,
+        "triangle_pairs": 107
+      },
+      {
+        "side": "Right",
+        "angle": 18,
+        "triangle_pairs": 107
+      },
+      {
+        "side": "Right",
+        "angle": 19,
+        "triangle_pairs": 106
+      },
+      {
+        "side": "Right",
+        "angle": 20,
+        "triangle_pairs": 108
+      },
+      {
+        "side": "Right",
+        "angle": 21,
+        "triangle_pairs": 113
+      },
+      {
+        "side": "Right",
+        "angle": 22,
+        "triangle_pairs": 114
+      },
+      {
+        "side": "Right",
+        "angle": 23,
+        "triangle_pairs": 120
+      },
+      {
+        "side": "Right",
+        "angle": 24,
+        "triangle_pairs": 120
+      },
+      {
+        "side": "Right",
+        "angle": 25,
+        "triangle_pairs": 124
+      },
+      {
+        "side": "Right",
+        "angle": 26,
+        "triangle_pairs": 128
+      },
+      {
+        "side": "Right",
+        "angle": 27,
+        "triangle_pairs": 130
+      },
+      {
+        "side": "Right",
+        "angle": 28,
+        "triangle_pairs": 130
+      },
+      {
+        "side": "Right",
+        "angle": 29,
+        "triangle_pairs": 127
+      },
+      {
+        "side": "Right",
+        "angle": 30,
+        "triangle_pairs": 130
+      },
+      {
+        "side": "Right",
+        "angle": 31,
+        "triangle_pairs": 130
+      },
+      {
+        "side": "Right",
+        "angle": 32,
+        "triangle_pairs": 124
+      },
+      {
+        "side": "Right",
+        "angle": 33,
+        "triangle_pairs": 126
+      },
+      {
+        "side": "Right",
+        "angle": 34,
+        "triangle_pairs": 124
+      },
+      {
+        "side": "Right",
+        "angle": 35,
+        "triangle_pairs": 124
+      },
+      {
+        "side": "Right",
+        "angle": 36,
+        "triangle_pairs": 127
+      },
+      {
+        "side": "Right",
+        "angle": 37,
+        "triangle_pairs": 128
+      },
+      {
+        "side": "Right",
+        "angle": 38,
+        "triangle_pairs": 128
+      },
+      {
+        "side": "Right",
+        "angle": 39,
+        "triangle_pairs": 126
+      },
+      {
+        "side": "Right",
+        "angle": 40,
+        "triangle_pairs": 122
+      },
+      {
+        "side": "Right",
+        "angle": 41,
+        "triangle_pairs": 122
+      },
+      {
+        "side": "Right",
+        "angle": 42,
+        "triangle_pairs": 122
+      },
+      {
+        "side": "Right",
+        "angle": 43,
+        "triangle_pairs": 122
+      },
+      {
+        "side": "Right",
+        "angle": 44,
+        "triangle_pairs": 130
+      },
+      {
+        "side": "Right",
+        "angle": 45,
+        "triangle_pairs": 132
+      },
+      {
+        "side": "Right",
+        "angle": 46,
+        "triangle_pairs": 134
+      },
+      {
+        "side": "Right",
+        "angle": 47,
+        "triangle_pairs": 140
+      },
+      {
+        "side": "Right",
+        "angle": 48,
+        "triangle_pairs": 142
+      },
+      {
+        "side": "Right",
+        "angle": 49,
+        "triangle_pairs": 144
+      },
+      {
+        "side": "Right",
+        "angle": 50,
+        "triangle_pairs": 154
+      },
+      {
+        "side": "Right",
+        "angle": 51,
+        "triangle_pairs": 157
+      },
+      {
+        "side": "Right",
+        "angle": 52,
+        "triangle_pairs": 164
+      },
+      {
+        "side": "Right",
+        "angle": 53,
+        "triangle_pairs": 171
+      },
+      {
+        "side": "Right",
+        "angle": 54,
+        "triangle_pairs": 177
+      },
+      {
+        "side": "Right",
+        "angle": 55,
+        "triangle_pairs": 166
+      },
+      {
+        "side": "Right",
+        "angle": 56,
+        "triangle_pairs": 172
+      },
+      {
+        "side": "Right",
+        "angle": 57,
+        "triangle_pairs": 174
+      },
+      {
+        "side": "Right",
+        "angle": 58,
+        "triangle_pairs": 175
+      },
+      {
+        "side": "Right",
+        "angle": 59,
+        "triangle_pairs": 177
+      },
+      {
+        "side": "Right",
+        "angle": 60,
+        "triangle_pairs": 177
+      },
+      {
+        "side": "Right",
+        "angle": 61,
+        "triangle_pairs": 177
+      },
+      {
+        "side": "Right",
+        "angle": 62,
+        "triangle_pairs": 179
+      },
+      {
+        "side": "Right",
+        "angle": 63,
+        "triangle_pairs": 179
+      },
+      {
+        "side": "Right",
+        "angle": 64,
+        "triangle_pairs": 179
+      },
+      {
+        "side": "Right",
+        "angle": 65,
+        "triangle_pairs": 182
+      },
+      {
+        "side": "Right",
+        "angle": 66,
+        "triangle_pairs": 182
+      },
+      {
+        "side": "Right",
+        "angle": 67,
+        "triangle_pairs": 183
+      },
+      {
+        "side": "Right",
+        "angle": 68,
+        "triangle_pairs": 188
+      },
+      {
+        "side": "Right",
+        "angle": 69,
+        "triangle_pairs": 190
+      },
+      {
+        "side": "Right",
+        "angle": 70,
+        "triangle_pairs": 191
+      },
+      {
+        "side": "Right",
+        "angle": 71,
+        "triangle_pairs": 187
+      },
+      {
+        "side": "Right",
+        "angle": 72,
+        "triangle_pairs": 188
+      },
+      {
+        "side": "Right",
+        "angle": 73,
+        "triangle_pairs": 186
+      },
+      {
+        "side": "Right",
+        "angle": 74,
+        "triangle_pairs": 193
+      },
+      {
+        "side": "Right",
+        "angle": 75,
+        "triangle_pairs": 191
+      },
+      {
+        "side": "Right",
+        "angle": 76,
+        "triangle_pairs": 193
+      },
+      {
+        "side": "Right",
+        "angle": 77,
+        "triangle_pairs": 203
+      },
+      {
+        "side": "Right",
+        "angle": 78,
+        "triangle_pairs": 220
+      },
+      {
+        "side": "Right",
+        "angle": 79,
+        "triangle_pairs": 228
+      },
+      {
+        "side": "Right",
+        "angle": 80,
+        "triangle_pairs": 228
+      },
+      {
+        "side": "Right",
+        "angle": 81,
+        "triangle_pairs": 232
+      },
+      {
+        "side": "Right",
+        "angle": 82,
+        "triangle_pairs": 231
+      },
+      {
+        "side": "Right",
+        "angle": 83,
+        "triangle_pairs": 233
+      },
+      {
+        "side": "Right",
+        "angle": 84,
+        "triangle_pairs": 239
+      },
+      {
+        "side": "Right",
+        "angle": 85,
+        "triangle_pairs": 242
+      },
+      {
+        "side": "Right",
+        "angle": 86,
+        "triangle_pairs": 237
+      },
+      {
+        "side": "Right",
+        "angle": 87,
+        "triangle_pairs": 234
+      },
+      {
+        "side": "Right",
+        "angle": 88,
+        "triangle_pairs": 228
+      },
+      {
+        "side": "Right",
+        "angle": 89,
+        "triangle_pairs": 228
+      },
+      {
+        "side": "Right",
+        "angle": 90,
+        "triangle_pairs": 229
+      }
+    ]
+  },
+  {
+    "hinge_x": 0.57,
+    "lod": 0,
+    "angle_step_degrees": 1,
+    "collisions": [
+      {
+        "side": "Left",
+        "angle": 0,
+        "triangle_pairs": 10
+      },
+      {
+        "side": "Left",
+        "angle": 1,
+        "triangle_pairs": 10
+      },
+      {
+        "side": "Left",
+        "angle": 2,
+        "triangle_pairs": 10
+      },
+      {
+        "side": "Left",
+        "angle": 3,
+        "triangle_pairs": 10
+      },
+      {
+        "side": "Left",
+        "angle": 4,
+        "triangle_pairs": 10
+      },
+      {
+        "side": "Left",
+        "angle": 5,
+        "triangle_pairs": 10
+      },
+      {
+        "side": "Left",
+        "angle": 6,
+        "triangle_pairs": 10
+      },
+      {
+        "side": "Left",
+        "angle": 7,
+        "triangle_pairs": 10
+      },
+      {
+        "side": "Left",
+        "angle": 8,
+        "triangle_pairs": 10
+      },
+      {
+        "side": "Left",
+        "angle": 9,
+        "triangle_pairs": 8
+      },
+      {
+        "side": "Left",
+        "angle": 10,
+        "triangle_pairs": 8
+      },
+      {
+        "side": "Left",
+        "angle": 11,
+        "triangle_pairs": 8
+      },
+      {
+        "side": "Left",
+        "angle": 12,
+        "triangle_pairs": 8
+      },
+      {
+        "side": "Left",
+        "angle": 13,
+        "triangle_pairs": 8
+      },
+      {
+        "side": "Left",
+        "angle": 14,
+        "triangle_pairs": 8
+      },
+      {
+        "side": "Left",
+        "angle": 15,
+        "triangle_pairs": 8
+      },
+      {
+        "side": "Left",
+        "angle": 16,
+        "triangle_pairs": 8
+      },
+      {
+        "side": "Left",
+        "angle": 19,
+        "triangle_pairs": 19
+      },
+      {
+        "side": "Left",
+        "angle": 20,
+        "triangle_pairs": 19
+      },
+      {
+        "side": "Left",
+        "angle": 21,
+        "triangle_pairs": 19
+      },
+      {
+        "side": "Left",
+        "angle": 22,
+        "triangle_pairs": 19
+      },
+      {
+        "side": "Right",
+        "angle": 0,
+        "triangle_pairs": 11
+      },
+      {
+        "side": "Right",
+        "angle": 1,
+        "triangle_pairs": 11
+      },
+      {
+        "side": "Right",
+        "angle": 2,
+        "triangle_pairs": 11
+      },
+      {
+        "side": "Right",
+        "angle": 3,
+        "triangle_pairs": 11
+      },
+      {
+        "side": "Right",
+        "angle": 4,
+        "triangle_pairs": 11
+      },
+      {
+        "side": "Right",
+        "angle": 5,
+        "triangle_pairs": 11
+      },
+      {
+        "side": "Right",
+        "angle": 6,
+        "triangle_pairs": 11
+      },
+      {
+        "side": "Right",
+        "angle": 7,
+        "triangle_pairs": 11
+      },
+      {
+        "side": "Right",
+        "angle": 8,
+        "triangle_pairs": 11
+      },
+      {
+        "side": "Right",
+        "angle": 9,
+        "triangle_pairs": 8
+      },
+      {
+        "side": "Right",
+        "angle": 10,
+        "triangle_pairs": 8
+      },
+      {
+        "side": "Right",
+        "angle": 11,
+        "triangle_pairs": 8
+      },
+      {
+        "side": "Right",
+        "angle": 12,
+        "triangle_pairs": 8
+      },
+      {
+        "side": "Right",
+        "angle": 13,
+        "triangle_pairs": 8
+      },
+      {
+        "side": "Right",
+        "angle": 14,
+        "triangle_pairs": 8
+      },
+      {
+        "side": "Right",
+        "angle": 15,
+        "triangle_pairs": 8
+      },
+      {
+        "side": "Right",
+        "angle": 16,
+        "triangle_pairs": 8
+      },
+      {
+        "side": "Right",
+        "angle": 19,
+        "triangle_pairs": 17
+      },
+      {
+        "side": "Right",
+        "angle": 20,
+        "triangle_pairs": 17
+      },
+      {
+        "side": "Right",
+        "angle": 21,
+        "triangle_pairs": 17
+      },
+      {
+        "side": "Right",
+        "angle": 22,
+        "triangle_pairs": 17
+      }
+    ]
+  },
+  {
+    "hinge_x": 0.6,
+    "lod": 0,
+    "angle_step_degrees": 1,
+    "collisions": []
+  }
+]

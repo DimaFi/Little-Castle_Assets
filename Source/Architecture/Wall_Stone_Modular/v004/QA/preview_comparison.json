@@ -1,0 +1,56 @@
+{
+  "baseline": "v003",
+  "candidate": "v004",
+  "same_generator_camera_light_samples": true,
+  "note": "Small indirect-light/denoising differences can occur after internal-face removal. Metrics are not an FPS test or a substitute for visual inspection.",
+  "images": [
+    {
+      "image": "ArcherTower_Closeup.png",
+      "mean_abs_linear_rgb_error": 2.7466538199405477e-07,
+      "max_abs_linear_rgb_error": 0.003921627998352051,
+      "fraction_pixels_any_channel_error_above_0_01": 0.0
+    },
+    {
+      "image": "ArcherTower_Joined.png",
+      "mean_abs_linear_rgb_error": 1.0834992991703984e-07,
+      "max_abs_linear_rgb_error": 0.003921568393707275,
+      "fraction_pixels_any_channel_error_above_0_01": 0.0
+    },
+    {
+      "image": "Banner_Customization.png",
+      "mean_abs_linear_rgb_error": 4.668534003826608e-09,
+      "max_abs_linear_rgb_error": 0.003921568393707275,
+      "fraction_pixels_any_channel_error_above_0_01": 0.0
+    },
+    {
+      "image": "Gate_Closed.png",
+      "mean_abs_linear_rgb_error": 1.1749146722195292e-07,
+      "max_abs_linear_rgb_error": 0.0156862735748291,
+      "fraction_pixels_any_channel_error_above_0_01": 5.952380952380952e-07
+    },
+    {
+      "image": "Gate_Open.png",
+      "mean_abs_linear_rgb_error": 0.0,
+      "max_abs_linear_rgb_error": 0.0,
+      "fraction_pixels_any_channel_error_above_0_01": 0.0
+    },
+    {
+      "image": "Socket_Curve_Assembly.png",
+      "mean_abs_linear_rgb_error": 8.787830552137166e-08,
+      "max_abs_linear_rgb_error": 0.00784313678741455,
+      "fraction_pixels_any_channel_error_above_0_01": 0.0
+    },
+    {
+      "image": "Tower_LODs.png",
+      "mean_abs_linear_rgb_error": 6.523803790514648e-07,
+      "max_abs_linear_rgb_error": 0.011764705181121826,
+      "fraction_pixels_any_channel_error_above_0_01": 1.238390092879257e-06
+    },
+    {
+      "image": "Wall_Approved_NewBanner.png",
+      "mean_abs_linear_rgb_error": 3.6564740124589434e-09,
+      "max_abs_linear_rgb_error": 0.003921568393707275,
+      "fraction_pixels_any_channel_error_above_0_01": 0.0
+    }
+  ]
+}

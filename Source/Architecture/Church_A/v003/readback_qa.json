@@ -1,0 +1,41 @@
+{
+  "saved_file_checked": true,
+  "mesh_objects": 1258,
+  "triangles": 50746,
+  "foliage_leaf_triangles": 500,
+  "foliage_open_edges_intentional": true,
+  "packed_images": {
+    "T_Foliage_BaseColor.png": true,
+    "DoorWood_A_BaseColor.png": true,
+    "DoorWood_A_Roughness.png": true,
+    "DoorWood_A_Normal.png": true,
+    "T_FieldStone_A_BaseColor.png.001": true,
+    "T_FieldStone_A_Roughness.png.001": true,
+    "T_FieldStone_A_Normal.png.001": true,
+    "T_Timber_A_BaseColor.png": true,
+    "T_Timber_A_Roughness.png": true,
+    "T_Timber_A_Normal.png": true,
+    "RoofTile_BaseColor.png": true,
+    "RoofTile_Roughness.png": true,
+    "RoofTile_Normal.png": true,
+    "T_Plaster_A_BaseColor.png": true,
+    "T_Plaster_A_Roughness.png": true,
+    "T_Plaster_A_Normal.png": true
+  },
+  "used_materials": [
+    "M_Church_Bell_Bronze",
+    "M_Church_Vine_ExistingFoliage",
+    "M_Church_Vine_Stem",
+    "M_Cottage_DoorWood_A",
+    "M_Cottage_FieldStone_A",
+    "M_Cottage_ForgedIron_A",
+    "M_Cottage_FrameWood_A",
+    "M_Cottage_RoofUnderlay_A",
+    "M_Cottage_StructuralTimber_A",
+    "M_Cottage_Terracotta_A",
+    "M_Cottage_WarmPlaster_A",
+    "M_Cottage_WindowGlass_Proxy_A"
+  ],
+  "stair_cheeks_closed_to_ground": true,
+  "issues": []
+}

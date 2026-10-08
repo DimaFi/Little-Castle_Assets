@@ -2,6 +2,13 @@
 
 Status: **local workspace migration in progress.** The original folder is retained in place so Asset Book paths stay valid. GitHub stores lightweight reproducibility records, not a binary art backup.
 
+Update 2026-10-08: the user explicitly requested publication for mobile/cloud
+continuation. New versioned `Source/` and `Releases/` binaries are now a Git LFS
+exception to the historical local-only policy below. Existing legacy roots and
+their binary policy are unchanged. The current authority for this exception is
+`docs/GITHUB_HANDOFF_2026-10-08.md`; do not reinterpret the old migration plan as
+authorization to upload the entire legacy Unreal/art library.
+
 Source snapshot audited on 2026-10-02: `E:\Games_Develop\CozySettlement`. The destination is this repository, cloned at `E:\Games_Develop\Little-Castle_Assets`. The Unity game repository is `E:\Games_Develop\Little-Castle`.
 
 ## Boundary contract

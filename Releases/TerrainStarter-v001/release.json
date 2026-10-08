@@ -1,0 +1,103 @@
+{
+  "status": "SCENE_TEST",
+  "source": "E:\\Games_Develop\\Little-Castle_Assets\\Source\\Architecture\\Wall_Stone_Modular\\v004",
+  "note": "Existing geometry QA; runtime validation reported separately",
+  "files": [
+    {
+      "source": "Little-Castle_Assets\\Releases\\TerrainStarter-v001\\Meshes\\SM_ArcherTower_A.fbx",
+      "target": "Models/SM_ArcherTower_A.fbx",
+      "sha256": "37c7d29b8e3d15d3e3438187fba176386fb2e0c10654fae1ca84e5ff590fb3c3",
+      "bytes": 1017308
+    },
+    {
+      "source": "Little-Castle_Assets\\Releases\\TerrainStarter-v001\\Meshes\\SM_Wall_Banner_Bracket_A.fbx",
+      "target": "Models/SM_Wall_Banner_Bracket_A.fbx",
+      "sha256": "6827a40426777d746f82541f8ce5ed135c29c0b071dbcea19694f59b3ae48aea",
+      "bytes": 46844
+    },
+    {
+      "source": "Little-Castle_Assets\\Releases\\TerrainStarter-v001\\Meshes\\SM_Wall_Banner_Cloth_A.fbx",
+      "target": "Models/SM_Wall_Banner_Cloth_A.fbx",
+      "sha256": "d545c4b46caaa6a3f5cc676a33f736a91d3e0074b4dfa89db03356013150a6cb",
+      "bytes": 46636
+    },
+    {
+      "source": "Little-Castle_Assets\\Releases\\TerrainStarter-v001\\Meshes\\SM_Wall_Banner_Trim_A.fbx",
+      "target": "Models/SM_Wall_Banner_Trim_A.fbx",
+      "sha256": "f165314533536694494c3a515f4d76cd2860526f7a20ebeccd1c399a97e58c00",
+      "bytes": 43452
+    },
+    {
+      "source": "Little-Castle_Assets\\Releases\\TerrainStarter-v001\\Meshes\\SM_Wall_Gatehouse_A.fbx",
+      "target": "Models/SM_Wall_Gatehouse_A.fbx",
+      "sha256": "ea2545d5fa0b13fc117ca15093e434777a79bc2f007bc52381fb8884d13b7baf",
+      "bytes": 409852
+    },
+    {
+      "source": "Little-Castle_Assets\\Releases\\TerrainStarter-v001\\Meshes\\SM_Wall_GateLeaf_Left_A.fbx",
+      "target": "Models/SM_Wall_GateLeaf_Left_A.fbx",
+      "sha256": "49be04b688e475225dd202609c636cca9515ae521de462fa23236c78b0dfd6e2",
+      "bytes": 107644
+    },
+    {
+      "source": "Little-Castle_Assets\\Releases\\TerrainStarter-v001\\Meshes\\SM_Wall_GateLeaf_Right_A.fbx",
+      "target": "Models/SM_Wall_GateLeaf_Right_A.fbx",
+      "sha256": "35b8bddc03006ef234d7cc80c0944102d5183fb1dee9e0f1bb266f08c356e934",
+      "bytes": 107980
+    },
+    {
+      "source": "Little-Castle_Assets\\Releases\\TerrainStarter-v001\\Meshes\\SM_Wall_Stone_1m_A.fbx",
+      "target": "Models/SM_Wall_Stone_1m_A.fbx",
+      "sha256": "2440ce7d9050d8ec704de544df001db33748286456fe18522b83e4bb8b8e3c06",
+      "bytes": 430220
+    },
+    {
+      "source": "Little-Castle_Assets\\Releases\\TerrainStarter-v001\\Meshes\\SM_Wall_Stone_2m_A.fbx",
+      "target": "Models/SM_Wall_Stone_2m_A.fbx",
+      "sha256": "2a5ffbe6a4d567834bb84c1069aa141078b1e3dcc394b9f2c7b6089f888481fc",
+      "bytes": 532412
+    },
+    {
+      "source": "Little-Castle_Assets\\Releases\\TerrainStarter-v001\\Meshes\\SM_Wall_Stone_End_A.fbx",
+      "target": "Models/SM_Wall_Stone_End_A.fbx",
+      "sha256": "500532ab4da769bcf1b274fb6d9a6a6bf7aa81a8a5be567e75b6a71234504ddb",
+      "bytes": 294348
+    },
+    {
+      "source": "Little-Castle_Assets\\Releases\\TerrainStarter-v001\\Meshes\\SM_Wall_Stone_Pillar_A.fbx",
+      "target": "Models/SM_Wall_Stone_Pillar_A.fbx",
+      "sha256": "cf78f15587269e8b9e80bcc8bfac454ca4920be7f939d7b94cae08683fa17a8f",
+      "bytes": 347276
+    },
+    {
+      "source": "Little-Castle_Assets\\Releases\\TerrainStarter-v001\\Textures\\DoorWood_A_BaseColor.png",
+      "target": "Textures/DoorWood_A_BaseColor.png",
+      "sha256": "7446b60538b2f178c3e6381f6569c9408c6b38a0eb048a0b8ac5bf1d0fb215ff",
+      "bytes": 3146694
+    },
+    {
+      "source": "Little-Castle_Assets\\Releases\\TerrainStarter-v001\\Textures\\material-bindings.json",
+      "target": "Textures/material-bindings.json",
+      "sha256": "27c99971370afbd88b43cef9f77169d68ec0b14b9e18c772c00d06ae9820c06c",
+      "bytes": 1418
+    },
+    {
+      "source": "Little-Castle_Assets\\Releases\\TerrainStarter-v001\\Textures\\RoofTile_BaseColor.png",
+      "target": "Textures/RoofTile_BaseColor.png",
+      "sha256": "c53f52aa744443c6830f0505d1d640f5796456d1f29594192bd291e0aaaed0bd",
+      "bytes": 3282491
+    },
+    {
+      "source": "Little-Castle_Assets\\Releases\\TerrainStarter-v001\\Textures\\T_WallStoneSurface_A_BaseColor.png",
+      "target": "Textures/T_WallStoneSurface_A_BaseColor.png",
+      "sha256": "651415fd08c0f96a875e8cd616d1cf43bf5a0765c2cd20e0be057d33aa95c60b",
+      "bytes": 2999973
+    },
+    {
+      "source": "Little-Castle_Assets\\Releases\\TerrainStarter-v001\\Connections.json",
+      "target": "Connections.json",
+      "sha256": "5d7ad181344ac8f141893163e9f72c20a6895c6969588c5fb0c4801840dfd840",
+      "bytes": 6561
+    }
+  ]
+}
