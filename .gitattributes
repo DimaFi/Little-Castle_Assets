@@ -17,3 +17,5 @@ Releases/**/*.fbx filter=lfs diff=lfs merge=lfs -text
 Releases/**/*.png filter=lfs diff=lfs merge=lfs -text
 Releases/**/*.jpg filter=lfs diff=lfs merge=lfs -text
 Releases/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
+# Release manifests hash raw payload bytes: never rewrite text line endings.
+Releases/** -text
