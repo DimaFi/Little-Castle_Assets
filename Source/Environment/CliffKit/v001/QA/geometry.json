@@ -1,0 +1,848 @@
+{
+  "blender": "4.4.3",
+  "source": [
+    {
+      "name": "Cliff_Concave_A_LOD0",
+      "vertices": 464,
+      "triangles": 924,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 723.2747268251935
+    },
+    {
+      "name": "Cliff_Concave_A_LOD1",
+      "vertices": 138,
+      "triangles": 272,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 708.4666843375383
+    },
+    {
+      "name": "Cliff_Concave_A_LOD2",
+      "vertices": 87,
+      "triangles": 170,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 703.5269804594499
+    },
+    {
+      "name": "Cliff_Convex_A_LOD0",
+      "vertices": 464,
+      "triangles": 924,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 723.4485776639958
+    },
+    {
+      "name": "Cliff_Convex_A_LOD1",
+      "vertices": 138,
+      "triangles": 272,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 710.8433338258633
+    },
+    {
+      "name": "Cliff_Convex_A_LOD2",
+      "vertices": 87,
+      "triangles": 170,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 701.9551754123796
+    },
+    {
+      "name": "Cliff_End_Left_LOD0",
+      "vertices": 464,
+      "triangles": 924,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 367.01405029922887
+    },
+    {
+      "name": "Cliff_End_Left_LOD1",
+      "vertices": 138,
+      "triangles": 272,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 360.6248106062202
+    },
+    {
+      "name": "Cliff_End_Left_LOD2",
+      "vertices": 87,
+      "triangles": 170,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 355.2005637727632
+    },
+    {
+      "name": "Cliff_End_Right_LOD0",
+      "vertices": 464,
+      "triangles": 924,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 374.2305425653277
+    },
+    {
+      "name": "Cliff_End_Right_LOD1",
+      "vertices": 138,
+      "triangles": 272,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 365.5777389229973
+    },
+    {
+      "name": "Cliff_End_Right_LOD2",
+      "vertices": 87,
+      "triangles": 170,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 361.60131258649136
+    },
+    {
+      "name": "Cliff_Straight_A_LOD0",
+      "vertices": 464,
+      "triangles": 924,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 558.5663313870417
+    },
+    {
+      "name": "Cliff_Straight_A_LOD1",
+      "vertices": 138,
+      "triangles": 272,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 549.3490193675012
+    },
+    {
+      "name": "Cliff_Straight_A_LOD2",
+      "vertices": 87,
+      "triangles": 170,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 542.5496800111969
+    },
+    {
+      "name": "Cliff_Straight_B_LOD0",
+      "vertices": 464,
+      "triangles": 924,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 551.3935440590917
+    },
+    {
+      "name": "Cliff_Straight_B_LOD1",
+      "vertices": 138,
+      "triangles": 272,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 540.2794280623134
+    },
+    {
+      "name": "Cliff_Straight_B_LOD2",
+      "vertices": 87,
+      "triangles": 170,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 536.0981534600021
+    },
+    {
+      "name": "Cliff_Terrace_High_LOD0",
+      "vertices": 464,
+      "triangles": 924,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 1280.0937350320958
+    },
+    {
+      "name": "Cliff_Terrace_High_LOD1",
+      "vertices": 138,
+      "triangles": 272,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 1260.1508982590894
+    },
+    {
+      "name": "Cliff_Terrace_High_LOD2",
+      "vertices": 87,
+      "triangles": 170,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 1234.3978645632005
+    },
+    {
+      "name": "Cliff_Terrace_Low_LOD0",
+      "vertices": 464,
+      "triangles": 924,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 365.30228722828997
+    },
+    {
+      "name": "Cliff_Terrace_Low_LOD1",
+      "vertices": 138,
+      "triangles": 272,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 357.79933025956797
+    },
+    {
+      "name": "Cliff_Terrace_Low_LOD2",
+      "vertices": 87,
+      "triangles": 170,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 349.7162920077695
+    },
+    {
+      "name": "Ramp_Hike_A_LOD0",
+      "vertices": 290,
+      "triangles": 576,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 631.4653158955138
+    },
+    {
+      "name": "Ramp_Hike_A_LOD1",
+      "vertices": 98,
+      "triangles": 192,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 631.2403986744525
+    },
+    {
+      "name": "Ramp_Hike_A_LOD2",
+      "vertices": 56,
+      "triangles": 108,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 629.9289033367987
+    },
+    {
+      "name": "Ramp_Hike_B_LOD0",
+      "vertices": 290,
+      "triangles": 576,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 1442.3912654755009
+    },
+    {
+      "name": "Ramp_Hike_B_LOD1",
+      "vertices": 98,
+      "triangles": 192,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 1441.9909216559215
+    },
+    {
+      "name": "Ramp_Hike_B_LOD2",
+      "vertices": 56,
+      "triangles": 108,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 1439.643189710527
+    },
+    {
+      "name": "Rock_Boulder_Large_LOD0",
+      "vertices": 98,
+      "triangles": 192,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 19.51893919564271
+    },
+    {
+      "name": "Rock_Boulder_Large_LOD1",
+      "vertices": 50,
+      "triangles": 96,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 18.7214779365602
+    },
+    {
+      "name": "Rock_Boulder_Large_LOD2",
+      "vertices": 34,
+      "triangles": 64,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 17.56604834930161
+    },
+    {
+      "name": "Rock_Boulder_Small_LOD0",
+      "vertices": 98,
+      "triangles": 192,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 1.7061651811979548
+    },
+    {
+      "name": "Rock_Boulder_Small_LOD1",
+      "vertices": 50,
+      "triangles": 96,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 1.6361685426205363
+    },
+    {
+      "name": "Rock_Boulder_Small_LOD2",
+      "vertices": 34,
+      "triangles": 64,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 1.535297243894603
+    },
+    {
+      "name": "Rock_Outcrop_Large_LOD0",
+      "vertices": 98,
+      "triangles": 192,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 125.14265193842982
+    },
+    {
+      "name": "Rock_Outcrop_Large_LOD1",
+      "vertices": 50,
+      "triangles": 96,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 119.98166724052767
+    },
+    {
+      "name": "Rock_Outcrop_Large_LOD2",
+      "vertices": 34,
+      "triangles": 64,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 112.56421514797164
+    },
+    {
+      "name": "Rock_Outcrop_Medium_LOD0",
+      "vertices": 98,
+      "triangles": 192,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 18.76814979769724
+    },
+    {
+      "name": "Rock_Outcrop_Medium_LOD1",
+      "vertices": 50,
+      "triangles": 96,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 18.001820346819972
+    },
+    {
+      "name": "Rock_Outcrop_Medium_LOD2",
+      "vertices": 34,
+      "triangles": 64,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 16.887596507579623
+    }
+  ],
+  "fbx_roundtrip": [
+    {
+      "file": "Meshes/Cliff_Straight_A_LOD0.fbx",
+      "position_max_error_m": 1.3486991292666062e-06,
+      "name": "Cliff_Straight_A_LOD0.001",
+      "vertices": 464,
+      "triangles": 924,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 558.5663313870417
+    },
+    {
+      "file": "Meshes/Cliff_Straight_A_LOD1.fbx",
+      "position_max_error_m": 1.3486991292666062e-06,
+      "name": "Cliff_Straight_A_LOD1.001",
+      "vertices": 138,
+      "triangles": 272,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 549.3490193675012
+    },
+    {
+      "file": "Meshes/Cliff_Straight_A_LOD2.fbx",
+      "position_max_error_m": 1.3486991292666062e-06,
+      "name": "Cliff_Straight_A_LOD2.001",
+      "vertices": 87,
+      "triangles": 170,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 542.5496800111969
+    },
+    {
+      "file": "Meshes/Cliff_Straight_B_LOD0.fbx",
+      "position_max_error_m": 1.719260808386025e-06,
+      "name": "Cliff_Straight_B_LOD0.001",
+      "vertices": 464,
+      "triangles": 924,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 551.3935440590917
+    },
+    {
+      "file": "Meshes/Cliff_Straight_B_LOD1.fbx",
+      "position_max_error_m": 1.719260808386025e-06,
+      "name": "Cliff_Straight_B_LOD1.001",
+      "vertices": 138,
+      "triangles": 272,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 540.2794280623134
+    },
+    {
+      "file": "Meshes/Cliff_Straight_B_LOD2.fbx",
+      "position_max_error_m": 1.719260808386025e-06,
+      "name": "Cliff_Straight_B_LOD2.001",
+      "vertices": 87,
+      "triangles": 170,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 536.0981534600021
+    },
+    {
+      "file": "Meshes/Cliff_Convex_A_LOD0.fbx",
+      "position_max_error_m": 1.3486991292666062e-06,
+      "name": "Cliff_Convex_A_LOD0.001",
+      "vertices": 464,
+      "triangles": 924,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 723.4485776639958
+    },
+    {
+      "file": "Meshes/Cliff_Convex_A_LOD1.fbx",
+      "position_max_error_m": 1.3486991292666062e-06,
+      "name": "Cliff_Convex_A_LOD1.001",
+      "vertices": 138,
+      "triangles": 272,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 710.8433338258633
+    },
+    {
+      "file": "Meshes/Cliff_Convex_A_LOD2.fbx",
+      "position_max_error_m": 1.3486991292666062e-06,
+      "name": "Cliff_Convex_A_LOD2.001",
+      "vertices": 87,
+      "triangles": 170,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 701.9551754123796
+    },
+    {
+      "file": "Meshes/Cliff_Concave_A_LOD0.fbx",
+      "position_max_error_m": 1.3486991292666062e-06,
+      "name": "Cliff_Concave_A_LOD0.001",
+      "vertices": 464,
+      "triangles": 924,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 723.2747268251935
+    },
+    {
+      "file": "Meshes/Cliff_Concave_A_LOD1.fbx",
+      "position_max_error_m": 1.3486991292666062e-06,
+      "name": "Cliff_Concave_A_LOD1.001",
+      "vertices": 138,
+      "triangles": 272,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 708.4666843375383
+    },
+    {
+      "file": "Meshes/Cliff_Concave_A_LOD2.fbx",
+      "position_max_error_m": 1.3486991292666062e-06,
+      "name": "Cliff_Concave_A_LOD2.001",
+      "vertices": 87,
+      "triangles": 170,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 703.5269804594499
+    },
+    {
+      "file": "Meshes/Cliff_Terrace_Low_LOD0.fbx",
+      "position_max_error_m": 1.0662403155947686e-06,
+      "name": "Cliff_Terrace_Low_LOD0.001",
+      "vertices": 464,
+      "triangles": 924,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 365.30228722828997
+    },
+    {
+      "file": "Meshes/Cliff_Terrace_Low_LOD1.fbx",
+      "position_max_error_m": 1.0662403155947686e-06,
+      "name": "Cliff_Terrace_Low_LOD1.001",
+      "vertices": 138,
+      "triangles": 272,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 357.79933025956797
+    },
+    {
+      "file": "Meshes/Cliff_Terrace_Low_LOD2.fbx",
+      "position_max_error_m": 1.0662403155947686e-06,
+      "name": "Cliff_Terrace_Low_LOD2.001",
+      "vertices": 87,
+      "triangles": 170,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 349.7162920077695
+    },
+    {
+      "file": "Meshes/Cliff_Terrace_High_LOD0.fbx",
+      "position_max_error_m": 1.922192041092785e-06,
+      "name": "Cliff_Terrace_High_LOD0.001",
+      "vertices": 464,
+      "triangles": 924,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 1280.0937350320958
+    },
+    {
+      "file": "Meshes/Cliff_Terrace_High_LOD1.fbx",
+      "position_max_error_m": 1.922192041092785e-06,
+      "name": "Cliff_Terrace_High_LOD1.001",
+      "vertices": 138,
+      "triangles": 272,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 1260.1508982590894
+    },
+    {
+      "file": "Meshes/Cliff_Terrace_High_LOD2.fbx",
+      "position_max_error_m": 1.7583370208740234e-06,
+      "name": "Cliff_Terrace_High_LOD2.001",
+      "vertices": 87,
+      "triangles": 170,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 1234.3978645632005
+    },
+    {
+      "file": "Meshes/Cliff_End_Left_LOD0.fbx",
+      "position_max_error_m": 1.3486991292666062e-06,
+      "name": "Cliff_End_Left_LOD0.001",
+      "vertices": 464,
+      "triangles": 924,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 367.01405029922887
+    },
+    {
+      "file": "Meshes/Cliff_End_Left_LOD1.fbx",
+      "position_max_error_m": 1.3486991292666062e-06,
+      "name": "Cliff_End_Left_LOD1.001",
+      "vertices": 138,
+      "triangles": 272,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 360.6248106062202
+    },
+    {
+      "file": "Meshes/Cliff_End_Left_LOD2.fbx",
+      "position_max_error_m": 1.3486991292666062e-06,
+      "name": "Cliff_End_Left_LOD2.001",
+      "vertices": 87,
+      "triangles": 170,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 355.2005637727632
+    },
+    {
+      "file": "Meshes/Cliff_End_Right_LOD0.fbx",
+      "position_max_error_m": 1.3486991292666062e-06,
+      "name": "Cliff_End_Right_LOD0.001",
+      "vertices": 464,
+      "triangles": 924,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 374.2305425653277
+    },
+    {
+      "file": "Meshes/Cliff_End_Right_LOD1.fbx",
+      "position_max_error_m": 1.3486991292666062e-06,
+      "name": "Cliff_End_Right_LOD1.001",
+      "vertices": 138,
+      "triangles": 272,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 365.5777389229973
+    },
+    {
+      "file": "Meshes/Cliff_End_Right_LOD2.fbx",
+      "position_max_error_m": 1.3486991292666062e-06,
+      "name": "Cliff_End_Right_LOD2.001",
+      "vertices": 87,
+      "triangles": 170,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 361.60131258649136
+    },
+    {
+      "file": "Meshes/Rock_Outcrop_Large_LOD0.fbx",
+      "position_max_error_m": 7.633119025740598e-07,
+      "name": "Rock_Outcrop_Large_LOD0.001",
+      "vertices": 98,
+      "triangles": 192,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 125.14265193842982
+    },
+    {
+      "file": "Meshes/Rock_Outcrop_Large_LOD1.fbx",
+      "position_max_error_m": 7.633119025740598e-07,
+      "name": "Rock_Outcrop_Large_LOD1.001",
+      "vertices": 50,
+      "triangles": 96,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 119.98166724052767
+    },
+    {
+      "file": "Meshes/Rock_Outcrop_Large_LOD2.fbx",
+      "position_max_error_m": 7.633119025740598e-07,
+      "name": "Rock_Outcrop_Large_LOD2.001",
+      "vertices": 34,
+      "triangles": 64,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 112.56421514797164
+    },
+    {
+      "file": "Meshes/Rock_Outcrop_Medium_LOD0.fbx",
+      "position_max_error_m": 4.2981520209650625e-07,
+      "name": "Rock_Outcrop_Medium_LOD0.001",
+      "vertices": 98,
+      "triangles": 192,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 18.76814979769724
+    },
+    {
+      "file": "Meshes/Rock_Outcrop_Medium_LOD1.fbx",
+      "position_max_error_m": 4.2981520209650625e-07,
+      "name": "Rock_Outcrop_Medium_LOD1.001",
+      "vertices": 50,
+      "triangles": 96,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 18.001820346819972
+    },
+    {
+      "file": "Meshes/Rock_Outcrop_Medium_LOD2.fbx",
+      "position_max_error_m": 4.2981520209650625e-07,
+      "name": "Rock_Outcrop_Medium_LOD2.001",
+      "vertices": 34,
+      "triangles": 64,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 16.887596507579623
+    },
+    {
+      "file": "Meshes/Rock_Boulder_Small_LOD0.fbx",
+      "position_max_error_m": 1.792127477528993e-07,
+      "name": "Rock_Boulder_Small_LOD0.001",
+      "vertices": 98,
+      "triangles": 192,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 1.7061651811979548
+    },
+    {
+      "file": "Meshes/Rock_Boulder_Small_LOD1.fbx",
+      "position_max_error_m": 1.792127477528993e-07,
+      "name": "Rock_Boulder_Small_LOD1.001",
+      "vertices": 50,
+      "triangles": 96,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 1.6361685426205363
+    },
+    {
+      "file": "Meshes/Rock_Boulder_Small_LOD2.fbx",
+      "position_max_error_m": 1.792127477528993e-07,
+      "name": "Rock_Boulder_Small_LOD2.001",
+      "vertices": 34,
+      "triangles": 64,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 1.535297243894603
+    },
+    {
+      "file": "Meshes/Rock_Boulder_Large_LOD0.fbx",
+      "position_max_error_m": 4.3213367462158203e-07,
+      "name": "Rock_Boulder_Large_LOD0.001",
+      "vertices": 98,
+      "triangles": 192,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 19.51893919564271
+    },
+    {
+      "file": "Meshes/Rock_Boulder_Large_LOD1.fbx",
+      "position_max_error_m": 4.2981520209650625e-07,
+      "name": "Rock_Boulder_Large_LOD1.001",
+      "vertices": 50,
+      "triangles": 96,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 18.7214779365602
+    },
+    {
+      "file": "Meshes/Rock_Boulder_Large_LOD2.fbx",
+      "position_max_error_m": 4.2981520209650625e-07,
+      "name": "Rock_Boulder_Large_LOD2.001",
+      "vertices": 34,
+      "triangles": 64,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 17.56604834930161
+    },
+    {
+      "file": "Meshes/Ramp_Hike_A_LOD0.fbx",
+      "position_max_error_m": 4.2649612623790745e-06,
+      "name": "Ramp_Hike_A_LOD0.001",
+      "vertices": 290,
+      "triangles": 576,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 631.4653158955138
+    },
+    {
+      "file": "Meshes/Ramp_Hike_A_LOD1.fbx",
+      "position_max_error_m": 4.2649612623790745e-06,
+      "name": "Ramp_Hike_A_LOD1.001",
+      "vertices": 98,
+      "triangles": 192,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 631.2403986744525
+    },
+    {
+      "file": "Meshes/Ramp_Hike_A_LOD2.fbx",
+      "position_max_error_m": 4.2649612623790745e-06,
+      "name": "Ramp_Hike_A_LOD2.001",
+      "vertices": 56,
+      "triangles": 108,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 629.9289033367987
+    },
+    {
+      "file": "Meshes/Ramp_Hike_B_LOD0.fbx",
+      "position_max_error_m": 5.21540641784668e-06,
+      "name": "Ramp_Hike_B_LOD0.001",
+      "vertices": 290,
+      "triangles": 576,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 1442.3912654755009
+    },
+    {
+      "file": "Meshes/Ramp_Hike_B_LOD1.fbx",
+      "position_max_error_m": 5.21540641784668e-06,
+      "name": "Ramp_Hike_B_LOD1.001",
+      "vertices": 98,
+      "triangles": 192,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 1441.9909216559215
+    },
+    {
+      "file": "Meshes/Ramp_Hike_B_LOD2.fbx",
+      "position_max_error_m": 5.21540641784668e-06,
+      "name": "Ramp_Hike_B_LOD2.001",
+      "vertices": 56,
+      "triangles": 108,
+      "nonmanifold_edges": 0,
+      "zero_area_faces": 0,
+      "zero_area_uv": 0,
+      "volume_m3": 1439.643189710527
+    }
+  ],
+  "status": "PASS"
+}

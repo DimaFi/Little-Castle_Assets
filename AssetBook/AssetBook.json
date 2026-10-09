@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "project": "Little Castle Assets",
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "migration_note": "Local wall-kit, church and bridge records. Legacy CozySettlement catalog has not migrated; merge its IDs later without replacing these records.",
   "assets": [
     {
@@ -12,9 +12,20 @@
       "path": "Source/Architecture/Bridge_Stone_A/v002",
       "source_file": "Bridge_Stone_A.blend",
       "editable_source": "Source/Architecture/Bridge_Stone_A/v002/Bridge_Stone_A.blend",
-      "materials": ["M_Bridge_Stone", "M_Bridge_Palette", "M_Bridge_FactionCloth", "M_Bridge_Grass", "M_Bridge_TerrainReference", "M_Bridge_Water"],
+      "materials": [
+        "M_Bridge_Stone",
+        "M_Bridge_Palette",
+        "M_Bridge_FactionCloth",
+        "M_Bridge_Grass",
+        "M_Bridge_TerrainReference",
+        "M_Bridge_Water"
+      ],
       "dependencies": [],
-      "lods": ["LOD0", "LOD1", "LOD2"],
+      "lods": [
+        "LOD0",
+        "LOD1",
+        "LOD2"
+      ],
       "can_reuse": true,
       "notes": "v002 locally reviewed candidate released in Releases/Bridge_Stone_A/v002. Fixed 10.8m bridge, 2.86m clear path; Y-up road Z and river X. Structural LODs 13598/7704/1736 triangles; separate dressing 12428/5022/80. 286-triangle collision. Two flags seated on right-hand entrance stone caps. FBX roundtrip, packed texture and Cycles/Eevee visual checks passed. Opt-in Unity fixed-site generation contract implemented/tested; art import, global water/socket integration and in-game visual approval remain pending. v001 preserved."
     },
@@ -414,6 +425,296 @@
       "lods": [],
       "can_reuse": true,
       "notes": "v003 material review: 50746 installed triangles, +1550 from v002. Closed stone stair cheeks, 4 restrained vine patches using existing foliage atlas. Cottage materials and textures reused; all used images packed. Solid topology/readback QA passed; foliage cards intentionally two-sided and open. No game release or Unity test."
+    },
+    {
+      "id": "ENV_CliffKit_Cliff_Straight_A",
+      "name": "Cliff_Straight_A",
+      "category": "Environment Module",
+      "status": "InProgress",
+      "path": "Source/Environment/CliffKit/v001/Meshes",
+      "source_file": "Cliff_Straight_A_LOD0.fbx",
+      "editable_source": "Source/Environment/CliffKit/v001/CliffKit.blend",
+      "materials": [
+        "LC_CliffKit_RockA",
+        "LC_CliffKit_GrassCap"
+      ],
+      "dependencies": [],
+      "lods": [
+        "LOD0",
+        "LOD1",
+        "LOD2"
+      ],
+      "can_reuse": true,
+      "notes": "v001 Blender candidate: mesh and FBX roundtrip validated, rendered 3 angles / authored LODs. Isolated Unity intake and gameplay terrain/navigation/Player profiling tracked separately. Decorative only, no resource authority. Triangles [924, 272, 170]"
+    },
+    {
+      "id": "ENV_CliffKit_Cliff_Straight_B",
+      "name": "Cliff_Straight_B",
+      "category": "Environment Module",
+      "status": "InProgress",
+      "path": "Source/Environment/CliffKit/v001/Meshes",
+      "source_file": "Cliff_Straight_B_LOD0.fbx",
+      "editable_source": "Source/Environment/CliffKit/v001/CliffKit.blend",
+      "materials": [
+        "LC_CliffKit_RockA",
+        "LC_CliffKit_GrassCap"
+      ],
+      "dependencies": [],
+      "lods": [
+        "LOD0",
+        "LOD1",
+        "LOD2"
+      ],
+      "can_reuse": true,
+      "notes": "v001 Blender candidate: mesh and FBX roundtrip validated, rendered 3 angles / authored LODs. Isolated Unity intake and gameplay terrain/navigation/Player profiling tracked separately. Decorative only, no resource authority. Triangles [924, 272, 170]"
+    },
+    {
+      "id": "ENV_CliffKit_Cliff_Convex_A",
+      "name": "Cliff_Convex_A",
+      "category": "Environment Module",
+      "status": "InProgress",
+      "path": "Source/Environment/CliffKit/v001/Meshes",
+      "source_file": "Cliff_Convex_A_LOD0.fbx",
+      "editable_source": "Source/Environment/CliffKit/v001/CliffKit.blend",
+      "materials": [
+        "LC_CliffKit_RockA",
+        "LC_CliffKit_GrassCap"
+      ],
+      "dependencies": [],
+      "lods": [
+        "LOD0",
+        "LOD1",
+        "LOD2"
+      ],
+      "can_reuse": true,
+      "notes": "v001 Blender candidate: mesh and FBX roundtrip validated, rendered 3 angles / authored LODs. Isolated Unity intake and gameplay terrain/navigation/Player profiling tracked separately. Decorative only, no resource authority. Triangles [924, 272, 170]"
+    },
+    {
+      "id": "ENV_CliffKit_Cliff_Concave_A",
+      "name": "Cliff_Concave_A",
+      "category": "Environment Module",
+      "status": "InProgress",
+      "path": "Source/Environment/CliffKit/v001/Meshes",
+      "source_file": "Cliff_Concave_A_LOD0.fbx",
+      "editable_source": "Source/Environment/CliffKit/v001/CliffKit.blend",
+      "materials": [
+        "LC_CliffKit_RockA",
+        "LC_CliffKit_GrassCap"
+      ],
+      "dependencies": [],
+      "lods": [
+        "LOD0",
+        "LOD1",
+        "LOD2"
+      ],
+      "can_reuse": true,
+      "notes": "v001 Blender candidate: mesh and FBX roundtrip validated, rendered 3 angles / authored LODs. Isolated Unity intake and gameplay terrain/navigation/Player profiling tracked separately. Decorative only, no resource authority. Triangles [924, 272, 170]"
+    },
+    {
+      "id": "ENV_CliffKit_Cliff_Terrace_Low",
+      "name": "Cliff_Terrace_Low",
+      "category": "Environment Module",
+      "status": "InProgress",
+      "path": "Source/Environment/CliffKit/v001/Meshes",
+      "source_file": "Cliff_Terrace_Low_LOD0.fbx",
+      "editable_source": "Source/Environment/CliffKit/v001/CliffKit.blend",
+      "materials": [
+        "LC_CliffKit_RockA",
+        "LC_CliffKit_GrassCap"
+      ],
+      "dependencies": [],
+      "lods": [
+        "LOD0",
+        "LOD1",
+        "LOD2"
+      ],
+      "can_reuse": true,
+      "notes": "v001 Blender candidate: mesh and FBX roundtrip validated, rendered 3 angles / authored LODs. Isolated Unity intake and gameplay terrain/navigation/Player profiling tracked separately. Decorative only, no resource authority. Triangles [924, 272, 170]"
+    },
+    {
+      "id": "ENV_CliffKit_Cliff_Terrace_High",
+      "name": "Cliff_Terrace_High",
+      "category": "Environment Module",
+      "status": "InProgress",
+      "path": "Source/Environment/CliffKit/v001/Meshes",
+      "source_file": "Cliff_Terrace_High_LOD0.fbx",
+      "editable_source": "Source/Environment/CliffKit/v001/CliffKit.blend",
+      "materials": [
+        "LC_CliffKit_RockA",
+        "LC_CliffKit_GrassCap"
+      ],
+      "dependencies": [],
+      "lods": [
+        "LOD0",
+        "LOD1",
+        "LOD2"
+      ],
+      "can_reuse": true,
+      "notes": "v001 Blender candidate: mesh and FBX roundtrip validated, rendered 3 angles / authored LODs. Isolated Unity intake and gameplay terrain/navigation/Player profiling tracked separately. Decorative only, no resource authority. Triangles [924, 272, 170]"
+    },
+    {
+      "id": "ENV_CliffKit_Cliff_End_Left",
+      "name": "Cliff_End_Left",
+      "category": "Environment Module",
+      "status": "InProgress",
+      "path": "Source/Environment/CliffKit/v001/Meshes",
+      "source_file": "Cliff_End_Left_LOD0.fbx",
+      "editable_source": "Source/Environment/CliffKit/v001/CliffKit.blend",
+      "materials": [
+        "LC_CliffKit_RockA",
+        "LC_CliffKit_GrassCap"
+      ],
+      "dependencies": [],
+      "lods": [
+        "LOD0",
+        "LOD1",
+        "LOD2"
+      ],
+      "can_reuse": true,
+      "notes": "v001 Blender candidate: mesh and FBX roundtrip validated, rendered 3 angles / authored LODs. Isolated Unity intake and gameplay terrain/navigation/Player profiling tracked separately. Decorative only, no resource authority. Triangles [924, 272, 170]"
+    },
+    {
+      "id": "ENV_CliffKit_Cliff_End_Right",
+      "name": "Cliff_End_Right",
+      "category": "Environment Module",
+      "status": "InProgress",
+      "path": "Source/Environment/CliffKit/v001/Meshes",
+      "source_file": "Cliff_End_Right_LOD0.fbx",
+      "editable_source": "Source/Environment/CliffKit/v001/CliffKit.blend",
+      "materials": [
+        "LC_CliffKit_RockA",
+        "LC_CliffKit_GrassCap"
+      ],
+      "dependencies": [],
+      "lods": [
+        "LOD0",
+        "LOD1",
+        "LOD2"
+      ],
+      "can_reuse": true,
+      "notes": "v001 Blender candidate: mesh and FBX roundtrip validated, rendered 3 angles / authored LODs. Isolated Unity intake and gameplay terrain/navigation/Player profiling tracked separately. Decorative only, no resource authority. Triangles [924, 272, 170]"
+    },
+    {
+      "id": "ENV_CliffKit_Rock_Outcrop_Large",
+      "name": "Rock_Outcrop_Large",
+      "category": "Environment Module",
+      "status": "InProgress",
+      "path": "Source/Environment/CliffKit/v001/Meshes",
+      "source_file": "Rock_Outcrop_Large_LOD0.fbx",
+      "editable_source": "Source/Environment/CliffKit/v001/CliffKit.blend",
+      "materials": [
+        "LC_CliffKit_RockA"
+      ],
+      "dependencies": [],
+      "lods": [
+        "LOD0",
+        "LOD1",
+        "LOD2"
+      ],
+      "can_reuse": true,
+      "notes": "v001 Blender candidate: mesh and FBX roundtrip validated, rendered 3 angles / authored LODs. Isolated Unity intake and gameplay terrain/navigation/Player profiling tracked separately. Decorative only, no resource authority. Triangles [192, 96, 64]"
+    },
+    {
+      "id": "ENV_CliffKit_Rock_Outcrop_Medium",
+      "name": "Rock_Outcrop_Medium",
+      "category": "Environment Module",
+      "status": "InProgress",
+      "path": "Source/Environment/CliffKit/v001/Meshes",
+      "source_file": "Rock_Outcrop_Medium_LOD0.fbx",
+      "editable_source": "Source/Environment/CliffKit/v001/CliffKit.blend",
+      "materials": [
+        "LC_CliffKit_RockA"
+      ],
+      "dependencies": [],
+      "lods": [
+        "LOD0",
+        "LOD1",
+        "LOD2"
+      ],
+      "can_reuse": true,
+      "notes": "v001 Blender candidate: mesh and FBX roundtrip validated, rendered 3 angles / authored LODs. Isolated Unity intake and gameplay terrain/navigation/Player profiling tracked separately. Decorative only, no resource authority. Triangles [192, 96, 64]"
+    },
+    {
+      "id": "ENV_CliffKit_Rock_Boulder_Small",
+      "name": "Rock_Boulder_Small",
+      "category": "Environment Module",
+      "status": "InProgress",
+      "path": "Source/Environment/CliffKit/v001/Meshes",
+      "source_file": "Rock_Boulder_Small_LOD0.fbx",
+      "editable_source": "Source/Environment/CliffKit/v001/CliffKit.blend",
+      "materials": [
+        "LC_CliffKit_RockB"
+      ],
+      "dependencies": [],
+      "lods": [
+        "LOD0",
+        "LOD1",
+        "LOD2"
+      ],
+      "can_reuse": true,
+      "notes": "v001 Blender candidate: mesh and FBX roundtrip validated, rendered 3 angles / authored LODs. Isolated Unity intake and gameplay terrain/navigation/Player profiling tracked separately. Decorative only, no resource authority. Triangles [192, 96, 64]"
+    },
+    {
+      "id": "ENV_CliffKit_Rock_Boulder_Large",
+      "name": "Rock_Boulder_Large",
+      "category": "Environment Module",
+      "status": "InProgress",
+      "path": "Source/Environment/CliffKit/v001/Meshes",
+      "source_file": "Rock_Boulder_Large_LOD0.fbx",
+      "editable_source": "Source/Environment/CliffKit/v001/CliffKit.blend",
+      "materials": [
+        "LC_CliffKit_RockB"
+      ],
+      "dependencies": [],
+      "lods": [
+        "LOD0",
+        "LOD1",
+        "LOD2"
+      ],
+      "can_reuse": true,
+      "notes": "v001 Blender candidate: mesh and FBX roundtrip validated, rendered 3 angles / authored LODs. Isolated Unity intake and gameplay terrain/navigation/Player profiling tracked separately. Decorative only, no resource authority. Triangles [192, 96, 64]"
+    },
+    {
+      "id": "ENV_CliffKit_Ramp_Hike_A",
+      "name": "Ramp_Hike_A",
+      "category": "Environment Module",
+      "status": "InProgress",
+      "path": "Source/Environment/CliffKit/v001/Meshes",
+      "source_file": "Ramp_Hike_A_LOD0.fbx",
+      "editable_source": "Source/Environment/CliffKit/v001/CliffKit.blend",
+      "materials": [
+        "LC_CliffKit_RockA",
+        "LC_CliffKit_GrassCap"
+      ],
+      "dependencies": [],
+      "lods": [
+        "LOD0",
+        "LOD1",
+        "LOD2"
+      ],
+      "can_reuse": true,
+      "notes": "v001 Blender candidate: mesh and FBX roundtrip validated, rendered 3 angles / authored LODs. Isolated Unity intake and gameplay terrain/navigation/Player profiling tracked separately. Decorative only, no resource authority. Triangles [576, 192, 108]"
+    },
+    {
+      "id": "ENV_CliffKit_Ramp_Hike_B",
+      "name": "Ramp_Hike_B",
+      "category": "Environment Module",
+      "status": "InProgress",
+      "path": "Source/Environment/CliffKit/v001/Meshes",
+      "source_file": "Ramp_Hike_B_LOD0.fbx",
+      "editable_source": "Source/Environment/CliffKit/v001/CliffKit.blend",
+      "materials": [
+        "LC_CliffKit_RockA",
+        "LC_CliffKit_GrassCap"
+      ],
+      "dependencies": [],
+      "lods": [
+        "LOD0",
+        "LOD1",
+        "LOD2"
+      ],
+      "can_reuse": true,
+      "notes": "v001 Blender candidate: mesh and FBX roundtrip validated, rendered 3 angles / authored LODs. Isolated Unity intake and gameplay terrain/navigation/Player profiling tracked separately. Decorative only, no resource authority. Triangles [576, 192, 108]"
     }
   ]
 }

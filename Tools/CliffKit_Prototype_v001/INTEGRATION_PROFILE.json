@@ -1,0 +1,32 @@
+{
+  "schema": "cliffkit-concept-contract-v001",
+  "status": "DESIGN_ONLY_NOT_INTEGRATED",
+  "engine": "Unity 6000.5.5f1 Built-in concept branch",
+  "source_art_repository": "DimaFi/Little-Castle_Assets",
+  "game_repository": "DimaFi/Little-Castle",
+  "generation_placement": {
+    "source": "concept scarp/highland world-space masks and actual terrain height/slope",
+    "stable_id": "hash(worldSeed, generationVersion, worldCellOrFeatureId, archetypeId)",
+    "cross_chunk": "shared absolute world sampling, not per-chunk independent placement",
+    "terrain_contact": "crest level meets upper terrain, toe meets lower terrain; optional deterministic plateau/ramp adjustment",
+    "exclusions": ["road", "river", "fixed_bridge_site", "settlement", "player_spawn", "building_footprint", "resource_deposit", "strategic_exit"],
+    "do_not_spawn_gameplay_resources": true
+  },
+  "navigation_proposal_requires_approval": {
+    "infantry_max_grade_deg": 30,
+    "cart_max_grade_deg": 12,
+    "ramp_hike_a_nominal_grade_deg": 15.15,
+    "ramp_hike_b_nominal_grade_deg": 15.71,
+    "walkable_ground_is_terrain_not_decorative_mesh": true,
+    "require_clearance_check": true,
+    "no_cart_on_ramps": true
+  },
+  "render": {
+    "LOD_tiers": 3,
+    "common_materials": ["Rock_Limestone_A", "Rock_Limestone_B", "GrassCap_A"],
+    "decorative_cliff_colliders": "none unless justified, use gameplay terrain colliders",
+    "approved_art_intake": false,
+    "batching_instancing": "measure in Unity; do not assume eligible",
+    "pipeline_migration": false
+  }
+}
