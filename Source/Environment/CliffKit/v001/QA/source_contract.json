@@ -1,0 +1,8 @@
+{
+  "status": "PASS_SOURCE_CONTRACT_ONLY",
+  "png_maps": 17,
+  "deterministic_meshes": 42,
+  "socket_boundary_checks": 18,
+  "fbx_roundtrips": 42,
+  "texture_manifest_sha256": "db4bb35eabdddbc2b8960467bda1fd0ef7d7ac55dd4957cbdf839056801d8739"
+}

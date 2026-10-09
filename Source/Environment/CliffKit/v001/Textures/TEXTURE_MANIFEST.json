@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "seed": 20261009,
+  "size": 1024,
+  "maps": [
+    {
+      "path": "Rock_Limestone_A/AO_Approx.png",
+      "sha256": "ab3515756c3e8ba5ba423cb81957113faceaa8878773496b98080c71a16cd5da",
+      "bytes": 117853
+    },
+    {
+      "path": "Rock_Limestone_A/BaseColor.png",
+      "sha256": "7661792d8ad1bdfca3951cda216c91a69602b6cdb2266d258f06b77f78f5beff",
+      "bytes": 286271
+    },
+    {
+      "path": "Rock_Limestone_A/Height.png",
+      "sha256": "829f1ec3d72d366a9e1ff28349cb07910db854c67f7caec017476a2e6365865f",
+      "bytes": 270734
+    },
+    {
+      "path": "Rock_Limestone_A/MossMask.png",
+      "sha256": "3c70dfdaac46d460e8e2041c9894b10353948660485269fb1037165a369b44dc",
+      "bytes": 156427
+    },
+    {
+      "path": "Rock_Limestone_A/Normal_OpenGL.png",
+      "sha256": "b74de25d993fc61a7612e1f91a3456f1fd88c31450fc92f6e73e999b7717fa3d",
+      "bytes": 714101
+    },
+    {
+      "path": "Rock_Limestone_A/Roughness.png",
+      "sha256": "0c8966f4c4d9a174beefaa56530ebdd1a2a764907dc524d9702c9973c36eda34",
+      "bytes": 87906
+    },
+    {
+      "path": "Rock_Limestone_B/AO_Approx.png",
+      "sha256": "cf8cd864f4f1a9ecf8db3cc8f5cbbfd844b2ff4a122429d0f7d41f2313a81153",
+      "bytes": 120250
+    },
+    {
+      "path": "Rock_Limestone_B/BaseColor.png",
+      "sha256": "62259019f2e524a164f1481960c2d7036bdc12f56760c5dfacacfe8a09f67a0c",
+      "bytes": 289892
+    },
+    {
+      "path": "Rock_Limestone_B/Height.png",
+      "sha256": "0517fea138aa6354da0b6ea0a5c8c2768cf4ad71951d66a2646b7f455ae0e47a",
+      "bytes": 270400
+    },
+    {
+      "path": "Rock_Limestone_B/MossMask.png",
+      "sha256": "98338e4072301679d7060e79709f04bda4cbb33616bba66cb54e606f38823a26",
+      "bytes": 182932
+    },
+    {
+      "path": "Rock_Limestone_B/Normal_OpenGL.png",
+      "sha256": "5ebde49e500bfc5c076f483cd05366ea281e1cc93bea46735033f120e7682a63",
+      "bytes": 711331
+    },
+    {
+      "path": "Rock_Limestone_B/Roughness.png",
+      "sha256": "147b75a7bc455f798759df35688a3e9b6bd0c6f8908ba358616ccd169e18feba",
+      "bytes": 88479
+    },
+    {
+      "path": "GrassCap_A/AO_Approx.png",
+      "sha256": "c5541526bee0df7936f3c75cd1367bde19c72c21606e281fe6e0966557d6d36c",
+      "bytes": 48375
+    },
+    {
+      "path": "GrassCap_A/BaseColor.png",
+      "sha256": "19bbe9ebe6033d87b6d1f9bbaa18cc1991af129366f1e67b96b21ce0102a860e",
+      "bytes": 226443
+    },
+    {
+      "path": "GrassCap_A/Height.png",
+      "sha256": "095c767de4c21b006cd30dac92a9a0a0c68abacf3e582a2271631b13e5ca8d0d",
+      "bytes": 118610
+    },
+    {
+      "path": "GrassCap_A/Normal_OpenGL.png",
+      "sha256": "d1bc5043973a807af0dd4608540d7638801293084b10573b52762761d93f9f45",
+      "bytes": 101450
+    },
+    {
+      "path": "GrassCap_A/Roughness.png",
+      "sha256": "af8b327b1123082fc1e696f7100ebb315b4895aa8fc76925a390e3680ee8d1a7",
+      "bytes": 48667
+    }
+  ],
+  "remarks": "Seamless procedural prototype; AO_Approx is not baked AO; Normal_OpenGL uses +Y"
+}

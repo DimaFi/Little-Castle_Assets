@@ -27,3 +27,17 @@ Local wall-kit, church and bridge records. Legacy CozySettlement catalog has not
 | PROP_Wall_GateLeaf_Right_A | Prop | [SM_Wall_GateLeaf_Right_A.fbx](../Source/Architecture/Wall_Stone_Modular/v005/Meshes/SM_Wall_GateLeaf_Right_A.fbx) | InProgress |
 | PROP_Wall_Banner_Trim_A | Prop | [SM_Wall_Banner_Trim_A.fbx](../Source/Architecture/Wall_Stone_Modular/v005/Meshes/SM_Wall_Banner_Trim_A.fbx) | InProgress |
 | BLD_Church_A | Building | [Church_A.blend](../Source/Architecture/Church_A/v003/Church_A.blend) | InProgress |
+| ENV_CliffKit_Cliff_Straight_A | Environment Module | [Cliff_Straight_A_LOD0.fbx](../Source/Environment/CliffKit/v001/Meshes/Cliff_Straight_A_LOD0.fbx) | InProgress |
+| ENV_CliffKit_Cliff_Straight_B | Environment Module | [Cliff_Straight_B_LOD0.fbx](../Source/Environment/CliffKit/v001/Meshes/Cliff_Straight_B_LOD0.fbx) | InProgress |
+| ENV_CliffKit_Cliff_Convex_A | Environment Module | [Cliff_Convex_A_LOD0.fbx](../Source/Environment/CliffKit/v001/Meshes/Cliff_Convex_A_LOD0.fbx) | InProgress |
+| ENV_CliffKit_Cliff_Concave_A | Environment Module | [Cliff_Concave_A_LOD0.fbx](../Source/Environment/CliffKit/v001/Meshes/Cliff_Concave_A_LOD0.fbx) | InProgress |
+| ENV_CliffKit_Cliff_Terrace_Low | Environment Module | [Cliff_Terrace_Low_LOD0.fbx](../Source/Environment/CliffKit/v001/Meshes/Cliff_Terrace_Low_LOD0.fbx) | InProgress |
+| ENV_CliffKit_Cliff_Terrace_High | Environment Module | [Cliff_Terrace_High_LOD0.fbx](../Source/Environment/CliffKit/v001/Meshes/Cliff_Terrace_High_LOD0.fbx) | InProgress |
+| ENV_CliffKit_Cliff_End_Left | Environment Module | [Cliff_End_Left_LOD0.fbx](../Source/Environment/CliffKit/v001/Meshes/Cliff_End_Left_LOD0.fbx) | InProgress |
+| ENV_CliffKit_Cliff_End_Right | Environment Module | [Cliff_End_Right_LOD0.fbx](../Source/Environment/CliffKit/v001/Meshes/Cliff_End_Right_LOD0.fbx) | InProgress |
+| ENV_CliffKit_Rock_Outcrop_Large | Environment Module | [Rock_Outcrop_Large_LOD0.fbx](../Source/Environment/CliffKit/v001/Meshes/Rock_Outcrop_Large_LOD0.fbx) | InProgress |
+| ENV_CliffKit_Rock_Outcrop_Medium | Environment Module | [Rock_Outcrop_Medium_LOD0.fbx](../Source/Environment/CliffKit/v001/Meshes/Rock_Outcrop_Medium_LOD0.fbx) | InProgress |
+| ENV_CliffKit_Rock_Boulder_Small | Environment Module | [Rock_Boulder_Small_LOD0.fbx](../Source/Environment/CliffKit/v001/Meshes/Rock_Boulder_Small_LOD0.fbx) | InProgress |
+| ENV_CliffKit_Rock_Boulder_Large | Environment Module | [Rock_Boulder_Large_LOD0.fbx](../Source/Environment/CliffKit/v001/Meshes/Rock_Boulder_Large_LOD0.fbx) | InProgress |
+| ENV_CliffKit_Ramp_Hike_A | Environment Module | [Ramp_Hike_A_LOD0.fbx](../Source/Environment/CliffKit/v001/Meshes/Ramp_Hike_A_LOD0.fbx) | InProgress |
+| ENV_CliffKit_Ramp_Hike_B | Environment Module | [Ramp_Hike_B_LOD0.fbx](../Source/Environment/CliffKit/v001/Meshes/Ramp_Hike_B_LOD0.fbx) | InProgress |
