@@ -239,7 +239,17 @@ def audit_asset_book(repo: Path, *, metadata_only: bool = False) -> dict[str, An
     records = book["assets"]
     names = [x["id"] for x in records]
     require(len(names) == len(set(names)), "Duplicate new AssetBook IDs")
-    require(len(records) == 23, f"Expected 23 versioned AssetBook records at this handoff, got {len(records)}")
+    # The 2026-10-08 handoff had 23 records. Preserve that baseline while allowing
+    # the explicitly versioned CliffKit intake, whose files are audited below too.
+    cliff_names = {"ENV_CliffKit_" + name for name in (
+        "Cliff_Straight_A", "Cliff_Straight_B", "Cliff_Convex_A", "Cliff_Concave_A",
+        "Cliff_Terrace_Low", "Cliff_Terrace_High", "Cliff_End_Left", "Cliff_End_Right",
+        "Rock_Outcrop_Large", "Rock_Outcrop_Medium", "Rock_Boulder_Small", "Rock_Boulder_Large",
+        "Ramp_Hike_A", "Ramp_Hike_B")}
+    present_cliffs = set(names) & cliff_names
+    require(not present_cliffs or present_cliffs == cliff_names, "Incomplete CliffKit catalog intake")
+    require(len(records) == 23 + len(present_cliffs),
+            f"Expected preserved 23 records plus optional complete 14-record CliffKit, got {len(records)}")
     require((repo / "AssetsDatabase/AssetBook.json").is_file(), "Legacy AssetsDatabase catalog missing")
     for record in records:
         for dependency in record.get("dependencies", []):

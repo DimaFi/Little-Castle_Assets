@@ -1,0 +1,268 @@
+{
+  "mode": "FULL_LOCAL_VERIFICATION",
+  "releases": [
+    {
+      "release": "Releases/Bridge_Stone_A/v001",
+      "files": 27,
+      "bytes": 17331641,
+      "dimensions": {
+        "Preview/Bridge_Detail.png": {
+          "width": 1400,
+          "height": 1100
+        },
+        "Preview/Bridge_Hero.png": {
+          "width": 1500,
+          "height": 1100
+        },
+        "Preview/Bridge_Realtime_Eevee.png": {
+          "width": 1500,
+          "height": 1100
+        },
+        "Preview/Bridge_Reverse.png": {
+          "width": 1500,
+          "height": 1100
+        },
+        "Preview/Bridge_Side.png": {
+          "width": 1600,
+          "height": 900
+        },
+        "Preview/Bridge_Top.png": {
+          "width": 1300,
+          "height": 1300
+        },
+        "Textures/T_Bridge_Grass_BaseColor.png": {
+          "width": 32,
+          "height": 128
+        },
+        "Textures/T_Bridge_Palette_BaseColor.png": {
+          "width": 256,
+          "height": 256
+        },
+        "Textures/T_Bridge_Terrain_BaseColor.png": {
+          "width": 512,
+          "height": 512
+        },
+        "Textures/T_WallStoneSurface_A_BaseColor.png": {
+          "width": 1254,
+          "height": 1254
+        }
+      },
+      "status": "PASS",
+      "dependencies": {
+        "material_bindings": 0,
+        "qa_texture_references": 25
+      }
+    },
+    {
+      "release": "Releases/Bridge_Stone_A/v002",
+      "files": 31,
+      "bytes": 24611029,
+      "dimensions": {
+        "Preview/Bridge_Detail.png": {
+          "width": 1400,
+          "height": 1100
+        },
+        "Preview/Bridge_Hero.png": {
+          "width": 1600,
+          "height": 1100
+        },
+        "Preview/Bridge_Realtime_Eevee.png": {
+          "width": 1600,
+          "height": 1100
+        },
+        "Preview/Bridge_Reverse.png": {
+          "width": 1600,
+          "height": 1100
+        },
+        "Preview/Bridge_Side.png": {
+          "width": 1600,
+          "height": 900
+        },
+        "Preview/Bridge_Top.png": {
+          "width": 1300,
+          "height": 1300
+        },
+        "Textures/T_Bridge_Grass_BaseColor.png": {
+          "width": 96,
+          "height": 128
+        },
+        "Textures/T_Bridge_Limestone_BaseColor.png": {
+          "width": 1254,
+          "height": 1254
+        },
+        "Textures/T_Bridge_Palette_BaseColor.png": {
+          "width": 256,
+          "height": 256
+        },
+        "Textures/T_Bridge_StoneAtlas_BaseColor.png": {
+          "width": 1024,
+          "height": 1024
+        },
+        "Textures/T_Bridge_Terrain_BaseColor.png": {
+          "width": 512,
+          "height": 512
+        },
+        "Textures/T_Bridge_Water_BaseColor.png": {
+          "width": 512,
+          "height": 512
+        },
+        "Textures/T_WallStoneSurface_A_BaseColor.png": {
+          "width": 1254,
+          "height": 1254
+        }
+      },
+      "status": "PASS",
+      "dependencies": {
+        "material_bindings": 0,
+        "qa_texture_references": 27
+      }
+    },
+    {
+      "release": "Releases/CliffKit/v001",
+      "files": 55,
+      "bytes": 4404719,
+      "dimensions": {
+        "Textures/Rock_Limestone_A/BaseColor.png": {
+          "width": 1024,
+          "height": 1024
+        },
+        "Textures/Rock_Limestone_A/Normal_OpenGL.png": {
+          "width": 1024,
+          "height": 1024
+        },
+        "Textures/Rock_Limestone_A/Roughness.png": {
+          "width": 1024,
+          "height": 1024
+        },
+        "Textures/Rock_Limestone_A/AO_Approx.png": {
+          "width": 1024,
+          "height": 1024
+        },
+        "Textures/Rock_Limestone_B/BaseColor.png": {
+          "width": 1024,
+          "height": 1024
+        },
+        "Textures/Rock_Limestone_B/Normal_OpenGL.png": {
+          "width": 1024,
+          "height": 1024
+        },
+        "Textures/Rock_Limestone_B/Roughness.png": {
+          "width": 1024,
+          "height": 1024
+        },
+        "Textures/Rock_Limestone_B/AO_Approx.png": {
+          "width": 1024,
+          "height": 1024
+        },
+        "Textures/GrassCap_A/BaseColor.png": {
+          "width": 1024,
+          "height": 1024
+        },
+        "Textures/GrassCap_A/Normal_OpenGL.png": {
+          "width": 1024,
+          "height": 1024
+        },
+        "Textures/GrassCap_A/Roughness.png": {
+          "width": 1024,
+          "height": 1024
+        },
+        "Textures/GrassCap_A/AO_Approx.png": {
+          "width": 1024,
+          "height": 1024
+        }
+      },
+      "status": "PASS",
+      "dependencies": {
+        "material_bindings": 0,
+        "qa_texture_references": 0
+      }
+    },
+    {
+      "release": "Releases/TerrainStarter-v001",
+      "files": 16,
+      "bytes": 12821109,
+      "dimensions": {
+        "Textures/DoorWood_A_BaseColor.png": {
+          "width": 1254,
+          "height": 1254
+        },
+        "Textures/RoofTile_BaseColor.png": {
+          "width": 1254,
+          "height": 1254
+        },
+        "Textures/T_WallStoneSurface_A_BaseColor.png": {
+          "width": 1254,
+          "height": 1254
+        }
+      },
+      "status": "PASS",
+      "dependencies": {
+        "material_bindings": 3,
+        "qa_texture_references": 0
+      }
+    },
+    {
+      "release": "Releases/Wall_Stone_Modular/v005",
+      "files": 26,
+      "bytes": 24378962,
+      "dimensions": {
+        "Textures/DoorWood_A_BaseColor.png": {
+          "width": 1254,
+          "height": 1254
+        },
+        "Textures/RoofTile_BaseColor.png": {
+          "width": 1254,
+          "height": 1254
+        },
+        "Textures/T_WallStoneSurface_A_BaseColor.png": {
+          "width": 1254,
+          "height": 1254
+        },
+        "Preview/Gate_Exterior_Closed.png": {
+          "width": 1200,
+          "height": 1000
+        },
+        "Preview/Gate_Interior_00.png": {
+          "width": 1400,
+          "height": 1000
+        },
+        "Preview/Gate_Interior_45.png": {
+          "width": 1400,
+          "height": 1000
+        },
+        "Preview/Gate_Interior_90.png": {
+          "width": 1400,
+          "height": 1000
+        },
+        "Preview/Tower_LODs.png": {
+          "width": 1500,
+          "height": 950
+        },
+        "Preview/Updated_Tower_and_Walls.png": {
+          "width": 1600,
+          "height": 1100
+        }
+      },
+      "status": "PASS",
+      "dependencies": {
+        "material_bindings": 3,
+        "qa_texture_references": 0
+      }
+    }
+  ],
+  "lfs": {
+    "tracked_lfs_paths": 469,
+    "unique_lfs_objects": 309,
+    "unique_bytes": 429850949
+  },
+  "asset_book": {
+    "versioned_records": 37,
+    "legacy_catalog_preserved": true
+  },
+  "bridge_recipe": {
+    "bridge_recipe_dependencies": 7,
+    "fixed_bridge_contract": "10.8m / 2.86m"
+  },
+  "unity_visual_approval": false,
+  "blender_rebuild_verified": false
+}
