@@ -19,3 +19,5 @@ Releases/**/*.jpg filter=lfs diff=lfs merge=lfs -text
 Releases/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
 # Release manifests hash raw payload bytes: never rewrite text line endings.
 Releases/** -text
+# Cliff source QA records SHA-256 of raw manifest bytes; preserve them on Windows too.
+Source/Environment/CliffKit/v001/** -text
